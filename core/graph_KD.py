@@ -10,7 +10,7 @@ from core.call_api_llm import call_api_gemi
 
 # from graph_db import add_new_report
 # from call_api_llm import call_api_gemi
-GOOGLE_API = "AIzaSyD8I_NEiSOc-VSxJpwpafPTiotiarIVMlE" #https://aistudio.google.com/apikey truy cập để lấy API
+ #https://aistudio.google.com/apikey truy cập để lấy API
 
 names = [
     "BÁO CÁO CỦA BAN GIÁM ĐỐC",
