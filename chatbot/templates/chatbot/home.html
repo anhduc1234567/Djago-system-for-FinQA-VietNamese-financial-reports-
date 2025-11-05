@@ -1,0 +1,423 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HnaFinGENI Chat</title>
+    <link rel="stylesheet" href="{% static 'chatbot/style.css' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Navbar -->
+        <nav class="top-nav">
+            <div class="logo">HnaFinGENI</div>
+            <div class="model-buttons">
+                <button>Model 1</button>
+                <button>Model 2</button>
+                <button>Model 3</button>
+            </div>
+            <div class="right-icons">
+                <i class="fas fa-user-circle profile-icon"></i>
+            </div>
+        </nav>
+
+        <!-- Main Grid -->
+        <div class="main-grid">
+            <!-- Left Sidebar -->
+            <aside class="left-sidebar">
+                <button class="new-chat" onclick="window.location.href='{% url 'new_chat' %}'">
+                    <i class="fas fa-plus"></i> New Chat
+                </button>
+                <div class="chat-history">
+                    <h4>Conversations</h4>
+                    <ul>
+                        {% for conv in conversations %}
+                        <li style="cursor:pointer;" data-url="{% url 'chat_home' conv.conversation_id %}"
+                            class="{% if conv.conversation_id == conversation_id %}active{% endif %}">
+                            <i class="fas fa-comments" style="padding-right:10px;"></i>
+                            {{ conv.conversation_id }}
+                            <button class="delete-btn" data-id="{{ conv.conversation_id }}">
+                                <i class="fas fa-trash"></i>
+                        </li>
+                        {% empty %}
+                        <li>⚠️ No conversations</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </aside>
+
+            <!-- Center Content -->
+            <main class="center-content">
+                <div class="chat-messages" id="chat-messages">
+                    {% for msg in messages %}
+                    {% if msg.role == "user" %}
+                    <div class="message user">
+                        <div class="user-message-wrapper">
+                            <div class="user-content">
+                                <!-- <p class="user-text"> -->
+                                <div class="response-box">
+                                    {{ msg.content | safe }}
+                                </div>
+                                <!-- </p> -->
+                            </div>
+                            <div class="avatar user-avatar"><i class="fas fa-user-circle"></i></div>
+                        </div>
+                    </div>
+                    {% else %}
+                    <div class="message bot">
+                        <div class="bot-message-wrapper">
+                            <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                            <div class="bot-content">
+                                <!-- <h2>Response</h2> -->
+                                <div class="response-box">
+                                    <p>{{ msg.content | safe }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% empty %}
+                    <p>Chưa có message nào trong conversation này.</p>
+                    {% endfor %}
+                </div>
+
+                <!-- Input Area -->
+               <div class="input-area">
+    <!-- nút summary -->
+    <button id="summary-btn" type="button" class="summary-btn" disabled>
+        <i class="fas fa-file-alt"></i> Summary
+    </button>
+
+    <div class="chat-input-wrapper">
+        <!-- nút upload file -->
+        <label for="file-upload" class="file-upload-icon">
+            <i class="fas fa-paperclip"></i>
+            <input id="file-upload" type="file" name="file" style="display:none;">
+        </label>
+
+        <!-- textarea -->
+        <textarea id="message-input" placeholder="Type your message..." rows="1"></textarea>
+
+        <!-- nút gửi -->
+        <button id="send-btn" type="button"><i class="fas fa-paper-plane"></i></button>
+    </div>
+
+    <!-- preview file -->
+    <div class="file-preview" id="file-preview" style="display:none;">
+        <span class="file-name" id="file-name"></span>
+        <span class="file-size" id="file-size"></span>
+        <button type="button" class="clear-file" id="clear-file">X</button>
+    </div>
+</div>
+            </main>
+
+            <!-- Right Sidebar -->
+            <aside class="right-sidebar">
+                <h3>Chọn báo cáo tài chính đã xử lý</h3>
+
+                <form id="report-selection-form">
+                    {% if uploaded_reports %}
+                        {% for report in uploaded_reports %}
+                            <div class="report-option">
+                                <input type="radio" 
+                                    name="selected_report" 
+                                    id="report-{{ forloop.counter }}" 
+                                    value="{{ report.id }}"
+                                    {% if selected_report_id and report.id == selected_report_id %}checked{% endif %}>
+                                <label for="report-{{ forloop.counter }}">
+                                    {{ report.file_name }}
+                                </label>
+
+                                <a href="http://127.0.0.1:8000/media/{{ report.file_name }}.pdf" 
+                            target="_blank" 
+                            class="open-file-link" 
+                            title="Mở báo cáo gốc">
+                                <i class="fas fa-link"></i>
+                            </a>
+                                        </div>
+                        {% endfor %}
+                    {% else %}
+                        <p>⚠️ Chưa có báo cáo nào được tải lên.</p>
+                    {% endif %}
+                </form>
+
+                <hr>
+
+                <h3>Generated Links of Websites and Documents will appear here</h3>
+            </aside>
+        </div>
+    </div>
+
+    <script>
+        // --- File preview ---
+        const fileInput = document.getElementById('file-upload');
+        const filePreview = document.getElementById('file-preview');
+        const fileName = document.getElementById('file-name');
+        const fileSize = document.getElementById('file-size');
+        const clearBtn = document.getElementById('clear-file');
+
+        fileInput.addEventListener('change', () => {
+            const file = fileInput.files[0];
+            if (file) {
+                filePreview.style.display = 'flex';
+                fileName.textContent = file.name;
+                fileSize.textContent = `(${(file.size / 1024).toFixed(2)} KB)`;
+            }
+        });
+
+        clearBtn.addEventListener('click', () => {
+            fileInput.value = '';
+            filePreview.style.display = 'none';
+        });
+
+        // --- Navigate conversation ---
+        document.querySelectorAll('li[data-url]').forEach(li => {
+            li.addEventListener('click', () => {
+                location.href = li.getAttribute('data-url');
+            });
+        });
+
+        // --- Auto scroll ---
+        function scrollToBottom() {
+            const chatMessages = document.getElementById("chat-messages");
+            if (chatMessages) chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function typeEffect(element, text, speed = 3) {
+            let i = 0;
+            element.textContent = "";
+            let timer = setInterval(() => {
+                if (i < text.length) {
+                    element.textContent += text.charAt(i);
+                    i++;
+                } else {
+                    clearInterval(timer);
+                }
+            }, speed);
+        }
+
+        window.addEventListener("load", scrollToBottom);
+
+        // --- Chat send ---
+        const sendBtn = document.getElementById("send-btn");
+        const messageInput = document.getElementById("message-input");
+        const chatMessages = document.getElementById("chat-messages");
+
+        function appendMessage(role, content, isLoading = false, isHtml = false, suggestions = []) {
+            let div = document.createElement("div");
+            div.classList.add("message", role === "user" ? "user" : "bot");
+            if (isLoading) div.setAttribute("id", "loading-msg");
+
+            if (role === "bot") {
+                div.innerHTML = `
+                <div class="bot-message-wrapper">
+                    <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                    <div class="bot-content">
+                        <h2>Response</h2>
+                        <div class="response-box">
+                            ${isHtml ? content : `<p>${content}</p>`}
+                        </div>
+                </div>
+            </div>
+        `;
+
+                // Nếu có suggestions thì thêm nút gợi ý
+                if (suggestions.length > 0) {
+                    let sugDiv = document.createElement("div");
+                    sugDiv.classList.add("bottom-buttons");
+                    suggestions.forEach(sug => {
+                        let btn = document.createElement("button");
+                        btn.innerText = sug;
+                        btn.onclick = () => {
+                            messageInput.value = sug;  // gán vào input
+                            messageInput.focus();
+                        };
+                        sugDiv.appendChild(btn);
+                    });
+                    div.querySelector(".bot-content").appendChild(sugDiv);
+                }
+
+            } else {
+                div.innerHTML = `
+            <div class="user-message-wrapper">
+                <div class="user-content"><p class="user-text">${content}</p></div>
+                <div class="avatar user-avatar"><i class="fas fa-user-circle"></i></div>
+            </div>
+        `;
+            }
+
+            chatMessages.appendChild(div);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        sendBtn.addEventListener("click", () => {
+            const message = messageInput.value.trim();
+            const file = fileInput.files[0];
+
+            if (!message && !file && !selectedReportId) {
+                appendMessage("bot", "Bạn chưa đưa ra câu hỏi nào.");
+                return;
+            }
+
+            if (message) appendMessage("user", message);
+            appendMessage("bot", "⏳ Đang xử lý...", true);
+
+            const formData = new FormData();
+            formData.append("message", message);
+
+            // ✅ Nếu người dùng chọn radio file báo cáo, gửi cả tên file
+            if (selectedReportId) {
+                const selectedRadio = document.querySelector(`input[name="selected_report"][value="${selectedReportId}"]`);
+                const selectedLabel = selectedRadio ? selectedRadio.nextElementSibling.textContent.trim() : "";
+                formData.append("selected_report_id", selectedReportId);
+                formData.append("selected_report_name", selectedLabel);
+            }
+
+            // ✅ Nếu người dùng upload file trực tiếp
+            if (file) formData.append("file", file);
+
+            fetch("{% url 'chat_send' conversation_id=conversation_id %}", {
+                method: "POST",
+                headers: { "X-CSRFToken": "{{ csrf_token }}" },
+                body: formData
+            })
+                .then(res => res.json())
+                .then(data => {
+                    document.getElementById("loading-msg")?.remove();
+                    if (data.response) {
+                        appendMessage("bot", data.response, false, true, data.suggestions || []);
+                    }
+
+                    sendBtn.disabled = false;
+                    sendBtn.classList.remove("disabled-btn");
+                })
+                .catch(err => {
+                    console.error(err);
+                    sendBtn.disabled = false;
+                    sendBtn.classList.remove("disabled-btn");
+                });
+
+            // ✅ vô hiệu hóa nút gửi khi đang xử lý
+            sendBtn.disabled = true;
+            sendBtn.classList.add("disabled-btn");
+
+            messageInput.value = "";
+            fileInput.value = "";
+            filePreview.style.display = "none";
+        });
+                
+        
+        const textarea = document.getElementById("message-input");
+        textarea.addEventListener("input", () => {
+            textarea.style.height = "auto";
+            textarea.style.height = (textarea.scrollHeight) + "px";
+        });
+
+        document.querySelectorAll(".delete-btn").forEach(btn => {
+            btn.addEventListener("click", (e) => {
+                e.stopPropagation(); // không cho trigger click vào li
+                const convId = btn.getAttribute("data-id");
+
+                if (confirm("Bạn có chắc chắn muốn xoá cuộc trò chuyện này không?")) {
+                    fetch(`/delete/${convId}/`, {
+                        method: "POST",
+                        headers: {
+                            "X-CSRFToken": "{{ csrf_token }}"
+                        }
+                    })
+                        .then(res => {
+                            if (res.ok) {
+                                btn.closest("li").remove(); // xoá khỏi giao diện
+                                window.location.href = "{% url 'chat_home' %}";
+                            } else {
+                                alert("Xóa thất bại!");
+                            }
+                        });
+                }
+            });
+        });
+
+        let selectedReportId = null;
+
+        document.querySelectorAll('input[name="selected_report"]').forEach(radio => {
+            radio.addEventListener('change', () => {
+                selectedReportId = radio.value;
+                console.log("Selected report ID:", selectedReportId);
+            });
+        });
+
+        const summaryBtn = document.getElementById("summary-btn");
+
+// Cập nhật trạng thái enable/disable của summary button
+function updateSummaryButtonState() {
+    const hasFile = fileInput.files.length > 0;
+    const hasSelectedReport = !!selectedReportId;
+    summaryBtn.disabled = !(hasFile || hasSelectedReport);
+}
+
+// Lắng nghe sự kiện upload file
+fileInput.addEventListener('change', updateSummaryButtonState);
+clearBtn.addEventListener('click', updateSummaryButtonState);
+
+// Lắng nghe sự kiện chọn radio
+document.querySelectorAll('input[name="selected_report"]').forEach(radio => {
+    radio.addEventListener('change', () => {
+        selectedReportId = radio.value;
+        updateSummaryButtonState();
+    });
+});
+
+// Khi nhấn nút Summary
+summaryBtn.addEventListener("click", () => {
+    const file = fileInput.files[0];
+    if (!file && !selectedReportId) {
+        appendMessage("bot", "Bạn cần upload hoặc chọn báo cáo trước khi tạo bản tóm tắt.");
+        return;
+    }
+
+    appendMessage("bot", "🧾 Đang tạo bản phân tích tóm tắt...", true);
+
+    const formData = new FormData();
+    formData.append("isSummary", "true"); // ✅ gửi cờ isSummary
+    if (file) formData.append("file", file);
+    if (selectedReportId) {
+        const selectedRadio = document.querySelector(`input[name="selected_report"][value="${selectedReportId}"]`);
+        const selectedLabel = selectedRadio ? selectedRadio.nextElementSibling.textContent.trim() : "";
+        formData.append("selected_report_id", selectedReportId);
+        formData.append("selected_report_name", selectedLabel);
+    }
+
+    fetch("{% url 'chat_send' conversation_id=conversation_id %}", {
+        method: "POST",
+        headers: { "X-CSRFToken": "{{ csrf_token }}" },
+        body: formData
+    })
+        .then(res => res.json())
+        .then(data => {
+            document.getElementById("loading-msg")?.remove();
+            if (data.response) {
+                const pdfRegex = /(https?:\/\/[^\s]+\.pdf|\/[^\s]+\.pdf)/;
+                let content = data.response;
+
+                const match = data.response.match(pdfRegex);
+                if (match) {
+                    const url = match[0];
+                    content = `Đã phân tích xong: <a href="${url}" target="_blank" class="pdf-link">${url}</a>`;
+                }
+
+                appendMessage("bot", content, false, true, data.suggestions || []);
+            }
+        })
+        .catch(err => {
+            console.error(err);
+            appendMessage("bot", "❌ Lỗi khi tạo bản tóm tắt.");
+        });
+});
+
+    </script>
+</body>
+
+</html>
