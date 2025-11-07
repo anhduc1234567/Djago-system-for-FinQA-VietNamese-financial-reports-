@@ -25,7 +25,7 @@
 
 from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text, query_gioi_thieu_raw_text
 from core.call_api_llm import call_api_gemi
-from core.receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word
+from core.receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word, normalize_for_prompt
 import os
 import random
 import pypandoc
@@ -511,6 +511,7 @@ def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
             doc = (query_company_raw_text(company_name= infor[0], time= infor[2], section=sec, subsection= sub))
             for data in doc:
                 result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
+    result = normalize_for_prompt(result)
     prompt_check = f'''
         Bạn là một chuyên gia độc hiểu phân tích báo cáo tài chính.
         Dựa trên 2 quy định về cách lập bảng cân đối kế toán của VAS 21 và báo cáo kết quả hoạt động kinh doanh sau. Hãy xác định xem liệu doanh nghiệp đó có tuân theo khung có sẵn đó không.

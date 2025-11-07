@@ -1,30 +1,24 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# 14. Các quỹ thuộc vốn chủ sở hữu
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## (i) Quỹ đầu tư phát triển
 
-### 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+Quỹ đầu tư phát triển được trích lập từ lợi nhuận sau thuế chưa phân phối dựa trên tỷ lệ được các cổ đông quyết định trong cuộc họp Đại hội đồng Cổ đông thường niên. Quỹ này được trích lập nhằm mục đích mở rộng kinh doanh trong tương lai.
 
-#### 4.3. Tài sản tài chính giữ đến ngày đáo hạn ("HTM") (tiếp theo)
+## (ii) Quỹ khác thuộc vốn chủ sở hữu
 
-Các tài sản tài chính HTM được ghi nhận ban đầu theo giá gốc: giá mua của tài sản cộng (+) các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này như phí môi giới; phí giao dịch; phí đại lý phát hành và phí ngân hàng. Sau ghi nhận ban đầu, tài sản tài chính HTM được ghi nhận theo giá trị phân bổ sử dụng phương pháp lãi suất thực.
+Quỹ khác thuộc vốn chủ sở hữu được trích lập từ lợi nhuận sau thuế chưa phân phối theo quyết định của các cổ đông tại cuộc họp Đại hội đồng Cổ đông thường niên. Quỹ này được trích lập nhằm bổ sung vốn cổ phần trong tương lai.
 
-Giá trị phân bổ của các tài sản tài chính HTM được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi (-) các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+# 15. Thuế
 
-Phương pháp lãi suất thực là phương pháp tính toán chi phí phân bổ về thu nhập lãi hoặc chi phí lãi trong năm liên quan của một tài sản tài chính hoặc một nhóm các tài sản tài chính HTM.
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ của năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
 
-Lãi suất thực là lãi suất chiết khấu chính xác các luồng tiền ước tính sẽ chi trả hoặc nhận được trong tương lai trong suốt vòng đời dự kiến của công cụ tài chính hoặc trong kỳ hạn ngắn hơn; nếu cần thiết, trở về giá trị ghi sổ hiện tại ròng của tài sản hoặc nợ tài chính.
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm; và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.
 
-Lãi dự thu được ghi nhận trên khoản mục "Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính".
+Thuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
 
-Các tài sản tài chính HTM được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính: Dự phòng được trích lập cho các tài sản tài chính HTM khi có bằng chứng khách quan cho thấy có khả năng không thu hồi được hoặc không chắc chắn thu hồi được của khoản đầu tư xuất phát từ một hoặc nhiều sự kiện tổn thất xảy ra ảnh hưởng xấu lên luồng tiền tương lai dự kiến của các khoản đầu tư nắm giữ đến ngày đáo hạn. Bằng chứng khách quan của việc suy giảm giá trị có thể bao gồm giá trị thị trường/giá trị hợp lý (nếu có) của khoản nợ bị suy giảm; các dấu hiệu về bên nợ hoặc nhóm các bên nợ đang gặp khó khăn về tài chính đáng kể; vỡ nợ hoặc trả nợ không đúng kỳ hạn các khoản lãi hoặc gốc, khả năng bên nợ bị phá sản hoặc có sự tái cơ cấu tài chính và các dữ liệu có thể quan sát cho thấy rằng có sự suy giảm có thể lượng hóa được các luồng tiền dự kiến trong tương lai; chẳng hạn như sự thay đổi về điều kiện trả nợ, tình hình tài chính gắn liền với khả năng vỡ nợ. Khi có bằng chứng về việc giảm giá trị hoặc số dư dự phòng được trích lập được xác định trên sự khác biệt giữa giá trị phân bổ và giá trị hợp lý tại thời điểm đánh giá. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục "Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để chênh lệch tạm thời trên có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
 
-#### 4.4. Các khoản cho vay
+Ngày 29 tháng 11 năm 2023, Quốc hội Việt Nam đã thông qua Nghị quyết về việc áp dụng Quy định về tổng hợp thu nhập chịu thuế tối thiểu (“IIR”) và Quy định về thuế thu nhập doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn (“QĐMTT”). Các quy định này nhất quán và phù hợp với Quy định mẫu chống xói mòn cơ sở thuế toàn cầu Trục cột 2 (“BEPS 2.0”) của OECD và có hiệu lực kể từ ngày 1 tháng 1 năm 2024.
 
-Các khoản cho vay là các tài sản tài chính phi phái sinh có các khoản thanh toán cố định hoặc có thể xác định và không được niêm yết trên thị trường hoàn hảo, ngoại trừ:
-
-* a) Các khoản mà Công ty có ý định bán ngay hoặc sẽ bán trong tương lai gần được phân loại là tài sản nắm giữ vì mục đích kinh doanh và các khoản mà tại thời điểm nhận ban đầu được Công ty xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/lỗ;
-* b) Các khoản được Công ty xếp vào nhóm sẵn sàng để bán tại thời điểm ghi nhận ban đầu; hoặc
-* c) Các khoản mà người nắm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sàng để bán.
-
+Nghị quyết quy định các doanh nghiệp đa quốc gia có quy mô lớn phải nộp thuế thu nhập doanh nghiệp ở mức thuế suất tối thiểu toàn cầu là 15% trên lợi nhuận tại các quốc gia/vùng lãnh thổ mà doanh nghiệp hoạt động. Trong điều kiện các Chuẩn mực Kế toán Việt Nam và Chế độ Kế toán Doanh nghiệp Việt Nam chưa có hướng dẫn cụ thể về vấn đề này, Công ty đã quyết định rằng thuế bổ sung tối thiểu được quy định phải trả theo luật BEPS 2.0 là thuế thu nhập nằm trong phạm vi của VAS 17 – Thuế thu nhập. Theo đó, Công ty đã lựa chọn không áp dụng kế toán thuế thu nhập hoãn lại đối với các khoản phát sinh của thuế bổ sung từ IIR và QĐMTT và sẽ hạch toán các khoản này như là thuế thu nhập hiện hành khi có phát sinh.

@@ -1,34 +1,31 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B09a-CTCK
+# VI. Thông tin bổ sung cho các khoản mục trình bày trong báo cáo kết quả hoạt động kinh doanh hợp nhất (tiếp theo)
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## (d) Thuế tối thiểu toàn cầu
 
-----
+Như được đề cập tại Thuyết minh số IV.15, ngày 29 tháng 11 năm 2023, Quốc hội Việt Nam đã thông qua Nghị quyết về việc áp dụng Quy định về tổng hợp thu nhập chịu thuế tối thiểu ("IIR") và Quy định về thuế thu nhập doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn ("QĐMTT"). Các quy định này nhất quán và phù hợp với Quy định mẫu chống xói mòn cơ sở thuế toàn cầu Trụ cột 2 ("BEPS 2.0") của OECD và có hiệu lực kể từ ngày 1 tháng 1 năm 2024. Nghị quyết này quy định các tập đoàn đa quốc gia có quy mô lớn phải nộp thuế thu nhập doanh nghiệp ở mức thuế suất tối thiểu toàn cầu là 15% trên lợi nhuận tại các quốc gia/vùng lãnh thổ mà tập đoàn hoạt động. Ban Tổng Giám đốc đánh giá rằng Công ty và công ty con không phát sinh nghĩa vụ thuế bổ sung theo quy định về thuế tối thiểu toàn cầu tại Việt Nam do các Đơn vị Hợp thành đáp ứng tiêu chí giảm trừ trách nhiệm trên cơ sở báo cáo lợi nhuận liên quốc gia trong giai đoạn chuyển tiếp theo quy định.
 
-# 25. LÃI/(LỖ) TỪ CÁC TÀI SẢN TÀI CHÍNH
+# 11. Lãi trên cổ phiếu
 
-## 25.1. Lãi/(Lỗ) bán các tài sản tài chính FVTPL
+## (a) Lãi cơ bản trên cổ phiếu
 
-| STT              | Danh mục các khoản đầu tư                      | Số lượng bánđơn vị | Giá bán bình quânVND/đơn vị | Tổng giá trị bánVND    | Giá vốn bình quângia quyền tính đếncuối ngày giao dịchVND | Lãi/(Lỗ) bán chứng khoán kỳ nàyVND | Lãi/(Lỗ) bán chứng khoán kỳ trướcVND |
-| ---------------- | ---------------------------------------------- | ------------------ | --------------------------- | ---------------------- | --------------------------------------------------------- | ---------------------------------- | ------------------------------------ |
-| **LÃI BÁN**      |                                                | **157.000.059**    |                             | **37.058.145.266.000** | **36.706.583.627.184**                                    | **403.490.047.696**                | **378.550.903.936**                  |
-| 1                | Cổ phiếu niêm yết                              | 12.235.655         | 40.990                      | 501.545.580.200        | 464.873.141.320                                           | 36.672.438.880                     | 36.657.296.026                       |
-| 2                | Cổ phiếu chưa niêm yết                         |                    |                             |                        |                                                           |                                    | 27.860.000                           |
-| 3                | Trái phiếu niêm yết                            | 128.749.262        | 106.210                     | 13.674.519.744.670     | 13.584.764.424.903                                        | 89.755.319.767                     | 4.709.898.617                        |
-| 4                | Trái phiếu chưa niêm yết và chứng chỉ tiền gửi | 28.250.797         | 827.716                     | 23.383.625.521.330     | 23.121.819.202.281                                        | 261.806.319.049                    | 312.982.600.093                      |
-| 5                | Hợp đồng tương lai chỉ số                      |                    |                             |                        |                                                           | 15.255.970.000                     | 14.977.720.000                       |
-| 6                | Chứng quyền phát hành niêm yết                 |                    |                             |                        |                                                           |                                    | 9.195.529.200                        |
-| **Tổng lãi bán** |                                                | **157.000.059**    |                             | **37.058.145.266.000** | **36.706.583.627.184**                                    | **403.490.047.696**                | **378.550.903.936**                  |
-| **LỖ BÁN**       |                                                | **140.374.559**    |                             | **15.632.984.218.385** | **15.743.287.409.892**                                    | **(123.398.861.507)**              | **(81.331.327.536)**                 |
-| 1                | Cổ phiếu niêm yết                              | 12.123.100         | 37.390                      | 453.284.685.000        | 469.189.460.700                                           | (15.904.775.700)                   | (4.677.528.900)                      |
-| 2                | Cổ phiếu chưa niêm yết                         |                    |                             |                        |                                                           |                                    | (72.077.300)                         |
-| 3                | Trái phiếu niêm yết                            | 128.185.359        | 112.792                     | 14.458.324.534.225     | 14.544.121.332.783                                        | (85.796.798.558)                   | (6.137.411.271)                      |
-| 4                | Trái phiếu chưa niêm yết và chứng chỉ tiền gửi | 66.100             | 10.913.389                  | 721.374.999.160        | 729.976.616.409                                           | (8.601.617.249)                    | (47.970.072.865)                     |
-| 5                | Hợp đồng tương lai chỉ số                      |                    |                             |                        |                                                           | (13.095.670.000)                   | (9.656.940.000)                      |
-| 6                | Chứng quyền phát hành niêm yết                 |                    |                             |                        |                                                           |                                    | (12.817.297.200)                     |
-| **Tổng lỗ bán**  |                                                | **140.374.559**    |                             | **15.632.984.218.385** | **15.743.287.409.892**                                    | **(123.398.861.507)**              | **(81.331.327.536)**                 |
-| **Tổng cộng**    |                                                | **297.374.618**    |                             | **52.691.129.484.385** | **52.449.871.037.076**                                    | **280.091.186.189**                | **297.219.576.400**                  |
+Việc tính toán lãi cơ bản trên cổ phiếu trong năm được dựa trên số lợi nhuận thuộc về cổ đông phổ thông sau khi trừ đi số phân bổ vào quỹ khen thưởng, phúc lợi và số lượng cổ phiếu phổ thông bình quân gia quyền trong năm, chi tiết như sau:
+
+<i>Lợi nhuận thuần thuộc về cổ đông phổ thông</i>
+
+|                                                | 2024                | 2023                  |
+| ---------------------------------------------- | ------------------- | --------------------- |
+| Lợi nhuận sau thuế thu nhập doanh nghiệp       | 990.761.729.138     | 1.041.006.333.282     |
+| Số phân bổ vào quỹ khen thưởng, phúc lợi (\*)  | -                   | -                     |
+| **Lợi nhuận thuần thuộc về cổ đông phổ thông** | **990.761.729.138** | **1.041.006.333.282** |
+
+
+(*) Trước năm 2021, tiền thưởng cho người lao động được trích lập từ lợi nhuận sau thuế. Từ năm 2021, tiền thưởng cho người lao động được ghi nhận như một khoản chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+(ii) Số cổ phiếu phổ thông bình quân gia quyền
+
+|                                                                                   | 2024Cổ phiếu | 2023Cổ phiếu |
+| --------------------------------------------------------------------------------- | ------------ | ------------ |
+| Số lượng cổ phiếu phổ thông bình quân gia quyền cho năm kết thúc ngày 31 tháng 12 | 81.860.938   | 81.860.938   |
 
 

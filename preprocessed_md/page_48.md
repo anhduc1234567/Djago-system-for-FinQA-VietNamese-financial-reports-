@@ -1,40 +1,28 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# VII. Thông tin khác
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## 1. Báo cáo bộ phận
 
-### 25. LÃI/(LỖ) TỪ CÁC TÀI SẢN TÀI CHÍNH (tiếp theo)
+### Báo cáo bộ phận theo lĩnh vực kinh doanh  
+Tập đoàn chỉ hoạt động trong một lĩnh vực kinh doanh chính, đó là sản xuất kinh doanh các sản phẩm dân dụng và công nghiệp từ chất dẻo và cao su.
 
-#### 25.3. Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL, HTM, các khoản cho vay và phải thu
+### Báo cáo bộ phận theo khu vực địa lý  
+Tập đoàn chỉ hoạt động trong khu vực địa lý Việt Nam.
 
-|                                  | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2025 | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2024 |
-| -------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Từ tài sản tài chính FVTPL       | 159.308.591.053                                                                | 100.244.470.382                                                                |
-| Từ tài sản tài chính HTM         | 91.254.493.151                                                                 | 144.276.766.026                                                                |
-| Từ các khoản cho vay và phải thu | 300.988.163.263                                                                | 315.976.566.170                                                                |
-| **Tổng cộng**                    | **551.551.247.467**                                                            | **560.497.802.578**                                                            |
+## 2. Thông tin về các bên liên quan  
+Ngoài các số dư với các bên liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính hợp nhất, Tập đoàn đã có các giao dịch chủ yếu với các bên liên quan trong năm như sau:
 
-
-### 26. (HOÀN NHẬP) DỰ PHÒNG TÀI SẢN TÀI CHÍNH, XỬ LÝ TỔN THẤT CÁC KHOẢN PHẢI THU KHÓ ĐÒI, LỖ SUY GIẢM TÀI SẢN TÀI CHÍNH VÀ CHI PHÍ ĐI VAY CỦA CÁC KHOẢN CHO VAY
-
-|                                                         | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2025 | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2024 |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| (Hoàn nhập) dự phòng suy giảm giá trị các khoản cho vay | (1.403.946.112)                                                                | (16.794.066.944)                                                               |
-| **Tổng cộng**                                           | **(1.403.946.112)**                                                            | **(16.794.066.944)**                                                           |
-
-
-### 27. CHI PHÍ HOẠT ĐỘNG CUNG CẤP DỊCH VỤ
-
-|                                                          | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2025 | Đơn vị tính: VND<br/>Cho kỳ kế toán ba tháng kết thúc ngày 31 tháng 3 năm 2024 |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Chi phí hoạt động tự doanh                               | 9.356.512.960                                                                  | 9.820.030.733                                                                  |
-| Chi phí nghiệp vụ môi giới chứng khoán                   | 100.244.180.822                                                                | 142.369.963.331                                                                |
-| Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán | 2.621.529.416                                                                  | 1.697.467.525                                                                  |
-| Chi phí nghiệp vụ tư vấn đầu tư chứng khoán              | 1.016.008.067                                                                  | 145.086.352                                                                    |
-| Chi phí nghiệp vụ lưu ký chứng khoán                     | 7.120.747.018                                                                  | 7.775.595.689                                                                  |
-| Chi phí hoạt động tư vấn tài chính                       | 5.502.392.012                                                                  | 7.043.124.590                                                                  |
-| Chi phí dịch vụ khác                                     | 10.973.651.875                                                                 | 27.651.061.579                                                                 |
-| **Tổng cộng**                                            | **136.835.022.170**                                                            | **196.502.329.799**                                                            |
+|                                                                                                                          | 2024            | 2023            |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- |
+| *Công ty liên kết*<br/>**Công ty Cổ phần Nhựa Đà Nẵng**<br/>Bán hàng hóa và thành phẩm                                   | 3.000.000.000   | 7.710.000.000   |
+| Chi phí hoa hồng công ty liên kết                                                                                        | 9.073.645.218   | 8.282.899.479   |
+| Thuê kho của công ty liên kết                                                                                            | 1.440.000.000   | 1.440.000.000   |
+| Thu nhập lãi                                                                                                             | 1.080.000.000   | 1.080.000.000   |
+| *Các công ty liên quan khác*<br/>**Công ty TNHH Nhựa và Hóa Chất TPC Vina**<br/>Mua nguyên vật liệu                      | 242.377.674.000 | 544.218.531.000 |
+| **Công ty TNHH Hóa dầu Long Sơn**<br/>Mua nguyên vật liệu                                                                | 15.352.138.162  | 30.966.272.727  |
+| **Thai Polyethylene Co., Ltd**<br/>Mua nguyên vật liệu                                                                   | 27.151.653.177  | 62.249.388.265  |
+| **Công ty TNHH Bao bì Vina Corrugated (trước đây là Công ty TNHH SX Bao bì Alcamax (Việt Nam))**<br/>Mua nguyên vật liệu | 539.289.160     | 308.012.000     |
+| **Nawaplastic Industries Co., Ltd**<br/>Mua nguyên vật liệu                                                              | -               | 1.485.550.080   |
+| **Công ty Cổ phần Sản Xuất Nhựa Duy Tân**<br/>Mua nguyên vật liệu                                                        | 74.465.436      | 28.459.080      |
 
 

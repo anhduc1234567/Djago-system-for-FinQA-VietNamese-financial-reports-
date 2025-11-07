@@ -1,32 +1,34 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B03b-CTCK  
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 3 năm 2025  
+# BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT  
+### Cho năm kết thúc ngày 31 tháng 12 năm 2024
 
-> Đơn vị tính: VND  
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất đính kèm.
 
-| Mã số | CHỈ TIÊU                                      | Thuyết minh                                                                                   | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước |                      |                    |
-| ----- | --------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | -------------------- | ------------------ |
-| II.   | **LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ**       |                                                                                               |                                                |                                                  |                      |                    |
-|       | 61                                            | 1. Tiền chi để mua sắm, xây dựng tài sản cố định, bất động sản đầu tư và các tài sản khác     |                                                | (16.059.170.980)                                 | (1.768.520.000)      |                    |
-|       | 63                                            | 2. Tiền chi đầu tư vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác           |                                                | (10.500.000.000)                                 | (990.000.000)        |                    |
-|       | 64                                            | 3. Tiền thu hồi các khoản đầu tư vào công ty con, công ty liên doanh, liên kết và đầu tư khác |                                                | 22.984.250.000                                   |                      |                    |
-|       | 70                                            | **Lưu chuyển tiền thuần (sử dụng vào) hoạt động đầu tư**                                      |                                                | (3.574.920.980)                                  | (2.758.520.000)      |                    |
-|       | III.                                          | **LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH**                                                    |                                                |                                                  |                      |                    |
-|       |                                               | 73                                                                                            | 1. Tiền vay gốc                                |                                                  | 7.306.391.396.764    | 15.253.339.393.393 |
-| 73.2  |                                               | - Tiền vay khác                                                                               |                                                | 7.306.391.396.764                                | 15.253.339.393.393   |                    |
-| 74    |                                               | 2. Tiền chi trả nợ gốc vay                                                                    |                                                | (2.004.000.056.552)                              | (17.467.689.197.782) |                    |
-| 74.3  |                                               | - Tiền chi trả gốc vay khác                                                                   |                                                | (2.004.000.056.552)                              | (17.467.689.197.782) |                    |
-| 80    |                                               | **Lưu chuyển tiền thuần từ/(sử dụng vào) hoạt động tài chính**                                |                                                | 5.302.391.340.212                                | (2.214.349.804.389)  |                    |
-| 90    |                                               | **IV. TĂNG/(GIẢM) TIỀN THUẦN TRONG KỲ**                                                       |                                                | 96.196.769.232                                   | (1.497.475.637.455)  |                    |
-| V.    | **TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU KỲ** |                                                                                               |                                                |                                                  |                      |                    |
-|       | 101                                           |                                                                                               | 5                                              | 881.175.660.472                                  | 4.861.988.279.037    |                    |
-|       | 101.1                                         | Tiền                                                                                          |                                                | 734.466.660.472                                  | 2.667.988.279.037    |                    |
-|       | 101.2                                         | Các khoản tương đương tiền                                                                    |                                                | 146.709.000.000                                  | 2.194.000.000.000    |                    |
-|       | VI.                                           | **TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI KỲ**                                                |                                                |                                                  |                      |                    |
-| 103   |                                               |                                                                                               | 5                                              | 977.372.429.704                                  | 3.364.512.641.582    |                    |
-| 103.1 |                                               | Tiền                                                                                          |                                                | 887.764.429.704                                  | 3.278.512.641.582    |                    |
-| 103.2 |                                               | Các khoản tương đương tiền                                                                    |                                                | 89.608.000.000                                   | 86.000.000.000       |                    |
+## I. Đơn vị báo cáo
+
+### 1. Hình thức sở hữu vốn
+
+Công ty Cổ phần Nhựa Bình Minh ("Công ty") được chuyển đổi từ Doanh nghiệp Nhà nước thành Công ty Cổ phần theo Quyết định số 209/2003/QĐ-BCN ngày 4 tháng 12 năm 2003 của Bộ Công nghiệp.
+
+Cổ phiếu của Công ty chính thức được giao dịch trên thị trường chứng khoán Việt Nam từ ngày 11 tháng 7 năm 2006 với mã chứng khoán là BMP.
+
+Báo cáo tài chính hợp nhất của Công ty bao gồm Công ty và công ty con (được gọi chung là "Tập đoàn") và các lợi ích của Tập đoàn trong các công ty liên kết.
+
+### 2. Hoạt động chính
+
+Hoạt động chính của Công ty là sản xuất và kinh doanh các sản phẩm dân dụng và công nghiệp từ chất dẻo và cao su; thiết kế, chế tạo, kinh doanh khuôn mẫu ngành nhựa, ngành đúc; sản xuất, kinh doanh máy móc thiết bị, vật tư, thiết bị vệ sinh cho ngành xây dựng, trang trí nội thất; tư vấn và thi công các công trình cấp thoát nước, sân bãi, dịch vụ giám định, phân tích, kiểm nghiệm ngành hóa chất; kinh doanh, xuất nhập khẩu nguyên liệu, hóa chất, vật tư; máy móc thiết bị ngành nhựa, cơ khí, xây dựng; cấp thoát nước và thiết bị thí nghiệm.
+
+### 3. Chu kỳ sản xuất kinh doanh thông thường
+
+Chu kỳ sản xuất kinh doanh thông thường của Tập đoàn nằm trong phạm vi 12 tháng.
+
+### 4. Cấu trúc Tập đoàn
+
+Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, Công ty có 2 chi nhánh trực thuộc như sau:
+
+| Số thứ tự | Tên chi nhánh trực thuộc                                                 | Địa chỉ                                                                                                                      |
+| --------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Công ty Cổ phần Nhựa Bình Minh -<br/>Chi nhánh Nhựa Bình Minh Bình Dương | Số 7 Đường số 2, Khu Công nghiệp Sóng Thần 1,<br/>Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam.                                |
+| 2         | Công ty Cổ phần Nhựa Bình Minh -<br/>Chi nhánh Nhựa Bình Minh Long An    | Lô C1-6 đến C1-30, KCN Vĩnh Lộc 2, Đường Vĩnh Lộc 2,<br/>Ấp Voi Lá, Xã Long Hiệp, Huyện Bến Lức,<br/>Tỉnh Long An, Việt Nam. |
 
 

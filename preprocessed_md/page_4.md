@@ -1,35 +1,19 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B01a-CTCK  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH  
-tại ngày 31 tháng 3 năm 2025  
+# BÁO CÁO KIỂM TOÁN ĐỘC LẬP
 
-> Đơn vị tính: VND  
+**Kính gửi các Cổ đông**  
+**Công ty Cổ phần Nhựa Bình Minh**
 
-| Mã số | CHỈ TIÊU                                                            | Thuyết minh | Ngày 31 tháng 3 năm 2025 | Ngày 31 tháng 12 năm 2024 |
-| ----- | ------------------------------------------------------------------- | ----------- | ------------------------ | ------------------------- |
-| 100   | **A. TÀI SẢN NGẮN HẠN**<br/>(100 = 110 + 130)                       |             | 47.015.095.331.810       | 43.105.620.017.289        |
-| 110   | **I. Tài sản tài chính**                                            |             | 46.909.267.100.713       | 42.935.352.780.537        |
-| 111   | 1. Tiền và các khoản tương đương tiền                               | 5           | 977.372.429.704          | 881.175.660.472           |
-| 111.1 | 1.1. Tiền                                                           |             | 887.764.429.704          | 734.466.660.472           |
-| 111.2 | 1.2. Các khoản tương đương tiền                                     |             | 89.608.000.000           | 146.709.000.000           |
-| 112   | Các tài sản tài chính ghi nhận thông qua lãi/lỗ ("FVTPL")           | 7.1 & 7.4   | 26.157.031.729.284       | 24.519.200.006.786        |
-| 113   | 3. Các khoản đầu tư nắm giữ đến ngày đáo hạn ("HTM")                | 7.2         | 7.189.686.000.000        | 5.560.973.000.000         |
-| 114   | 4. Các khoản cho vay                                                | 7.3         | 11.119.786.670.224       | 10.343.627.985.292        |
-| 116   | Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp | 8           | (120.884.310.909)        | (122.288.257.021)         |
-| 117   | Các khoản phải thu                                                  | 9           | 1.432.389.626.930        | 1.728.245.383.775         |
-| 117.1 | *6.1. Phải thu bán các tài sản tài chính*                           |             | 69.554.279.074           | 555.540.757.453           |
-| 117.2 | *6.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính*    |             | 1.362.835.347.856        | 1.172.704.626.322         |
-| 117.3 | 6.2.1. Phải thu cổ tức, tiền lãi đến ngày nhận                      |             | 95.427.412.362           | 95.427.412.362            |
-| 117.4 | 6.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận                   |             | 1.267.407.935.494        | 1.077.277.213.960         |
-| 118   | 7. Trả trước cho người bán                                          | 9           | 37.015.716.077           | 31.617.305.015            |
-| 119   | 8. Phải thu các dịch vụ công ty chứng khoán cung cấp                | 9           | 175.679.932.778          | 178.047.781.530           |
-| 122   | 9. Các khoản phải thu khác                                          | 9           | 134.317.832.630          | 7.902.515.693             |
-| 129   | 10. Dự phòng suy giảm giá trị các khoản phải thu                    | 9           | (193.128.526.005)        | (193.148.601.005)         |
-| 130   | **II. Tài sản ngắn hạn khác**                                       |             | 105.828.231.097          | 170.267.236.752           |
-| 131   | 1. Tạm ứng                                                          |             | 11.580.380.479           | 10.532.344.261            |
-| 133   | 2. Chi phí trả trước ngắn hạn                                       | 14          | 22.578.483.618           | 32.570.592.866            |
-| 134   | 3. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn                       | 10          | 26.273.970.000           | 106.245.970.000           |
-| 137   | 4. Tài sản ngắn hạn khác                                            |             | 45.395.397.000           | 20.918.329.625            |
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Nhựa Bình Minh ("Công ty") và công ty con (được gọi chung là "Tập đoàn"), bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 24 tháng 3 năm 2025, được trình bày từ trang 5 đến trang 49.
 
+## Trách nhiệm của Ban Tổng Giám đốc
 
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam; Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hay nhầm lẫn.
+
+## Trách nhiệm của kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chúng tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc nhầm lẫn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Tập đoàn liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.

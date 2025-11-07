@@ -1,39 +1,36 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày  
+# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)
 
-----
+## (e) Cổ tức
 
-## 20. VAY VÀ NỢ THUÊ TÀI SẢN TÀI CHÍNH NGẮN HẠN  
+Đại hội đồng Cổ đông của Công ty vào ngày 29 tháng 4 năm 2024 đã quyết định chia cổ tức bằng tiền là 1.031.448 triệu VND, tương đương 12.600 VND/cổ phần; từ lợi nhuận sau thuế của năm 2023, trong đó khoản tạm ứng đợt 1 cổ tức là 532.096 triệu VND, tương đương 6.500 VND/cổ phần đã được trả trong năm 2023. Hội đồng Quản trị của Công ty vào ngày 18 tháng 10 năm 2024 đã quyết định tạm ứng khoản cổ tức cho năm 2024 với số tiền là 469.882 triệu VND, tương đương 5.740 VND/cổ phần (2023: Đại hội đồng Cổ đông của Công ty vào ngày 28 tháng 4 năm 2023 đã quyết định chia cổ tức bằng tiền là 687.632 triệu VND từ lợi nhuận sau thuế của năm 2022, trong đó khoản tạm ứng đợt 1 cổ tức là 253.769 triệu VND, tương đương 3.100 VND/cổ phần đã được trả trong năm 2022).
 
-> **Đơn vị tính: VND**
+# 23. Các khoản mục ngoài bảng cân đối kế toán
 
-|                                                | Lãi suất %/năm | Ngày 31 tháng 12 năm 2024 | Số vay trong kỳ        | Số vay đã trả trong kỳ   | Ngày 31 tháng 3 năm 2025 |
-| ---------------------------------------------- | -------------- | ------------------------- | ---------------------- | ------------------------ | ------------------------ |
-| **Các khoản vay ngắn hạn bằng VND**            | **Từ 2,0%**    |                           |                        |                          |                          |
-| - Ngân hàng TMCP Ngoại Thương Việt Nam         |                | 4.876.000.000.000         | 3.046.000.000.000      | -                        | 7.922.000.000.000        |
-| - Ngân hàng TMCP Công Thương Việt Nam          |                | 4.050.000.000.000         | 8.066.000.000.000      | (7.200.000.000.000)      | 4.916.000.000.000        |
-| - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam |                | 4.582.199.999.945         | 10.846.054.434.215     | (11.533.054.434.160)     | 3.895.200.000.000        |
-| - Các tổ chức tín dụng khác                    |                | 8.307.274.436.862         | 9.237.274.436.862      | (6.767.274.436.862)      | 10.777.274.436.862       |
-| - Vay khác                                     |                | 620.770.198.509           | 356.391.396.709        | (349.000.056.552)        | 628.161.538.666          |
-| **Tổng cộng (i)**                              |                | **22.436.244.635.316**    | **31.551.720.267.786** | **(25.849.328.927.574)** | **28.138.635.975.528**   |
+## (a) Ngoại tệ các loại
+
+|     | 31/12/2024<br/>Nguyên tệ | 31/12/2024<br/>Tương đương VND | 1/1/2024<br/>Nguyên tệ | 1/1/2024<br/>Tương đương VND |
+| --- | ------------------------ | ------------------------------ | ---------------------- | ---------------------------- |
+| USD | 11.328                   | 285.885.208                    | 42.959                 | 986.123.701                  |
 
 
-> (i) Các khoản vay ngắn hạn được thực hiện cho mục đích bổ sung vốn lưu động của Công ty.
+## (b) Xóa sổ nợ khó đòi
 
-----
+|                                | Năm xóa sổ | Giá trị            |
+| ------------------------------ | ---------- | ------------------ |
+| Công ty TNHH TM Nhựa Đức Thành | 2023       | 30.844.128.351     |
+| Các khách hàng khác            | 2023       | 2.739.243.355      |
+| **Cộng**                       |            | **33.583.371.706** |
 
-## 21. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC  
 
-> **Đơn vị tính: VND**
+> **Lý do xóa sổ:** Không thể thu hồi được.
 
-| Chỉ tiêu                                               | Ngày 31 tháng 12 năm 2024 | Số phải nộp trong kỳ | Số đã nộp trong kỳ    | Ngày 31 tháng 3 năm 2025 |
-| ------------------------------------------------------ | ------------------------- | -------------------- | --------------------- | ------------------------ |
-| Thuế giá trị gia tăng                                  | 136.242.736               | 382.220.501          | (404.750.611)         | 113.712.626              |
-| Thuế thu nhập doanh nghiệp<br/>*(Thuyết minh số 29.1)* | 199.821.282.832           | 102.240.290.975      | (199.961.865.891)     | 102.099.707.916          |
-| Thuế thu nhập cá nhân                                  | 32.170.955.347            | 76.649.998.833       | (81.473.436.390)      | 27.347.517.790           |
-| Các loại thuế khác                                     | 4.454.920.457             | 8.647.672.866        | (9.346.723.825)       | 3.755.869.498            |
-| **Tổng cộng**                                          | **236.583.401.372**       | **187.920.183.175**  | **(291.186.776.717)** | **133.316.807.830**      |
+## (c) Cam kết chi tiêu vốn
+
+Tại ngày báo cáo, Công ty và công ty con có các cam kết chi tiêu vốn sau đã được duyệt nhưng chưa được phản ánh trong bảng cân đối kế toán hợp nhất:
+
+|                                     | 31/12/2024     | 1/1/2024       |
+| ----------------------------------- | -------------- | -------------- |
+| Đã được duyệt và đã ký kết hợp đồng | 29.113.709.272 | 11.400.868.074 |
 
 

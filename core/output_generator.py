@@ -172,10 +172,8 @@ def parse_requery_output(llm_output: str):
            
 #             Câu hỏi của người dùng: {user_question}
 #             """
-
-def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
-    if useGraph is False:
-        prompt_requery = f"""
+def respond_user_none_graph(user_question = '', temp_path = ''):
+    prompt_requery = f"""
                 Hãy tưởng tượng bạn là một trợ lý tài chính chuyên phân tích đọc hiểu BÁO CÁO TÀI CHÍNH. Giả sử người dùng đưa ra câu hỏi. Hãy suy nghĩ xem 
                 bạn cần tìm những thông tin gì trong báo cáo tài chính để có thể trả lời phân tích suy luận diễn giải cho người dùng đầy đủ nhất, chi tiết nhất.
                 - Nếu câu hỏi của người dùng là 1 thông tin trực tiếp không cần tính toán mà có thể tìm kiếm thẳng ở trong bao báo luôn thì hãy viết lại thành đúng cụm từ trong
@@ -195,31 +193,39 @@ def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
                 có thể được thay thế nhất trành trùng lặp quá nhiều không cần thiết.
                 Câu hỏi của người dùng: {user_question}
             """
-        query_rewriting = call_api_gemi(prompt_requery)
-    # suggestions =  client.models.generate_content(
-    #     model="gemini-2.5-flash", contents=f"Dựa vào câu hỏi của người {user_question} dùng hãy đưa ra 3 câu hỏi gợi ý  \
-    #     mà người dùng có thể hỏi tiếp theo. Đó là những câu hỏi liên quan đến đọc 1 báo cáo tài chính có thể là hỏi về các chỉ số trên báo cáo của 1 doanh nghiệp, các chỉ số trực tiếp \
-    #         hoặc tính toán, hoặc các câu hỏi phân tích báo cáo. Lưu ý trả lời một cách ngắn gọn, các câu hỏi có mực độ dễ và trả về dưới dạng:\
-    #         1. .... ?, 2. ...., 3. ....\
-    #     Không cần những câu giới thiệu giải thích chỉ trả về như trên.")
-      
-        features = parse_requery_output(query_rewriting)  
-        print(features)
-        user_prompt, contexts = get_user_prompt(input_model='all-MiniLM-L6-v2', num_sim_docx=3, user_question=user_question,temp_path=temp_path,prompt_chunk = features )
-        response = call_api_gemi(user_prompt, model='2.5-pro')
-        evaluate_LLM(user_question, response, contexts,temp_path, is_graph= False)
-        return response, []
+    query_rewriting = call_api_gemi(prompt_requery)
+# suggestions =  client.models.generate_content(
+#     model="gemini-2.5-flash", contents=f"Dựa vào câu hỏi của người {user_question} dùng hãy đưa ra 3 câu hỏi gợi ý  \
+#     mà người dùng có thể hỏi tiếp theo. Đó là những câu hỏi liên quan đến đọc 1 báo cáo tài chính có thể là hỏi về các chỉ số trên báo cáo của 1 doanh nghiệp, các chỉ số trực tiếp \
+#         hoặc tính toán, hoặc các câu hỏi phân tích báo cáo. Lưu ý trả lời một cách ngắn gọn, các câu hỏi có mực độ dễ và trả về dưới dạng:\
+#         1. .... ?, 2. ...., 3. ....\
+#     Không cần những câu giới thiệu giải thích chỉ trả về như trên.")
     
-
-    if isSummary == True:
+    features = parse_requery_output(query_rewriting)  
+    print(features)
+    user_prompt, contexts = get_user_prompt(input_model='all-MiniLM-L6-v2', num_sim_docx=10, user_question=user_question,temp_path=temp_path,prompt_chunk = features )
+    response = call_api_gemi(user_prompt, model='2.5-flash')
+    evaluate_LLM(user_question, response, contexts,temp_path, is_graph= False)
+    return response
+    
+def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
+    if useGraph is False:
+        response = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+        return response, []
+    if isSummary is True:
         print(isSummary)
         pdf_path = summary_section(temp_path= temp_path)
         return pdf_path
     else:
-        response, contexts = get_user_prompt_from_graph(user_question=user_question, temp_path= temp_path)
-        evaluate_LLM(user_question, response, contexts, temp_path)  
-        return response,[]
-
+        try:
+            response, contexts = get_user_prompt_from_graph(user_question=user_question, temp_path= temp_path)
+            evaluate_LLM(user_question, response, contexts, temp_path)  
+            return response, []
+        except Exception as e:
+            print(f"[Unhandled Error] {e}")
+            print('Đồ thị lỗi')
+            response = respond_user_none_graph(user_question= user_question, emp_path= temp_path)
+            return response, []
 # def respond_user_agent(user_question, temp_path):
 #     answer = run_agent(user_question, temp_path=temp_path)
 #     return answer

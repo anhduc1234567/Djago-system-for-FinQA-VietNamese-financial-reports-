@@ -1,34 +1,27 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B01a-CTCK  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025  
+# Ý kiến của kiểm toán viên
 
-**Đơn vị tính: VND**
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Công ty Cổ phần Nhựa Bình Minh và công ty con tại ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Công ty và công ty con cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
 
-| Mã số | CHỈ TIÊU                                                 | Thuyết minh | Ngày 31 tháng 3 năm 2025 | Ngày 31 tháng 12 năm 2024 |
-| ----- | -------------------------------------------------------- | ----------- | ------------------------ | ------------------------- |
-| 200   | **B. TÀI SẢN DÀI HẠN**<br/>(200 = 210 + 220 + 240 + 250) |             | 3.075.338.235.735        | 1.189.156.655.182         |
-| 210   | **I. Tài sản tài chính dài hạn**                         |             | 2.726.409.771.556        | 1.036.150.771.556         |
-| 211   | 1. Các khoản phải thu dài hạn                            | 9           | 91.716.310.944           | 91.716.310.944            |
-| 212   | 2. Các khoản đầu tư dài hạn                              |             | 2.638.922.852.000        | 948.663.852.000           |
-| 212.1 | 2.1 Các khoản đầu tư nắm giữ đến ngày đáo hạn            | 7.2         | 1.700.315.000.000        |                           |
-| 212.3 | 2.2 Đầu tư vào công ty liên doanh, liên kết              | 11          | 914.505.332.000          | 914.505.332.000           |
-| 212.4 | 2.3 Đầu tư dài hạn khác                                  | 11          | 24.102.520.000           | 34.158.520.000            |
-| 213   | 3. Dự phòng suy giảm tài sản tài chính dài hạn           | 11          | (4.229.391.388)          | (4.229.391.388)           |
-| 220   | **II. Tài sản cố định**                                  |             | 73.311.837.744           | 84.089.253.850            |
-| 221   | 1. Tài sản cố định hữu hình                              | 12          | 36.805.919.505           | 40.960.432.082            |
-| 222   | 1.1. Nguyên giá                                          |             | 210.381.320.840          | 205.271.274.760           |
-| 223a  | 1.2. Giá trị khấu hao lũy kế                             |             | (173.575.401.335)        | (164.310.842.678)         |
-| 227   | 2. Tài sản cố định vô hình                               | 13          | 36.505.918.239           | 43.128.821.768            |
-| 228   | 2.1. Nguyên giá                                          |             | 182.797.824.279          | 182.797.824.279           |
-| 229a  | 2.2. Giá trị hao mòn lũy kế                              |             | (146.291.906.040)        | (139.669.002.511)         |
-| 240   | **III. Chi phí xây dựng cơ bản dở dang**                 |             | 14.129.916.900           | 3.180.792.000             |
-| 250   | **IV. Tài sản dài hạn khác**                             |             | 261.486.709.535          | 65.735.837.776            |
-| 251   | Cầm cố, thế chấp; ký quỹ ký cược, dài hạn                | 10          | 203.032.972.428          | 3.104.972.428             |
-| 252   | Chi phí trả trước dài hạn                                | 14          | 23.453.737.107           | 27.630.865.348            |
-| 254   | Tiền nộp Quỹ Hỗ trợ thanh toán                           | 15          | 20.000.000.000           | 20.000.000.000            |
-| 255   | Tài sản dài hạn khác                                     | 16          | 15.000.000.000           | 15.000.000.000            |
-| 270   | **TỔNG CỘNG TÀI SẢN (270 = 100 + 200)**                  |             | 50.090.433.567.545       | 44.294.776.672.471        |
+----
 
+**Chi nhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh**  
+Việt Nam  
+Báo cáo kiểm toán số: 24-01-00574-25-2  
 
+----
+
+KPMG Chi nhánh Công ty TNHH KPMG
+
+----
+
+|  |  | |
+|---|---|---|
+| Con dấu đỏ: CHI NHÁNH CÔNG TY TNHH KPMG | Chữ ký | Chữ ký |
+| **Chang Hung Chun** |  | **Trần Thị Lệ Hằng** |
+| Giấy Chứng nhận Đăng ký Hành nghề Kiểm toán số 0863-2023-007-1 |  | Giấy Chứng nhận Đăng ký Hành nghề Kiểm toán số 3782-2022-007-1 |
+| *Phó Tổng Giám đốc* |  |  |
+
+----
+
+Thành phố Hồ Chí Minh, ngày 24 tháng 3 năm 2025

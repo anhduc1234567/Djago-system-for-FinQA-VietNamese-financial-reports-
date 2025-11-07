@@ -1,32 +1,37 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B01a-CTCK  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025  
+# BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)  
+## Tại ngày 31 tháng 12 năm 2024  
+> Đơn vị tính: VND
 
-## CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH  
-*Đơn vị tính: VND*
+| TÀI SẢN                                        | Mã số | Thuyết minh | 31/12/2024          | 1/1/2024            |
+| ---------------------------------------------- | ----- | ----------- | ------------------- | ------------------- |
+| **II. Tài sản cố định**                        | 220   |             | 265.199.250.700     | 285.789.885.917     |
+| 1. Tài sản cố định hữu hình                    | 221   | V.9         | 258.882.782.716     | 279.882.659.076     |
+| - Nguyên giá                                   | 222   |             | 2.181.798.179.558   | 2.105.226.350.984   |
+| - Giá trị hao mòn lũy kế                       | 223   |             | (1.922.915.396.842) | (1.825.343.691.908) |
+| 2. Tài sản cố định thuê tài chính              | 224   |             | -                   | -                   |
+| - Nguyên giá                                   | 225   |             | -                   | -                   |
+| - Giá trị hao mòn lũy kế                       | 226   |             | -                   | -                   |
+| 3. Tài sản cố định vô hình                     | 227   | V.10        | 6.316.467.984       | 5.907.226.841       |
+| - Nguyên giá                                   | 228   |             | 35.403.181.238      | 38.620.263.278      |
+| - Giá trị hao mòn lũy kế                       | 229   |             | (29.086.713.254)    | (32.713.036.437)    |
+| **III. Bất động sản đầu tư**                   | 230   |             | -                   | -                   |
+| - Nguyên giá                                   | 231   |             | -                   | -                   |
+| - Giá trị hao mòn lũy kế                       | 232   |             | -                   | -                   |
+| **IV. Tài sản dở dang dài hạn**                | 240   |             | 19.554.238.355      | 12.421.681.336      |
+| 1. Chi phí sản xuất kinh doanh dở dang dài hạn | 241   |             | -                   | -                   |
+| 2. Chi phí xây dựng cơ bản dở dang             | 242   | V.11        | 19.554.238.355      | 12.421.681.336      |
+| **V. Đầu tư tài chính dài hạn**                | 250   |             | 63.787.363.980      | 64.284.850.993      |
+| 1. Đầu tư vào công ty liên kết, liên doanh     | 252   | V.2(b)      | 61.787.363.980      | 62.284.850.993      |
+| 2. Đầu tư góp vốn vào đơn vị khác              | 253   | V.2(c)      | 4.000.000.000       | 4.000.000.000       |
+| 3. Dự phòng đầu tư tài chính dài hạn           | 254   | V.2(c)      | (2.000.000.000)     | (2.000.000.000)     |
+| 4. Đầu tư nắm giữ đến ngày đáo hạn             | 255   |             | -                   | -                   |
+| **VI. Tài sản dài hạn khác**                   | 260   |             | 235.840.914.348     | 278.604.362.007     |
+| 1. Chi phí trả trước dài hạn                   | 261   | V.12(b)     | 211.918.767.043     | 246.005.035.630     |
+| 2. Tài sản thuế thu nhập hoãn lại              | 262   | V.13        | 11.926.648.973      | 11.487.975.771      |
+| 3. Thiết bị, vật tư, phụ tùng thay thế dài hạn | 263   | V.14        | 11.995.498.332      | 21.111.350.606      |
+| 4. Tài sản dài hạn khác                        | 268   |             | -                   | -                   |
+| **TỔNG CỘNG TÀI SẢN (270 = 100 + 200)**        | 270   |             | 3.200.494.976.288   | 3.255.000.928.111   |
 
-| Mã số | CHỈ TIÊU                                                                                                                         | Thuyết minh | Ngày 31 tháng 3 năm 2025 | Ngày 31 tháng 12 năm 2024 |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------ | ------------------------- |
-|       | **A. TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN ("CTCK") VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT**                                                  |             |                          |                           |
-|       | 004<br/>1. Nợ khó đòi đã xử lý                                                                                                   |             | 101.986.716.060          | 101.986.716.060           |
-|       | 006<br/>2. Cổ phiếu đang lưu hành (số lượng)                                                                                     | 23.3        | 1.522.299.908            | 1.522.299.908             |
-|       | 008<br/>3. Tài sản tài chính niêm yết đăng ký giao dịch tại Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam ("VSDC") của CTCK | 24.1        | 9.501.319.420.000        | 10.981.481.720.000        |
-|       | 009<br/>4. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của CTCK                                                       | 24.2        | 325.068.060.000          | 325.032.290.000           |
-|       | 010<br/>5. Tài sản tài chính chờ về của CTCK                                                                                     | 24.3        | 1.301.806.100.000        | 1.056.813.400.000         |
-|       | 012<br/>6. Tài sản tài chính chưa lưu ký tại VSDC của CTCK                                                                       | 24.4        | 6.063.879.470.000        | 5.393.272.890.000         |
-|       | 013<br/>7. Tài sản tài chính được hưởng quyền của CTCK                                                                           | 24.5        | 1.766.940.000            | 707.970.000               |
-|       | **B. TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG**                                                   |             |                          |                           |
-|       | 021<br/>1. Tài sản tài chính niêm yết đăng ký giao dịch tại VSDC của Nhà đầu tư                                                  |             | 86.018.081.846.800       | 87.664.897.954.800        |
-|       | 021.1<br/>1.1 Tài sản tài chính giao dịch tự do chuyển nhượng                                                                    |             | 70.952.897.102.800       | 72.283.889.714.800        |
-|       | 021.2<br/>1.2 Tài sản tài chính hạn chế chuyển nhượng                                                                            |             | 4.136.519.880.000        | 4.154.055.170.000         |
-|       | 021.3<br/>1.3 Tài sản tài chính giao dịch cầm cố                                                                                 |             | 9.905.218.820.000        | 10.643.324.820.000        |
-|       | 021.4<br/>1.4 Tài sản tài chính phong tỏa, tạm giữ                                                                               |             | 82.157.930.000           | 3.148.330.000             |
-|       | 021.5<br/>1.5 Tài sản tài chính chờ thanh toán                                                                                   |             | 941.288.114.000          | 580.479.920.000           |
-|       | 022<br/>2. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư                                                 |             | 1.191.227.550.000        | 1.011.294.690.000         |
-|       | 022.1<br/>2.1 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng                                        |             | 814.903.660.000          | 650.420.310.000           |
-|       | 022.2<br/>2.2 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch; hạn chế chuyển nhượng                                      |             | 376.323.890.000          | 360.874.380.000           |
-|       | 023<br/>3. Tài sản tài chính chờ về của Nhà đầu tư                                                                               | 24.6        | 886.619.678.000          | 560.198.130.000           |
 
-
+> Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này

@@ -1,36 +1,30 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## 9. Tài sản cố định hữu hình
 
-### 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-
-#### 4.25. Vốn chủ sở hữu (tiếp theo)
-
-**Các quỹ**  
-Công ty sử dụng lợi nhuận sau thuế hàng kỳ để trích lập các quỹ theo Nghị quyết của Đại hội đồng Cổ đông tại cuộc họp thường niên của Đại hội đồng Cổ đông.
-
-#### 4.26. Phân chia lợi nhuận  
-Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các nhà đầu tư sau khi được phê duyệt tại Cuộc họp thường niên của Đại hội đồng Cổ đông và sau khi đã trích lập các quỹ dự phòng theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
-
-#### 4.27. Các bên liên quan  
-Các bên liên quan được hiểu là "Người có liên quan" theo quy định của Luật Chứng khoán, Luật Doanh nghiệp và các văn bản sửa đổi, bổ sung có hiệu lực tại từng thời kỳ.
-
-#### 4.28. Các khoản mục không có số dư  
-Các khoản mục không được trình bày trên báo cáo tài chính này theo Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014, Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 và Thông tư 114/2021/TT-BTC ngày 17 tháng 12 năm 2021 do Bộ Tài chính ban hành là các khoản mục không có số dư.
-
-### 5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
-
-<small>Đơn vị tính: VND</small>
-
-|                                                       | Ngày 31 tháng 3năm 2025 | Ngày 31 tháng 12năm 2024 |
-| ----------------------------------------------------- | ----------------------- | ------------------------ |
-| Tiền                                                  | 887.764.429.704         | 734.466.660.472          |
-| - Tiền gửi ngân hàng cho hoạt động CTCK               | 887.717.979.251         | 733.705.141.683          |
-| - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán | 46.450.453              | 761.518.789              |
-| Các khoản tương đương tiền                            | 89.608.000.000          | 146.709.000.000          |
-| - Tiền gửi ngân hàng có kỳ hạn gốc không quá 03 tháng | 89.608.000.000          | 146.709.000.000          |
-| **Tổng cộng**                                         | **977.372.429.704**     | **881.175.660.472**      |
+|                          | Nhà cửa vàvật kiến trúc | Máy mócvà thiết bị    | Phương tiệnvận tải | Thiết bịvăn phòng  | Tổng cộng             |
+| ------------------------ | ----------------------- | --------------------- | ------------------ | ------------------ | --------------------- |
+| *Nguyên giá*             |                         |                       |                    |                    |                       |
+| Số dư đầu năm            | 513.259.675.511         | 1.539.547.616.789     | 39.422.695.886     | 12.996.362.798     | 2.105.226.350.984     |
+| Tăng trong năm           | 4.327.138.899           | 81.528.210.697        | 3.252.372.727      | 119.529.000        | 89.227.251.323        |
+| - Mua sắm mới            |                         | 70.572.178.837        | 3.252.372.727      | 119.529.000        | 73.944.080.564        |
+| - Đầu tư XDCB hoàn thành | 4.327.138.899           | 10.956.031.860        |                    |                    | 15.283.170.759        |
+| Giảm trong năm           |                         | (11.738.311.082)      | (877.511.667)      | (39.600.000)       | (12.655.422.749)      |
+| - Thanh lý, nhượng bán   |                         | (11.738.311.082)      | (877.511.667)      | (39.600.000)       | (12.655.422.749)      |
+| **Số dư cuối năm**       | **517.586.814.410**     | **1.609.337.516.404** | **41.797.556.946** | **13.076.291.798** | **2.181.798.179.558** |
+| *Giá trị hao mòn luỹ kế* |                         |                       |                    |                    |                       |
+| Số dư đầu năm            | 507.832.503.864         | 1.272.178.847.107     | 36.023.145.847     | 9.309.195.090      | 1.825.343.691.908     |
+| Tăng trong năm           | 1.750.449.369           | 106.101.979.114       | 1.721.683.713      | 653.015.487        | 110.227.127.683       |
+| - Khấu hao trong năm     | 1.750.449.369           | 106.101.979.114       | 1.721.683.713      | 653.015.487        | 110.227.127.683       |
+| Giảm trong năm           |                         | (11.738.311.082)      | (877.511.667)      | (39.600.000)       | (12.655.422.749)      |
+| - Thanh lý, nhượng bán   |                         | (11.738.311.082)      | (877.511.667)      | (39.600.000)       | (12.655.422.749)      |
+| **Số dư cuối năm**       | **509.582.953.233**     | **1.366.542.515.139** | **36.867.317.893** | **9.922.610.577**  | **1.922.915.396.842** |
+| *Giá trị còn lại*        |                         |                       |                    |                    |                       |
+| Số dư đầu năm            | 5.427.171.647           | 267.368.769.682       | 3.399.550.039      | 3.687.167.708      | 279.882.659.076       |
+| **Số dư cuối năm**       | **8.003.861.177**       | **242.795.001.265**   | **4.930.239.053**  | **3.153.681.221**  | **258.882.782.716**   |
 
 
+> Bao gồm trong tài sản cố định hữu hình có các tài sản có nguyên giá 1.600.403 triệu VND tại ngày 31 tháng 12 năm 2024 (1/1/2024: 1.403.750 triệu VND), đã khấu hao hết nhưng vẫn đang được sử dụng.
+
+> **Đơn vị tính: VND**

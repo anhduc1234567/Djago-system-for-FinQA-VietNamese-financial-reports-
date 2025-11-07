@@ -1,31 +1,32 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# 5. Các khoản phải thu
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+Các khoản phải thu khách hàng và các khoản phải thu khác được phản ánh theo giá gốc trừ đi dự phòng phải thu khó đòi.
 
-### 1. THÔNG TIN DOANH NGHIỆP (tiếp theo)
+Dự phòng phải thu khó đòi được trích lập dựa trên tình trạng quá hạn của khoản nợ hoặc mức tổn thất có thể xảy ra trong trường hợp khoản nợ chưa đến hạn thanh toán nhưng tổ chức kinh tế đã lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể; hoặc người nợ mất tích, bỏ trốn, đang bị cơ quan pháp luật truy tố, giam giữ, xét xử hoặc đang thi hành án hoặc đã chết.
 
-#### Những đặc điểm chính về hoạt động của Công ty (tiếp theo)
+Dự phòng phải thu khó đòi dựa trên tình trạng quá hạn được trích lập như sau:
 
-##### Hạn chế đầu tư (tiếp theo)
-
-> * Công ty chứng khoán không được trực tiếp hoặc ủy thác thực hiện các nghiệp vụ sau:  
->   Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên năm mươi phần trăm (50%) vốn điều lệ của công ty chứng khoán; trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng; Cùng với người có liên quan đầu tư từ năm phần trăm (5%) trở lên vốn điều lệ của công ty chứng khoán khác;  
->   Đầu tư quá hai mươi phần trăm (20%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;  
->   Đầu tư quá 15% tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức chưa niêm yết, quy định này không áp dụng đối với chứng chỉ quỹ thành viên, quỹ hoán đổi danh mục và quỹ mở;  
->   Đầu tư hoặc góp vốn quá 10% trên tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;  
->   Đầu tư hoặc góp vốn quá 15% vốn chủ sở hữu vào một tổ chức hoặc dự án kinh doanh;  
->   Đầu tư quá 70% vốn chủ sở hữu vào cổ phiếu, phần vốn góp và dự án kinh doanh; trong đó không được đầu tư quá 20% vốn chủ sở hữu vào cổ phiếu chưa niêm yết, phần vốn góp và dự án kinh doanh.
-
-#### Công ty liên kết
-
-Tại ngày 31 tháng 3 năm 2025, Công ty có hai (02) công ty liên kết; chi tiết như sau:
-
-| Tên Công ty                               | Được thành lập theo                                                                                                                                                    | Ngành hoạt động                                                  | Vốn điều lệ       | Tỷ lệ sở hữu | Tỷ lệ biểu quyết |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------- | ------------ | ---------------- |
-| Tổng Công ty Cổ phần Bảo hiểm Bưu điện    | Giấy phép Thành lập và Hoạt động số 3633/GP-UB ngày 01 tháng 08 năm 1998 và giấy phép điều chỉnh gần nhất số 41A/GPDĐC32/KDBH ngày 05 tháng 01 năm 2022                | Kinh doanh bảo hiểm phi nhân thọ và kinh doanh dịch vụ tài chính | 803.957.090.000   | 20%          | 20%              |
-| Công ty Cổ phần Ẩm Thực Mặt Trời Vàng (i) | Giấy chứng nhận Đăng ký doanh nghiệp Công ty cổ phần số 0108951120 do Sở kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 17 tháng 10 năm 2019 và các lần thay đổi | Kinh doanh nhà hàng, dịch vụ ăn uống                             | 1.265.501.000.000 | 5,55%        | 36%              |
+| Thời gian quá hạn                       | Tỷ lệ trích lập dự phòng |
+| --------------------------------------- | ------------------------ |
+| Từ sáu (06) tháng đến dưới một (01) năm | 30%                      |
+| Từ một (01) năm đến dưới hai (02) năm   | 50%                      |
+| Từ hai (02) năm đến dưới ba (03) năm    | 70%                      |
+| Từ ba (03) năm trở lên                  | 100%                     |
 
 
-> (i) Theo Quyết định số 2103/2025/QĐ-VNDIRECT ngày 21 tháng 3 năm 2025, Chủ tịch HĐQT Công ty đã phê duyệt việc chuyển nhượng cổ phần tại Công ty Cổ phần Ẩm Thực Mặt Trời Vàng. Tại ngày lập báo cáo tài chính, Công ty chưa hoàn thành việc chuyển nhượng do đang trong quá trình thực hiện hồ sơ, thủ tục liên quan.
+Đối với các khoản nợ quá hạn, Ban Tổng Giám đốc Công ty cũng đánh giá thêm về khả năng thu hồi dự kiến của các khoản nợ này để xác định mức dự phòng.
+
+Dự phòng phải thu khó đòi được trích lập cho các tổn thất có thể xảy ra cho các khoản nợ chưa đến hạn thanh toán được xác định bởi Ban Tổng Giám đốc Công ty sau khi xem xét đến khả năng thu hồi của các khoản nợ này.
+
+# 6. Hàng tồn kho
+
+Hàng tồn kho được phản ánh theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với thành phẩm và chi phí sản xuất kinh doanh dở dang, giá gốc bao gồm chi phí nguyên vật liệu, chi phí nhân công trực tiếp và các chi phí sản xuất chung được phân bổ. Giá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí ước tính để bán sản phẩm.
+
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+# 7. Tài sản cố định hữu hình
+
+## (i) Nguyên giá
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp để đưa tài sản đến trạng thái hoạt động cho mục đích sử dụng đã dự kiến. Các chi phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hoá như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.

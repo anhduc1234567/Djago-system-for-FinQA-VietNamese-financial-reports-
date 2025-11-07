@@ -1,39 +1,47 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B09a-CTCK
+# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)
 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## 10. Tài sản cố định vô hình
 
-## 6. GIÁ TRỊ KHỐI LƯỢNG GIAO DỊCH THỰC HIỆN TRONG KỲ
+|                          | Quyền sử dụng đất | Phần mềm máy vi tính | Tổng cộng          |
+| ------------------------ | ----------------- | -------------------- | ------------------ |
+| *Nguyên giá*             |                   |                      |                    |
+| Số dư đầu năm            | 9.570.664.750     | 29.049.598.528       | 38.620.263.278     |
+| Tăng trong năm           |                   | 1.295.229.000        | 1.295.229.000      |
+| - Mua sắm mới            |                   | 799.629.000          | 799.629.000        |
+| - Đầu tư XDCB hoàn thành |                   | 495.600.000          | 495.600.000        |
+| Giảm trong năm           |                   | (4.512.311.040)      | (4.512.311.040)    |
+| - Thanh lý, nhượng bán   |                   | (4.512.311.040)      | (4.512.311.040)    |
+| **Số dư cuối năm**       | **9.570.664.750** | **25.832.516.488**   | **35.403.181.238** |
+| *Giá trị hao mòn luỹ kế* |                   |                      |                    |
+| Số dư đầu năm            | 4.098.367.252     | 28.614.669.185       | 32.713.036.437     |
+| Tăng trong năm           | *157.908.432*     | *728.079.425*        | *885.987.857*      |
+| - Khấu hao trong năm     | *157.908.432*     | *728.079.425*        | *885.987.857*      |
+| Giảm trong năm           |                   | (4.512.311.040)      | (4.512.311.040)    |
+| - Thanh lý, nhượng bán   |                   | (4.512.311.040)      | (4.512.311.040)    |
+| **Số dư cuối năm**       | **4.256.275.684** | **24.830.437.570**   | **29.086.713.254** |
+| *Giá trị còn lại*        |                   |                      |                    |
+| Số dư đầu năm            | 5.472.297.498     | 434.929.343          | 5.907.226.841      |
+| **Số dư cuối năm**       | **5.314.389.066** | **1.002.078.918**    | **6.316.467.984**  |
 
-|                       | Khối lượnggiao dịch thực hiệntrong kỳ(đơn vị) | Giá trị giao dịchthực hiệntrong kỳ(triệu VND) |
-| --------------------- | --------------------------------------------- | --------------------------------------------- |
-| **a. Của Công ty**    | 606.610.173                                   | 83.008.793                                    |
-| - Cổ phiếu            | 54.944.975                                    | 1.982.081                                     |
-| - Trái phiếu          | 551.646.352                                   | 78.478.433                                    |
-| - Chứng khoán khác    | 18.846                                        | 2.548.279                                     |
-| **b. Của Nhà đầu tư** | 5.771.158.439                                 | 187.295.120                                   |
-| - Cổ phiếu            | 5.439.009.101                                 | 109.012.439                                   |
-| - Trái phiếu          | 48.741.868                                    | 13.851.794                                    |
-| - Chứng khoán khác    | 283.407.470                                   | 64.430.887                                    |
-| **Tổng cộng**         | **6.377.768.612**                             | **270.303.913**                               |
+
+> Bao gồm trong tài sản cố định vô hình có các tài sản có nguyên giá 24.537 triệu VND đã khấu hao hết tại ngày 31 tháng 12 năm 2024 (1/1/2024: 25.918 triệu VND), nhưng vẫn đang được sử dụng.
+
+## 11. Chi phí xây dựng cơ bản dở dang
+
+|                                      | 2024               | 2023               |
+| ------------------------------------ | ------------------ | ------------------ |
+| Số dư đầu năm                        | 12.421.681.336     | 25.071.276.356     |
+| Tăng trong năm                       | 22.911.327.778     | 9.834.119.844      |
+| Chuyển sang tài sản cố định hữu hình | (15.283.170.759)   | (22.483.714.864)   |
+| Chuyển sang tài sản cố định vô hình  | (495.600.000)      | 0                  |
+| **Số dư cuối năm**                   | **19.554.238.355** | **12.421.681.336** |
 
 
-## 7. CÁC LOẠI TÀI SẢN TÀI CHÍNH
+Các công trình xây dựng cơ bản dở dang lớn như sau:
 
-### Một số khái niệm về tài sản tài chính
+|                       | 31/12/2024     | 1/1/2024       |
+| --------------------- | -------------- | -------------- |
+| *Máy móc và thiết bị* | 19.554.238.355 | 12.421.681.336 |
 
-**Giá gốc**  
-Giá gốc của tài sản tài chính là số tiền hoặc tương đương tiền đã trả, đã giải ngân hoặc phải trả của tài sản tài chính đó vào thời điểm tài sản tài chính được ghi nhận ban đầu. Tùy thuộc vào từng loại tài sản tài chính, chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính có thể được tính vào giá gốc của tài sản tài chính hoặc không.
 
-**Giá trị hợp lý/giá trị thị trường**  
-Giá trị hợp lý hay còn gọi là giá trị thị trường của tài sản tài chính là giá trị tài sản tài chính có thể trao đổi một cách tự nguyện giữa các bên có đầy đủ hiểu biết trong trao đổi ngang giá.  
-Giá trị hợp lý/giá trị thị trường của chứng khoán được xác định theo phương pháp trình bày tại Thuyết minh số 4.5.
-
-**Giá trị phân bổ**  
-Giá trị phân bổ của tài sản tài chính (là công cụ nợ) được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn; trừ đi (-) các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).  
-Cho mục đích trình bày báo cáo tài chính, dự phòng do suy giảm giá trị hoặc do không thể thu hồi được trình bày tại khoản mục *“Dự phòng suy giảm giá trị các tài sản tài chính và tài sản nhận thế chấp”* trên báo cáo tình hình tài chính.
-
-**Giá trị ghi sổ**  
-Giá trị ghi sổ của tài sản tài chính là giá trị mà tài sản tài chính được ghi nhận trên báo cáo tình hình tài chính. Tùy thuộc vào từng loại tài sản tài chính, giá trị ghi sổ có thể là giá trị hợp lý (tài sản tài chính FVTPL) hoặc giá trị phân bổ (các khoản đầu tư HTM, các khoản cho vay).

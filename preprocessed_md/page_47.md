@@ -1,22 +1,28 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# VI. Thông tin bổ sung cho các khoản mục trình bày trong báo cáo kết quả hoạt động kinh doanh hợp nhất (tiếp theo)
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+### (iii) Lãi cơ bản trên cổ phiếu
 
-### 25. LÃI/(LỖ) TỪ CÁC TÀI SẢN TÀI CHÍNH (tiếp theo)
+|                                         | 2024   | 2023   |
+| --------------------------------------- | ------ | ------ |
+| Lãi cơ bản trên cổ phiếu (VND/cổ phiếu) | 12.103 | 12.717 |
 
-#### 25.2. Chênh lệch về đánh giá lại các tài sản tài chính FVTPL
 
-> Đơn vị tính: VND
+### (b) Lãi suy giảm trên cổ phiếu
 
-| STT           | Danh mục các loại tài sản tài chính     | Giá trị<br/>Giá trị mua theo sổ kế toán | Giá trị<br/>Giá trị thị trường | Số dư chênh lệch đánh giá lại<br/>tại ngày 31 tháng 3 năm 2025 | Số dư chênh lệch đánh giá lại<br/>tại ngày 31 tháng 12 năm 2024 | Chênh lệch thuần điều chỉnh sổ kế toán trong kỳ |
-| ------------- | --------------------------------------- | --------------------------------------- | ------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------- |
-| 1             | Cổ phiếu và chứng chỉ quỹ niêm yết      | 1.535.613.243.272                       | 1.473.353.997.089              | (62.259.246.183)                                               | (3.604.026.033)                                                 | (58.655.220.150)                                |
-| 2             | Cổ phiếu và chứng chỉ quỹ chưa niêm yết | 1.905.644.402.157                       | 1.925.578.115.863              | 19.933.713.706                                                 | (5.595.180.334)                                                 | 25.528.894.040                                  |
-| 3             | Trái phiếu niêm yết                     | 3.226.760.170.785                       | 3.228.789.169.515              | 2.028.998.730                                                  | 2.177.037.349                                                   | (148.038.619)                                   |
-| 4             | Trái phiếu chưa niêm yết                | 11.478.026.738.067                      | 11.478.026.738.067             | -                                                              | -                                                               | -                                               |
-| 5             | Chứng chỉ tiền gửi                      | 8.051.283.708.750                       | 8.051.283.708.750              | -                                                              | -                                                               | -                                               |
-| **Tổng cộng** |                                         | **26.197.328.263.031**                  | **26.157.031.729.284**         | **(40.296.533.747)**                                           | **(7.022.169.018)**                                             | **(33.274.364.729)**                            |
+Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, Công ty không có cổ phiếu phổ thông tiềm năng, do vậy việc trình bày lãi suy giảm trên cổ phiếu không áp dụng.
+
+----
+
+# 12. Chi phí sản xuất và kinh doanh theo yếu tố
+
+|                                                                                           | 2024                  | 2023                  |
+| ----------------------------------------------------------------------------------------- | --------------------- | --------------------- |
+| Chi phí nguyên vật liệu bao gồm trong chi phí sản xuất và chi phí mua hàng hóa để bán lại | 2.185.706.932.980     | 2.507.636.168.506     |
+| Chi phí nhân công và nhân viên                                                            | 437.975.087.738       | 480.077.607.957       |
+| Chi phí khấu hao và phân bổ                                                               | 111.113.115.540       | 172.108.698.447       |
+| Chi phí dịch vụ mua ngoài                                                                 | 212.108.310.370       | 217.922.249.386       |
+| Chi phí khác                                                                              | 424.911.424.924       | 546.161.001.934       |
+| **Cộng**                                                                                  | **3.371.814.871.552** | **3.923.905.726.230** |
 
 

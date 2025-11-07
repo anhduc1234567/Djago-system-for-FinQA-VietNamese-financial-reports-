@@ -1,45 +1,31 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-**B03b-CTCK**  
-**BÁO CÁO LƯU CHUYỂN TIỀN TỆ**  
-cho kỳ kế toán kết thúc ngày 31 tháng 3 năm 2025  
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (tiếp theo)  
+*(Theo phương pháp gián tiếp)*  
+Cho năm kết thúc ngày 31 tháng 12 năm 2024  
 
-**Đơn vị tính: VND**
+*Đơn vị tính: VND*
 
-| Mã số                                          | CHỈ TIÊU                                                                                        | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------- | ------------------------------------------------ |
-| **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH** |                                                                                                 |             |                                                |                                                  |
-| 01                                             | 1. Lợi nhuận trước thuế TNDN                                                                    |             | 478.115.402.664                                | 766.874.081.183                                  |
-| 02                                             | 2. Điều chỉnh cho các khoản:                                                                    |             | (225.079.129.904)                              | (261.432.830.629)                                |
-| 03                                             | Khấu hao và hao mòn TSCĐ                                                                        |             | 15.887.462.186                                 | 13.696.818.011                                   |
-| 04                                             | Các khoản dự phòng                                                                              |             | (1.424.021.112)                                | (16.794.066.944)                                 |
-| 06                                             | Chi phí lãi vay                                                                                 |             | 223.182.433.338                                | 157.889.888.190                                  |
-| 07                                             | (Lãi) từ hoạt động đầu tư                                                                       |             | (2.428.250.000)                                | (4.433.334)                                      |
-| 08                                             | Dự thu tiền lãi                                                                                 |             | (460.296.754.316)                              | (416.221.036.552)                                |
-| 10                                             | 3. Tăng các chi phí phi tiền tệ                                                                 |             | 192.354.342.361                                | 48.271.473.410                                   |
-| 11                                             | Lỗ đánh giá lại giá trị các tài sản tài chính FVTPL và lỗ đánh giá lại phải trả chứng quyền     |             | 192.354.342.361                                | 48.271.473.410                                   |
-| 18                                             | 4. Giảm các doanh thu phi tiền tệ                                                               |             | (159.079.977.632)                              | (185.308.250.058)                                |
-| 19                                             | (Lãi) đánh giá lại giá trị các tài sản tài chính FVTPL và lãi đánh giá lại phải trả chứng quyền |             | (159.079.977.632)                              | (185.308.250.058)                                |
-| 30                                             | 5. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động                                |             | 286.310.637.489                                | 368.404.473.906                                  |
-| 31                                             | Thay đổi tài sản tài chính FVTPL                                                                |             | (1.671.106.087.227)                            | 424.564.945.807                                  |
-| 32                                             | Thay đổi các khoản đầu tư nắm giữ đến ngày đáo hạn HTM                                          |             | (3.329.028.000.000)                            | (265.812.000.000)                                |
-| 33                                             | Thay đổi các khoản cho vay                                                                      |             | (776.158.684.932)                              | 328.149.196.679                                  |
-| 35                                             | Thay đổi phải thu bán các tài sản tài chính                                                     |             | 485.986.478.379                                | (188.717.432.888)                                |
-| 36                                             | Thay đổi phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính                              |             | 270.166.032.782                                | 224.161.364.563                                  |
-| 37                                             | Thay đổi phải thu các dịch vụ CTCK cung cấp                                                     |             | 2.367.848.752                                  | 837.104.785                                      |
-| 39                                             | Thay đổi các khoản phải thu khác                                                                |             | (131.813.727.999)                              | (55.338.090.381)                                 |
-| 40                                             | Thay đổi các tài sản khác                                                                       |             | (1.048.036.218)                                | (2.279.060.183)                                  |
-| 41                                             | Thay đổi chi phí phải trả (không bao gồm chi phí lãi vay)                                       |             | 17.641.104.737                                 | 79.367.706.595                                   |
-|                                                | Thay đổi chi phí trả trước                                                                      |             | 14.169.237.489                                 | 3.261.224.455                                    |
-| 43                                             | Thuế TNDN đã nộp                                                                                | 21          | (199.961.865.891)                              | (112.000.000.000)                                |
-| 44                                             | Lãi vay đã trả                                                                                  |             | (228.530.291.583)                              | (241.062.771.334)                                |
-| 46                                             | Thay đổi phải trả cho người bán                                                                 |             | (23.967.153.528)                               | (60.305.652.651)                                 |
-|                                                | Thay đổi các khoản trích nộp phúc lợi nhân viên                                                 |             | 278.768.507                                    | (59.197.428)                                     |
-| 47                                             | Thay đổi thuế và các khoản phải nộp Nhà nước (Không bao gồm thuế TNDN đã nộp)                   |             | (5.545.018.626)                                | (4.211.310.237)                                  |
-| 48                                             | Thay đổi phải trả người lao động                                                                |             | 29.354.681.275                                 | 16.955.364.825                                   |
-| 50                                             | Thay đổi phải trả, phải nộp khác và phải trả chứng quyền                                        |             | 213.061.514.709                                | 1.214.798.620.026                                |
-| 51                                             | Tiền thu khác cho hoạt động kinh doanh                                                          |             | 80.072.000.000                                 |                                                  |
-| 52                                             | Tiền chi khác cho hoạt động kinh doanh                                                          |             | (234.869.088.115)                              | (1.011.081.799.605)                              |
-| 60                                             | **Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động kinh doanh**                                 |             | (5.202.619.650.000)                            | 719.632.686.934                                  |
+| Chỉ tiêu                                                            | Mã số | 2024                  | 2023                  |
+| ------------------------------------------------------------------- | ----- | --------------------- | --------------------- |
+| **III. Lưu chuyển tiền từ hoạt động tài chính**                     |       |                       |                       |
+| 1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu      | 31    | -                     | -                     |
+| 2. Tiền chi trả vốn góp cho chủ sở hữu, mua lại cổ phiếu            | 32    | -                     | -                     |
+| 3. Tiền vay ngắn hạn, dài hạn nhận được                             | 33    | -                     | 20.000.000            |
+| 4. Tiền chi trả nợ gốc vay                                          | 34    | (270.000.000)         | (10.000.000)          |
+| 5. Tiền chi trả nợ thuê tài chính                                   | 35    | -                     | -                     |
+| 6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu                          | 36    | (969.233.505.920)     | (965.959.068.400)     |
+| **Lưu chuyển tiền thuần từ hoạt động tài chính**                    | 40    | **(969.503.505.920)** | **(965.949.068.400)** |
+| **Lưu chuyển tiền thuần trong năm (50 = 20 + 30 + 40)**             | 50    | **(317.266.773.718)** | **462.828.974.019**   |
+| **Tiền và các khoản tương đương tiền đầu năm**                      | 60    | 821.414.457.106       | 358.572.233.870       |
+| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ             | 61    | 25.002.162            | 13.249.217            |
+| **Tiền và các khoản tương đương tiền cuối năm (70 = 50 + 60 + 61)** | 70    | 504.172.685.550       | 821.414.457.106       |
 
 
+Thành phố Hồ Chí Minh, ngày 24 tháng 3 năm 2025  
+
+| Người lập:                            | Người rà soát:                      | Người duyệt:                          |
+| ------------------------------------- | ----------------------------------- | ------------------------------------- |
+| Phạm Mạnh Tuấn<br/>*Kế toán Tổng hợp* | Phùng Hữu Luận<br/>*Kế toán trưởng* | Chaowalit Treejak<br/>*Tổng Giám đốc* |
+
+
+*C ác thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này*

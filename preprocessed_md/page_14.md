@@ -1,53 +1,27 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-**B03b-CTCK**  
-**BÁO CÁO LƯU CHUYỂN TIỀN TỆ (tiếp theo)**  
-cho kỳ kế toán kết thúc ngày 31 tháng 3 năm 2025  
+# CÔNG TY CỔ PHẦN NHỰA BÌNH MINH VÀ CÔNG TY CON  
+240 Hậu Giang, P. 9, Q. 6, TP. Hồ Chí Minh  
+**BÁO CÁO TÀI CHÍNH HỢP NHẤT**  
+Cho năm kết thúc ngày 31/12/2024  
 
-## PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG  
+Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, Công ty có 1 công ty con và 2 công ty liên kết như sau:
 
-> **Đơn vị tính: VND**
-
-| Mã số | CHỈ TIÊU                                                     | Thuyết minh                                                                      | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay                                   | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước |                       |                   |
-| ----- | ------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------- | ----------------- |
-| I.    | Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng   |                                                                                  |                                                                                  |                                                  |                       |                   |
-|       | 01                                                           | 1. Tiền thu bán chứng khoán môi giới cho khách hàng                              |                                                                                  | 53.653.189.047.634                               | 83.611.282.433.396    |                   |
-|       | 02                                                           | 2. Tiền chi mua chứng khoán môi giới cho khách hàng                              |                                                                                  | (52.441.562.599.813)                             | (85.403.622.631.182)  |                   |
-|       | 07                                                           | 3. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng              |                                                                                  | 63.041.663.441.280                               | 287.110.307.132.257   |                   |
-|       | 07.1                                                         | 4. Tăng tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                  |                                                                                  | 10.044.779.260                                   | 5.844.648.960         |                   |
-|       | 08                                                           | 5. Chi trả thanh toán giao dịch chứng khoán của khách hàng                       |                                                                                  | (62.901.355.975.170)                             | (286.240.975.795.879) |                   |
-|       | 11                                                           | 6. Chi trả phí lưu ký chứng khoán của khách hàng                                 |                                                                                  | (4.978.935.710)                                  | (5.589.420.216)       |                   |
-|       | 14                                                           | 7. Tiền thu của Tổ chức phát hành chứng khoán                                    |                                                                                  | 304.547.135.061                                  | 979.397.267.686       |                   |
-|       | 15                                                           | 8. Tiền chi trả Tổ chức phát hành chứng khoán                                    |                                                                                  | (289.467.128.958)                                | (638.555.698.087)     |                   |
-| 20    | **Tăng/(Giảm) tiền thuần trong kỳ**                          |                                                                                  | **1.372.079.763.584**                                                            | **(581.912.063.065)**                            |                       |                   |
-| II.   | **Tiền và các khoản tương đương tiền đầu kỳ của khách hàng** |                                                                                  |                                                                                  |                                                  |                       |                   |
-|       | 30                                                           |                                                                                  |                                                                                  | 5.412.854.193.669                                | 6.366.886.514.636     |                   |
-|       | 31                                                           | Tiền gửi ngân hàng đầu kỳ:                                                       |                                                                                  | 5.412.854.193.669                                | 6.366.886.514.636     |                   |
-|       | 32                                                           | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |                                                                                  | 4.163.893.199.315                                | 4.234.184.919.643     |                   |
-|       | 32.1                                                         | - Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                        |                                                                                  | 151.281.513.760                                  | 238.571.995.977       |                   |
-|       | 33                                                           | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                         |                                                                                  | 1.094.688.500.833                                | 1.792.222.791.362     |                   |
-|       | 34                                                           | - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán                            |                                                                                  | 2.799.101.528                                    | 149.129.804           |                   |
-|       | 35                                                           | - Tiền gửi của Tổ chức phát hành                                                 |                                                                                  | 191.878.233                                      | 101.757.677.850       |                   |
-|       | III.                                                         | **Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30)**     |                                                                                  |                                                  |                       |                   |
-|       |                                                              | 40                                                                               |                                                                                  |                                                  | 6.784.933.957.253     | 5.784.974.451.571 |
-|       |                                                              | 41                                                                               | Tiền gửi ngân hàng cuối kỳ:                                                      |                                                  | 6.784.933.957.253     | 5.784.974.451.571 |
-|       |                                                              | 42                                                                               | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |                                                  | 4.768.549.832.240     | 5.143.378.762.298 |
-|       |                                                              | 42.1                                                                             | - Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                        |                                                  | 161.326.293.020       | 244.416.644.937   |
-|       |                                                              | 43                                                                               | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                         |                                                  | 1.837.147.881.294     |                   |
-| 44    | - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán        |                                                                                  | 2.638.066.363                                                                    | 124.552.887                                      |                       |                   |
-| 45    | - Tiền gửi của Tổ chức phát hành                             |                                                                                  | 15.271.884.338                                                                   | 397.054.491.449                                  |                       |                   |
+| Số thứ tự            | Tên công ty                                                   | Các hoạt động chính                                                                   | Địa chỉ                                                                                                                        | % sở hữu và quyền biểu quyết<br/>31/12/2024 | % sở hữu và quyền biểu quyết<br/>1/1/2024 |
+| -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------- |
+| **Công ty con**      |                                                               |                                                                                       |                                                                                                                                |                                             |                                           |
+| 1                    | Công ty TNHH Một Thành Viên Nhựa Bình Minh Miền Bắc           | Sản xuất và kinh doanh các sản phẩm dân dụng và công nghiệp từ chất dẻo và cao su.    | Đường D1, khu D, Khu Công nghiệp Phố Nối A, Huyện Văn Lâm, Tỉnh Hưng Yên, Việt Nam.                                            | 100,00%                                     | 100,00%                                   |
+| **Công ty liên kết** |                                                               |                                                                                       |                                                                                                                                |                                             |                                           |
+| 1                    | Công ty Cổ phần Nhựa Đà Nẵng                                  | Sản xuất và kinh doanh xuất nhập khẩu các sản phẩm, nguyên liệu, thiết bị ngành nhựa. | Lô Q, đường số 4 và đường số 7, Khu Công nghiệp Liên Chiểu, Phường Hoà Hiệp Bắc, Quận Liên Chiểu, Thành phố Đà Nẵng, Việt Nam. | 29,05%                                      | 29,05%                                    |
+| 2                    | Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Bình Minh Việt | Kinh doanh bất động sản, buôn bán vật liệu, thiết bị lắp đặt khác trong xây dựng.     | 240 Hậu Giang, Phường 9, Quận 6, Thành phố Hồ Chí Minh, Việt Nam.                                                              | 26,00%                                      | 26,00%                                    |
 
 
-----
+Công ty con và các công ty liên kết được thành lập tại Việt Nam.  
+Tại ngày 31 tháng 12 năm 2024, Tập đoàn có 1.299 nhân viên (1/1/2024: 1.318 nhân viên).
 
-Bà Lê Thị Hoài  
-Người lập  
+## II. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán
 
-Bà Nguyễn Thị Hương  
-Kế toán Trưởng  
+### 1. Kỳ kế toán năm  
+Kỳ kế toán năm của Công ty và công ty con là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
 
-Ông Nguyễn Văn Long  
-Tổng Giám đốc  
-
-Hà Nội, Việt Nam  
-Ngày 18 tháng 4 năm 2025  
+### 2. Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính  
+Đơn vị tiền tệ kế toán của Tập đoàn là Đồng Việt Nam ("VND"), cũng là đơn vị tiền tệ được sử dụng cho mục đích lập và trình bày báo cáo tài chính.

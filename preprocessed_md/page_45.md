@@ -1,50 +1,44 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B09a-CTCK
+# VI. Thông tin bổ sung cho các khoản mục trình bày trong báo cáo kết quả hoạt động kinh doanh hợp nhất (tiếp theo)
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## 9. Chi phí khác
 
-### 24. THUYẾT MINH VỀ CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-
-#### 24.10. Tiền gửi của Tổ chức phát hành chứng khoán
-
-|                                                                         | Ngày 31 tháng 3năm 2025 | Ngày 31 tháng 12năm 2024 |
-| ----------------------------------------------------------------------- | ----------------------- | ------------------------ |
-| Tiền gửi thanh toán cổ tức, gốc và lãi trái phiếu của Tổ chức phát hành | 15.271.884.336          | 191.878.233              |
+|                                                          | 2024            | 2023              |
+| -------------------------------------------------------- | --------------- | ----------------- |
+| Giá trị còn lại của tài sản cố định thanh lý, nhượng bán | -               | 12.349.152        |
+| Truy thu và phạt vi phạm luật thuế                       | -               | 2.790.329.808     |
+| Các khoản khác                                           | 460.721.150     | 93.677.968        |
+| **Cộng**                                                 | **460.721.150** | **2.896.356.928** |
 
 
-#### 24.11. Phải trả Nhà đầu tư của CTCK
+## 10. Chi phí thuế thu nhập doanh nghiệp hiện hành
 
-|                                                                                                               | Ngày 31 tháng 3năm 2025 | Ngày 31 tháng 12năm 2024 |
-| ------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
-| Phải trả Nhà đầu tư - Tiền gửi của Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý | 6.769.662.072.917       | 5.412.662.315.436        |
-| - Nhà đầu tư trong nước                                                                                       | 6.295.791.826.827       | 4.897.820.970.825        |
-| - Nhà đầu tư nước ngoài                                                                                       | 312.543.953.070         | 363.559.830.851          |
-| - Phải trả tiền ký quỹ của Nhà đầu tư tại VSDC                                                                | 161.326.293.020         | 151.281.513.760          |
-| **Tổng cộng**                                                                                                 | **6.769.662.072.917**   | **5.412.662.315.436**    |
+### (a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
 
-
-#### 24.12. Phải trả của Nhà đầu tư về dịch vụ cho CTCK
-
-|                                              | Ngày 31 tháng 3năm 2025 | Ngày 31 tháng 12năm 2024 |
-| -------------------------------------------- | ----------------------- | ------------------------ |
-| Phải trả phí môi giới, giao dịch chứng khoán | 1.029.546.915           | 1.171.173.917            |
-| **Tổng cộng**                                | **1.029.546.915**       | **1.171.173.917**        |
+|                                                                                | 2024                | 2023                |
+| ------------------------------------------------------------------------------ | ------------------- | ------------------- |
+| **Chi phí thuế TNDN hiện hành**                                                |                     |                     |
+| Năm hiện hành                                                                  | 250.209.797.751     | 269.123.713.626     |
+| Tăng chi phí thuế hiện hành liên quan đến thu nhập chịu thuế của các năm trước | -                   | 2.643.311.557       |
+|                                                                                | 250.209.797.751     | 271.767.025.183     |
+| **Lợi ích thuế TNDN hoãn lại**                                                 |                     |                     |
+| Phát sinh và hoàn nhập các khoản chênh lệch tạm thời                           | (438.673.202)       | (5.590.477.039)     |
+|                                                                                | **249.771.124.549** | **266.176.548.144** |
 
 
-#### 24.13. Phải trả vay CTCK của Nhà đầu tư
+### (b) Đối chiếu thuế suất thực tế
 
-|                                                                                   | Ngày 31 tháng 3năm 2025 | Ngày 31 tháng 12năm 2024 |
-| --------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
-| Phải trả nghiệp vụ margin (Thuyết minh số 7.3)                                    | 11.333.266.944.763      | 10.533.558.578.399       |
-| Phải trả gốc margin (Thuyết minh số 7.3)                                          | 10.900.090.342.353      | 10.148.543.290.594       |
-| - Phải trả gốc margin của nhà đầu tư trong nước                                   | 10.900.090.342.353      | 10.148.543.290.594       |
-| Phải trả lãi margin                                                               | 433.176.602.410         | 385.015.287.805          |
-| - Phải trả lãi margin của nhà đầu tư trong nước                                   | 433.176.602.410         | 385.015.287.805          |
-| Phải trả gốc nghiệp vụ ứng trước tiền bán chứng khoán (Thuyết minh 7.3)           | 219.696.327.871         | 195.084.694.698          |
-| - Phải trả gốc nghiệp vụ ứng trước tiền bán chứng khoán của nhà đầu tư trong nước | 219.498.582.546         | 195.081.465.423          |
-| - Phải trả gốc nghiệp vụ ứng trước tiền bán chứng khoán của nhà đầu tư nước ngoài | 197.745.325             | 3.229.275                |
-| **Tổng cộng**                                                                     | **11.552.963.272.634**  | **10.728.643.273.097**   |
+|                                                                                | 2024                | 2023                |
+| ------------------------------------------------------------------------------ | ------------------- | ------------------- |
+| Lợi nhuận kế toán trước thuế                                                   | 1.240.532.853.687   | 1.307.182.881.426   |
+| Thuế tính theo thuế suất của Công ty                                           | 248.106.570.737     | 261.436.576.285     |
+| Chi phí không được khấu trừ thuế                                               | 1.565.056.409       | 1.676.510.120       |
+| Thu nhập không bị tính thuế                                                    | -                   | (6.000.000)         |
+| Tài sản thuế thu nhập hoãn lại chưa được ghi nhận                              | 99.497.403          | 426.150.182         |
+| Tăng chi phí thuế hiện hành liên quan đến thu nhập chịu thuế của các năm trước | -                   | 2.643.311.557       |
+|                                                                                | **249.771.124.549** | **266.176.548.144** |
 
 
+### (c) Thuế suất áp dụng
+
+Công ty và công ty con có nghĩa vụ nộp cho Nhà nước thuế thu nhập doanh nghiệp theo thuế suất là 20% trên lợi nhuận tính thuế.

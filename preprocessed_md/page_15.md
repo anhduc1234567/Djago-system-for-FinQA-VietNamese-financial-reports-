@@ -1,32 +1,26 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-## BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU  
-cho kỳ kế toán kết thúc ngày 31 tháng 3 năm 2025  
+# III. Cơ sở lập báo cáo tài chính
 
-> Đơn vị: VND
+## 1. Tuyên bố về tuân thủ
 
-| CHỈ TIÊU                            | Thuyết minh | Số dư đầu kỳ<br/>Ngày 01 tháng 01 năm 2024<br/>Tăng             | Số dư đầu kỳ<br/>Ngày 01 tháng 01 năm 2025<br/>Giảm             | Số tăng/giảm<br/>Kỳ trước<br/>Tăng                      | Số tăng/giảm<br/>Kỳ trước<br/>Giảm       | Số tăng/giảm<br/>Kỳ này | Số tăng/giảm<br/>Kỳ này                    | Số dư cuối kỳ<br/>Ngày 31 tháng 3 năm 2024                      | Số dư cuối kỳ<br/>Ngày 31 tháng 3 năm 2025                      |
-| ----------------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------- | ----------------------- | ------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| **I. BIẾN ĐỘNG VỐN CHỦ SỞ HỮU**     |             |                                                                 |                                                                 |                                                         |                                          |                         |                                            |                                                                 |                                                                 |
-| 1. Vốn đầu tư của chủ sở hữu        | 23.2        | 12.178.398.511.540<br/>*12.178.440.090.000*<br/>*(41.578.460)*  | 15.222.828.001.540<br/>*15.222.999.080.000*<br/>*(171.078.460)* |                                                         |                                          |                         |                                            | 12.178.398.511.540<br/>*12.178.440.090.000*<br/>*(41.578.460)*  | 15.222.828.001.540<br/>*15.222.999.080.000*<br/>*(171.078.460)* |
-| 1.1 Vốn góp của chủ sở hữu          |             | 12.178.440.090.000                                              | 15.222.999.080.000                                              |                                                         |                                          |                         |                                            | 12.178.440.090.000                                              | 15.222.999.080.000                                              |
-| 1.2 Thặng dư vốn cổ phần            |             | (41.578.460)                                                    | (171.078.460)                                                   |                                                         |                                          |                         |                                            | (41.578.460)                                                    | (171.078.460)                                                   |
-| 2. Lợi nhuận chưa phân phối         | 23.1        | 4.329.421.015.454<br/>*3.938.036.504.694*<br/>*391.384.510.760* | 4.492.240.691.671<br/>*4.183.340.328.462*<br/>*308.900.363.209* | 617.070.033.064<br/>507.440.611.746<br/>109.629.421.318 | 409.149.476.418<br/>409.149.476.418<br/> |                         | (26.619.491.783)<br/><br/>(26.619.491.783) | 4.946.491.048.518<br/>*4.445.477.116.440*<br/>*501.013.932.078* | 4.874.770.676.306<br/>*4.592.489.804.880*<br/>*282.280.871.426* |
-| 2.1 Lợi nhuận sau thuế đã thực hiện |             | 3.938.036.504.694                                               | 4.183.340.328.462                                               | 507.440.611.746                                         | 409.149.476.418                          |                         |                                            | 4.445.477.116.440                                               | 4.592.489.804.880                                               |
-| 2.2 Lợi nhuận chưa thực hiện        |             | 391.384.510.760                                                 | 308.900.363.209                                                 | 109.629.421.318                                         |                                          |                         | (26.619.491.783)                           | 501.013.932.078                                                 | 282.280.871.426                                                 |
-| **TỔNG CỘNG**                       |             | 16.507.819.526.994                                              | 19.715.068.693.211                                              | 617.070.033.064                                         | 409.149.476.418                          |                         | (26.619.491.783)                           | 17.124.889.560.058                                              | 20.097.598.677.846                                              |
+Báo cáo tài chính hợp nhất này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
 
+## 2. Cơ sở đo lường
 
-----
+Báo cáo tài chính hợp nhất, ngoại trừ báo cáo lưu chuyển tiền tệ hợp nhất, được lập trên cơ sở dồn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ hợp nhất được lập theo phương pháp gián tiếp.
 
-Bà Lê Thị Hoài  
-Người lập  
+# IV. Tóm tắt những chính sách kế toán chủ yếu
 
-Bà Nguyễn Thị Hương  
-Kế toán Trưởng  
+Sau đây là những chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp nhất này.
 
-Ông Nguyễn Vũ Long  
-Tổng Giám đốc  
+## 1. Cơ sở hợp nhất
 
-Hà Nội, Việt Nam  
-Ngày 18 tháng 4 năm 2025
+### (i) Công ty con
+
+Công ty con là các đơn vị chịu sự kiểm soát của Tập đoàn. Báo cáo tài chính của công ty con được bao gồm trong báo cáo tài chính hợp nhất kể từ ngày quyền kiểm soát bắt đầu có hiệu lực cho tới ngày quyền kiểm soát chấm dứt.
+
+### (ii) Công ty liên kết
+
+Công ty liên kết là các đơn vị mà Tập đoàn có ảnh hưởng đáng kể, nhưng không kiểm soát, các chính sách tài chính và hoạt động của đơn vị đó. Công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Các khoản đầu tư vào công ty liên kết được ghi nhận ban đầu theo giá gốc, gồm cả chi phí giao dịch. Sau ghi nhận ban đầu, báo cáo tài chính hợp nhất bao gồm phần mà Tập đoàn được hưởng trong lãi hoặc lỗ của các công ty liên kết, sau khi điều chỉnh theo chính sách kế toán của Tập đoàn; từ ngày bắt đầu cho tới ngày chấm dứt sự ảnh hưởng đáng kể đối với các đơn vị này. Giá trị ghi sổ của các khoản đầu tư vào công ty liên kết cũng được điều chỉnh cho những thay đổi về lợi ích của nhà đầu tư trong đơn vị nhận đầu tư phát sinh từ những thay đổi vốn chủ sở hữu của đơn vị nhận đầu tư mà không phản ánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất (như việc đánh giá lại tài sản cố định, hay chênh lệch tỷ giá do chuyển đổi báo cáo tài chính, v.v...).
+
+Khi phần lỗ của công ty liên kết mà Tập đoàn phải chia sẻ vượt quá lợi ích của Tập đoàn trong công ty liên kết, giá trị ghi sổ của khoản đầu tư (bao gồm các khoản đầu tư dài hạn, nếu có) sẽ được ghi giảm tới bằng không và Tập đoàn dừng việc ghi nhận các khoản lỗ phát sinh trong tương lai trừ các khoản lỗ thuộc phạm vi mà Tập đoàn có nghĩa vụ phải trả hoặc đã trả thay cho công ty liên kết.

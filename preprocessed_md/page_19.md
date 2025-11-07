@@ -1,41 +1,26 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# (iii) Chi phí sửa chữa lớn
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+Chi phí sửa chữa lớn bao gồm chi phí sửa chữa nhà xưởng và máy móc, được thể hiện theo nguyên giá và phân bổ theo phương pháp đường thẳng trong thời gian từ 1 đến 3 năm.
 
-# 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+## 11. Các khoản phải trả người bán và phải trả khác
 
-## 4.1. Tiền và các khoản tương đương tiền
+Các khoản phải trả người bán và các khoản phải trả khác được thể hiện theo giá gốc.
 
-Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng của công ty chứng khoán; các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá ba (03) tháng kể từ ngày mua; có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+## 12. Dự phòng
 
-Tiền gửi của nhà đầu tư về giao dịch chứng khoán và tiền gửi của tổ chức phát hành được phản ánh tại các chỉ tiêu ngoài báo cáo tình hình tài chính.
+Một khoản dự phòng, trừ những khoản được định nghĩa ở các chính sách kế toán khác, được ghi nhận nếu do kết quả của một sự kiện trong quá khứ, Tập đoàn có nghĩa vụ pháp lý hiện tại hoặc liên đới có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phản ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
 
-## 4.2. Tài sản tài chính ghi nhận thông qua lãi/lỗ ("FVTPL")
+### Dự phòng trợ cấp thôi việc
 
-Các tài sản tài chính FVTPL là tài sản tài chính thỏa mãn một trong các điều kiện sau:
+Theo Bộ luật Lao động Việt Nam, khi nhân viên làm việc cho công ty từ 12 tháng trở lên (nhân viên đủ điều kiện) tự nguyện chấm dứt hợp đồng lao động của mình thì bên sử dụng lao động phải thanh toán tiền trợ cấp thôi việc cho nhân viên đó tính dựa trên số năm làm việc và mức lương tại thời điểm thôi việc của nhân viên đó. Dự phòng trợ cấp thôi việc được lập trên cơ sở số năm nhân viên làm việc cho Tập đoàn và mức lương bình quân của họ trong vòng sáu tháng trước ngày kết thúc kỳ kế toán năm. Cho mục đích xác định số năm làm việc của nhân viên, thời gian nhân viên đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Tập đoàn chi trả trợ cấp thôi việc được loại trừ.
 
-* a) Tài sản tài chính được phân loại vào nhóm nắm giữ để kinh doanh. Tài sản tài chính được phân loại vào nhóm chứng khoán nắm giữ để kinh doanh, nếu:  
-  - Được mua hoặc tạo ra chủ yếu cho mục đích bán lại/mua lại trong thời gian ngắn;  
-  - Có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc  
-  - Công cụ tài chính phái sinh (ngoại trừ các công cụ tài chính phái sinh được xác định là một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
+## 13. Vốn cổ phần
 
-* b) Tại thời điểm ghi nhận ban đầu, các tài sản tài chính xác định sẽ được trình bày hợp lý hơn nếu phân loại vào tài sản tài chính FVTPL vì một trong các lý do sau đây:  
-  - Việc phân loại vào tài sản tài chính FVTPL loại trừ hoặc làm giảm đáng kể sự không thống nhất trong ghi nhận hoặc xác định giá trị tài sản tài chính theo các cơ sở khác nhau;  
-  - Tài sản tài chính thuộc một nhóm các tài sản tài chính được quản lý và kết quả quản lý được đánh giá dựa trên cơ sở giá trị đồng thời phù hợp với chính sách quản lý rủi ro hoặc chiến lược đầu tư của Công ty.
+### (i) Cổ phiếu phổ thông
 
-Các tài sản tài chính FVTPL được ghi nhận ban đầu theo giá gốc (giá mua của tài sản không bao gồm chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này) và được tiếp tục ghi nhận sau ghi nhận ban đầu theo giá trị hợp lý.
+Cổ phiếu phổ thông được ghi nhận theo mệnh giá.
 
-Khoản chênh lệch tăng do đánh giá lại tài sản tài chính FVTPL theo giá trị hợp lý so với kỳ trước được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục *"Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL"*. Khoản chênh lệch giảm do đánh giá lại tài sản tài chính FVTPL theo giá trị hợp lý so với kỳ trước được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục *"Chênh lệch giảm về đánh giá lại các tài sản tài chính FVTPL"*.
+### (ii) Thặng dư vốn cổ phần
 
-Chi phí mua các tài sản tài chính FVTPL được ghi nhận vào chi phí giao dịch mua các tài sản tài chính của báo cáo kết quả hoạt động ngay khi phát sinh.
-
-## 4.3. Tài sản tài chính giữ đến ngày đáo hạn ("HTM")
-
-Các tài sản tài chính HTM là các tài sản tài chính phi phái sinh với các khoản thanh toán cố định hoặc có thể xác định và có năm đáo hạn cố định mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn, ngoại trừ:
-
-* a) Các tài sản tài chính mà tại thời điểm ghi nhận ban đầu đã được xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/lỗ;  
-* b) Các tài sản tài chính đã được xếp vào nhóm sẵn sàng để bán;  
-* c) Các tài sản tài chính thỏa mãn định nghĩa về các khoản cho vay và phải thu.
-
+Phần chênh lệch giữa giá phát hành và mệnh giá cổ phiếu được ghi nhận vào tài khoản thặng dư vốn cổ phần trong vốn chủ sở hữu. Các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế, được ghi giảm vào thặng dư vốn cổ phần.

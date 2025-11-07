@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 import time 
-GOOGLE_API =  ""
+GOOGLE_API =  "AIzaSyBpAFCUa0UGLvZh2lTCgz_T0BDsNkN96YU"
 client = genai.Client(api_key= GOOGLE_API)
 
 def call_api_gemi(prompt, model = '2.0-flash', temperture = 0.1, max_retries = 200, retry_delay = 2):

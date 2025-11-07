@@ -1,31 +1,30 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# 16. Doanh thu và thu nhập khác
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## (i) Doanh thu bán hàng
 
-### 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá được chuyển giao cho người mua. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu bán hàng được ghi nhận theo số thuần sau khi đã trừ đi số chiết khấu giảm giá ghi trên hóa đơn bán hàng.
 
-#### 4.4. Các khoản cho vay (tiếp theo)
+## (ii) Doanh thu cung cấp dịch vụ
 
-Các khoản cho vay được ghi nhận ban đầu theo giá gốc (giá trị giải ngân của khoản cho vay).  
-Sau ghi nhận ban đầu, các khoản cho vay được ghi nhận theo giá trị phân bổ sử dụng phương pháp lãi suất thực.
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được cung cấp cho khách hàng. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
 
-Giá trị phân bổ của các khoản cho vay được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi (-) các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+## (iii) Thu nhập từ tiền lãi
 
-Các khoản cho vay được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính; Công ty thực hiện trích lập dự phòng chung đối với các khoản cho vay với tỷ lệ 0,75% tổng dư nợ cho vay, không bao gồm dư nợ cho vay đã trích lập dự phòng cụ thể. Dự phòng cụ thể cho các khoản cho vay được trích lập dựa trên mức tổn thất ước tính; được tính bằng phần chênh lệch giữa giá trị thị trường của chứng khoán được dùng làm tài sản đảm bảo cho khoản cho vay và số dư của khoản cho vay đó. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục *"Chi phí dự phòng tài sản tài chính; xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay"*.
+Thu nhập từ tiền lãi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
 
-Lãi dự thu được ghi nhận trên khoản mục *"Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính"*.
+## (iv) Thu nhập từ cổ tức
 
-#### 4.5. Giá trị hợp lý/giá trị thị trường của tài sản tài chính
+Thu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. Cổ tức bằng cổ phiếu không được ghi nhận là doanh thu hoạt động tài chính. Cổ tức nhận được liên quan đến giai đoạn trước khi mua khoản đầu tư được ghi giảm vào giá trị ghi sổ của khoản đầu tư.
 
-Giá trị hợp lý/giá trị thị trường của tài sản tài chính được xác định như sau:
+# 17. Các khoản thanh toán thuê hoạt động
 
-* Giá trị thị trường của chứng khoán niêm yết (ngoại trừ trái phiếu) trên Sở Giao dịch Chứng khoán Hà Nội và Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh là giá đóng cửa tại ngày gần nhất có giao dịch tính đến ngày đánh giá giá trị chứng khoán;
-* Đối với cổ phiếu của các công ty chưa niêm yết trên thị trường chứng khoán nhưng đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết ("UPCom") thì giá trị thị trường được xác định là giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất trước thời điểm lập báo cáo tài chính do Sở Giao dịch chứng khoán công bố. Trường hợp không có giao dịch trong vòng 30 ngày trước thời điểm lập báo cáo tài chính, giá chứng khoán thực tế là giá trị sổ sách tại ngày lập báo cáo tài chính;
-* Chứng khoán bị hủy niêm yết hoặc bị đình chỉ giao dịch hoặc bị ngừng giao dịch kể từ ngày giao dịch thứ sáu trở đi, giá chứng khoán thực tế là giá trị sổ sách tại ngày lập báo cáo tình hình tài chính;
-* Đối với chứng khoán chưa niêm yết và chưa đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết ("UPCom") thì giá chứng khoán thực tế là mức giá giao dịch thực tế trên thị trường phi tập trung ("OTC"), căn cứ vào báo cáo tài chính của tổ chức phát hành tại thời điểm lập báo cáo tài chính;
-* Đối với trái phiếu doanh nghiệp đã niêm yết, đăng ký giao dịch, giá trái phiếu trên thị trường là giá giao dịch gần nhất tại Sở Giao dịch chứng khoán trong vòng 10 ngày tính đến thời điểm lập báo cáo tài chính. Trường hợp không có giao dịch trong vòng 10 ngày trước thời điểm lập báo cáo tài chính, giá chứng khoán thực tế là giá trị sổ sách tại ngày lập báo cáo tài chính;
-* Đối với trái phiếu Chính phủ, giá chứng khoán thực tế là giá trị sổ sách tại ngày lập báo cáo tài chính;
-* Các chứng khoán không có giá tham khảo từ các nguồn trên sẽ được đánh giá giá trị hợp lý dựa trên việc xem xét tình hình tài chính và giá trị sổ sách của tổ chức phát hành tại ngày đánh giá giá trị chứng khoán.
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất như là một bộ phận hợp thành của tổng chi phí thuê, trong suốt thời hạn thuê.
 
+# 18. Chi phí đi vay
+
+Chi phí đi vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
+
+# 19. Lãi trên cổ phiếu
+
+Tập đoàn trình bày lãi cơ bản trên cổ phiếu (“EPS”) cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ phiếu được tính bằng cách lấy lãi hoặc lỗ thuộc về cổ đông phổ thông của Tập đoàn (sau khi đã trừ đi khoản phân bổ vào quỹ khen thưởng, phúc lợi cho kỳ kế toán năm) chia cho số lượng cổ phiếu phổ thông bình quân gia quyền lưu hành trong năm. Lãi suy giảm trên cổ phiếu được xác định bằng cách điều chỉnh lãi hoặc lỗ thuộc về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân đang lưu hành có tính đến các ảnh hưởng của cổ phiếu phổ thông tiềm năng, bao gồm trái phiếu có thể chuyển đổi và quyền mua cổ phiếu.

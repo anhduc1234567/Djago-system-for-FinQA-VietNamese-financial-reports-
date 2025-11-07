@@ -7,8 +7,8 @@ from llama_index.llms.gemini import Gemini
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_cloud_services import LlamaParse
 import json
-os.environ["LLAMA_CLOUD_API_KEY"] = ''
-os.environ["GOOGLE_API_KEY"] = ''
+os.environ["LLAMA_CLOUD_API_KEY"] = 'llx-wb0KFwiZzdFRReVCyJP1PsdYhpONJKuLkIPt1CwCP18dcps1'
+os.environ["GOOGLE_API_KEY"] = 'AIzaSyBpAFCUa0UGLvZh2lTCgz_T0BDsNkN96YU'
 # Settings.llm = Gemini(model="gemini-2.5-pro")
 # Settings.embed_model = GeminiEmbedding()
 

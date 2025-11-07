@@ -1,5 +1,5 @@
 
-# CÔNG TY CỔ PHẦN CHỨNG KHOÁN VNDIRECT
+# Công ty Cổ phần Nhựa Bình Minh và công ty con
 
-Báo cáo tài chính Quý 1 năm 2025  
-Ngày 31 tháng 3 năm 2025
+Báo cáo tài chính hợp nhất  
+cho năm kết thúc ngày 31 tháng 12 năm 2024

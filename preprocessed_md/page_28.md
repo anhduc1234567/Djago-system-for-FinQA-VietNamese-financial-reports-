@@ -1,31 +1,38 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT  
-B09a-CTCK  
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày  
+# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)
 
-## 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)  
+Biến động dự phòng phải thu ngắn hạn khó đòi trong năm như sau:
 
-### 4.22. Chi phí đi vay  
-Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty. Chi phí đi vay được hạch toán vào báo cáo kết quả hoạt động trên cơ sở dồn tích.  
+|                              | 2024            | 2023              |
+| ---------------------------- | --------------- | ----------------- |
+| Số dư đầu năm                | 7.902.959.002   | 59.022.639.344    |
+| Hoàn nhập dự phòng trong năm | (7.902.959.002) | (17.536.308.636)  |
+| Sử dụng dự phòng trong năm   | -               | (33.583.371.706)  |
+| **Số dư cuối năm**           | -               | **7.902.959.002** |
 
-### 4.23. Phương pháp tính giá vốn chứng khoán tự doanh bán ra  
-Công ty áp dụng phương pháp bình quân gia quyền di động để tính giá vốn chứng khoán tự doanh.  
 
-### 4.24. Thuế thu nhập doanh nghiệp  
+## 7. Hàng tồn kho
 
-#### Thuế thu nhập hiện hành  
-Tài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến phải nộp cho/hoặc được thu hồi từ cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ hoạt động.  
+|                                      | 31/12/2024<br/>Giá gốc | 31/12/2024<br/>Dự phòng | 1/1/2024<br/>Giá gốc | 1/1/2024<br/>Dự phòng |
+| ------------------------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- |
+| Hàng mua đang đi đường               | 24.267.937.819         | -                       | 29.218.043.850       | -                     |
+| Nguyên liệu, vật liệu                | 167.363.677.292        | -                       | 119.953.925.072      | -                     |
+| Công cụ, dụng cụ                     | 4.941.060.182          | -                       | 9.370.291.317        | -                     |
+| Chi phí sản xuất, kinh doanh dở dang | 35.865.472.769         | -                       | 41.277.433.935       | -                     |
+| Thành phẩm                           | 215.466.570.856        | (981.722.267)           | 145.755.185.949      | (293.683.046)         |
+| Hàng hóa                             | 17.554.937.958         | (894.048.384)           | 19.090.919.724       | (146.142.327)         |
+| **Cộng**                             | **465.459.656.876**    | **(1.875.770.651)**     | **364.665.799.847**  | **(439.825.373)**     |
 
-Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.  
 
-Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần.  
+Bao gồm trong hàng tồn kho tại ngày 31 tháng 12 năm 2024 có 5.140 triệu VND thành phẩm và 1.474 triệu VND hàng hóa (1/1/2024: 4.449 triệu VND thành phẩm và 2.065 triệu VND hàng hóa) được ghi nhận theo giá trị thuần có thể thực hiện được.
 
-#### Thuế thu nhập hoãn lại  
-Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc năm tài chính giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính.  
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
 
-Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:  
-* Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch;  
-* Các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào công ty con; công ty liên kết và các khoản vốn góp liên doanh khi Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệch tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán;  
+|                              | 2024              | 2023            |
+| ---------------------------- | ----------------- | --------------- |
+| Số dư đầu năm                | 439.825.373       | 635.389.460     |
+| Trích lập dự phòng trong năm | 1.739.812.268     | 279.237.673     |
+| Hoàn nhập dự phòng trong năm | (303.866.990)     | (474.801.760)   |
+| **Số dư cuối năm**           | **1.875.770.651** | **439.825.373** |
 
-Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:  
+

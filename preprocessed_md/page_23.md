@@ -1,29 +1,28 @@
 
-# Công ty Cổ phần Chứng khoán VNDIRECT
+# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)  
-tại ngày 31 tháng 3 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+## 1. Tiền và các khoản tương đương tiền
 
-### 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+|                                 | 31/12/2024          | 1/1/2024            |
+| ------------------------------- | ------------------- | ------------------- |
+| Tiền mặt                        | 317.611.496         | 390.440.490         |
+| Tiền gửi ngân hàng không kỳ hạn | 44.355.074.054      | 35.524.016.616      |
+| Các khoản tương đương tiền      | 459.500.000.000     | 785.500.000.000     |
+| **Cộng**                        | **504.172.685.550** | **821.414.457.106** |
 
-#### 4.8. Các khoản đầu tư tài sản tài chính dài hạn
 
-##### 4.8.1 Đầu tư vào các công ty liên kết
+> Các khoản tương đương tiền phản ánh các khoản tiền gửi ngân hàng có kỳ hạn gốc không quá 3 tháng và hưởng lãi suất năm từ 3,70% đến 4,75% tại ngày 31 tháng 12 năm 2024 (1/1/2024: từ 2,00% đến 3,85%).
 
-Các khoản đầu tư vào các công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.
+## 2. Các khoản đầu tư tài chính
 
-Các khoản phân phối từ lợi nhuận thuần lũy kế của các công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động của Công ty. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.
+### (a) Đầu tư nắm giữ đến ngày đáo hạn
 
-**Dự phòng tổn thất đầu tư vào công ty liên kết**  
-Là khoản dự phòng tổn thất do doanh nghiệp nhận vốn góp đầu tư công ty liên kết bị lỗ dẫn đến nhà đầu tư có khả năng mất vốn.
+|                                 | 31/12/2024<br/>Lãi suất | 31/12/2024<br/>Giá gốc | 31/12/2024<br/>Giá trị hợp lý | 1/1/2024<br/>Lãi suất | 1/1/2024<br/>Giá gốc | 1/1/2024<br/>Giá trị hợp lý |
+| ------------------------------- | ----------------------- | ---------------------- | ----------------------------- | --------------------- | -------------------- | --------------------------- |
+| Đầu tư nắm giữ đến ngày đáo hạn |                         | 1.410.000.000.000      | 1.410.000.000.000             |                       | 1.190.000.000.000    | 1.190.000.000.000           |
+| a1. Ngắn hạn                    |                         | 1.410.000.000.000      | 1.410.000.000.000             |                       | 1.190.000.000.000    | 1.190.000.000.000           |
+| *- Tiền gửi có kỳ hạn*          | 3,90% - 5,20%           | 1.410.000.000.000      | 1.410.000.000.000             | 3,40% - 8,30%         | 1.190.000.000.000    | 1.190.000.000.000           |
+| a2. Dài hạn                     |                         | -                      | -                             |                       | -                    | -                           |
+| *- Tiền gửi có kỳ hạn*          |                         | -                      | -                             |                       | -                    | -                           |
 
-**Phương pháp giá gốc**  
-Là phương pháp kế toán mà khoản đầu tư được ghi nhận ban đầu theo giá gốc, sau đó không được điều chỉnh theo những thay đổi của phần sở hữu của nhà đầu tư trong tài sản thuần của bên nhận đầu tư. Báo cáo kết quả hoạt động chỉ phản ánh khoản thu nhập của nhà đầu tư được phân chia từ lợi nhuận thuần lũy kế của bên nhận đầu tư phát sinh sau ngày đầu tư.
 
-Theo phương pháp giá gốc, nhà đầu tư ghi nhận ban đầu khoản đầu tư theo giá gốc. Nhà đầu tư chỉ hạch toán vào thu nhập trên Báo cáo kết quả hoạt động kinh doanh khoản được chia từ lợi nhuận thuần lũy kế của bên nhận đầu tư phát sinh sau ngày đầu tư. Các khoản khác mà nhà đầu tư nhận được ngoài lợi nhuận được chia được coi là phần thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc đầu tư.
-
-##### 4.8.2 Đầu tư góp vốn vào các đơn vị khác
-
-Đầu tư vào các công cụ vốn chủ sở hữu của các đơn vị khác được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp.
-
-Dự phòng tổn thất các khoản đầu tư vào các đơn vị khác được lập cho từng khoản đầu tư có tổn thất; và được xem xét vào cuối kỳ hoạt động. Công ty thực hiện trích lập dự phòng các khoản đầu tư góp vốn vào các đơn vị khác nếu khoản đầu tư bị tổn thất do đơn vị đầu tư bị lỗ. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí tài chính trong kỳ.

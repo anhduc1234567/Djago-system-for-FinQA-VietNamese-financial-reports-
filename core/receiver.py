@@ -18,6 +18,7 @@ from core.call_api_llm import call_api_gemi
 from sentence_transformers import SentenceTransformer
 import os
 from rank_bm25 import BM25Okapi
+import re
 #read input file
 def get_input_path() -> str:
     try:
@@ -28,7 +29,75 @@ def get_input_path() -> str:
     except Exception as e:
         print('cant locate docx file')
         print(f'error: {e}')
+def normalize_for_prompt(content: str) -> str:
+    content = re.sub(r'<br\s*/?>', '\n', content)   # <br/> -> newline
+    content = re.sub(r'&nbsp;?', ' ', content)
+    content = re.sub(r'\s+', ' ', content)
+    
+    lines = content.splitlines()
+    normalized = []
+    table_buffer = []
 
+    def flush_table():
+        """Xử lý bảng: loại cột trống, gộp lại gọn gàng"""
+        nonlocal table_buffer, normalized
+        if not table_buffer:
+            return
+
+        rows = []
+        for row in table_buffer:
+            row = row.strip()
+            if not row or "|" not in row:
+                continue
+            cols = [c.strip() for c in row.strip("|").split("|")]
+            if len(cols) > 1:
+                while cols and all(c == "" for c in cols[-1:]):  # cột cuối trống
+                    cols.pop()
+            rows.append(cols)
+
+        if not rows:
+            return
+        for cols in rows:
+            row_text = " | ".join(cols)
+            normalized.append(row_text)
+        table_buffer = []
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        if "|" in line and re.search(r'\|.*\|', line):
+            table_buffer.append(line)
+        else:
+            flush_table()
+            normalized.append(line)
+
+    flush_table()
+
+    # 2️⃣ Loại bỏ dòng trùng lặp
+    deduped = []
+    seen = set()
+    for line in normalized:
+        if line not in seen:
+            deduped.append(line)
+            seen.add(line)
+
+    # 3️⃣ Nối gọn các dòng text liên tục
+    output_lines = []
+    buffer = []
+    for line in deduped:
+        if "|" in line:  # bảng
+            if buffer:
+                output_lines.append(" ".join(buffer))
+                buffer = []
+            output_lines.append(line)
+        else:
+            buffer.append(line)
+    if buffer:
+        output_lines.append(" ".join(buffer))
+
+    # 4️⃣ Trả về nội dung đã nén
+    return "\n".join(output_lines)
 def get_doc_from_notes_by_key_word(key_word, infor, temp_path):
     notes_raw_text = ''
     similar_k = []
@@ -140,25 +209,25 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                         - Hoặc các mục có tên và ý nghĩa tương tự có thể có.
                     2.1 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
                         - gồm các mục tiếp tục theo sau đó như: 6. Doanh thu hoạt động tài chính
-                                                        7. Chi phí tài chính
-                                                        - Trong đó: Chi phí lãi vay 
-                                                        8. Chi phí bán hàng
-                                                        9. Chi phí quản lý doanh nghiệp
-                                                        10 Lợi nhuận thuần từ hoạt động kinh doanh
-                                                        (30 = 20 + (21 - 22) - (25 + 26))
+                                    7. Chi phí tài chính
+                                    - Trong đó: Chi phí lãi vay 
+                                    8. Chi phí bán hàng
+                                    9. Chi phí quản lý doanh nghiệp
+                                    10 Lợi nhuận thuần từ hoạt động kinh doanh
+                                    (30 = 20 + (21 - 22) - (25 + 26))
                         - Hoặc các mục có tên và ý nghĩa tương tự có thể có.
                                                         
                     2.2 THU NHẬP KHÁC
                         - gồm toàn bộ những mục còn lại như:
-                                                11. Thu nhập khác
-                                                12. Chi phí khác
-                                                13. Lợi nhuận khác (40 = 31 - 32)
-                                                14. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)
-                                                15. Chi phí thuế TNDN hiện hành
-                                                16. Chi phí thuế TNDN hoãn lại
-                                                17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 – 51 - 52)
-                                                18. Lãi cơ bản trên cổ phiếu (*)
-                                                19. Lãi suy giảm trên cổ phiếu (*)
+                                11. Thu nhập khác
+                                12. Chi phí khác
+                                13. Lợi nhuận khác (40 = 31 - 32)
+                                14. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)
+                                15. Chi phí thuế TNDN hiện hành
+                                16. Chi phí thuế TNDN hoãn lại
+                                17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 – 51 - 52)
+                                18. Lãi cơ bản trên cổ phiếu (*)
+                                19. Lãi suy giảm trên cổ phiếu (*)
                         - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
                     
                 3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ
@@ -193,6 +262,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                         Chứng chỉ tiền gửi;
                         Thương phiếu, hối phiếu và các chứng chỉ nhận nợ;
                         Các khoản đi vay khác.
+                        
                     Các khoản mục đó được chia vào các phần con như sau:
                     1.1 TÀI SẢN
                     1.2 TÀI SẢN CỐ ĐỊNH
