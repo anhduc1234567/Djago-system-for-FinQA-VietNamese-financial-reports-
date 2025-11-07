@@ -501,6 +501,11 @@ def normalize_report_final(data):
         "pages": [],
         "raw_text": ""
     }
+    biendongvonchusohuu_merged = {
+        "title": "BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU",
+        "pages": [],
+        "raw_text": ""
+    }
 
     for sec in sections:
         # Bỏ qua nếu không có raw_text hoặc rỗng
@@ -516,7 +521,11 @@ def normalize_report_final(data):
             intro_merged["pages"].extend(sec.get("pages", []))
             intro_merged["raw_text"] += ("\n" + sec.get("raw_text", "").strip())
             continue  # Không thêm ngay, sẽ thêm sau khi duyệt hết
-
+        if sec.get("title") == "BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU":
+            biendongvonchusohuu_merged["pages"].extend(sec.get("pages", []))
+            biendongvonchusohuu_merged["raw_text"] += ("\n" + sec.get("raw_text", "").strip())
+            continue  # Không thêm ngay, sẽ thêm sau khi duyệt hết
+        
         # Giữ nguyên xử lý subsections gốc
         if "subsections" in sec:
             merged = defaultdict(list)
@@ -544,7 +553,11 @@ def normalize_report_final(data):
     if intro_merged["raw_text"].strip():
         intro_merged["pages"] = sorted(set(intro_merged["pages"]))
         normalized_sections.insert(0, intro_merged)
-
+        
+    if biendongvonchusohuu_merged["raw_text"].strip():
+        normalized_sections.insert(3, biendongvonchusohuu_merged)
+    
+    
     report["sections"] = normalized_sections
     data["report"] = report
     return data

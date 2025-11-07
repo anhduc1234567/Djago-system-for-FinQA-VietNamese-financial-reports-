@@ -3,7 +3,8 @@
 import os
 import sys
 
-
+# sudo systemctl start neo4j
+# sudo systemctl start mongodb
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hnafingeni.settings')

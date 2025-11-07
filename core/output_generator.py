@@ -27,7 +27,7 @@ ALLOWED_TAGS = [
 ]
 ALLOWED_ATTRS = {'*': ['class', 'style']}
 #get user question and similar information -> create a prompt for LLM
-os.environ["GEMINI_API_KEY"] = GOOGLE_API
+# os.environ["GEMINI_API_KEY"] = GOOGLE_API
 SYSTEM_PROMPT = "Hãy tưởng tượng bạn là một chuyên gia trong lĩnh vực tài chính \
         hãy trả lời chính xác và đưa ra dẫn chứng cho câu hỏi [user_question] [] \
             .....\

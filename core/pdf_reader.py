@@ -1,15 +1,15 @@
 import os
-
+from typing import List
 def get_inputFolder_path() -> str:
     base_dir = os.getcwd()
     inputFolder_path = os.path.abspath(os.path.join(base_dir, 'preprocessed_md'))
     return inputFolder_path
 
-def get_md_list(inputFolder_path: str) -> list[str]:
+def get_md_list(inputFolder_path: str) -> List[str]:
     md_files = [f for f in os.listdir(inputFolder_path) if f.endswith('.md')]
     return md_files
 
-def get_markdown_content(inputFolder_path: str, md_files: list[str]) -> list[dict]:
+def get_markdown_content(inputFolder_path: str, md_files: List[str]) -> List[dict]:
     md_contents = []
     i = 1
     for md_file in md_files:

@@ -3,7 +3,7 @@ from core.csv_database_creater import create_database_for_csv
 from core.pdf_database_creater import create_database_for_pdf
 from core.LLama_parse import pdf_to_md
 from core.pdf_database_creater import keyword_search
-from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text
+from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text, query_raw_text
 from core.call_api_llm import call_api_gemi
 
 # from docx_database_creater import create_database
@@ -43,7 +43,7 @@ def get_doc_from_notes_by_key_word(key_word, infor, temp_path):
         similar_k += retrieve(query=key_word[i] ,top_k=3, semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
     similar_k = remove_same_content(similar_k)
     for i, k in enumerate(similar_k):
-        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
+        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f"{k['content']}" + "\n"  
     return notes_infor
 #get vector database and metadatas
 def get_database(input_model='all-MiniLM-L6-v2',temp_path=None, content = None, is_graph = False) -> tuple:
@@ -252,7 +252,43 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                     1.3 NỢ PHẢI TRẢ
                     1.4 VỐN CHỦ SỞ HỮU
                     1.5 TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN
+                        - gồm các thông tin như hoặc các thông tin liên quan tương tự:
+                        1. Nợ khó đòi đã xử lý                                                                                      
+                        2. Cổ phiếu đang lưu hành (số lượng)                                                                                                    
+                        3. Tài sản tài chính niêm yết đăng ký giao dịch tại Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam ("VSDC") của CTCK 
+                        4. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của CTCK                                              
+                        5. Tài sản tài chính chờ về của CTCK                                                                            
+                        6. Tài sản tài chính chưa lưu ký tại VSDC của CTCK                                                              
+                        7. Tài sản tài chính được hưởng quyền của CTCK       
+                                                                                           
                     1.6 TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ
+                        - Gồm các thông tin như: 
+                            1. Tài sản tài chính niêm yết đăng ký giao dịch tại VSDC của Nhà đầu tư                                                  
+                                1.1 Tài sản tài chính giao dịch tự do chuyển nhượng                                                                   
+                                1.2 Tài sản tài chính hạn chế chuyển nhượng                                                                            
+                                1.3 Tài sản tài chính giao dịch cầm cố                                                                                 
+                                1.4 Tài sản tài chính phong tỏa, tạm giữ                                                                              
+                                1.5 Tài sản tài chính chờ thanh toán                                                                                 
+                            2. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư                                               
+                                2.1 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng                                            
+                                2.2 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch; hạn chế chuyển nhượng                               
+                            3. Tài sản tài chính chờ về của Nhà đầu tư 
+                            4. Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư                                               
+                            5. Tài sản tài chính được hưởng quyền của Nhà đầu tư                                                
+                            6. Tiền gửi của khách hàng                                                                                         
+                                6.1 Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý                 
+                                6.2 Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                         
+                                6.3 Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                                         
+                                6.4 Tiền gửi bù trừ và thanh toán giao dịch chứng khoán                                                                    
+                                - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư trong nước                                              
+                                - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư nước ngoài                                            
+                                6.5 Tiền gửi của Tổ chức phát hành chứng khoán                                                      
+                            7. Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý              
+                                7.1 Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                         
+                                7.2 Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                             
+                                7.3 Phải trả Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                                        
+                            8. Phải trả cổ tức, gốc và lãi trái phiếu                                                                                                                              
+
                     
                 2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH
                     2.1 DOANH THU HOẠT ĐỘNG
@@ -291,7 +327,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
              đoạn thông tin có liên quan đến câu hỏi của người dùng nhất. Ví dụ:
                 section1: subsection1, subsection2,... ; section2: subsection2, subsection2,...; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
             Lưu ý mục giới thiệu không có subsection.
-                
+            Lưu ý với từng lĩnh vực hoạt động khác nhau của doanh nghiệp có các subsection trong các section khác nhau dựa trên hướng dẫn trên và thông tin về lĩnh vực doanh nghiệp dưới đây.
             Câu hỏi người dùng: {user_question}, và công ty {isBank} là ngân hàng, doanh nghiệp trên {isIndex} là công ty Chứng khoán.
                        
     """
@@ -299,25 +335,38 @@ def find_information_by_graph(temp_path = None, user_question = ''):
     features = [x.strip() for x in features.split(";") if x.strip()]
     result = ''
     notes_infor  = ''
+    extra_infor = ''
     print(features)
 
     for f in features:
-        section = f[: f.find(':')]
+        if ':' in f:
+            section = f.split(':')[0].strip()
+        else:
+            section = f.strip()
         if section == "BÁO CÁO TÌNH HÌNH TÀI CHÍNH":
             section = "BẢNG CÂN ĐỐI KẾ TOÁN"
         if section == "THUYẾT MINH BÁO CÁO TÀI CHÍNH":
-    
             print("Tìm thông tin của Thuyết minh báo cáo tài chính")
             key_word = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
             notes_infor = get_doc_from_notes_by_key_word(key_word= key_word, infor= infor, temp_path= temp_path)
+        if section == 'BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU':
+            data_query = query_raw_text(company_name= infor[0],section=section, time= infor[2])
+            for data in data_query:
+                extra_infor += data['raw_text'] + '\n' + data['time']
+                extra_infor += "\n".join(map(str, data['pages']))
+        if section == 'Giới thiệu':
+            data_query = query_raw_text(company_name= infor[0], section=section ,time= infor[2])
+            for data in data_query:
+                extra_infor += data['raw_text'] + '\n' + data['time']
+                extra_infor += "\n".join(map(str, data['pages']))
         else:
             subsection = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
             for sub in subsection:
                 doc = (query_company_raw_text(company_name= infor[0], time= infor[2], section=section, subsection= sub))
                 for data in doc:
-                    result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
-    print(result)
-    result = infor[0] + ' ' + infor[1] + ' ' + infor [2] + '\n' + result + '\n' + "Thông tin Thuyết minh báo cáo tài chính (có thể có hoặc không): " + notes_infor
+                    result += 'Thời điểm của dữ liệu: ' + data['time'] + '\n' + data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
+    print(extra_infor)
+    result = infor[0] + ' ' + infor[1] + ' ' + infor [2] + '\n' + result + '\n' + "Thông tin Thuyết minh báo cáo tài chính (có thể có hoặc không): " + notes_infor + 'Một số thông tin thêm (nếu có): \n' + extra_infor
     return result
 
 #find k similar information in vector database

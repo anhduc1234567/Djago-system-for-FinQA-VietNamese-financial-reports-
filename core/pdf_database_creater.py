@@ -4,7 +4,9 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 import faiss
 from rank_bm25 import BM25Okapi
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+from typing import List
 
 # def get_embedding_vector(md_contents: list[dict], embedding_model='all-MiniLM-L6-v2') -> tuple:
 #     model = SentenceTransformer(embedding_model)
@@ -59,7 +61,7 @@ def semantic_chunking(text: str, chunk_size=1500, chunk_overlap=500):
     md_chunks = [{'Page': i+1, 'content': chunk} for i, chunk in enumerate(chunks)]
     return md_chunks
 
-def get_embeddings(chunks: list[dict], embedding_model='all-MiniLM-L6-v2'):
+def get_embeddings(chunks: List[dict], embedding_model='all-MiniLM-L6-v2'):
     model = SentenceTransformer(embedding_model)
     embeddings = []
     metadatas = []

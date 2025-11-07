@@ -29,6 +29,11 @@ from core.receiver import find_information, retrieve, remove_same_content, get_d
 import os
 import random
 import pypandoc
+import os
+import random
+import markdown
+from weasyprint import HTML, CSS
+
 SUBSECTION_BALANCE_SHEET = ['TÀI SẢN NGẮN HẠN', 'TÀI SẢN DÀI HẠN', 'NỢ PHẢI TRẢ', 'VỐN CHỦ SỞ HỮU']
 SUBSECTION_INCOME_STATEMENT = ['DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ', 'DOANH THU HOẠT ĐỘNG TÀI CHÍNH', 'THU NHẬP KHÁC']
 SUBSECTION_CASH_FLOW = ['LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH', 'LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ', 'LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH']
@@ -205,11 +210,14 @@ def cal_financial_radio(infor,isBank = None, isIndex = None):
             Công thức: (năm nay - năm trước) / năm trước * 100 (%)
 
             Dùng để tính tỷ lệ tăng trưởng (%), thể hiện mức thay đổi của các chỉ tiêu tài chính như Doanh thu, Giá vốn, Lợi nhuận, Chi phí… giữa hai năm liên tiếp.
-
+            
+            8. Dòng tiền.
+            
             DOANH THU THUẦN (Net Cash Flow from Operating Activities - CFO)
-                Tỷ lệ này giúp cho chúng ta biết doanh nghiệp nhận được bao nhiêu đồng trên 1 đồng doanh thu thuần. Mặc dù không có một con số cụ thể để tham chiếu, tuy nhiên rõ ràng là tỷ lệ này càng cao thì càng tốt. Và chúng ta cũng nên so sánh với dữ liệu quá khứ để phát hiện ra các sai sót khác.
-                    CFO dương: Doanh nghiệp tạo ra lượng tiền dương từ hoạt động kinh doanh chính. Đây là một dấu hiệu tích cực.
-                    CFO âm: Doanh nghiệp đang tiêu tốn tiền mặt trong hoạt động kinh doanh
+                Tỷ lệ này giúp cho chúng ta biết doanh nghiệp nhận được bao nhiêu đồng trên 1 đồng doanh thu thuần. Mặc dù không có một con số cụ thể để tham chiếu, 
+                tuy nhiên rõ ràng là tỷ lệ này càng cao thì càng tốt. Và chúng ta cũng nên so sánh với dữ liệu quá khứ để phát hiện ra các sai sót khác.
+                CFO dương: Doanh nghiệp tạo ra lượng tiền dương từ hoạt động kinh doanh chính. Đây là một dấu hiệu tích cực.
+                CFO âm: Doanh nghiệp đang tiêu tốn tiền mặt trong hoạt động kinh doanh
             TỶ SUẤT DÒNG TIỀN TỰ DO (Free Cash Flow to Equity - FCFE)
                 Tỷ suất này giúp chúng ta phản ánh được chất lượng dòng tiền của doanh nghiệp. Dòng tiền tự do phản ánh số tiền sẵn có nhằm sử dụng cho các hoạt động của doanh nghiệp.
                 Trong đó:
@@ -220,7 +228,6 @@ def cal_financial_radio(infor,isBank = None, isIndex = None):
                     Để thực hiện phân tích xu hướng dòng tiền, số liệu dòng tiền của từng hoạt động sẽ được cộng dồn theo từng năm.
                     Mục đích của việc phân tích xu hướng của dòng tiền là để loại bỏ sự biến động về dòng tiền tại một thời điểm cụ thể. Ngoài ra, việc quan sát dòng tiền trong một giai đoạn dài sẽ giúp chúng ta xác định được doanh nghiệp đang trong giai đoạn nào của chu kỳ kinh doanh. Đây chính là yếu tố quan trọng để chúng ta đưa ra quyết định về việc có nên tài trợ vốn cho doanh nghiệp trong giai đoạn hiện tại hay không?
             LƯU Ý: Trả lời trình bày thật dễ hiểu và hết sức ngắn gọn logic sử dụng trình bày kiểu Bảng để quat sát nội dung một cách logic hơn.
-            
             Nếu chỉ số không tính được hãy chú thích đầy đủ bên cách lý do
             vì sao không tính được, Trả lời thẳng trực tiếp NGẮN GỌN không cần giải thích và mở đầu câu trả lời như sau:
                 ## 5. Các chỉ số tài chính cơ bản.
@@ -506,9 +513,9 @@ def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
                 result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
     prompt_check = f'''
         Bạn là một chuyên gia độc hiểu phân tích báo cáo tài chính.
-        Dựa trên 2 hướng dẫn về cách lập bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh sau. Hãy xác định xem liệu doanh nghiệp đó có tuân theo khung có sẵn đó không.
-        Lưu ý: các mục trong báo cáo có thể có tiêu đề, tên gọi khác trong hướng dẫn tuy nhiên có chức năng giống nhau và ý nghĩa giống nhau, hãy dựa vào ngữ nghĩa, kiến thức về tài chính để xác định chính xác và không cần theo thứ tự như 
-        trong tài liệu hướng dẫn. Không cần phải khớp quá mức. 
+        Dựa trên 2 quy định về cách lập bảng cân đối kế toán của VAS 21 và báo cáo kết quả hoạt động kinh doanh sau. Hãy xác định xem liệu doanh nghiệp đó có tuân theo khung có sẵn đó không.
+        Lưu ý: các mục trong báo cáo có thể có tiêu đề, tên gọi khác trong quy định tuy nhiên có chức năng giống nhau và ý nghĩa giống nhau, hãy dựa vào ngữ nghĩa, kiến thức về tài chính để xác định chính xác và không cần theo thứ tự như 
+        trong tài liệu quy định. Không cần phải khớp quá mức. 
         Hãy đưa ra nhận xét đầy đủ về các thông tin, chính xác và ngắn gọn bằng cách chỉ nêu nên những phần thật sự bị thiếu (các mục chỉ nằm trong hướng dẫn) hoặc bất thường.
         Bảng cân đối kế toán phải bao gồm các khoản mục chủ yếu sau đây :
             1. Tiền và các khoản tương đương tiền;
@@ -550,15 +557,17 @@ def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
             17. Lợi nhuận thuần trong kỳ.
         Dưới đây bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh của doanh nghiệp: {result}
         Trả về thẳng trực tiếp bỏ qua phần giải thích giới thiệu mở đầu như sau:
+        Sử dụng từ chuẩn mực kế toán https://docs.kreston.vn/vbpl/ke-toan/chuan-muc-ke-toan/vas-21/?fbclid=IwY2xjawNdNT1leHRuA2FlbQIxMABicmlkETFpaXZob3U2SmVVOUdweW5rAR7nOOYcBONlC5i3UIGChRHcbapRraCWP2J2q11HheBYd5wr3cII7baZW3BcqQ_aem_UC_uYedaDz6kVPcIOrItTQ
+        nếu muốn trích dẫn nguồn
           **Bảng cân đối kế toán**
           [Nội dung]
           **Báo cáo kết quả hoạt động kinh doanh**
           [Nội dung]
     '''
     prompt_check_for_bank = f'''
-        Dựa trên 2 hướng dẫn về cách lập bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh dành cho NGÂN HÀNG sau. Hãy xác định xem liệu doanh nghiệp đó có tuân theo khung có sẵn đó không.
-        ưu ý: các mục trong báo cáo có thể có tiêu đề, tên gọi khác trong hướng dẫn tuy nhiên có chức năng giống nhau và ý nghĩa giống nhau, hãy dựa vào ngữ nghĩa, kiến thức về tài chính để xác định chính xác và không cần theo thứ tự như 
-        trong tài liệu hướng dẫn. Không cần phải khớp quá mức. 
+        Dựa trên 2 quy định về cách lập bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh dành cho NGÂN HÀNG của VAS sau. Hãy xác định xem liệu doanh nghiệp đó có tuân theo khung có sẵn đó không.
+        ưu ý: các mục trong báo cáo có thể có tiêu đề, tên gọi khác trong quy định tuy nhiên có chức năng giống nhau và ý nghĩa giống nhau, hãy dựa vào ngữ nghĩa, kiến thức về tài chính để xác định chính xác và không cần theo thứ tự như 
+        trong tài liệu quy định. Không cần phải khớp quá mức. 
         Hãy đưa ra nhận xét đầy đủ về các thông tin, chính xác và ngắn gọn bằng cách chỉ nêu nên những phần thật sự bị thiếu (các mục chỉ nằm trong hướng dẫn) hoặc bất thường.
             Ngoài các yêu cầu của chuẩn mực kế toán khác, Bảng cân đối kế toán hoặc Bản thuyết minh báo cáo tài chính của Ngân hàng phải trình bày tối thiểu các khoản mục tài sản và nợ phải trả sau đây:
             Khoản mục tài sản:
@@ -596,6 +605,8 @@ def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
         Dưới đây bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh của doanh nghiệp: {result}    
         Trả về thẳng trực tiếp bỏ qua phần giải thích giới thiệu mở đầu như sau:
         Lưu ý nội dung trả về hết sức ngắn gọn và logic để người đọc có thể nhìn thấy ngay.
+        Sử dụng từ chuẩn mực kế toán https://docs.kreston.vn/vbpl/ke-toan/chuan-muc-ke-toan/vas-21/?fbclid=IwY2xjawNdNT1leHRuA2FlbQIxMABicmlkETFpaXZob3U2SmVVOUdweW5rAR7nOOYcBONlC5i3UIGChRHcbapRraCWP2J2q11HheBYd5wr3cII7baZW3BcqQ_aem_UC_uYedaDz6kVPcIOrItTQ
+        nếu muốn trích dẫn nguồn.
           **Bảng cân đối kế toán**
           [Nội dung]
           **Báo cáo kết quả hoạt động kinh doanh**
@@ -852,38 +863,27 @@ def summary_section(temp_path):
     return save_content_to_pdf(content = content)
     
     # print(finacial_radio)
-
-
 def save_content_to_pdf(content: str):
+    base_dir = os.path.join(os.getcwd(), "files_database", "summaries")
+    os.makedirs(base_dir, exist_ok=True)
 
-    base_dir = os.path.join(os.getcwd(), "files_database")
-    output_dir = os.path.join(base_dir, "summaries")
-    os.makedirs(output_dir, exist_ok=True)
-
-    # 🔢 Tạo tên file ngẫu nhiên
     rand_id = random.randint(100000, 999999)
-    output_path = os.path.join(output_dir, f"out_{rand_id}.pdf")
+    pdf_path = os.path.join(base_dir, f"out_{rand_id}.pdf")
 
-    try:
-        # ✅ Gọi Pandoc với XeLaTeX
-        pypandoc.convert_text(
-            content,
-            to="pdf",
-            format="md",  # hoặc "html" nếu bạn truyền nội dung HTML
-            outputfile=output_path,
-            extra_args=[
-                "--pdf-engine=C:/Users/anhduc/AppData/Roaming/TinyTeX/bin/windows/xelatex.exe",
-                "-V", "mainfont=Arial",
-                "-V", "geometry:margin=1in",
-                "-V", "fontsize=13pt",
-                "-V", "colorlinks=true",
-                "-V", "linkcolor=blue"
-            ]
-        )
+    # Markdown -> HTML
+    html_content = markdown.markdown(content, extensions=['tables'])
 
-        print(f"✅ PDF đã được lưu tại: {output_path}")
-        return output_path
+    # CSS để format PDF
+    css = CSS(string='''
+        @page { size: A4; margin: 2cm; }
+        body { font-family: Arial, sans-serif; font-size: 12pt; line-height: 1.5; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #333; padding: 5px; text-align: left; }
+        th { background-color: #f0f0f0; }
+    ''')
 
-    except Exception as e:
-        print("❌ Lỗi khi tạo PDF:", e)
-        return None
+    # HTML -> PDF
+    HTML(string=html_content).write_pdf(pdf_path, stylesheets=[css])
+
+    print(f"✅ PDF đã được lưu tại: {pdf_path}")
+    return pdf_path

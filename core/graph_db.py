@@ -2,7 +2,7 @@ import json
 from neo4j import GraphDatabase
 
 # Kết nối đến Neo4j
-URI = "neo4j://127.0.0.1:7687"
+URI = "bolt://127.0.0.1:7687"
 AUTH = ("neo4j", "15102004")
 
 driver = GraphDatabase.driver(URI, auth=AUTH)
@@ -79,7 +79,7 @@ def add_new_report(data):
     #     data = json.load(f)
 
     report = data["report"]
-    with driver.session(database="testreports") as session:
+    with driver.session() as session:
         session.execute_write(import_report, report)
 
     print("✅ Import JSON vào Neo4j thành công!")

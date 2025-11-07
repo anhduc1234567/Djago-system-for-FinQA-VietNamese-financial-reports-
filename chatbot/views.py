@@ -194,21 +194,26 @@ def chat_send(request, conversation_id):
 
         # --- Gọi hàm xử lý chatbot ---
         if is_summary is False:
-            bot_respond, suggestions = respond_user(
-                user_question=message,
-                temp_path=globals.SAVE_FILE_PATH,
-                isSummary = is_summary
-            )
-            html_respond = render_markdown(bot_respond)
+            # try:
+                bot_respond, suggestions = respond_user(
+                    user_question=message,
+                    temp_path=globals.SAVE_FILE_PATH,
+                    isSummary = is_summary
+                )
+                html_respond = render_markdown(bot_respond)
 
-            # --- Lưu hội thoại ---
-            add_new_message_to_conversation("user", message, conversation_id=conversation_id)
-            add_new_message_to_conversation("assistant", bot_respond, conversation_id=conversation_id)
-
-            return JsonResponse({
+                # --- Lưu hội thoại ---
+                add_new_message_to_conversation("user", message, conversation_id=conversation_id)
+                add_new_message_to_conversation("assistant", bot_respond, conversation_id=conversation_id)
+                return JsonResponse({
                 "response": html_respond,
                 "suggestions": suggestions or []
-            })
+                 })
+            # except Exception as e:     
+            #     return JsonResponse({
+            #         "response": "❌ Lỗi trong quá trình xử lý chatbot:",
+            #         "suggestions":  []
+            #     })
         else:
             pdf_path = respond_user(
                 user_question=message,

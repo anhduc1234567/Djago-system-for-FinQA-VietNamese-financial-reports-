@@ -1,33 +1,45 @@
 
-* Chi nhánh Công ty cổ phần khoáng sản Bắc Kạn tại tỉnh Thái Nguyên - Địa chỉ: Mỏ Phú Đô, thôn Cầu Đá, xã Yến Lạc, huyện Phú Lương, tỉnh Thái Nguyên  
-* Chi nhánh Công ty CP khoáng sản Bắc Kạn Xí nghiệp Khai thác mỏ Pù Sáp - Địa chỉ: Xã Bằng Lãng, huyện Chợ Đồn, tỉnh Bắc Kạn  
-* Xí nghiệp khai thác khoáng sản Bằng Lãng - Địa chỉ: Xã Bằng Lãng, huyện Chợ Đồn, tỉnh Bắc Kạn  
-* Chi nhánh Công ty cổ phần khoáng sản Bắc Kạn Xí nghiệp khai thác và chế biến khoáng sản Chợ Đồn - Địa chỉ: Xã Bằng Lãng, huyện Chợ Đồn, tỉnh Bắc Kạn  
-* Chi nhánh Công ty cổ phần khoáng sản Bắc Kạn - Xí nghiệp khai thác Mỏ Nà Duồng - Địa chỉ: Xã Bằng Lãng, huyện Chợ Đồn, tỉnh Bắc Kạn  
-* Chi nhánh Công ty CP khoáng sản Bắc Kạn tại Hà Nội - Địa chỉ: Phường Nhân Chính, quận Thanh Xuân, thành phố Hà Nội  
+# Công ty Cổ phần Chứng khoán VNDIRECT  
+**B03b-CTCK**  
+**BÁO CÁO LƯU CHUYỂN TIỀN TỆ**  
+cho kỳ kế toán kết thúc ngày 31 tháng 3 năm 2025  
 
-## II. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán:  
-1. Kỳ kế toán năm: Bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm.  
-2. Đơn vị tiền tệ sử dụng trong kế toán: Đồng Việt Nam  
+**Đơn vị tính: VND**
 
-## III. Chuẩn mực và Chế độ kế toán áp dụng:  
-1. Chế độ kế toán áp dụng: Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính.  
-2. Tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán  
+| Mã số                                          | CHỈ TIÊU                                                                                        | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------- | ------------------------------------------------ |
+| **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH** |                                                                                                 |             |                                                |                                                  |
+| 01                                             | 1. Lợi nhuận trước thuế TNDN                                                                    |             | 478.115.402.664                                | 766.874.081.183                                  |
+| 02                                             | 2. Điều chỉnh cho các khoản:                                                                    |             | (225.079.129.904)                              | (261.432.830.629)                                |
+| 03                                             | Khấu hao và hao mòn TSCĐ                                                                        |             | 15.887.462.186                                 | 13.696.818.011                                   |
+| 04                                             | Các khoản dự phòng                                                                              |             | (1.424.021.112)                                | (16.794.066.944)                                 |
+| 06                                             | Chi phí lãi vay                                                                                 |             | 223.182.433.338                                | 157.889.888.190                                  |
+| 07                                             | (Lãi) từ hoạt động đầu tư                                                                       |             | (2.428.250.000)                                | (4.433.334)                                      |
+| 08                                             | Dự thu tiền lãi                                                                                 |             | (460.296.754.316)                              | (416.221.036.552)                                |
+| 10                                             | 3. Tăng các chi phí phi tiền tệ                                                                 |             | 192.354.342.361                                | 48.271.473.410                                   |
+| 11                                             | Lỗ đánh giá lại giá trị các tài sản tài chính FVTPL và lỗ đánh giá lại phải trả chứng quyền     |             | 192.354.342.361                                | 48.271.473.410                                   |
+| 18                                             | 4. Giảm các doanh thu phi tiền tệ                                                               |             | (159.079.977.632)                              | (185.308.250.058)                                |
+| 19                                             | (Lãi) đánh giá lại giá trị các tài sản tài chính FVTPL và lãi đánh giá lại phải trả chứng quyền |             | (159.079.977.632)                              | (185.308.250.058)                                |
+| 30                                             | 5. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động                                |             | 286.310.637.489                                | 368.404.473.906                                  |
+| 31                                             | Thay đổi tài sản tài chính FVTPL                                                                |             | (1.671.106.087.227)                            | 424.564.945.807                                  |
+| 32                                             | Thay đổi các khoản đầu tư nắm giữ đến ngày đáo hạn HTM                                          |             | (3.329.028.000.000)                            | (265.812.000.000)                                |
+| 33                                             | Thay đổi các khoản cho vay                                                                      |             | (776.158.684.932)                              | 328.149.196.679                                  |
+| 35                                             | Thay đổi phải thu bán các tài sản tài chính                                                     |             | 485.986.478.379                                | (188.717.432.888)                                |
+| 36                                             | Thay đổi phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính                              |             | 270.166.032.782                                | 224.161.364.563                                  |
+| 37                                             | Thay đổi phải thu các dịch vụ CTCK cung cấp                                                     |             | 2.367.848.752                                  | 837.104.785                                      |
+| 39                                             | Thay đổi các khoản phải thu khác                                                                |             | (131.813.727.999)                              | (55.338.090.381)                                 |
+| 40                                             | Thay đổi các tài sản khác                                                                       |             | (1.048.036.218)                                | (2.279.060.183)                                  |
+| 41                                             | Thay đổi chi phí phải trả (không bao gồm chi phí lãi vay)                                       |             | 17.641.104.737                                 | 79.367.706.595                                   |
+|                                                | Thay đổi chi phí trả trước                                                                      |             | 14.169.237.489                                 | 3.261.224.455                                    |
+| 43                                             | Thuế TNDN đã nộp                                                                                | 21          | (199.961.865.891)                              | (112.000.000.000)                                |
+| 44                                             | Lãi vay đã trả                                                                                  |             | (228.530.291.583)                              | (241.062.771.334)                                |
+| 46                                             | Thay đổi phải trả cho người bán                                                                 |             | (23.967.153.528)                               | (60.305.652.651)                                 |
+|                                                | Thay đổi các khoản trích nộp phúc lợi nhân viên                                                 |             | 278.768.507                                    | (59.197.428)                                     |
+| 47                                             | Thay đổi thuế và các khoản phải nộp Nhà nước (Không bao gồm thuế TNDN đã nộp)                   |             | (5.545.018.626)                                | (4.211.310.237)                                  |
+| 48                                             | Thay đổi phải trả người lao động                                                                |             | 29.354.681.275                                 | 16.955.364.825                                   |
+| 50                                             | Thay đổi phải trả, phải nộp khác và phải trả chứng quyền                                        |             | 213.061.514.709                                | 1.214.798.620.026                                |
+| 51                                             | Tiền thu khác cho hoạt động kinh doanh                                                          |             | 80.072.000.000                                 |                                                  |
+| 52                                             | Tiền chi khác cho hoạt động kinh doanh                                                          |             | (234.869.088.115)                              | (1.011.081.799.605)                              |
+| 60                                             | **Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động kinh doanh**                                 |             | (5.202.619.650.000)                            | 719.632.686.934                                  |
 
-## IV. Các chính sách kế toán áp dụng:  
-1. Nguyên tắc chuyển đổi Báo cáo tài chính lập bằng ngoại tệ sang Đồng Việt Nam (Trường hợp đồng tiền ghi sổ kế toán khác với Đồng Việt Nam)  
-2. Nguyên tắc ghi nhận các khoản tiền và các khoản tương đương tiền: Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư tài chính ngắn hạn có khả năng thanh khoản cao dễ dàng chuyển đổi thành tiền và ít có rủi ro liên quan đến việc biến động giá trị.  
-3. Nguyên tắc ghi nhận hàng tồn kho:  
-   - Nguyên tắc ghi nhận hàng tồn kho: Hàng tồn kho được xác định trên cơ sở giá gốc, trong trường hợp giá gốc hàng tồn kho cao hơn giá trị thuần có thể thực hiện được thì tính theo giá trị thuần có thể thực hiện được.  
-   - Giá gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung nếu có, để xác định hàng tồn kho ở địa điểm và trạng thái hiện tại.  
-   - Phương pháp tính giá trị hàng tồn kho theo phương pháp thực tế bình quân  
-   - Phương pháp hạch toán hàng tồn kho theo phương pháp kê khai thường xuyên  
-   - Phương pháp lập dự phòng giảm giá hàng tồn kho theo quy định hiện hành  
-4. Nguyên tắc ghi nhận vốn chủ sở hữu:  
-   - Vốn đầu tư của chủ sở hữu được phản ánh là số vốn thực góp của các cổ đông. Phân phối lợi nhuận của Công ty thực hiện theo Nghị quyết của Đại hội đồng cổ đông.  
-5. Nguyên tắc và phương pháp ghi nhận doanh thu:  
-   - Doanh thu bán hàng được ghi nhận khi đồng thời thoả mãn tất cả năm điều kiện sau:  
-     + Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá cho người mua;  
-     + Công ty không còn nắm giữ quyền quản lý hàng hoá như người sở hữu hàng hoá hoặc quyền kiểm soát;  
-     + Doanh thu được xác định tương đối chắc chắn;  
-     + Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng;  
+
