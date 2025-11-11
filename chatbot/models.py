@@ -1,5 +1,5 @@
 # chatbot/models.py
-from mongoengine import Document, EmbeddedDocument, StringField, DateTimeField, ListField, EmbeddedDocumentField, IntField
+from mongoengine import Document, EmbeddedDocument, StringField, DateTimeField, ListField, EmbeddedDocumentField, IntField,  EmailField
 from datetime import datetime
 
 # Message trong conversation
@@ -28,3 +28,10 @@ class UploadedFile(Document):
     upload_date = DateTimeField(default=datetime.utcnow)
     
     meta = {'collection': 'Files'}
+
+class Users(Document):
+    user_id = StringField(required=True, unique=True)  # username
+    email = EmailField(required=True, unique=True)
+    password = StringField(required=True)
+
+    meta = {'collection': 'Users'}

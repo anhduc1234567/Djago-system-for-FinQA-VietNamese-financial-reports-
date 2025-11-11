@@ -19,16 +19,7 @@ from sentence_transformers import SentenceTransformer
 import os
 from rank_bm25 import BM25Okapi
 import re
-#read input file
-def get_input_path() -> str:
-    try:
-        base_dir = os.path.dirname(__file__)
-        input_path = os.path.abspath(os.path.join(base_dir, '..', '000000014601738_VI_BaoCaoTaiChinh_KiemToan_2024_HopNhat_14032025110908.docx'))
-        return input_path
-    
-    except Exception as e:
-        print('cant locate docx file')
-        print(f'error: {e}')
+
 def normalize_for_prompt(content: str) -> str:
     content = re.sub(r'<br\s*/?>', '\n', content)   # <br/> -> newline
     content = re.sub(r'&nbsp;?', ' ', content)
@@ -103,7 +94,7 @@ def get_doc_from_notes_by_key_word(key_word, infor, temp_path):
     similar_k = []
     notes_infor = ''
     notes_page = ''
-    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
+    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2], type_report= infor[1])
     for data in notes:
         notes_raw_text += data['raw_text'] + '\n'
         notes_page += "\n".join(map(str, data['pages']))
@@ -271,22 +262,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                     1.5 CHỈ TIÊU NGOÀI
                         - đây là mục chưa thông tin về các chỉ tiêu ngoài báo cáo tình hình tài chính
                     
-                2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH
-                    Tại đây sẽ gồm các chuẩn mực kế toán khác và các mục tối thiểu như:
-                    Thu nhập lãi và các khoản thu nhập tương tự;
-                    Chi phí lãi và các chi phí tương tự;
-                    Lãi được chia từ góp vốn và mua cổ phần;
-                    Thu phí hoạt động dịch vụ;
-                    Phí và chi phí hoa hồng;
-                    Lãi hoặc lỗ thuần từ kinh doanh chứng khoán kinh doanh;
-                    Lãi hoặc lỗ thuần từ kinh doanh chứng khoán đầu tư;
-                    Lãi hoặc lỗ thuần hoạt động kinh doanh ngoại hối;
-                    Thu nhập từ hoạt động khác;
-                    Tổn thất khoản cho vay và ứng trước;
-                    Chi phí quản lý; và
-                    Chi phí hoạt động khác.
-                    đượ chia làm các phần con chính như sau:
-                    
+                2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH          
                     2.1 THU NHẬP LÃI VÀ CÁC KHOẢN
                         - Gồm các khoản bắt đầu của báo cáo kết quả hoạt động kinh doanh như: 1. Thu nhập lãi và các khoản thu nhập tương tự,
                         2. Chi phí lãi và các chi phí tương tự, I Thu nhập lãi thuần, 3. Thu nhập từ hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,
@@ -298,7 +274,6 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                         IX	Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,
                         X	Chi phí dự phòng rủi ro tín dụng, XI	Tổng lợi nhuận trước thuế. Và các khoảng tương tự có thể có.
                     2.3 CHI PHÍ THUẾ
-
                         - Gồm các khoản còn lại: 7	Chi phí thuế thu nhập doanh nghiệp hiện hành, 8	Chi phí thuế thu nhập doanh nghiệp hoãn lại, XII	Chi phí thuế thu nhập doanh nghiệp,
                         XIII	Lợi nhuận sau thuế, XV	Lãi cơ bản trên cổ phiếu (đồng/cổ phiếu) và các khoản tương đương.
                         - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
@@ -386,7 +361,6 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                 
                 4. BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU
                 5. THUYẾT MINH BÁO CÁO TÀI CHÍNH
-
                      
              Ưu tiên thông tin ở các mục 1 2 3, Chú ý hạn chế sử dụng thông tin ở THUYẾT MINH BÁO CÁO TÀI CHÍNH nhất có thể.
              Lưu ý nếu người dùng muốn tìm kiếm thông tin về doanh nghiệp như: tên ngành nghề, mã cổ phiếu, ... hoặc các thông tin về báo cáo tài chính như: loại báo cáo, kỳ báo cáo,... sử dụng THUYẾT MINH BÁO CÁO TÀI CHÍNH. 
@@ -406,7 +380,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
     result = ''
     notes_infor  = ''
     extra_infor = ''
-    print(features)
+    print("Các thông tin cần truy vấn: ", features)
 
     for f in features:
         if ':' in f:
@@ -420,22 +394,22 @@ def find_information_by_graph(temp_path = None, user_question = ''):
             key_word = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
             notes_infor = get_doc_from_notes_by_key_word(key_word= key_word, infor= infor, temp_path= temp_path)
         if section == 'BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU':
-            data_query = query_raw_text(company_name= infor[0],section=section, time= infor[2])
+            data_query = query_raw_text(company_name= infor[0],section=section, time= infor[2], type_report= infor[1])
             for data in data_query:
                 extra_infor += data['raw_text'] + '\n' + data['time']
                 extra_infor += "\n".join(map(str, data['pages']))
         if section == 'Giới thiệu':
-            data_query = query_raw_text(company_name= infor[0], section=section ,time= infor[2])
+            data_query = query_raw_text(company_name= infor[0], section=section ,time= infor[2], type_report= infor[1])
             for data in data_query:
                 extra_infor += data['raw_text'] + '\n' + data['time']
                 extra_infor += "\n".join(map(str, data['pages']))
         else:
             subsection = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
             for sub in subsection:
-                doc = (query_company_raw_text(company_name= infor[0], time= infor[2], section=section, subsection= sub))
+                doc = (query_company_raw_text(company_name= infor[0], time= infor[2], section=section, subsection= sub, type_report= infor[1]))
                 for data in doc:
                     result += 'Thời điểm của dữ liệu: ' + data['time'] + '\n' + data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
-    print(extra_infor)
+    print('Đã truy vấn xong')
     result = infor[0] + ' ' + infor[1] + ' ' + infor [2] + '\n' + result + '\n' + "Thông tin Thuyết minh báo cáo tài chính (có thể có hoặc không): " + notes_infor + 'Một số thông tin thêm (nếu có): \n' + extra_infor
     return result
 
@@ -478,7 +452,7 @@ def remove_same_content(similar_doc):
     return candidates
 
 from sentence_transformers import CrossEncoder
-reranker = CrossEncoder("BAAI/bge-reranker-v2-m3")
+reranker = CrossEncoder("BAAI/bge-reranker-v2-m3", device='cpu')
 
 def rerank(query, candidates, top_k=5):
     print("Đang re-rank")

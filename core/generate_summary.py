@@ -19,11 +19,11 @@
 # Nhận định tổng kết (Conclusion)
 # → Nhấn mạnh điểm mạnh, điểm yếu, khuyến nghị hành động.
 
-# from graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text, query_gioi_thieu_raw_text
+# from graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text
 # from call_api_llm import call_api_gemi
 # from receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word
 
-from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text, query_gioi_thieu_raw_text
+from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text
 from core.call_api_llm import call_api_gemi
 from core.receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word, normalize_for_prompt
 import os

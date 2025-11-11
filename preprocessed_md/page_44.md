@@ -1,46 +1,101 @@
+CÔNG TY CỎ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
+Địa chỉ: Số 10 Phổ Quang_Phường 2, Quận Tân Bình_TP Hồ Chí Minh
+Giá trị ghi sổ của tài sản thế chấp:                                                          đồng
+   Tài sản gắn liền trên đất "Nhà diều hành sản xuất và cho thuê văn phòng 13 tầng": 37.221.083.332
+   Xe cẩu tự hành bánh lốp 40 tấn: đã khấu hao hết
+   Cẩu tháp cố định có trong tải lón nhất 10 tấn: đã khấu hao hết:
+ Giá trị thế chấp của tài sản:
+   Tài sẳn gắn lien trên đất "Nhà diều hành sản xuất và cho thuê văn phòng 13 tẩng": 46.526.000.000 đồng:
+   Xe cẩu tự hành bánh Iốp 40 tấn: 0dồng           dồng:
+   Cẩu tháp cố định có trong tải lớn nhất 10 tấn: 0
+ Mục đích thế chấp:Vay vônngẳn hạn        bào lãnh
+   Tai Vietinbank   CNI:
+   Hợpdồngthế chấp:
+                HĐ thế chấp tài sàn hinh thành trong tương lai số 041/2017/HDTCNHCT902-WASECO ngày 28/06/2017 dểᵛᵃʸvốn
+ trung hạn thực hiện dự án dầu tu trung tâm trung bày vật tư; văn phòng làm việc và cho thuê WASECO.
+                 HĐ thế chấp bấtdộngsản số 042/2017 HDTCINHCT9O2-WASECO ngày 28/06/2017 để vay vốn trung hạn thực hiện
+  dự án đẩu tư trung tâm trung bày vật tu; văn phòng làm việc và cho thuê WASECO
+   HĐ thế chấp quyền tài sản số 043/2017/HDTCINHCT902-WASECO ngày 28/06/2017 để vay vốn trung hạn thựq hulr
+  dự án đẩu tư trung tâm trung bày vật tu; văn phòng làm việc và cho thuê WASECO
+  Tài sản thế chấp là: Quyền sử dụng dất; Tài sản gắn liền với đất; Các quyền; lợi ích; khoản thanh toán liên quan đến
+  Quyền sử dụng đất và Tài sản gắn liền với đất theo cáchợp dồngthế chấp nêu trên. Giá trị tài sản thế chấp được haiĐe
+  dịnh giá là 134.596.000.000đồng                                                      văn phòng làm việc và cho
+  Mục đích thế chấp:Vayvốn trung hạn thực hiện dự án đầu tư trung tâm trung bày vậtIU ,
+ thuê WASECO.
+   Hợp đồng thế chấp:
+  Hợp dồngthể chấp tài sàn số 026/2022 HĐBĐINHCT902-WASECO ngày 22/04/2022 dể vay vốn ngắn hạn; Tài sàn
+  thế chấp:Côngtrinh nhà văn phòng khu A; Giá trị tài sản thế chấp 4.100.000.000 đồng.
+  b.4.2. Tài sản nhận thế chấp của đơn vị khác:Khôngphát sinl.
+Số liệu so sánh                         riêngnăm 2024 là số dư cuối năm trên Báo cáo tài chínhriêngnăm 2023 dã được
+  Số dư đầu năm trên Báo cáo tài chính
+  kiếm toán bởi công ty TNHH Dịch vụ Tu vấn Tài chính Kế toán và Kiểm toán Phía Nam (AASCS)
+                                                                     Lập; ngày 20 tháng 02 năm 2025
+  Người lập biểu                                   Kế toán trưởng               Tổng Giám dốc
+   (Ký, họ tên)                                         họ tến)                 Kouou0,đóng dấu)
+   CÔNG TY
+   cỔ PHÂN
+                                                                                ĐÂU TU va xixl
+                                                                                       Jputy
 
-# VI. Thông tin bổ sung cho các khoản mục trình bày trong báo cáo kết quả hoạt động kinh doanh hợp nhất (tiếp theo)
-
-## 7. Chi phí bán hàng và chi phí quản lý doanh nghiệp
-
-### (a) Chi phí bán hàng
-
-|                                         | 2024                | 2023                |
-| --------------------------------------- | ------------------- | ------------------- |
-| Chi phí bán hàng của hệ thống phân phối | 351.717.477.276     | 509.078.259.120     |
-| Chi phí nhân viên                       | 63.717.758.212      | 68.968.339.779      |
-| Chi phí vận chuyển                      | 22.591.133.263      | 19.952.781.330      |
-| Chi phí vật liệu và bao bì              | 13.604.934.029      | 15.494.085.463      |
-| Chi phí hoa hồng                        | 9.073.645.218       | 8.282.899.479       |
-| Chi phí quảng cáo và tiếp thị           | 9.144.134.458       | 7.634.223.558       |
-| Chi phí khấu hao                        | 1.040.886.720       | 1.003.631.147       |
-| Chi phí dịch vụ mua ngoài               | 21.646.552.717      | 27.867.710.788      |
-| Chi phí khác                            | 63.379.676.716      | 17.969.422.571      |
-| **Cộng**                                | **555.916.198.609** | **676.251.353.235** |
-
-
-### (b) Chi phí quản lý doanh nghiệp
-
-|                                     | 2024                | 2023                |
-| ----------------------------------- | ------------------- | ------------------- |
-| Chi phí nhân viên                   | 71.957.501.499      | 70.449.445.538      |
-| Chi phí vật liệu quản lý            | 5.604.827.027       | 4.383.690.933       |
-| Chi phí khấu hao                    | 1.821.015.515       | 2.333.047.158       |
-| Thuế, phí và lệ phí                 | 1.980.053.723       | 7.628.813.296       |
-| Hoàn nhập dự phòng phải thu khó đòi | (7.902.959.002)     | (17.536.308.636)    |
-| Chi phí dịch vụ mua ngoài           | 33.941.534.915      | 25.259.972.439      |
-| Chi phí khác                        | 12.238.579.996      | 14.400.079.653      |
-| **Cộng**                            | **119.640.553.673** | **106.918.740.381** |
-
-
-## 8. Thu nhập khác
-
-|                                                  | 2024               | 2023              |
-| ------------------------------------------------ | ------------------ | ----------------- |
-| Tiền phạt thu được                               | 8.172.907.007      | 26.676.000        |
-| Lãi từ bán phế liệu                              | 2.201.695.585      | 1.831.638.134     |
-| Tiền thu từ thanh lý, nhượng bán tài sản cố định | 621.967.485        | 3.402.228.062     |
-| Các khoản khác                                   | 1.056.845.062      | 757.740.310       |
-| **Cộng**                                         | **12.053.415.139** | **6.018.282.506** |
+  Águyễn Ngọc Đài                         Nguyễn Quốc Tuấn                      Chu Xuân Lẳng            Jng
 
 
+
+
+
+
+
+
+
+
+45 +
+ 
+# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
+**Địa chỉ:** Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.
+
+## Giá trị ghi sổ của tài sản thế chấp:
+* Tài sản gắn liền trên đất "Nhà điều hành sản xuất và cho thuê văn phòng 13 tầng": 37.221.083.332 đồng.  
+* Xe cẩu tự hành bánh lốp 40 tấn: đã khấu hao hết.  
+* Cẩu tháp cố định có trọng tải lớn nhất 10 tấn: đã khấu hao hết.
+
+## Giá trị thế chấp của tài sản:
+* Tài sản gắn liền trên đất "Nhà điều hành sản xuất và cho thuê văn phòng 13 tầng": 46.526.000.000 đồng.  
+* Xe cẩu tự hành bánh lốp 40 tấn: 0 đồng.  
+* Cẩu tháp cố định có trọng tải lớn nhất 10 tấn: 0 đồng.
+
+## Mục đích thế chấp:  
+Vay vốn ngắn hạn + bảo lãnh
+
+### Tại Vietinbank - CN1:  
+### Hợp đồng thế chấp:
+* HĐ thế chấp tài sản hình thành trong tương lai số 041/2017/HDTC/NHCT902-WASECO ngày 28/06/2017 để vay vốn trung hạn thực hiện dự án đầu tư trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê WASECO.  
+* HĐ thế chấp bất động sản số 042/2017/HDTC/NHCT902-WASECO ngày 28/06/2017 để vay vốn trung hạn thực hiện dự án đầu tư trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê WASECO.  
+* HĐ thế chấp quyền tài sản số 043/2017/HDTC/NHCT902-WASECO ngày 28/06/2017 để vay vốn trung hạn thực hiện dự án đầu tư trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê WASECO.
+
+**Tài sản thế chấp là:**  
+Quyền sử dụng đất; Tài sản gắn liền với đất; Các quyền, lợi ích, khoản thanh toán liên quan đến Quyền sử dụng đất và Tài sản gắn liền với đất theo các hợp đồng thế chấp nêu trên. Giá trị tài sản thế chấp được hai bên định giá là 134.596.000.000 đồng.
+
+**Mục đích thế chấp:**  
+Vay vốn trung hạn thực hiện dự án đầu tư trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê WASECO.
+
+### Hợp đồng thế chấp:
+* Hợp đồng thế chấp tài sản số 026/2022/HĐBĐ/NHCT902-WASECO ngày 22/04/2022 để vay vốn ngắn hạn;  
+* Tài sản thế chấp: Công trình nhà văn phòng khu A; Giá trị tài sản thế chấp 4.100.000.000 đồng.
+
+### b.4.2. Tài sản nhận thế chấp của đơn vị khác:  
+Không phát sinh.
+
+## 4. Số liệu so sánh  
+Số dư đầu năm trên Báo cáo tài chính riêng năm 2024 là số dư cuối năm trên Báo cáo tài chính riêng năm 2023 đã được kiểm toán bởi công ty TNHH Dịch vụ Tư vấn Tài chính Kế toán và Kiểm toán Phía Nam (AASCS).
+
+Lập, ngày 20 tháng 02 năm 2025
+
+| Người lập biểu (Ký, họ tên) | Kế toán trưởng (Ký, họ tên) | Tổng Giám đốc (Ký, họ tên, đóng dấu) |
+|-----------------------------|-----------------------------|-------------------------------------|
+| Nguyễn Ngọc Đài             | Nguyễn Quốc Tuấn            | Chu Xuân Lẳng                       |
+
+Con dấu đỏ của công ty và chữ ký
+
+ + 
+ + [] 
+ None

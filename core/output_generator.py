@@ -88,17 +88,29 @@ def get_user_prompt_from_graph(user_question = '',temp_path = None):
     # summary_section(temp_path= temp_path)
     
     doc = find_information_by_graph(temp_path=temp_path, user_question = user_question)
-    prompt = f"""
-    Bạn là một chuyên gia trong lĩnh vực tài chính hãy giúp người dùng trả lời những câu hỏi của họ đóng vài trò như một trợ lý trong 
-    việc đọc hiểu và phân tích báo cáo tài chính. Hãy sử dụng những kiến thức tài chính để trả lời phân tích câu hỏi. Nếu câu hỏi ngắn gọn
-    trả lời ngắn gọn. Mục tiêu trả lời đúng trọng tâm chính xác dựa trên tài liệu được cung cấp kèm trích dẫn số trang. Nếu nội dùng tài liệu cung cấp không liên quan đến
-    câu hỏi không cố trả lời mà hãy trả về không có thông tin cho câu hỏi.
-     Nếu có thông tin từ thuyết mình nói rõ thông tin trích từ thuyết minh báo cáo tài chính.
-     Câu hỏi người dùng: {user_question}
-     Tài liệu cung cấp : {doc} 
-    """
-    response = call_api_gemi(prompt=prompt, model = "2.5-flash", temperture = 0.7)
-    return response, doc
+    if doc:
+        prompt = f"""
+        Bạn là một chuyên gia trong lĩnh vực tài chính hãy giúp người dùng trả lời những câu hỏi của họ đóng vài trò như một trợ lý trong 
+        việc đọc hiểu và phân tích báo cáo tài chính. Hãy sử dụng những kiến thức tài chính để trả lời phân tích câu hỏi. Nếu câu hỏi ngắn gọn
+        trả lời ngắn gọn. Mục tiêu trả lời đúng trọng tâm chính xác dựa trên tài liệu được cung cấp kèm trích dẫn số trang. Nếu nội dùng tài liệu cung cấp không liên quan đến
+        câu hỏi không cố trả lời mà hãy trả về không có thông tin cho câu hỏi.
+        Nếu có thông tin từ thuyết mình nói rõ thông tin trích từ thuyết minh báo cáo tài chính.
+        Câu hỏi người dùng: {user_question}
+        Tài liệu cung cấp : {doc} 
+        Lưu ý quan sát kỹ tài liệu cung cấp và câu hỏi người dùng. 
+        Nếu tài liệu cung cấp không liên quan gì đến tài chính, báo cáo tài chính hoặc các thông tin liên quan đến tài chính;
+        hoặc Nếu thông tin được cung cấp không đủ để trả lời câu hỏi của người dùng
+        trả về một từ duy nhất: NO không cần giải thích mô tả gì thêm.
+        """
+        response = call_api_gemi(prompt=prompt, model = "2.5-flash", temperture = 0.7)
+        if response == 'NO':
+            response, doc = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+            return response, doc
+            
+        return response, doc
+    else:
+        response, doc = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+        return response, doc
 
 def use_local_model(prompt):
     client = OpenAI(base_url="http://127.0.0.1:1234/v1", api_key="lm-studio")
@@ -194,19 +206,12 @@ def respond_user_none_graph(user_question = '', temp_path = ''):
                 Câu hỏi của người dùng: {user_question}
             """
     query_rewriting = call_api_gemi(prompt_requery)
-# suggestions =  client.models.generate_content(
-#     model="gemini-2.5-flash", contents=f"Dựa vào câu hỏi của người {user_question} dùng hãy đưa ra 3 câu hỏi gợi ý  \
-#     mà người dùng có thể hỏi tiếp theo. Đó là những câu hỏi liên quan đến đọc 1 báo cáo tài chính có thể là hỏi về các chỉ số trên báo cáo của 1 doanh nghiệp, các chỉ số trực tiếp \
-#         hoặc tính toán, hoặc các câu hỏi phân tích báo cáo. Lưu ý trả lời một cách ngắn gọn, các câu hỏi có mực độ dễ và trả về dưới dạng:\
-#         1. .... ?, 2. ...., 3. ....\
-#     Không cần những câu giới thiệu giải thích chỉ trả về như trên.")
-    
     features = parse_requery_output(query_rewriting)  
     print(features)
     user_prompt, contexts = get_user_prompt(input_model='all-MiniLM-L6-v2', num_sim_docx=10, user_question=user_question,temp_path=temp_path,prompt_chunk = features )
     response = call_api_gemi(user_prompt, model='2.5-flash')
     evaluate_LLM(user_question, response, contexts,temp_path, is_graph= False)
-    return response
+    return response, contexts
     
 def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
     if useGraph is False:
@@ -224,15 +229,5 @@ def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
         except Exception as e:
             print(f"[Unhandled Error] {e}")
             print('Đồ thị lỗi')
-            response = respond_user_none_graph(user_question= user_question, emp_path= temp_path)
+            response, contexts = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
             return response, []
-# def respond_user_agent(user_question, temp_path):
-#     answer = run_agent(user_question, temp_path=temp_path)
-#     return answer
-
-# temp_path_short = "report/SSI_Baocaotaichinh_6T_2025_Soatxet_Hopnhat.pdf"
-# temp_path_short2 = 'congtythuysan4report.pdf'
-# thuysanfull = 'VUG300625VAS_FS_VN_signed_ky_so.pdf'
-# temp_path_long = 'report/Baongoc_bna_2025_2_5_338b72d_bna_vi_baocaotaichinh_r_q4_2024_sign.pdf'
- 
-# print(respond_user("Nợ phải trả là bao nhiêu", temp_path=temp_path_long))

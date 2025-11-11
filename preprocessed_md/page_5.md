@@ -1,27 +1,32 @@
+Tp Hồ Chí Minh, ngàyQutháng 3 năm 2025
+ Côngty TNHH Dịch Vụ Tư Vấn Tài Chính
+    Kế Toán  Kiẻm Toán Phía Nam (AASCS)
+             Tông Giám đốc                      Kiểm toán viên
+    (08089Ph83
+             CÔNG TY
+             TNHH
+             Tuvik
+    DICH VU
+             VÀ KlỂM TOÁ
+             Phia NaM
+             LP HO Thế Đường                    Chu Thế Bình
+             Dih
+    Số Giấy CN ĐKHN kiểm toán: 0342-2023-142-1  Số Giấy CN ĐKHN kiểm toán: 1858-2023-142-1 +
+ 
+Tp. Hồ Chí Minh, ngày 20 tháng 3 năm 2025
 
-# Ý kiến của kiểm toán viên
+Công ty TNHH Dịch Vụ Tư Vấn Tài Chính  
+Kế Toán và Kiểm Toán Phía Nam (AASCS)  
 
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Công ty Cổ phần Nhựa Bình Minh và công ty con tại ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Công ty và công ty con cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+Phó Tổng Giám đốc  
+**Đinh Thế Đường**  
+Số Giấy CN ĐKHN kiểm toán: 0342-2023-142-1  
 
-----
+Kiểm toán viên  
+**Chu Thế Bình**  
+Số Giấy CN ĐKHN kiểm toán: 1858-2023-142-1  
 
-**Chi nhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh**  
-Việt Nam  
-Báo cáo kiểm toán số: 24-01-00574-25-2  
-
-----
-
-KPMG Chi nhánh Công ty TNHH KPMG
-
-----
-
-|  |  | |
-|---|---|---|
-| Con dấu đỏ: CHI NHÁNH CÔNG TY TNHH KPMG | Chữ ký | Chữ ký |
-| **Chang Hung Chun** |  | **Trần Thị Lệ Hằng** |
-| Giấy Chứng nhận Đăng ký Hành nghề Kiểm toán số 0863-2023-007-1 |  | Giấy Chứng nhận Đăng ký Hành nghề Kiểm toán số 3782-2022-007-1 |
-| *Phó Tổng Giám đốc* |  |  |
-
-----
-
-Thành phố Hồ Chí Minh, ngày 24 tháng 3 năm 2025
+Red circular stamp with company name and registration details  
+ + 
+ + [] 
+ None

@@ -1,28 +1,51 @@
+CÔNG TY ĐẦU TƯ' VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
+Địa chỉ: Số 10 Phổ Quang Phường 2, Q. Tân Bình, TP . Hồ Chí Minh.
+ 14 .  Nguyên tắc và phương pháp ghi nhận chi phí thuế thu nhập doanh nghiệp hiện hành, chi
+       thuễ thu nhập doanh nghiệp hoãn lại:                                                         phỉ
+ 14.1 Thuế TNDN hiện hành:
+       Thuế thu nhập hiện hành là khoản thuế được tính dựa trên thu nhập tính thuế. Thu nhập tính thuế
+       chênh lệch so với lợi nhuận kế toán là do điều chinh các khoản chênh Iệch tam thời giữa thuế và kế
+       toán; các chi phíkhôngđược trừ cũng như điều chinh các khoản thu nhậpkhôngphải chịu thuế và
+       các khoản lỗduợcchuyển.
+14.2 Thuế TNDN hoãn lại:
+       Thuế thu nhập hoãn lại là khoản thuế thu nhập doanh nghiệp sẽ            nộp hoặc sẽ được hoàn lại do
+                                                                 phải
+       chênh lệch tạm thời giũa giá trị ghi sổ của tài sản và nợ phảỉ trả cho mục đích lập Báo cáo tài chính
+              và cƠSở tính thuế thu nhập. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cà các khoản
+       chênh lệch tạm thời chịu thuế. Tài sán thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắntrong
+       tưong lai sẽ có lợi nhuận tính thuế dể sử dụngnhữngchênh Iệch tạm thời được khấu trừ này.         5011720
+                                                                                                    CÔnG T
+                                                                                                            TNhH
+                                                                                                    chvUTU !
+                                                                                                    CHINH KE
+                                                                                                         KIỂM TC
+                                                                                                        PHÍA Hak
+                                                                                                            IPHQ
 
-### (iii) Các giao dịch được loại trừ khi hợp nhất
 
-Các giao dịch và số dư trong nội bộ Tập đoàn và các khoản thu nhập và chi phí chưa thực hiện từ các giao dịch nội bộ được loại trừ khi lập báo cáo tài chính hợp nhất. Khoản lãi và lỗ chưa thực hiện phát sinh từ các giao dịch với các công ty liên kết được trừ vào khoản đầu tư trong phạm vi lợi ích của Tập đoàn tại các công ty liên kết.
 
-## 2. Các giao dịch bằng ngoại tệ
 
-Các giao dịch bằng các đơn vị tiền khác VND trong năm được quy đổi sang VND theo tỷ giá xấp xỉ với tỷ giá thực tế tại ngày giao dịch.
 
-Các khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND lần lượt theo tỷ giá mua chuyển khoản và tỷ giá bán chuyển khoản của ngân hàng thương mại nơi Công ty và công ty con thường xuyên có giao dịch tại ngày kết thúc kỳ kế toán năm.
 
-Tất cả các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
 
-## 3. Tiền và các khoản tương đương tiền
 
-Tiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích đầu tư hay là các mục đích khác.
 
-## 4. Các khoản đầu tư
+    00990006
+cÔNG TY
+C6 PHAN
+'UvÀ xay Dui
+  thokt Nu6e +
+ 
+# CÔNG TY ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
+**Địa chỉ:** Số 10 Phổ Quang, Phường 2, Q. Tân Bình, TP. Hồ Chí Minh.
 
-### (i) Đầu tư nắm giữ đến ngày đáo hạn
+## 14. Nguyên tắc và phương pháp ghi nhận chi phí thuế thu nhập doanh nghiệp hiện hành, chi phí thuế thu nhập doanh nghiệp hoãn lại:
 
-Đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc Công ty dự định và có khả năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn.
+### 14.1 Thuế TNDN hiện hành:  
+Thuế thu nhập hiện hành là khoản thuế được tính dựa trên thu nhập tính thuế. Thu nhập tính thuế chênh lệch so với lợi nhuận kế toán là do điều chỉnh các khoản chênh lệch tạm thời giữa thuế và kế toán; các chi phí không được trừ cũng như điều chỉnh các khoản thu nhập không phải chịu thuế và các khoản lỗ được chuyển.
 
-Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.
-
-### (ii) Đầu tư góp vốn vào các đơn vị khác
-
-Đầu tư vào các công cụ vốn chủ sở hữu của các đơn vị khác được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ dẫn đến Tập đoàn có khả năng mất vốn, trừ khi có bằng chứng rằng giá trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá đầu tư được hoàn nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của khoản đầu tư không vượt quá giá trị ghi sổ của khoản đầu tư đó khi giả định không có khoản dự phòng nào đã được ghi nhận.
+### 14.2 Thuế TNDN hoãn lại:  
+Thuế thu nhập hoãn lại là khoản thuế thu nhập doanh nghiệp sẽ phải nộp hoặc sẽ được hoàn lại do chênh lệch tạm thời giữa giá trị ghi sổ của tài sản và nợ phải trả cho mục đích lập Báo cáo tài chính và cơ sở tính thuế thu nhập. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế. Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ này.
+ + 
+ + [] 
+ None

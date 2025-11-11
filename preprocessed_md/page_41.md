@@ -1,36 +1,67 @@
+CÔNG TY CỎ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
+Địa chỉ: Số 10 Phổ Quang;Phường 2, Quận Tân Bình; TP Hồ Chí Minh.
+3- Công cụ tài chính
+  Tài sản tài chính và Nợ phải trả tài chính
+                                            Giá trị sổ sách                   Giá_trị dự_phòng                    Giá trịhợp
 
-# V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)
-
-## (e) Cổ tức
-
-Đại hội đồng Cổ đông của Công ty vào ngày 29 tháng 4 năm 2024 đã quyết định chia cổ tức bằng tiền là 1.031.448 triệu VND, tương đương 12.600 VND/cổ phần; từ lợi nhuận sau thuế của năm 2023, trong đó khoản tạm ứng đợt 1 cổ tức là 532.096 triệu VND, tương đương 6.500 VND/cổ phần đã được trả trong năm 2023. Hội đồng Quản trị của Công ty vào ngày 18 tháng 10 năm 2024 đã quyết định tạm ứng khoản cổ tức cho năm 2024 với số tiền là 469.882 triệu VND, tương đương 5.740 VND/cổ phần (2023: Đại hội đồng Cổ đông của Công ty vào ngày 28 tháng 4 năm 2023 đã quyết định chia cổ tức bằng tiền là 687.632 triệu VND từ lợi nhuận sau thuế của năm 2022, trong đó khoản tạm ứng đợt 1 cổ tức là 253.769 triệu VND, tương đương 3.100 VND/cổ phần đã được trả trong năm 2022).
-
-# 23. Các khoản mục ngoài bảng cân đối kế toán
-
-## (a) Ngoại tệ các loại
-
-|     | 31/12/2024<br/>Nguyên tệ | 31/12/2024<br/>Tương đương VND | 1/1/2024<br/>Nguyên tệ | 1/1/2024<br/>Tương đương VND |
-| --- | ------------------------ | ------------------------------ | ---------------------- | ---------------------------- |
-| USD | 11.328                   | 285.885.208                    | 42.959                 | 986.123.701                  |
-
-
-## (b) Xóa sổ nợ khó đòi
-
-|                                | Năm xóa sổ | Giá trị            |
-| ------------------------------ | ---------- | ------------------ |
-| Công ty TNHH TM Nhựa Đức Thành | 2023       | 30.844.128.351     |
-| Các khách hàng khác            | 2023       | 2.739.243.355      |
-| **Cộng**                       |            | **33.583.371.706** |
-
-
-> **Lý do xóa sổ:** Không thể thu hồi được.
-
-## (c) Cam kết chi tiêu vốn
-
-Tại ngày báo cáo, Công ty và công ty con có các cam kết chi tiêu vốn sau đã được duyệt nhưng chưa được phản ánh trong bảng cân đối kế toán hợp nhất:
-
-|                                     | 31/12/2024     | 1/1/2024       |
-| ----------------------------------- | -------------- | -------------- |
-| Đã được duyệt và đã ký kết hợp đồng | 29.113.709.272 | 11.400.868.074 |
+Tài san tài chính                      Ngày 31/12/2024    Ngày 31/12/2023     Ngày 31/12/2024  Ngày 31/12/2023  Ngày 31/12/2024    Ngày 31/12/2023
+ Tiền và các khoản tương                97.451.825.895    75.330.523.515                                         97,451.825.895     75.330.523.515
+dưong tiền
+  Phải thungắn hạn của kháchhàng        68.528.921.552    102.709.511.685     (15.913.324.498)  (9.564.685.449)  52.615.597.054     93.144.826.236
+ Phải thu ngắn hạn khác                 3.293.955.557     5.077.354.153       (1.291.645.456)   (1.291.645.456)   2.002.310.101     3.785.708.697
+ Đầu tư nắm giữ đến ngảy đáo hạn                          10.000.000.000                                                            10.000.000.o00
+           Cộng                        169.274.703.004    193.117.389.353     (17.204.969.954)  (10.856.330.905)  152.069.733.050  182.261.058.448
+  trả tài chính
+  phải
+Nợ
+  Vay và nợ thuê tài chính ngắn hạn     10.529.423.870    14.070.739.913                                         10.529.423.870     14.070.739.913
+ Phải trả  bán ngắn hạn                 50.486.109.264    72.439.552.494                                         50.486.109.264     72.439.552.494
+  ngưòi
+ Các khoản phải trả ngắn hạn khác       18.289.952.464    20.746.999.059                                         18.289.952.464     20.746.999.059
+  Chi phí phải trà ngẳn hạn             19.848.911.610    13.825.907.769                                         19.848.911.610     13.825.907.769
+  Phải trả dài hạn khác                 27.847.474.962    27.108.606,446                                         27.847.474.962     27.108,.606.446
+  Vay và nợ thuê tài chính dài hạn                        15.527.530.24]                                                            15.527.530.241
+           Công                        127.001.872.170    163.719.335.922                                         127.001.872.170  163.719.335.922
+Giá trị hợp lý của các tài sản tài chính và nợ phai trả tài chính là giá trị mà một tài sản có thể được trao đổi, hoặc một khoản nợ phải trả có thể dược thanh toán giữa các bên
+cođầy đủ hiểu biết, mong muốn giao dịch,trongmột giao dịch trao đổi ngang giá.
 
 
+
+
+
+
+
+HiMinn y  19
+          d2'
+
+             42    MINH *HH +
+ 
+# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
+*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+
+## 3- Công cụ tài chính  
+### a) Tài sản tài chính và Nợ phải trả tài chính
+
+|                                      | Giá trị sổ sách<br/>Ngày 31/12/2024 | Giá trị sổ sách<br/>Ngày 31/12/2023 | Giá trị dự phòng<br/>Ngày 31/12/2024 | Giá trị dự phòng<br/>Ngày 31/12/2023 | Giá trị hợp lý<br/>Ngày 31/12/2024 | Giá trị hợp lý<br/>Ngày 31/12/2023 |
+| ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------ | ------------------------------------ | ---------------------------------- | ---------------------------------- |
+| **Tài sản tài chính**                |                                     |                                     |                                      |                                      |                                    |                                    |
+| - Tiền và các khoản tương đương tiền | 97.451.825.895                      | 75.330.523.515                      |                                      |                                      | 97.451.825.895                     | 75.330.523.515                     |
+| - Phải thu ngắn hạn của khách hàng   | 68.528.921.552                      | 102.709.511.685                     | (15.913.324.498)                     | (9.564.685.449)                      | 52.615.597.054                     | 93.144.826.236                     |
+| - Phải thu ngắn hạn khác             | 3.293.955.557                       | 5.077.354.153                       | (1.291.645.456)                      | (1.291.645.456)                      | 2.002.310.101                      | 3.785.708.697                      |
+| - Đầu tư nắm giữ đến ngày đáo hạn    |                                     | 10.000.000.000                      |                                      |                                      |                                    | 10.000.000.000                     |
+| **Cộng**                             | 169.274.703.004                     | 193.117.389.353                     | (17.204.969.954)                     | (10.856.330.905)                     | 152.069.733.050                    | 182.261.058.448                    |
+| **Nợ phải trả tài chính**            |                                     |                                     |                                      |                                      |                                    |                                    |
+| - Vay và nợ thuê tài chính ngắn hạn  | 10.529.423.870                      | 14.070.739.913                      |                                      |                                      | 10.529.423.870                     | 14.070.739.913                     |
+| - Phải trả người bán ngắn hạn        | 50.486.109.264                      | 72.439.552.494                      |                                      |                                      | 50.486.109.264                     | 72.439.552.494                     |
+| - Các khoản phải trả ngắn hạn khác   | 18.289.952.464                      | 20.746.999.059                      |                                      |                                      | 18.289.952.464                     | 20.746.999.059                     |
+| - Chi phí phải trả ngắn hạn          | 19.848.911.610                      | 13.825.907.769                      |                                      |                                      | 19.848.911.610                     | 13.825.907.769                     |
+| - Phải trả dài hạn khác              | 27.847.474.962                      | 27.108.606.446                      |                                      |                                      | 27.847.474.962                     | 27.108.606.446                     |
+| - Vay và nợ thuê tài chính dài hạn   |                                     | 15.527.530.241                      |                                      |                                      |                                    | 15.527.530.241                     |
+| **Cộng**                             | 127.001.872.170                     | 163.719.335.922                     |                                      |                                      | 127.001.872.170                    | 163.719.335.922                    |
+
+
+> Giá trị hợp lý của các tài sản tài chính và nợ phải trả tài chính là giá trị mà một tài sản có thể được trao đổi, hoặc một khoản nợ phải trả có thể được thanh toán giữa các bên có đầy đủ hiểu biết, mong muốn giao dịch, trong một giao dịch trao đổi ngang giá.
+
+ + 
+ + [] 
+ None

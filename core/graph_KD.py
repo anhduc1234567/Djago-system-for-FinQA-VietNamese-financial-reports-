@@ -14,7 +14,7 @@ from core.call_api_llm import call_api_gemi
 
 names = [
     "BÁO CÁO CỦA BAN GIÁM ĐỐC",
-    "BÁO CÁO SOÁT XÉT ",
+    "BÁO CÁO SOÁT XÉT",
     "BÁO CÁO KIỂM TOÁN",
     
     "BÁO CÁO TÌNH HÌNH TÀI CHÍNH",
@@ -110,7 +110,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder")
+model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder", device='cpu')
 def remove_accents(text):
     text = unicodedata.normalize('NFD', text)
     return ''.join(c for c in text if unicodedata.category(c) != 'Mn')
@@ -126,6 +126,8 @@ def find_max_simlar(sentance, labels):
     most_similar_label = labels[0]
     for l in labels:
         temp = embedding_similarity(sentance, l)
+        if l in sentance:
+            temp += 0.25
         if temp > max:
             max = temp
             most_similar_label = l
@@ -138,12 +140,10 @@ def label_page(lines,labels, num_page, type_report):
     
     for l in lines:
         l = clean_text(l)
-        is_label_in_line = find_label_page(l, labels)
+        # is_label_in_line = find_label_page(l, labels)
         if l.strip().upper() == type_report.strip().upper() and num_page != 0:
             continue
         temp_max, temp_most_similar_label = find_max_simlar(l.strip().upper(), labels)
-        if is_label_in_line is True:
-            temp_max = temp_max + 0.25
         if temp_max > max:
             max = temp_max
             most_similar_label = temp_most_similar_label

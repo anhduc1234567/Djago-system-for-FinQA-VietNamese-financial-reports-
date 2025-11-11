@@ -1,29 +1,58 @@
+CÔNG TY CỔ PHẢN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)
+Địa chi; Số 10 Phồ Quang, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+                                  BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+                                                                 Năm 2024
+10. TĂNG, GIẢM TÀISẢN CỐ ĐỊNH VÔ HÌNH
 
-# CÔNG TY CỔ PHẦN NHỰA BÌNH MINH VÀ CÔNG TY CON  
-240 Hậu Giang, P. 9, Q. 6, TP. Hồ Chí Minh  
-
-# BÁO CÁO TÀI CHÍNH HỢP NHẤT  
-Cho năm kết thúc ngày 31/12/2024  
-
-*Đơn vị tính: VND*  
-
-## V. Thông tin bổ sung cho các khoản mục trình bày trong bảng cân đối kế toán hợp nhất (tiếp theo)  
-
-### (b) Đầu tư góp vốn vào công ty liên kết, liên doanh  
-
-|                                                               | 31/12/2024<br/>Số lượng (cổ phần) | 31/12/2024<br/>% sở hữu | 31/12/2024<br/>% quyền biểu quyết | 31/12/2024<br/>Giá gốc | 31/12/2024<br/>Phần chia lỗ lũy kế | 31/12/2024<br/>Giá trị ghi sổ | 31/12/2024 | 1/1/2024<br/>Số lượng (cổ phần) | 1/1/2024<br/>% sở hữu | 1/1/2024<br/>% quyền biểu quyết | 1/1/2024<br/>Giá gốc | 1/1/2024<br/>Phần chia lỗ lũy kế | 1/1/2024<br/>Giá trị ghi sổ | 1/1/2024 |
-| ------------------------------------------------------------- | --------------------------------- | ----------------------- | --------------------------------- | ---------------------- | ---------------------------------- | ----------------------------- | ---------- | ------------------------------- | --------------------- | ------------------------------- | -------------------- | -------------------------------- | --------------------------- | -------- |
-| Công ty Cổ phần Nhựa Đà Nẵng                                  | 650.000                           | 29,05%                  | 29,05%                            | 8.125.000.000          | (937.636.020)                      | 7.187.363.980                 |            | 650.000                         | 29,05%                | 29,05%                          | 8.125.000.000        | (440.149.007)                    | 7.684.850.993               |          |
-| Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Bình Minh Việt | 5.460.000                         | 26%                     | 26%                               | 54.600.000.000         | 0                                  | 54.600.000.000                |            | 5.460.000                       | 26,00%                | 26,00%                          | 54.600.000.000       | 0                                | 54.600.000.000              |          |
-| **Tổng cộng**                                                 |                                   |                         |                                   | **62.725.000.000**     | **(937.636.020)**                  | **61.787.363.980**            |            |                                 |                       |                                 | **62.725.000.000**   | **(440.149.007)**                | **62.284.850.993**          |          |
-
-
-Biến động giá trị ghi sổ của khoản đầu tư vào công ty liên kết trong năm như sau:
-
-|                                     | 2024               | 2023               |
-| ----------------------------------- | ------------------ | ------------------ |
-| Số dư đầu năm                       | 62.284.850.993     | 64.415.601.903     |
-| Phần chia lỗ trong công ty liên kết | (497.487.013)      | (2.130.750.910)    |
-| **Số dư cuối năm**                  | **61.787.363.980** | **62.284.850.993** |
+                Khoản mục         Quyền sử dụng đất              Quyền phát minh                   Trị giá              TSCAVH khác  Tổng Cộng
+ INguyên giá                                                                                       thưong hiệu
+ Isố dư đẩu năm                                                                                    3.150.0o0.o00                     3.150.000.o00
+    Mua trong nẳm
+    Cải tạo sửa chữa
+    Đầu tư XDCB hoàn thành
+    Chuyển sang bấtdộngsan dầu tu
+    Thanh lý, nhượng bán
+    Giảm khác
+  Isố dư cuối năm                                                                                  3.150.000.000                     3.150.000.0oo
+  |Giá trị hao mòn lũy kế
+  Isố dư đẩu năm                                                                                   2.037.000.000                      2.037.000.ooo/
+     Khấu hao trong năm                                                                            126.000.000                        126.000.000
+     Tángkhác
+     Chuyển sang bấtdộngSản đầu tư
+     Thanh lý, nhượng bán
+     Giảm khác
+   Isố dư cuối năm                                                                                 2.163.000.000                      2.163.000.oo0
+   [Giá trị còn lại
+   [Tại ngày đầu nẳm                                                                                   1.113.000.000                  1.113.000.ooo/
+   [Tại ngày cuối năm                                                                                    987.000.000                  987.000.000
+      Giá trị còn lại cuối nẳm của TSCĐ vô hình đãdùngthế chấp; cầm cố dàm bào các khoản vay:không-
+      Nguyên giá TSCĐ vô hình cuối nẳm đã khấu hao hết nhung vẫn còn sử'dụng:không
 
 
+
+
+0 + M-S.0.    25    MS.d
+                    22 +
+ 
+# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
+*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh*
+
+## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
+### Năm 2024
+
+### 10. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+
+| Khoản mục                                                                                                                                                                                 | Quyền sử dụng đất | Quyền phát minh | Trị giá thương hiệu           | TSCĐVH khác | Tổng Cộng                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------- | ----------------------------- | ----------- | ----------------------------- |
+| **Nguyên giá**<br/>Số dư đầu năm<br/>- Mua trong năm<br/>- Cải tạo sửa chữa<br/>- Đầu tư XDCB hoàn thành<br/>- Chuyển sang bất động sản đầu tư<br/>- Thanh lý, nhượng bán<br/>- Giảm khác |                   |                 | 3.150.000.000                 |             | 3.150.000.000                 |
+| **Số dư cuối năm**                                                                                                                                                                        |                   |                 | 3.150.000.000                 |             | 3.150.000.000                 |
+| **Giá trị hao mòn lũy kế**<br/>Số dư đầu năm<br/>- Khấu hao trong năm<br/>- Tăng khác<br/>- Chuyển sang bất động sản đầu tư<br/>- Thanh lý, nhượng bán<br/>- Giảm khác                    |                   |                 | 2.037.000.000<br/>126.000.000 |             | 2.037.000.000<br/>126.000.000 |
+| **Số dư cuối năm**                                                                                                                                                                        |                   |                 | 2.163.000.000                 |             | 2.163.000.000                 |
+| **Giá trị còn lại**<br/>Tại ngày đầu năm<br/>Tại ngày cuối năm                                                                                                                            |                   |                 | 1.113.000.000<br/>987.000.000 |             | 1.113.000.000<br/>987.000.000 |
+
+
+> * Giá trị còn lại cuối năm của TSCĐ vô hình đã dùng thế chấp, cầm cố đảm bảo các khoản vay: không.  
+> * Nguyên giá TSCĐ vô hình cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: không.  
+ + 
+ + [] 
+ None

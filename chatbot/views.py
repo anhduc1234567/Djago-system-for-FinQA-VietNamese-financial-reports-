@@ -7,7 +7,7 @@ from mongoengine.queryset.visitor import Q
 from mongoengine import connect
 import os
 import uuid
-from .models import Conversation, Message 
+from .models import Conversation, Message, Users
 from django.conf import settings
 from core.output_generator import respond_user
 from datetime import datetime
@@ -32,16 +32,18 @@ from .  import globals
 
 def chat_home(request, conversation_id=None):
     # --- Lấy danh sách các cuộc trò chuyện của user ---
-    conversations = Conversation.objects(user_id=USER_ID)
+    user_id = request.session.get("user_id")
+    
+    conversations = Conversation.objects(user_id=user_id)
 
     # --- Lấy danh sách file đã upload ---
-    uploaded_reports = UploadedFile.objects(user_id=USER_ID).order_by("-upload_date")
+    uploaded_reports = UploadedFile.objects(user_id=user_id).order_by("-upload_date")
 
     # --- Nếu có conversation_id, lấy ra conversation tương ứng ---
     selected_conv = None
     messages = []
     if conversation_id:
-        selected_conv = Conversation.objects(conversation_id=conversation_id).first()
+        selected_conv = Conversation.objects(conversation_id=conversation_id, user_id=user_id).first()
         if not selected_conv:
             raise Http404("Conversation not found")
         messages = selected_conv.messages
@@ -61,8 +63,8 @@ def chat_home(request, conversation_id=None):
 
     return render(request, "chatbot/home.html", context)
 
-def add_new_file(file_path, file_name, user_id="user_ducanh"):
-    existing = UploadedFile.objects(file_path=file_path).first()
+def add_new_file(file_path, file_name, user_id):
+    existing = UploadedFile.objects(file_path=file_path, user_id = user_id).first()
     if existing:
         print(f"⚠️ File '{file_name}' đã tồn tại trong DB, bỏ qua thêm mới.")
         return existing
@@ -82,7 +84,8 @@ def add_new_file(file_path, file_name, user_id="user_ducanh"):
 def new_chat(request):
     # Tạo conversation_id mới
     conversation_id = f"conv_{uuid.uuid4().hex[:6]}"  # ví dụ conv_a1b2c3
-    user_id = "user_ducanh"
+    user_id = request.session.get("user_id")
+
 
     # Tạo messages mặc định
     msg_user = Message(
@@ -120,14 +123,14 @@ def chat_upload(request, chat_id):
     return redirect('chat_home')
 
 
-def add_new_message_to_conversation(role, content, conversation_id):
+def add_new_message_to_conversation(role, content, conversation_id, user_id):
     print("đang ghi mess mới")
     msg = Message(
                 role=f"{role}",
                 content=f"{content}",
                 timestamp=datetime.utcnow()
         )
-    conv = Conversation.objects(conversation_id=conversation_id).first()
+    conv = Conversation.objects(conversation_id=conversation_id,user_id= user_id).first()
     conv.messages.append(msg)
     conv.updated_at = datetime.utcnow()
     conv.save()
@@ -136,6 +139,7 @@ def add_new_message_to_conversation(role, content, conversation_id):
 @csrf_exempt
 def chat_send(request, conversation_id):
     if request.method == "POST":
+        user_id = request.session.get("user_id")
         message = request.POST.get("message", "").strip()
         file = request.FILES.get("file")
         is_summary = request.POST.get("isSummary", "false").lower() == "true"
@@ -163,7 +167,8 @@ def chat_send(request, conversation_id):
             # file_path = f"/media/{file.name}"
             file_name = os.path.splitext(file.name)[0]
             
-            add_new_file(file_path=file_path, file_name=file_name)
+            if user_id:
+                add_new_file(file_path=file_path, file_name=file_name, user_id=user_id)
             
             if not os.path.exists(file_path):
                 with open(file_path, "wb+") as destination:
@@ -203,8 +208,9 @@ def chat_send(request, conversation_id):
                 html_respond = render_markdown(bot_respond)
 
                 # --- Lưu hội thoại ---
-                add_new_message_to_conversation("user", message, conversation_id=conversation_id)
-                add_new_message_to_conversation("assistant", bot_respond, conversation_id=conversation_id)
+                if user_id and conversation_id:
+                    add_new_message_to_conversation("user", message, conversation_id=conversation_id, user_id=user_id)
+                    add_new_message_to_conversation("assistant", bot_respond, conversation_id=conversation_id, user_id= user_id)
                 return JsonResponse({
                 "response": html_respond,
                 "suggestions": suggestions or []
@@ -238,8 +244,75 @@ def chat_send(request, conversation_id):
 @csrf_exempt
 def delete_chat(request, conversation_id):
     if request.method == "POST":
-        conv = Conversation.objects(conversation_id=conversation_id).first()
+        user_id = request.session.get("user_id")
+        
+        conv = Conversation.objects(conversation_id=conversation_id, user_id= user_id).first()
         conv.delete()
         return JsonResponse({
             "response": f"Conversation {conversation_id} đã được xóa thành công"
         })
+        
+from django import forms
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.decorators import login_required
+import json
+
+@csrf_exempt
+def login_user(request):
+    if request.method != "POST":
+        return JsonResponse({"status": "error", "msg": "Phương thức không hợp lệ."}, status=400)
+
+    try:
+        data = json.loads(request.body.decode("utf-8"))
+        username = data.get("username")
+        password = data.get("password")
+
+        user = Users.objects(user_id=username).first()
+        print(username, password)
+
+        if user and user.password == password:
+            request.session["user_id"] = username  # lưu session
+            return JsonResponse({"status": "success", "msg": "Đăng nhập thành công!"})
+        else:
+            return JsonResponse({"status": "error", "msg": "Sai thông tin đăng nhập"})
+    except Exception as e:
+        print("Login error:", e)
+        return JsonResponse({"status": "error", "msg": "Lỗi server!"}, status=500)
+
+@csrf_exempt
+def logout_user(request):
+    request.session.flush()  # xóa toàn bộ session
+    return JsonResponse({"status": "success", "msg": "Đăng xuất thành công!"})
+
+
+@csrf_exempt
+def register_user(request):
+    if request.method != "POST":
+        return JsonResponse({"status":"error","msg":"Phương thức không hợp lệ."}, status=400)
+
+    try:
+        data = json.loads(request.body.decode("utf-8"))
+        user_id = data.get("username")
+        email = data.get("email")
+        password = data.get("password")
+        confirm = data.get("confirm")
+
+        # --- Kiểm tra mật khẩu ---
+        if len(password) < 8:
+            return JsonResponse({"status":"error","msg":"Mật khẩu phải ít nhất 8 ký tự."})
+        if password != confirm:
+            return JsonResponse({"status":"error","msg":"Hai mật khẩu không khớp."})
+
+        # --- Kiểm tra user_id đã tồn tại chưa ---
+        if Users.objects(user_id=user_id).first():
+            return JsonResponse({"status":"error","msg":"Tên đăng nhập đã tồn tại."})
+
+        # --- Tạo user mới ---
+        user = Users(user_id=user_id, email=email, password=password)
+        user.save()
+
+        return JsonResponse({"status":"success","msg":"Đăng ký thành công!"})
+
+    except Exception as e:
+        print("Register error:", e)
+        return JsonResponse({"status":"error","msg":"Lỗi server!"}, status=500)

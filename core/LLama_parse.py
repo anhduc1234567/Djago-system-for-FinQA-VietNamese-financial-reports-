@@ -7,9 +7,9 @@ from llama_index.llms.gemini import Gemini
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_cloud_services import LlamaParse
 import json
-os.environ["LLAMA_CLOUD_API_KEY"] = 'llx-wb0KFwiZzdFRReVCyJP1PsdYhpONJKuLkIPt1CwCP18dcps1'
-os.environ["GOOGLE_API_KEY"] = 'AIzaSyBpAFCUa0UGLvZh2lTCgz_T0BDsNkN96YU'
-# Settings.llm = Gemini(model="gemini-2.5-pro")
+os.environ["LLAMA_CLOUD_API_KEY"] = 'llx-'
+os.environ["GOOGLE_API_KEY"] = ''
+# Settings.llm = Gemini(model="gemini-2.5-flash")
 # Settings.embed_model = GeminiEmbedding()
 
 def clear_folder_files(folder_path):
@@ -38,7 +38,7 @@ if sys.platform.startswith("win"):
 def pdf_to_md(file_path,type):
     parser = LlamaParse(
     # result_type="markdown",
-    num_workers=4,
+    # num_workers=4,
     model="openai-gpt-4-1-mini",
     # auto_mode=True,
     language='vi',
@@ -46,6 +46,7 @@ def pdf_to_md(file_path,type):
     high_res_ocr=True,
     outlined_table_extraction=True,
     page_separator="\n\n---\n\n",
+    precise_bounding_box=True,
     # output_tables_as_HTML=True,
     adaptive_long_table=True,
     # auto_mode_trigger_on_image_in_page=True,
@@ -72,9 +73,9 @@ def pdf_to_md(file_path,type):
     os.makedirs(output_folder, exist_ok=True)
     clear_folder_files(output_folder)
     document_to_one_file(documents,save_path)
-    for i in range(len(documents)):
+    for i, page in enumerate(results.pages):
         with open(f"{output_folder}/page_{i}.md", "w", encoding="utf-8") as f:
-            f.write(documents[i].text)
+            f.write(f'{page.text} +\n {page.md} + \n + {page.layout} \n {page.structuredData}')
     infor = add_new_data(save_path)
     return save_path, infor
 
