@@ -1,0 +1,11 @@
+[0;1;31m●[0m mongod.service - MongoDB Database Server
+     Loaded: loaded (/lib/systemd/system/mongod.service; enabled; vendor preset: enabled)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Thu 2025-11-13 13:25:27 +07; 5s ago
+       Docs: https://docs.mongodb.org/manual
+    Process: 299433 ExecStart=/usr/bin/mongod --config /etc/mongod.conf [0;1;31m(code=exited, status=48)[0m
+   Main PID: 299433 (code=exited, status=48)
+
+Thg 11 13 13:25:27 nmtuet-serv systemd[1]: Started MongoDB Database Server.
+Thg 11 13 13:25:27 nmtuet-serv mongod[299433]: {"t":{"$date":"2025-11-13T06:25:27.793Z"},"s":"I",  "c":"CONTROL",  "id":7484500, "ctx":"main","msg":"Environment variable MONGODB_CONFIG_OVERRIDE_NOFORK == 1, overriding \"processManagement.fork\" to false"}
+Thg 11 13 13:25:27 nmtuet-serv systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongod.service: Main process exited, code=exited, status=48/n/a[0m
+Thg 11 13 13:25:27 nmtuet-serv systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mmongod.service: Failed with result 'exit-code'.[0m

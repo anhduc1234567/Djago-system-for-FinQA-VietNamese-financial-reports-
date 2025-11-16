@@ -1,93 +1,111 @@
- CÔNG TY CỎ PHÀN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
- Địa chi: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
-                  BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                                             Năm 2024
-                                                             Waseco gán nợ phí bào lãnh CT
-                                                             NMN Hữu   Định  Giao   Long cho               108.222.411
-                                                             Viwaseen 11
-                                                                   Viwaseen 11 trả tiền phí bảo lãnh CT
-                                                             NMN Hữu   Định  Giao Long cho                 108.222.411
-                                                             Waseco
-                                                             Viwaseen             trả tiền CT: CMT8 (XN    282.420.193
-                                                            Khoanứng)
+TỐNG CÔNG TY KHÍ VIỆT MAM - CÔNG TY Cẩ PHẦN                              MẪU SỐ B 09a-DN /HN
+THUYẼT MINH BẢO CAO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
 
- Công ty CP Tư vấn và Cấp nước Đông                          Chi   nhánh TTKD vật  bán vật tl;             954.954.000
- Nam Á Mêkông Rạch Giá                       Côngty con     Ithiết bị
-                                                             Chi nhánh TTKD vật tư thu tiền bán            954.954 000
-                                                             vạt luthiết bị
-                                                             Viwaseen   14 tạmn ứng tiền thi công          OAN
-                                                                  [công trinh TL28 Cửa khẩu Hà Tiên cho    1.717.000.000
-                                                             Waseco
- Côngty Cổ phầnXâylắp và Sản xuất Thiết Cùng Công ty                Waseco xuất hóa đơn cho Viwaseen 14
- bị Ngành nước (Viwaseen 14)                 mẹ             [Giá trị khối lượng hoàn thành đợt 1-2
-                                                           [công trinh Di dời, lắp đặt các thiết bị        850.766.780
-                                                            [cấp nước thuộc Dự án đẩu tư xây dựng
-                                                            Icôngtrình đường ra cửa khẩu Hà Tiên
-                                                            [Tỉnh Kiên Giang
- Số dư công nợ phải thu, phải trả với bên liên quan tại ngày 31/12/2024 như sau:
- Các bên liên quan                                 Mối quan hệ               Số cuối năm                   Số đầu năm
- Phải thu kháchhàng                                                                      12.093.638.264    1.396.754.465
- Tổng Công ty Đầu tư Nước và Môi                   Côngty mẹ                              6.959.871.484    1.396.754.465
-trường Việt Nam (Viwaseen)                   Cùngcông                                     5.133.766.780
- Côngty Cổ phần Xây lắp và Sản xuất                            ly mnẹ
-Thiết bị Ngành nước (Viwaseen 14)                                                                            739.146,258
- Trả trước cho người bán                     Cùng                                                          739.146 251
- Côngty CP Khoan và Xây Lắp Cấp Thoát                      công ty mẹ
- Nước Viwaseen /1)                                                              12.093.638.264             2.135.900
-                  Công
- Các bên liên quan                                 Mối quan hệ               Số cuối năm                   Số đầu năm
- Phải trà người bán ngắn hạn                                                                230.222.929    8.011.146.475
- TongCông ty Đầu tư Nưóc và Môi                    Côngty mẹ                                230.222.929    8.011.146.475
-truong Việt Nam ( Viwaseen)                                                        232.836.421             1.944.063
-                            ngắn hạn
- Người mua trả tiền trước                          Công ty mẹ                      179.923.736
- TổngCông ty Đầu tư Nưóc và Môi
-trưởng Việt Nam ( Viwaseen)                                                        52.912.685              1.944.063
-     Côngty CP Khoan và Xây Lắp Cấp Thoát    Cùng công ty mẹ
- Nước Viwaseen /1)                                                                 767.557.775             485.137.582
- Phai trả khác                                     Cùngcông                        767.557.775             485.137.582
-    Công ty CP Khoan và Xây Lẳp Cấp Thoát                      ty me
- Nước (Viwaseen 1 1)                                                               1.230.617.125           8.498.228.120
-                  Công
-
-
-39 +
+19.     PHÁl TRÁ KHÁC
+                                                                         Số cuốì kỲ                  Sở đầu kỳ
+                                                                                VND                VND
+            Phải trà ngắn hạn khác                                  133,034,435,280    142,649,759 162
+        Nhan ký cược ky qu7 ngan han
+        Phẻi -rả cac bên trong hợp đồng hợp tác kinh dcanh           81,955,704,768     79,613,834,547
+        ("BCC")                                                  43,163,407,491                    258,349,500
+         Cỏ tức phải trả                                                                        31,653,059,057
+         Chenh lệch giá khí bao tíẻu phắi nộp Nhả nước               85,966,140,033            119 663,579,466
+        Fhẩitrả ngắn hạn khác
+                                                                     344119,687,572            373,838,581,752
+         Trong đó:
+         Pnartra ngan nan Khac cno Cac ben Ilen quan Chu Veu     3919u219
+         (chi tiết rại Thuyét minh 5ố 35)
+          b. PhẢi trẢ dài hạn khác                                  117,993,329,052            128,767,710,130
+         Nhân ký quỹ kỶ cưoc dai hạn                                      2,431,891,964
+          Phảỉ lrả dai han khác                                                                    932,488,529
+                                                                        120,425,221,016        129,700,198,659
+         Pnẩn ánh phần vốn gỏp và lơi nhuán dược chla của Công ty Cẩ phần Đja ốc Phú Long từ vìệc đầu
+          tư' xãy dựng vè kInh doanh khai thác Dự án "Tòa nhà Vẳn phòng PV Gas Tower"                673 Đường
+                                                                                               tai sổ
+         Nguyễn HữuTnoXã Nhà Bè, Thành Phố Hồ Chí Minh Theo thỏa thuận giữa các bên, Tổng Công
+          ty thực hiện      lý và hạch toán kết  kinh doenh cúa hợp đồng và phân chia lợi rhuận sau
+                          quản                 quả
+          tnuế cha cac bên theo tỷ lé vổn gop.
+          Tỷ lệ vốn góp của các bên theo thóa thuan tai BCC như sau:
+                                                                                                 TỷIệ góp (%)
+          Tổng Công ty                                                                               9096
+          Công         phần Đia óc Phú Long                                                                 1096
+             tY Cỗ
+          Giá tri tài sán cố định của BCC tại cuôi kỳ hoạt dộng như sau:
+                                                                                  Số cuổilỲ               dầu kỳ
+                                                                                        VND                  VND
+          Nguyen giá                                            723.317.373.840                 723 317 373,.840
+            Trong đó;                                           223,730.000 O0o                  223 730.cO0.0oO
+             Quyền sử dung đât                                   499,.58/.373 840               499.587.373.840
+             Tàl sán tren đốt                                             (168.782 476.627)    {164.018.979.532)
+           Giá tri khấu hao lũy kế cua tài sảr trên đắt         554.534.897 213                  559.298.394.307
+           Giá trị cèn lai
+          Tinh hình hoat độrg kinh doanh và phãn chia lãi /(lố) then tý lệ võp gỏp cho kỷ hoạt động 6 tháng
+          kêt thúc ngày 30 théng 6 năm 2025 và ngay 30 tháng 6 nãm 2024 như sau:
+                                                                                      Kỳnàỵ          Kỳ trước
+                                                                                        VND          VND
+            Doanhu thu                                                       64.647.787,379      61.285,606.912
+            Glz von                                                        (27.709.328,074)     {26.466,752.241)
+            Chl phí khác                                         (1.035 594.554)                 (763 193.366)
+            Thuể thu nhập doanh nghiệp                                  180.572.950}             (6.811 132.261)
+           Lợi nhuận sau thuế                                     28.722.291.801                 27.244.529.094
+            Phcn chia theo tỷ le gop vẩn:                         26.380 421.580                 25,.024,307,996
+            Tẩng Công ty                                                                         2,220.221.048
+            Công ty Cẵ phần Đja ũc Phú Long                         2.341,870.221 +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# 19. PHẢI TRẢ KHÁC
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024
+|                                                                                       | Số cuối kỳVND       | Số đầu kỳVND        |
+| ------------------------------------------------------------------------------------- | ------------------- | ------------------- |
+| **a. Phải trả ngắn hạn khác**                                                         |                     |                     |
+| Nhận ký cược, ký quỹ ngắn hạn                                                         | 133,034,435,280     | 142,649,759,182     |
+| Phải trả các bên trong hợp đồng hợp tác kinh doanh ("BCC") (\*)                       | 81,955,704,768      | 79,613,834,547      |
+| Cổ tức phải trả                                                                       | 43,163,407,491      | 258,349,500         |
+| Chênh lệch giá khí bao tiêu phải nộp Nhà nước                                         | 85,966,140,033      | 119,663,579,466     |
+| Phải trả ngắn hạn khác                                                                |                     |                     |
+| ***Tổng cộng***                                                                       | **344,119,687,572** | **373,838,581,752** |
+| *Trong đó:*                                                                           |                     |                     |
+| Phải trả ngắn hạn khác cho các bên liên quan chủ yếu (chi tiết tại Thuyết minh số 35) | 39,302,920,354      | 24,567,931,587      |
+| **b. Phải trả dài hạn khác**                                                          |                     |                     |
+| Nhận ký quỹ, ký cược dài hạn                                                          | 117,993,329,052     | 128,767,710,130     |
+| Phải trả dài hạn khác                                                                 | 2,431,891,964       | 932,488,529         |
+| ***Tổng cộng***                                                                       | **120,425,221,016** | **129,700,198,659** |
 
-| Công ty                                                               | Mối quan hệ     | Chi tiết                                                                                                                                                                                                      | Số tiền (VND) |
-| --------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| -                                                                     | -               | Waseco gán nợ phí bảo lãnh CT NMN Hữu Định - Giao Long cho Viwaseen 11                                                                                                                                        | 108.222.411   |
-|                                                                       |                 | Viwaseen 11 trả tiền phí bảo lãnh CT NMN Hữu Định - Giao Long cho Waseco                                                                                                                                      | 108.222.411   |
-|                                                                       |                 | Viwaseen 11 trả tiền CT: CMT8 (XN Khoan ứng)                                                                                                                                                                  | 282.420.193   |
-| Công ty CP Tư vấn và Cấp nước Đông Nam Á - Mêkông Rạch Giá            | Công ty con     | Chi nhánh TTKD vật tư bán vật tư, thiết bị                                                                                                                                                                    | 954.954.000   |
-|                                                                       |                 | Chi nhánh TTKD vật tư thu tiền bán vật tư, thiết bị                                                                                                                                                           | 954.954.000   |
-| Công ty Cổ phần Xây lắp và Sản xuất Thiết bị Ngành nước (Viwaseen 14) | Cùng Công ty mẹ | Viwaseen 14 tạm ứng tiền thi công công trình TL28 Cửa khẩu Hà Tiên cho Waseco                                                                                                                                 | 1.717.000.000 |
-|                                                                       |                 | Waseco xuất hóa đơn cho Viwaseen 14 Giá trị khối lượng hoàn thành đợt 1+2 công trình Di dời, lắp đặt các thiết bị cấp nước thuộc Dự án đầu tư xây dựng công trình đường ra cửa khẩu Hà Tiên - Tỉnh Kiên Giang | 6.850.766.780 |
+
+> (*) Phản ánh phần vốn góp và lợi nhuận được chia của Công ty Cổ phần Địa ốc Phú Long từ việc đầu tư xây dựng và kinh doanh khai thác Dự án "Tòa nhà Văn phòng PV Gas Tower" tại số 673 Đường Nguyễn Hữu Thọ, Xã Nhà Bè, Thành Phố Hồ Chí Minh. Theo thỏa thuận giữa các bên, Tổng Công ty thực hiện quản lý và hạch toán kết quả kinh doanh của hợp đồng và phân chia lợi nhuận sau thuế cho các bên theo tỷ lệ vốn góp.
+
+Tỷ lệ vốn góp của các bên theo thỏa thuận tại BCC như sau:
+
+|                                 | Tỷ lệ góp (%) |
+| ------------------------------- | ------------- |
+| Tổng Công ty                    | 90%           |
+| Công ty Cổ phần Địa ốc Phú Long | 10%           |
 
 
-### c. Số dư công nợ phải thu, phải trả với bên liên quan tại ngày 31/12/2024 như sau:
+Giá trị tài sản cố định của BCC tại cuối kỳ hoạt động như sau:
 
-| Các bên liên quan                                                     | Mối quan hệ     | Số cuối năm (VND) | Số đầu năm (VND) |
-| --------------------------------------------------------------------- | --------------- | ----------------- | ---------------- |
-| **Phải thu khách hàng**                                               |                 |                   |                  |
-| Tổng Công ty Đầu tư Nước và Môi trường Việt Nam (Viwaseen)            | Công ty mẹ      | 6.959.871.484     | 1.396.754.465    |
-| Công ty Cổ phần Xây lắp và Sản xuất Thiết bị Ngành nước (Viwaseen 14) | Cùng công ty mẹ | 5.133.766.780     |                  |
-| **Trả trước cho người bán**                                           | Cùng công ty mẹ | 739.146.258       |                  |
-| Công ty CP Khoan và Xây Lắp Cấp Thoát Nước (Viwaseen 11)              |                 |                   |                  |
-| **Cộng**                                                              |                 | 12.093.638.264    | 2.135.900.723    |
-| **Phải trả người bán ngắn hạn**                                       |                 |                   |                  |
-| Tổng Công ty Đầu tư Nước và Môi trường Việt Nam (Viwaseen)            | Công ty mẹ      | 230.222.929       | 8.011.146.475    |
-| **Người mua trả tiền trước ngắn hạn**                                 |                 |                   |                  |
-| Tổng Công ty Đầu tư Nước và Môi trường Việt Nam (Viwaseen)            | Công ty mẹ      | 179.923.736       | 1.944.063        |
-| Công ty CP Khoan và Xây Lắp Cấp Thoát Nước (Viwaseen 11)              | Cùng công ty mẹ | 52.912.685        | 1.944.063        |
-| **Phải trả khác**                                                     |                 |                   |                  |
-| Công ty CP Khoan và Xây Lắp Cấp Thoát Nước (Viwaseen 11)              | Cùng công ty mẹ | 767.557.775       | 485.137.582      |
-| **Cộng**                                                              |                 | 1.230.617.125     | 8.498.228.120    |
+|                                              | Số cuối kỳVND       | Số đầu kỳVND        |
+| -------------------------------------------- | ------------------- | ------------------- |
+| Nguyên giá                                   | 723,317,373,840     | 723,317,373,840     |
+| Trong đó:                                    |                     |                     |
+| Quyền sử dụng đất                            | 223,730,000,000     | 223,730,000,000     |
+| Tài sản trên đất                             | 499,587,373,840     | 499,587,373,840     |
+| Giá trị khấu hao lũy kế của tài sản trên đất | (168,782,476,627)   | (164,018,979,533)   |
+| **Giá trị còn lại**                          | **554,534,897,213** | **559,298,394,307** |
+
+
+Tình hình hoạt động kinh doanh và phân chia lãi/(lỗ) theo tỷ lệ vốn góp cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025 và ngày 30 tháng 6 năm 2024 như sau:
+
+|                                   | Kỳ nàyVND          | Kỳ trướcVND        |
+| --------------------------------- | ------------------ | ------------------ |
+| Doanh thu                         | 64,647,787,379     | 61,285,606,912     |
+| Giá vốn                           | (27,709,328,074)   | (26,466,752,241)   |
+| Chi phí khác                      | (1,035,594,554)    | (763,193,366)      |
+| Thuế thu nhập doanh nghiệp        | (7,180,572,950)    | (6,811,132,261)    |
+| **Lợi nhuận sau thuế**            | **28,722,291,801** | **27,244,529,094** |
+| Phân chia theo tỷ lệ góp vốn:     |                    |                    |
+| - Tổng Công ty                    | 26,380,421,580     | 25,024,307,996     |
+| - Công ty Cổ phần Địa ốc Phú Long | 2,341,870,221      | 2,220,221,048      |
 
 
  + 

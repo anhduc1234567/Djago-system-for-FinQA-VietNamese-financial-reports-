@@ -1,82 +1,85 @@
-CÔNG TY cỎ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phồ Quang; Phường 2, Quận Tân Bình, TP Hồ Chi Minh
-BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-Năm 2024                                                          giá trị đượchuỏng
-                                                    Waseco cân trừ
-                                                  Ct: BT-CW-05 Tlông câp nuớc sạch
-                                                    Bác Thạnh Phú, Bến Tre với tiền thuê            112.124.154
-                                                     VP cua chi nhánh Tông Cty Viwaseen
-                                                  tại TPHCM
-                                                     Waseco (TTKD) bán   vật tu   cho             4.115.827.683
-                                                  Viwaseen
-                                                    Viwaseen trà  tiền mua vật tư cho             4.295.751.419
-                                                  Waseco TTKD)
-TổngCôngty Đầu tu Nước và Môitrường  Công ty mẹ              Waseco chi tiền Gói thầu BT-CW-05
-Việt Nam (Viwaseen)                               Bắc Thạnh Phú, Bến Tre (Hợp đồng                1.472.778.398
-                                                  [xây dựng số 1354/HĐXD-2022 ngày                        cÔNG
-                                                         19/08/2022) theo Thòa thuận Liên danh              TNH
-                                                  [số 01/2022/TTLDIVIWASEEN                               'HvU
-                                                  WASECO ngày 08/06/2022                                  HINH
-                                                          Wascco Thanh toán khối lượng thi                 KIÊM
-                                                 |công CT: HTCN phuờng Tam Phước ,                7.780.923.546
-                                                 Đổngᴺᵃⁱ                                                  EP
-                                                    Wasecochuyểntiền   cho Viwaseen                0oo.oo0.oo0
-                                                 Jtheo văn bản số 707/CTN-TCKT ngày
-                                                  30/12/2024
-                                                    Waseco cung cấp điện, nước, phí bào            134.565.550
-                                                  vệ văn phòng cho Viwaseen 11
-                                                    Viwaseen 11 trả tiền điện, nuớc, phí           134.565.550
-                                                  bảo vệ vần phòng cho Waseco
-                                                   Viwaseen 11 cho Waseco thuê VP                  416.604.000
-                                                   Waseco trả tiền thuê VP cho                     416.604.000
-                                                  Viwasen /1
-                                                    Waseco trà tiền thuê đất và thuế sư              50059953
-                                                 [dung đất phi nông nghiệp thay và ghi               390096
-                                                 nợ Viwasen 11                                      192.  TY
-                                                      Viwaseen   11 tràtiền thuê dất, thuế          243cổ PHÂì
-Côngty CP Khoan và Xây Lắp Cấp Thoát CùngCông     dất cho Waseco
-Nước ( Viwaseen 1 1 )                mc             Viwaseen /1 bán vật tư và thi công              8.924515
-                                                  CT Nhà máy   nước Hữu   Định cho                8.638
-                                                  Waseco
-                                                   Viwaseen 11 trả tiên nước súc xả CT               74.412.000
-                                                  NMN Hữu Định cho Waseco
-                                                    Waseco bù trừ công nợgiữa Cty
-                                                  [Khoan và Cty Hưg Phát    CP NMN                   74,412.000
-                                                  [Hữu Định
-                                                    Waseco trả tiền thi công và mua vật
-                                                    gói số 2 CT Tuyếnốngcấp nước từ               7.899.778.317
-                                                  NMN Hữu Định về KCN giao Long cho
-                                                  Viwaseen | ]
+TỔNG CÔNG TY KHÍ vIỆT NAM CôNG TY CỐ PHẦN                                    MÂU 50 B 09a-DN/HN
+THUYẾT MIIVH BÁO CÁO TÀI CHÍNH HỢP NHẤT GlỮA NIÊN ĐỘ (Tiếp theo)
 
-                                                  38 +
+17.  CHI PH[PHẢl TRẢ NGẮN HẠN
+                                                                 5ố_cuổlkỉ                      Số dầu kỳ
+                                                                             VND                VND
+        Phảỉ trá vẻ chi phỉ         xỉr lỷ và van chuyen khi       2,374.348.408.126            2.550.729.628.035
+                             mua
+        Trong ó;                                                     951.993.C03.956            931.990.781.227
+           Chi phỉ muo khí Sao Vàng Đạỉ Nguyệt                                                  752 994.284.579
+            Cni phi mua và vân chuvến khi Nam Côn Sơn                635.944.337.804
+                                                                 404.594,        921
+            Chi phi mua và xử lỷ khí Cửu Long                    '649.                          436.060.377.025
+            Chi phỉ mua va xỬ lỷ knỉ và condensate ThỉênƯng          187,424.011.965            190.340.659.043
+         Đạl Hùng                  ' Rông Tháỉ Binh                   98.257.314.612             94.455.407.074
+            Chi phí mua khi Hàr
+            phi mua khỉ PM3 CAA và 46 Cái NưỚc                            96.135.089.868        141.885.119.087
+            Chí
+         Ch pni bao dưong sưa chua                                                              126.688.858.798
+        Phải trả chi phỉ nhãn hIệu                                    92.422.930.667             29.989.227.298
+        Phải trả chi phí lãi vay                                          21.784.027.795          256.034.093.460
+          Chi phi phai trả khác                                          273.232.951.075
+                                                                                                          654.976
+                                                                       2.982.297.997.174        2.995123.
+          Trong đả;                                                                             1.983.514.872.085
+          Chi phí phẳi trả ngắn hạn cho bên liên quan chủ yểu           1978.584.769.652
+        (chi tiết tai Thuyết minh sấ 35}
+
+18.     DOANH THU CHUA THƯC HIỆN NGẮN HẠN
+                                                                                  Só cuối kỷ            Số dầu kỳ
+                                                                                       VINVD                  VND
+           Doanh thu bao tiêu chưa thực hiện (*)                                                2.229.174 396.077
+           Doanh thL cho thué vỏ bÌnh                                          4,894,189 053       10.686.739.195
+           Doanh thu khấc                                                      1.398.988.494         1.175.472371
+                                                                               6,293.177.547    2.241.036.607.643
+
+           Tạỉ ngay 31 tháng 12 nẳmi 2024, số dư phản ánh phân chénh lệch                   doanh thu bao tiêu va
+                                                                           Gifa
+           doanh thu đã thực hiện dưói mức bao tiêu mả Tổng Công ty có nghĩa vụ thực hiên trong vcng
+           4 nẳm kể từ ngày phát sinh phần cnênh lệch nảy với Công ty Cổ phần Điện lực Dầu khí Nhơn
+           Trach 2
+                          Tông Câng ty đã ký Phụ luc bổ sung s2 12 ngày 27 thảng 02 năm 2025 của Hợp dồng Mua bán
+           khí cho nhà mảy diện Nhơn Trach 2, trong dó, hai bên cùng thổng nhất đỉều chỉnh lượng khí
+           nhận tối thiểu của nỰm hợp đâng 2024 và 2025. Theo đó, khoản chênh lệch này đã được ghi
+                        nhận vao doanh thu bánhànBhóà và cung cấp dịch vụ vởi só tiên là 1.039.511.914.882 VND và
+           diêu chỈnh giảm toàn tộ sõ dư con lai, tương ứng giảm phải thu ngắn hạn của khách hàng vửỉ
+          5ố tiỀn là 1.189.662.481.195 VND +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# 17. CHI PHÍ PHẢI TRẢ NGẮN HẠN
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024
-
-| Tên đơn vị                                                 | Quan hệ         | Giao dịch và số tiền (VNĐ)                                                                                                                                                                                       |
-| ---------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tổng Công ty Đầu tư Nước và Môi trường Việt Nam (Viwaseen) | Công ty mẹ      | \* Waseco cần trừ giá trị được hưởng Ct: BT-CW-05 T/ống cấp nước sạch Bắc Thạnh Phú, Bến Tre với tiền thuê VP của chi nhánh Tổng Cty Viwaseen tại TP.HCM<br/>112.124.154                                         |
-|                                                            |                 | \* Waseco (TTKD) bán vật tư cho Viwaseen<br/>4.115.827.683                                                                                                                                                       |
-|                                                            |                 | \* Viwaseen trả tiền mua vật tư cho Waseco (TTKD)<br/>4.295.751.419                                                                                                                                              |
-|                                                            |                 | \* Waseco chi tiền Gói thầu BT-CW-05 Bắc Thạnh Phú, Bến Tre (Hợp đồng xây dựng số 1354/HĐXD-2022 ngày 19/08/2022) theo Thỏa thuận Liên danh số 01/2022/TTLD/VIWASEEN - WASECO ngày 08/06/2022.<br/>1.472.778.398 |
-|                                                            |                 | \* Waseco Thanh toán khối lượng thi công CT: HTCN phường Tam Phước, Đồng Nai<br/>7.780.923.546                                                                                                                   |
-|                                                            |                 | \* Waseco chuyển tiền cho Viwaseen theo văn bản số 707/CTN-TCKT ngày 30/12/2024<br/>4.000.000.000                                                                                                                |
-|                                                            |                 |                                                                                                                                                                                                                  |
-| Công ty CP Khoan và Xây Lắp Cấp Thoát Nước (Viwaseen 11)   | Cùng Công ty mẹ | \* Waseco cung cấp điện, nước, phí bảo vệ văn phòng cho Viwaseen 11<br/>134.565.550                                                                                                                              |
-|                                                            |                 | \* Viwaseen 11 trả tiền điện, nước, phí bảo vệ văn phòng cho Waseco<br/>134.565.550                                                                                                                              |
-|                                                            |                 | \* Viwaseen 11 cho Waseco thuê VP<br/>416.604.000                                                                                                                                                                |
-|                                                            |                 | \* Waseco trả tiền thuê VP cho Viwaseen 11<br/>416.604.000                                                                                                                                                       |
-|                                                            |                 | \* Waseco trả tiền thuê đất và thuế sử dụng đất phi nông nghiệp thay và ghi nợ Viwaseen 11<br/>192.500.096                                                                                                       |
-|                                                            |                 | \* Viwaseen 11 trả tiền thuê đất, thuế đất cho Waseco<br/>243.468.718                                                                                                                                            |
-|                                                            |                 | \* Viwaseen 11 bán vật tư và thi công CT Nhà máy nước Hữu Định cho Waseco<br/>8.638.924.575                                                                                                                      |
-|                                                            |                 | \* Viwaseen 11 trả tiền nước súc xả CT NMN Hữu Định cho Waseco<br/>74.412.000                                                                                                                                    |
-|                                                            |                 | \* Waseco bù trừ công nợ giữa Cty Khoan và Cty Hưng Phát - CP NMN Hữu Định<br/>74.412.000                                                                                                                        |
-|                                                            |                 | \* Waseco trả tiền thi công và mua vật tư gói số 2 CT Tuyến ống cấp nước từ NMN Hữu Định về KCN giao Long cho Viwaseen 11<br/>7.899.778.317                                                                      |
+|                                                                                          | Số cuối kỳ<br/>VND | Số đầu kỳ<br/>VND |
+| ---------------------------------------------------------------------------------------- | ------------------ | ----------------- |
+| Phải trả về chi phí mua, xử lý và vận chuyển khí                                         | 2.374.348.408.126  | 2.550.729.628.035 |
+| *Trong đó:*                                                                              |                    |                   |
+| - Chi phí mua khí Sao Vàng Đại Nguyệt                                                    | 951.993.003.956    | 934.990.781.227   |
+| - Chi phí mua và vận chuyển khí Nam Côn Sơn                                              | 635.944.337.804    | 752.994.284.579   |
+| - Chi phí mua và xử lý khí Cửu Long                                                      | 404.594.649.921    | 436.060.377.025   |
+| - Chi phí mua và xử lý khí và condensate Thiên Ưng Đại Hùng                              | 187.424.011.965    | 190.340.659.043   |
+| - Chi phí mua khí Hàm Rồng Thái Bình                                                     | 98.257.314.612     | 94.455.407.074    |
+| - Chi phí mua khí PM3 CAA và 46 Cối Nước                                                 | 96.135.089.868     | 141.885.119.087   |
+| Chi phí bảo dưỡng sửa chữa                                                               | 220.509.679.511    | 126.688.868.798   |
+| Phải trả chi phí nhãn hiệu                                                               | 92.422.930.667     | 29.989.227.298    |
+| Phải trả chi phí lãi vay                                                                 | 21.784.027.795     | 256.034.093.460   |
+| Chi phí phải trả khác                                                                    | 273.232.951.075    | 256.034.093.460   |
+| **Tổng chi phí phải trả ngắn hạn**                                                       | 2.982.297.997.174  | 2.995.123.654.976 |
+| *Trong đó:*                                                                              |                    |                   |
+| **Chi phí phải trả ngắn hạn cho bên liên quan chủ yếu** (chi tiết tại Thuyết minh số 35) | 1.978.584.769.652  | 1.983.514.872.085 |
 
 
+# 18. DOANH THU CHƯA THỰC HIỆN NGẮN HẠN
+
+|                                            | Số cuối kỳ<br/>VND | Số đầu kỳ<br/>VND |
+| ------------------------------------------ | ------------------ | ----------------- |
+| Doanh thu bao tiêu chưa thực hiện (\*)     | –                  | 2.229.174.396.077 |
+| Doanh thu cho thuê vỏ bình                 | 4.894.189.053      | 10.686.739.195    |
+| Doanh thu khác                             | 1.398.988.494      | 1.175.472.371     |
+| **Tổng doanh thu chưa thực hiện ngắn hạn** | 6.293.177.547      | 2.241.036.607.643 |
+
+
+> (*) Tại ngày 31 tháng 12 năm 2024, số dư phản ánh phần chênh lệch giữa doanh thu bao tiêu và doanh thu đã thực hiện dưới mức bao tiêu mà Tổng Công ty có nghĩa vụ thực hiện trong vòng 4 năm kể từ ngày phát sinh phần chênh lệch này với Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2.
+>
+> Tổng Công ty đã ký Phụ lục bổ sung số 12 ngày 27 tháng 02 năm 2025 của Hợp đồng Mua bán khí cho nhà máy điện Nhơn Trạch 2, trong đó, hai bên cùng thống nhất điều chỉnh lượng khí nhận tối thiểu của năm hợp đồng 2024 và 2025. Theo đó, khoản chênh lệch này đã được ghi nhận vào doanh thu bán hàng hóa và cung cấp dịch vụ với số tiền là 1.039.511.914.882 VND và điều chỉnh giảm toàn bộ số dư còn lại, tương ứng giảm phải thu ngắn hạn của khách hàng với số tiền là 1.189.662.481.195 VND.
  + 
  + [] 
  None

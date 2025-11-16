@@ -78,6 +78,9 @@ def create_faiss_index(embedding_matrix):
     index = faiss.IndexFlatIP(dimension)  # cosine similarity
     index.add(embedding_matrix)
     print(f"FAISS index created with {index.ntotal} chunks")
+    # res = faiss.StandardGpuResources()  # GPU resources
+    # index_gpu = faiss.index_cpu_to_gpu(res, 0, index)  # 0 = GPU id\
+    # index_gpu.add(embedding_matrix)
     return index
 
 def create_database_for_pdf(input_path = "",embedding_model='all-MiniLM-L6-v2', content = None):

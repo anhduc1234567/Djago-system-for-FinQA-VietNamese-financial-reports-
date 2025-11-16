@@ -1,93 +1,112 @@
-   CÔNG TY ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-   Địa chi: Số 10 Phổ Quang; Phường 2, Q Tân Bình, TP. Hồ Chí Minh.
-      BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                      Năm 2024
-     Đặc điểm hoạtđộng của doanh nghiệp:
-     Hình thức sở hữu vốn:
-  Côngty CP Đầu tư và Xây dựng Cấp Thoát Nước (WASECO) làCôngty Cổ                 được chuyển đổi từ
-  Doanh nghiệp Nhà Nước theo Quyết định số 299/Q4-BXD ngày 03tháng               phần  trưởng
-                                                                   03 năm 2008 của Bộ                       Bộ
- Xâydựng về việc chuyểnCông ty Đầu tư Xâydựng Cấp Thoát Nước thuộcTổng Công ty Đầu tưXây
- dựng Cấp Thoát Nước và MôiTrưòng Việt Nam thành Công ty cổ phẩn. Công ty hoatdộngtheo Giấy
-                    chứngnhậndăng ký doanhnghiệp Iẩn đẩu số 4103009943 ngày 09tháng04 năm 2008;Đăngký thay đổi
-  lân thứ 6 ngày 07tháng06 năm 2023 do Sở Kế Hoạch và Đầu tu TP. Hồ Chí Minh cấp.
-  Vốn diều Iệ của Công ty là: 132.000.000.000đồng(Một trăm ba mươi hai tỷđồng).
-     Lĩnh vực kinh doanh: Đầu tư, xây dựng; tư vấn
-     Ngành       kinh doanh:
-                 nghề
-     Đầu tư xây dựng và kinh doanh cáccôngtrinh cấp nước, thoát nước, xử lý nước thải, chất thải rắn          501172
-  và vệ sinh môi trường. Đầu tư xây dựng và kinh doanh hạtầng7kỹ thuật đô thị, khucôngnghiệp. Đẩu tư   CôNG
- xây dựng; quản lý, khai thác và kinh doanh dịch vụcôngnghiệp; khu dân cư, bãi đỗ xe (không lập bến bãi       Tnhh
- trái phép), kho bãicông nghiệp. Thicôngtôngthầu thicôngxây dựng; lắp đặt các công trình cấp thoát Ch
-  nước, xử lý nước thải và vệ sinh môi trường; Xâydungcác côngtrinh dân dụng;côngnghiệp, giaothông.            HÍNH KÈ
-                 tầngkỹ thuật dô thị: GiacôngỈắp đặt kết cấu thép và các thiết bị cơ điện kỹ thuậtcông         KIEM TC
- thuỷ lợi, hạ                                                                                           trinh PHÍa Xa}
-  Tư vấn đẩu tư xây dụng; Khảo sát địa hinh, địa chất xây dựng công trinh; Thiết kế xâydụngcôngtrinh cấp      HG
- thoát nước, công trỉnh hạtẩng7kỹ thuật dô thị.côngtrinh dân dụng côngnghiệp                                  LP
-     Tư vấn lập và thẩm tra các dự án đầu tư xây dựng; Tư vấn đấu thẩu: Lậptổngdự toán và dự toán các
-  cỗng trinh; Thẩm tra thiết kế vàtổngdự toán; Kinh doanh bấtđộng sản. Sản xuấL, muabán nước sạch. Sản
- xuat. muabán vật tư, vật liệu xây dựng; máy móc thiết bị     phụ tùng phục vụngànhxây dựngchuyên
- ngành cấp thoát nưởc và môitruòng(không sản xuất tạiIrụsở công ty). Khoan thăm dỏ, khoan khai thác
-  nước ngầm. Nuôitrồngthuỷ     hài sàn; cây côngnghiệp; Khai thác, chế biến và mua bán các sảnphẩmtừ
-thuỷ hải sản và câycôngnghiệp (không hoạtđộng tai trụ sởcông ty). Nghiên cứu khoa học và ứng dụng
- chuyển giaocôngnghệ         cấp thoát nước. Đào tạo  Giám sát thicôngxây dựngcôngtrình cấp
-                      ngành                      nghề
-thoát nước, dân dụng và công nghiệp: xâydựngvà hoàn thiện.                             thống
-    Sản xuất điện: Chi tiết: sản xuất điện gió, điện mặt trời và điện khác (trừ truyền tài; điều độ hệ
-       diện quốc gia và xây dựng, vận hành thủy điện đa mục tiêu, điện hạt nhân)  Truyen tải vàphânphỗi diện.  0099067
- Xử lý và tiêu hủy rác thải không độc hại. Xử lý và tiêu hủy rác thải độc hại                                 'ÔNG TY
- Trụ sở của Côngty tại: 10 Phổ Quang, Phường 2, Quận Tân Binh, TP. Hổ Chí Minh.                               'ổ PHÂN
- Các chi nhánh củaCôngty:                                                                                    JvÀ xÂY [
-      Chi nhánh Côngty CP Đẩu tư vàXâydựng Cấp Thoát Nước          Nhà máy nước Đăkmil, địa chi: sốThoít wt
-      01Nguyễn Khuyến Đăkmil, ĐắcNông.                                                                        'TPHỗ
-      Chi nhánh Trung tâm kinh doanh vật tư, địa chỉ: số 10 Phổ Quang   Phường 2, Quận Tân Bình,
-      TP Hồ Chí Minh
-    Chu kỳ sản xuất, kinh doanhthông'thường:
-    Chu kì sản xuất, kinh doanhthôngthuòng cuaCôngty không quá 12 tháng.
-    Đặc điểm hoat              Công                   hưởng dến Báo cáo tài chính riêng: Doanh
-                      động cla            năm có ẳnh               đồng          úng   với tỷ lệ là
-    thu nẳm 2024 giảm so với nẳm 2023                                            tuong  giảm
-    50,26 % Nguyên nhân là do năm 2024 là năm khó khẳn của doanh nghiệp xây dụng các công trinh,
-    số lượngcôngtrinh xây dựng giảm do đó dẫn đến doanh thu củacông              giảm.
-    Cấu trúc doanh nghiệp:
-    Số lượngcôngty con: 01 (một) . +
+   TỔNG CÔNG TY             VIỆT NAM - CÔNG TY CỔ PHẦN                                MẪU SỐ Đ 02a-DN/HN
+                        'KHÍ          đuungNguyễn Hữu Thạ Ban hành theo Thóng tu s6 202/2014/TT-BTC
+   Toa nhà PV GAS Tower, s0 673                                   nEàỵ 22 thang 12 năm 2014 cua Bộ Tàlchính
+   xẫ Nhà BÈ Thành phố Hò Chí Minh, Việt Nam
+                                                          BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẨT GIỮA NIÊN ĐỘ
+                                                          Cho kỳ hoạt động 6 tháng kêt thúc ngày 30 thúng 6 nẵm 2025  Đcn vị: VND
+
+          CHỈ TIÊU                                Mã số Thuyết     Kỳ này                                                Kỳ trước
+                                                          minh
+          Doanh thu bán hàng và cung cãp           01             55.779.400.958.860                           53.386,152.288.106
+          dich vụ                                                 23.551.139.692                                   19.151.087.054
+          Các khoản giảm trừ doanh thu                            55.755.849.819.168                           53.367.001.201.052
+          Doanh thu thuần về ban hàng và                  26
+          cung cấp dỊch vụ (10-01-02)              11                                                          43.940 221.262.828
+            Giá vôn hàn; bản vả djch vu                             46.712,386.582.006
+          cung cap                                                   9.043,463.237.162                          9.426.779.938.224
+          Lgi nhuận gộp về bán hảng và             2O
+          cung cãp dịch vụ (20-10-11)              21     29           758.721.495 503                             90/,732918.322
+           Doanh thu hoạt độnB tài chính                  30           218.126.284 706                            410.280.790.553
+            Chi phí tài cnính                       23                 112.230.125.025
+              Trong ẩé: Chi phí I~i vay                                                                           192.764.731.120
+            Phần lấi trorg cong ty lien doanh;     24                   10,488.786.019                             13.285.723.517
+            liên kết                                25               1.169 160,532.377                           1130.138.587.873
+            chỉ phí bán hàng                                             (964.954 736.694)
+ 10       chi phí quan lý doanh nghiệp              26                                                          1.398.525.961.049
+    11    Lợi nhuận thuần từ hoạt động             30                    9.390.341,438.295                     7,.408.853.240.588
+            kinh doanh
+          {30-20+(21-22)+24-(25+26))                31                      29,407.211.645                         13,409 738 673
+12.         Thu nhập khác                           32                       9.260,643.317                         12.413,090,280
+13.         Chi phf khác                                          20.146.568.328                                      996.648,393
+14.        Lyi nhuận khac (40=31-32)                40
+15.        Tỏng lợl nhuận kế coán trước thuế                            9.410,.488,006.623                     7.409,.849,888.981
+             (50-30+40)                                           1.840.088.977.525           1.436 160.059.7/0
+   16.      Chi phíthué thu nhập doanh
+             qohisohien hanh
+           {Thu nhập) /chi phÍ thuể thu nhập                       877)
+17.                                                               (982.495                    14,017.229,230
+
+18.          doenh nghiép hoãn lại                                7.571.381.524.975           5.959.672.599.981
+             Lợi nhuận sau thuếthu nhap
+             doanh nghiệp (60-50-51-52)
+              Trong do:                                           7,504.136.315.841
+   18.1,      Lợí nhuận sau thuế cua cổ đÊng                                                  5.832.473.118.132
+              của Công ty me
+   18.2       Lợi nhuận sau thuể cua cổ đông                      67.245.209.134              127.199,.481.849
+              không kiên soát
+   19.        Lãi cơ bán trén cổ phiểu                                                        2.403
+
+                                                    ~u            VIỆT NAM
+                                                                  ConG
+
+   Đ{nE Thj Hồng Yển                       Nguyen Anh Tuấn         Nguyẽn Còng Luận
+   Ngươi lập bIểu                          Kế toán trưởng          Phó Táng Giám đốc
+                                                                   Ngay 12 thang 8 narr 2025
+   Các thuyểt minh kem theo là một bộ phận hợp thảnh cúa bảo cvo tài chinh hợp nhẩt gìữa niên độ này +
  
-# BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-## Năm 2024
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ  
+xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam  
 
-## I. Đặc điểm hoạt động của doanh nghiệp:
+MẪU SỐ B 02a-DN/HN  
+Ban hành theo Thông tư số 202/2014/TT-BTC  
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính  
 
-### 1. Hình thức sở hữu vốn:  
-Công ty CP Đầu tư và Xây dựng Cấp Thoát Nước (WASECO) là Công ty Cổ phần được chuyển đổi từ Doanh nghiệp Nhà Nước theo Quyết định số 299/QĐ-BXD ngày 03 tháng 03 năm 2008 của Bộ trưởng Bộ Xây dựng về việc chuyển Công ty Đầu tư Xây dựng Cấp Thoát Nước thuộc Tổng Công ty Đầu tư Xây dựng Cấp Thoát Nước và Môi Trường Việt Nam thành Công ty cổ phần. Công ty hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp lần đầu số 4103009943 ngày 09 tháng 04 năm 2008; Đăng ký thay đổi lần thứ 6 ngày 07 tháng 06 năm 2023 do Sở Kế Hoạch và Đầu tư TP. Hồ Chí Minh cấp.
+## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT GIỮA NIÊN ĐỘ  
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025  
+Đơn vị: VND  
 
-**Vốn điều lệ của Công ty là: 132.000.000.000 đồng** (Một trăm ba mươi hai tỷ đồng).
+| CHỈ TIÊU                                                               | Mã số | Thuyết minh | Kỳ này             | Kỳ trước           |
+| ---------------------------------------------------------------------- | ----- | ----------- | ------------------ | ------------------ |
+| 1. Doanh thu bán hàng và cung cấp dịch vụ                              | 01    |             | 55.779.400.958.860 | 53.386.152.288.106 |
+| 2. Các khoản giảm trừ doanh thu                                        | 02    |             | 23.551.139.692     | 19.151.087.054     |
+| 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02)          | 10    | 26          | 55.755.849.819.168 | 53.367.001.201.052 |
+| 4. Giá vốn hàng bán và dịch vụ cung cấp                                | 11    | 27          | 46.712.386.582.006 | 43.940.221.262.828 |
+| 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11)            | 20    |             | 9.043.463.237.162  | 9.426.779.938.224  |
+| 6. Doanh thu hoạt động tài chính                                       | 21    | 29          | 758.721.495.503    | 907.732.918.322    |
+| 7. Chi phí tài chính                                                   | 22    | 30          | 218.126.284.706    | 410.280.790.553    |
+| - Trong đó: Chi phí lãi vay                                            | 23    |             | 112.230.125.025    | 192.764.731.120    |
+| 8. Phần lãi trong công ty liên doanh, liên kết                         | 24    |             | 10.488.786.019     | 13.285.723.517     |
+| 9. Chi phí bán hàng                                                    | 25    | 31          | 1.169.160.532.377  | 1.130.138.587.873  |
+| 10. Chi phí quản lý doanh nghiệp                                       | 26    | 31          | (964.954.736.694)  | 1.398.525.961.049  |
+| 11. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26)) | 30    |             | 9.390.341.438.295  | 7.408.853.240.588  |
+| 12. Thu nhập khác                                                      | 31    |             | 29.407.211.645     | 13.409.738.673     |
+| 13. Chi phí khác                                                       | 32    |             | 9.260.643.317      | 12.413.090.280     |
+| 14. Lợi nhuận khác (40=31-32)                                          | 40    |             | 20.146.568.328     | 996.648.393        |
+| 15. Tổng lợi nhuận kế toán trước thuế (50=30+40)                       | 50    |             | 9.410.488.006.623  | 7.409.849.888.981  |
+| 16. Chi phí thuế thu nhập doanh nghiệp hiện hành                       | 51    | 32          | 1.840.088.977.525  | 1.436.160.059.770  |
+| 17. (Thu nhập)/chi phí thuế thu nhập doanh nghiệp hoãn lại             | 52    | 32          | (982.495.877)      | 14.017.229.230     |
+| 18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)             | 60    |             | 7.571.381.524.975  | 5.959.672.599.981  |
+| - Trong đó:                                                            |       |             |                    |                    |
+| 18.1. Lợi nhuận sau thuế của cổ đông của Công ty mẹ                    | 61    |             | 7.504.136.315.841  | 5.832.473.118.132  |
+| 18.2. Lợi nhuận sau thuế của cổ đông không kiểm soát                   | 62    |             | 67.245.209.134     | 127.199.481.849    |
+| 19. Lãi cơ bản trên cổ phiếu                                           | 70    | 33          | 3.162              | 2.403              |
 
-### 2. Lĩnh vực kinh doanh:  
-Đầu tư, xây dựng; tư vấn.
 
-### 3. Ngành nghề kinh doanh:  
-Đầu tư xây dựng và kinh doanh các công trình cấp nước, thoát nước, xử lý nước thải, chất thải rắn và vệ sinh môi trường. Đầu tư xây dựng và kinh doanh hạ tầng kỹ thuật đô thị, khu công nghiệp. Đầu tư xây dựng, quản lý, khai thác và kinh doanh dịch vụ công nghiệp; khu dân cư, bãi đỗ xe (không lập bến bãi trái phép), kho bãi công nghiệp. Thi công, tổng thầu thi công xây dựng; lắp đặt các công trình cấp thoát nước, xử lý nước thải và vệ sinh môi trường; Xây dựng các công trình dân dụng, công nghiệp, giao thông, thủy lợi, hạ tầng kỹ thuật đô thị; Gia công lắp đặt kết cấu thép và các thiết bị cơ điện kỹ thuật công trình.
+----
 
-Tư vấn đầu tư xây dựng; Khảo sát địa hình, địa chất xây dựng công trình; Thiết kế xây dựng công trình cấp thoát nước, công trình hạ tầng kỹ thuật đô thị, công trình dân dụng – công nghiệp.
+Đặng Thị Hồng Yến  
+Người lập biểu  
 
-Tư vấn lập và thẩm tra các dự án đầu tư xây dựng; Tư vấn đấu thầu; Lập tổng dự toán và dự toán các công trình; Thẩm tra thiết kế và tổng dự toán; Kinh doanh bất động sản. Sản xuất, mua bán nước sạch. Sản xuất, mua bán vật tư, vật liệu xây dựng; máy móc – thiết bị – phụ tùng phục vụ ngành xây dựng chuyên ngành cấp thoát nước và môi trường (không sản xuất tại trụ sở công ty). Khoan thăm dò, khoan khai thác nước ngầm. Nuôi trồng thủy – hải sản, cây công nghiệp; Khai thác, chế biến và mua bán các sản phẩm từ thủy hải sản và cây công nghiệp (không hoạt động tại trụ sở công ty). Nghiên cứu khoa học và ứng dụng chuyển giao công nghệ ngành cấp thoát nước. Đào tạo nghề. Giám sát thi công xây dựng công trình cấp – thoát nước, dân dụng và công nghiệp: xây dựng và hoàn thiện.
+Nguyễn Anh Tuấn  
+Kế toán trưởng  
 
-Sản xuất điện. Chi tiết: sản xuất điện gió, điện mặt trời và điện khác (trừ truyền tải, điều độ hệ thống điện quốc gia và xây dựng, vận hành thủy điện đa mục tiêu, điện hạt nhân). Truyền tải và phân phối điện. Xử lý và tiêu hủy rác thải không độc hại. Xử lý và tiêu hủy rác thải độc hại...
+Nguyễn Công Luận  
+Phó Tổng Giám đốc  
 
-**Trụ sở của Công ty tại:** 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.
+Ngày 12 tháng 8 năm 2025  
 
-**Các chi nhánh của Công ty:**  
-* Chi nhánh Công ty CP Đầu tư và Xây dựng Cấp Thoát Nước – Nhà máy nước Đăkmil, địa chỉ: số 01 Nguyễn Khuyến Đăkmil, Đắc Nông.  
-* Chi nhánh Trung tâm kinh doanh vật tư, địa chỉ: số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.
-
-### 4. Chu kỳ sản xuất, kinh doanh thông thường:  
-Chu kỳ sản xuất, kinh doanh thông thường của Công ty không quá 12 tháng.
-
-### 5. Đặc điểm hoạt động của Công ty trong năm có ảnh hưởng đến Báo cáo tài chính riêng:  
-Doanh thu năm 2024 giảm so với năm 2023 số tiền là 218.972.334.573 đồng, tương ứng giảm với tỷ lệ là 50,26%. Nguyên nhân là do năm 2024 là năm khó khăn của doanh nghiệp xây dựng các công trình, số lượng công trình xây dựng giảm do đó dẫn đến doanh thu của công ty giảm.
-
-### 6. Cấu trúc doanh nghiệp:  
-Số lượng công ty con: 01 (một).
+> *Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này*
  + 
  + [] 
  None

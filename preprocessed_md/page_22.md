@@ -1,64 +1,79 @@
-CÔNG TY CỔ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phổ Quang;Phưrờng2, Quận Tân Bình; TP Hồ Chí Minh
-                                            BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                                                                Năm 2024
-
-7 . HÀNG TỎN KHO                                                Giá gốc Số cuối năm Du phòng          Giá gốc Số dầu nămDy phòng
-
-  Nguyên liệu; vật liệu                                              1.127.465.222     376.284.412    1,424.957.636      376.284.412
-  Công cụ;dụng cụ                                               54.132.801                            66.502.680
-  Chi phí SX KD dởdang                                              29.583.980.586                    12.876.507.326
-  Hànghóa  Công                                                 119.642.633                           40.966.895
-                                                                30.885.221.242         376.284.412    14.408.934.537     376.284.412
-
-8. TÀI SẢN DỞ DANG DÀI HẠN                                                                            Số cuối nảm       Số đầu năm
-  Xây dựng cơ bản dởdang                                                                              17.825.949.006    16.008.542.266
-Dự án khu phứchợpQuận 9 TP.HCM                                                                        16.718.010.726    13.991.276.164
- Chi phí cải tạo sửa chữa tòa nhà Waseco                                                              152.788.519        391.657.813
- Chi phí đầu tư, cải tạo tuyếnống;Nhà máy nước ĐakMil                                                 4.549.761          675.008.289
- Chi phíđẩu tư mua nhà kho xã Phước_Tân; Biên Hòa                                                     950.600.000        950.600.000
-           Công                                                                                       17.825.949.006    16.008.542.266
-
-
-
-
-
-
-
-
-
-
-[;    23    2  1 +
+TỔNG CÔNG TY KHÍ VIỆT NAMM - CÔNG TY cỔ PHẦN                          MẪU SỔ B 09a-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GlỮA NIỀN Độ (Tiếp theo)
+ Chi phÍ mua khí bao tiêu theo hợp đồng mua bán khi dược tinh dựa trèn phần chênh lệch giữa
+ chi phí mua khí theo cam kểt Iượng khl nhận tổì thỉểu và chi phi mua khí thực tể dưới mức cam
+ kết giữa Tong Công ty với PVN. Chi phí này sê được phđn bố vào kết   t ưộng kinh doanh
+                                                               quahoe
+ tương ứng vớí Iượng khí nhận trong tương lai theo thởi hạn quy đinh trên hợp dồng
+ Giá trj vỏ binh gas dã đưa vào sử dụng dược ghi nhận Ià chi phí trà trưởc dài hạn vả phân bó
+          Vao kẼt quả hoatdôngkinh doanh theo phương phápJưởngthẳng trong vóng 10 năm, Giá tri
+ vỏ bình gas bao gồm chi phí mua vỏ binh gas và các chi phí liên quan khác để vó binn gas ởtrang
+ thái sansàngsử' dung
+ Khoản trả trước tỉền thue ẩất đưcc phân bô vàa kết         hoạt động kinh doanh hợp nhẩt theo
+                                                   qua
+              thẳng
+  phương Fháp đường         tươngứngvoi thờỉ gian thuê
+  Các khoản chl pnf trả trưóc khác bao gầm glá trịcôngcu, dung cụ đã xuất dùng, chi phí cải tao
+  và các chi phí khác và được coi là có khả năng đem lại lợi ích kinh tể trong tương lai cho Tổng
+ Công ty Các chi phí rày được vốn hóa dưởi hình thức cảc khcản trả trước và dược phân bẩ vào
+   Báo cao kêtquahoạt động kinh doanh hợp nhẩt giữa niên độ, sử dụng phương pháp ỉường
+ thẩng theo các quy dịnh kế toán hiện hành.
+  Thuê tài sán
+  Iổng_ Còna_tỵ_ià bên cho thuê
+   Dcanh thu cho zhuê hoat dộng dược ghi nhân theo phương pháp đường thẳng trong suốt thờỉ
+  gian cho thuê . Chi phÍ trực tiểp ban đầu phát sinh trongQuatrình Gam phán ky hợp đồng thuẻ
+   hoat động được ghi nhện vào chi phí trong kỳ khi phát sinh hoặc phân bổ dần vào chi phí trong
+   suôt thời hạn cho thuê phù hợp vởi việ c ghi nh;n doanh thu cho thué hoat tông
+  IỆndCônaty lù bêndi thuê
+   Một khoán thuê dược xem là thuè hoạt động khi bên cho thuê vẫn được hưởng
+                                                                                 phan
+                                                                                          lởn cac
+          Pud                                               rn Chiphithus hnaltang duocghihan vào
+   kết    hoat động kinh doanh hơp nhất theo phương pháp đường thắng trong suất thời gian
+    quà
+   thuè. Các khoán tiền nhận đưực hoặc phái thu nhẳm tạo diều kién ký kết hợp đồng thuê hoạt
+   dộng cũng được ghi nhận theo phương phảp đuơng thẳng trong suất thời gian thuê.
+                     phải
+   Các khoản du phòng       trả
+                                                'TổnB 3Công ty có nghĩa vụ nợ hiện tạỉ do kết
+   Các khoản dự phòng phảitrả dược ghi nhận khi                                      quá
+                               Côngty có khé năng phái thanh toan nghĩa vu nảy. Các khoản
+   từ mộtsự klén đă xảy ra  Tổng                       TổngGiám đõc về cảc khoản chí phl càn
+   dự phòng được xác đjnh trên ca sở ước tinh cúa Ban
+   thiẽt để thanh toán nghĩa vy nợ nằy tại ngày kẽt thúc kỳ hoat động:
+   Cảc khoẩn du phòng          gồm dự phàng chi phí thu don công trinh khỉvà các khoản dự
+                 phảitrà bao                                               Quyết đInh s8
+    phòng khác. Dự phòng chi phí thu don công trinh khÍ được trich Iập theo
+    49/2017/QD-TTg ngày 21 tháng 12 năm 2017 của Thủ tướng Chính phủ về việcthu !don các công
+    trinh, thiết bị và phương tiện phục vụ hoạt động dầu khi và dự toán được Bộ Câng thương phê
+    duyệt; +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh*
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024
+Chi phí mua khí bao tiêu theo hợp đồng mua bán khí được tính dựa trên phần chênh lệch giữa chi phí mua khí theo cam kết lượng khí nhận tối thiểu và chi phí mua khí thực tế dưới mức cam kết giữa Tổng Công ty với PVN. Chi phí này sẽ được phân bổ vào kết quả hoạt động kinh doanh tương ứng với lượng khí nhận trong tương lai theo thời hạn quy định trên hợp đồng.
 
-### 7. HÀNG TỒN KHO
+Giá trị vỏ bình gas đã đưa vào sử dụng được ghi nhận là chi phí trả trước dài hạn và phân bổ vào kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong vòng 10 năm. Giá trị vỏ bình gas bao gồm chi phí mua vỏ bình gas và các chi phí liên quan khác để vỏ bình gas ở trạng thái sẵn sàng sử dụng.
 
-|                       | Số cuối năm<br/>Giá gốc | Số cuối năm<br/>Dự phòng | Số đầu năm<br/>Giá gốc | Số đầu năm<br/>Dự phòng |
-| --------------------- | ----------------------- | ------------------------ | ---------------------- | ----------------------- |
-| Nguyên liệu, vật liệu | 1.127.465.222           | 376.284.412              | 1.424.957.636          | 376.284.412             |
-| Công cụ, dụng cụ      | 54.132.801              |                          | 66.502.680             |                         |
-| Chi phí SX KD dở dang | 29.583.980.586          |                          | 12.876.507.326         |                         |
-| Hàng hóa              | 119.642.633             |                          | 40.966.895             |                         |
-| **Cộng**              | **30.885.221.242**      | **376.284.412**          | **14.408.934.537**     | **376.284.412**         |
+Khoản trả trước tiền thuê đất được phân bổ vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng tương ứng với thời gian thuê.
 
+Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ đã xuất dùng, chi phí cải tạo và các chi phí khác và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Tổng Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.
 
-### 8. TÀI SẢN DỞ DANG DÀI HẠN
+### Thuê tài sản
 
-|                                                          | Số cuối năm        | Số đầu năm         |
-| -------------------------------------------------------- | ------------------ | ------------------ |
-| *Xây dựng cơ bản dở dang*                                | 17.825.949.006     | 16.008.542.266     |
-| - Dự án khu phức hợp Quận 9 - TP. HCM                    | 16.718.010.726     | 13.991.276.164     |
-| - Chi phí cải tạo sửa chữa tòa nhà Waseco                | 152.788.519        | 391.657.813        |
-| - Chi phí đầu tư, cải tạo tuyến ống; Nhà máy nước ĐakMil | 4.549.761          | 675.008.289        |
-| - Chi phí đầu tư mua nhà kho xã Phước Tân, Biên Hòa      | 950.600.000        | 950.600.000        |
-| **Cộng**                                                 | **17.825.949.006** | **16.008.542.266** |
+#### Tổng Công ty là bên cho thuê
 
+Doanh thu cho thuê hoạt động được ghi nhận theo phương pháp đường thẳng trong suốt thời gian cho thuê. Chi phí trực tiếp ban đầu phát sinh trong quá trình đàm phán ký hợp đồng thuê hoạt động được ghi nhận vào chi phí trong kỳ khi phát sinh hoặc phân bổ dần vào chi phí trong suốt thời hạn cho thuê phù hợp với việc ghi nhận doanh thu cho thuê hoạt động.
 
+#### Tổng Công ty là bên đi thuê
+
+Một khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro về quyền sở hữu tài sản. Chi phí thuê hoạt động được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê. Các khoản tiền nhận được hoặc phải thu nhằm tạo điều kiện ký kết hợp đồng thuê hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suốt thời gian thuê.
+
+### Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả được ghi nhận khi Tổng Công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tổng Công ty có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ hoạt động.
+
+Các khoản dự phòng phải trả bao gồm dự phòng chi phí thu dọn công trình khí và các khoản dự phòng khác. Dự phòng chi phí thu dọn công trình khí được trích lập theo Quyết định số 49/2017/QĐ-TTg ngày 21 tháng 12 năm 2017 của Thủ tướng Chính phủ về việc thu dọn các công trình, thiết bị và phương tiện phục vụ hoạt động dầu khí và dự toán được Bộ Công thương phê duyệt;
  + 
  + [] 
  None

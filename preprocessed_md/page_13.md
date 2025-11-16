@@ -1,89 +1,92 @@
-CÔNG TY ĐẦU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phổ Quang, Phường 2, Q Tân Bình, TP. Hồ Chi Minh.
-5.3        Phương pháp hạch toánhàngtồn kho:Côngty ápdụngphương pháp kê khai thuờng xuyên.
-5.4        Lập dự phòng         giáhàngtồn kho:
-                        giảm_
-           Dự phòng                giá hàng tổnkho được lập cho từng mặt hàng tồnkho có giá gốc lón hơn giá trị
-                        giảm
-           thuần có thể thực hiện được. Đối với dịch vụ cung cấp dở dang; việc Iập dự phòng giảm giáđược
-           'từng loại dịch vụ có mức giáriêng                      Tăng giảm số dư dự phòng giảm giáhàngtổn kho
-           tinh theo                                 biệL.        hàng
-           cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào giá vốn    bán
-           Nguyên tắc kế toán và khấu hao TSCĐ hữu hình, TSCĐ vô hình:
-6.1        Nguyên tắc kế toán TSCĐ hữu hình, TSCĐ vô hình:
-               Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá tài sàn cố
-          dịnh hữu hỉnh bao gổm toàn bộ các chi phí màCôngty phải bỏ ra để có được tài sản cố định tính đến
-          thời điểm đưa tài sản đó vào trạng thái sẵnsàngsửdung
-                   Các chi phí phát sinh saughi nhận ban đầu chỉ được ghitángnguyên giá tài sản cố định nếu các
-          chi phí này chắc chắn làmtẵnglợi ích kinh tế trong tương lai do sử dụng tài sản dó. Các chi phí phát
-          sinh khôngthỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất;, kinh doanh trong kỳ.    5011720.
-           Khấu hao được trích theo phương pháp đườngthẳngvà tuân thủ theo tỷ lệ khấu hao được xác địnhỒNG TY
-                                                                                                               Tnhh
-                              Thông  số 45/2013/TT-BTC ngày 25/04/2013 vàThông                                 VUTU
-         theo quy dịnh tại                                                        tư số 147/2016/TT-BTCH       KÉ
-         ngày 13/10/2016 sửa đổi, bổ sung một số điều cúaThông                                          Chinh
-           của Bộ Tài chính.                                      tư số 45/2013/TT-BTC ngày 25/04/2013 KIÊM TOA
-6.2       Nguyên tắc kế toán bấtđộngsản dầu tư;                                                                Phia Kam
-                                                                                                               ~IP HO
-          Bẩtdộngsản dầu tư là quyền sử dụng đất, nhà; một phần của nhà hoặc cơ sở hạtầngthuộc sở hữu
-          cua Công      haythuê tải chính được sửdụngnhằm mục đích thu lợi từ việc cho thuê hoặc chờtang
-         giá. Bấtđộng sản đầu tư được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá của bất
-          sản đẩu tư là toàn bộ các chi phí màCôngty phải bỏ rahoặcgiá trịhợP lý cua các khoan duadộng
-          trao đổi nhằm có được bấtdộngsản đầu tư tính dến thời diểm muahoặc xây dựng hoàn thành .
-         Các chi phí liên quan đến bấtdộngsản đầu tu phát sinh sau ghi nhận ban đẩu được ghi nhận vào chi
-        phí,trừkhi chi phí này có khả năng chẳc chăn làm cho bẩt dộng sản dầu tư tạo       lợi ích kinh tê
-         trong tưong lai nhiều hơn mức hoạtdộngdược dánh giá ban dầu thi dược ghi tăng nguyên giá.
-         Khi bấtđộng sản đầu tudược bán; nguyên giá và khấu hao lũy kế được xóa sổ và lãi, lỗ nào phát
-         sinhđược hạch toán vào thu nhậphaychi phí trong năm
-         Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặchàng tồn kho thành bấtđộngsản đầu tư chỉ
-        khi chủ sở hữu chấmn dứt sử dung tài sản đó và bắt đầu cho bên khác thuê hoatdộng hoặc khi kết
-        thúc giai doan xâydung Việc chuyến từ bấtđộng sản đầu tư sang bấtdộng sản chủ sở hữu sử dụng
-        hay hàngtổn kho chỉ khi chủ sở hữu bắt đầu sửdụngtài sản này hoặc bẳt đầu triến khai cho mục0039565
-        đích bán. Việc chuyển từr bấtdộng sandầu tư sang bẩtđộng sản chủ sở hữu sử dụng hoặchàngtôn
-        khokhônglàmthaydổi nguyên giáhaygiá trị còn lại của bẩt động sản tại ngày chuyễn đổi.           CÔNG TY
-       Nguyên tắc kế toán chi phí trả trước:                                                            c6 PHaN
-        Các loại chi phí trả trước nếu chỉ liên quan dến năm tài chính hiện tai thìdược                 Uva xay DL
-         sản xuất kinh doanh trong nẳm tài chính.                                          ghi nhận vào chi phí
-        Việc tinh và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanhtirngkỳ hạch toán
-       dược căn cứ vào tinh chất, mức độtừngloai chi phí để chọn phương pháp và tiêu thức phân bổhợp
-       lý.
-        Nguyên tắc kế toán nợ phải trả và chi phí phải trả:
-       Các khoản nợ phải trà và chi phí phải trà dược ghi nhận cho số tiền phải trả trong tưong lai liên quan
-       đếnhànghóa và dịch Vuđã nhận được. Chi phí phải trả được ghi nhận dựa trên các ước tínhhợp
-       về số tiềnphảitrả
-        Việc phân loại các khoản phải trả là phải trả người bán; chi phí phải trả, phải trả nội bộ và phải trả
-       khác được thực hiện theo nguyên tắc sau: +
+TỔNG CÔNG TY     VIỆT NAM - CÔNG TY CÕ PHẦN                          MẪU SỐ B 09a-DN/HN
+          'KHÍ                                         Ban hảnh theo Thóng tư s6 202/2014/TT-BTC
+Tòa nha PV GAS Tower, s8 673 đường Nguyển Hĩu Tho      ngày 22 tháng 12 nam 2014 cua Bộ Tai chinh
+xã Nhà Be, Thành phố Hò Ch Minh , Viêt Nam
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ
+Các thuyết minh này là rnột bộ nhận hợp thành và can đươc doc dầng thờl vởf báo cảo tài chlnh hqp nhẩt gỉữa niên độ
+kern theo
+THÔNG TIN KHÁl QUAT
+Hình thức sở hữu vổn
+Tẩng Công ty Khí Việt Nam Công ty Cổ phần (sau đáy gọÍ lăt là "Tổng Côrg ty" ), tỉền thân la
+Tống Câng ty Khí Việt Nam - Công ty TNHH Một thành viên; là còng ty con của Tâp đcàn Dầu khí
+                                               Nang            ViệtNam ("PVN')) , được thành
+ Viểt Nam (nay là Tập đoàn Công nghiệp                 Iượng Quổc Eia      chứng
+láp theo Quyết định 58 2232/Q0-DKVN ngày 18 tháng nan) 2007 của PVN và Giấy            nhan
+đăng ký doanh nghiệp sổ 3500102710 cấp lần đầu ngay 13 tháng 12 năm 2007
+Tổng Corg ty KhÍ Vỉệt Nam - Công ty TNHH Một thánh viên chính thức chuyen sang noạt dọng
+           dưới hinh thức còng ty cẩ phần vởi tên goi Tổng Công ty KhíViệt Nam Côngty Cổ phần theo
+ Giay chứng nhận dăng ký doanh nghỉệp do s6 Kế hoạch và Đầu tư thành phã Hầ Chỉ Minh cấp
+ ngày 16 tháng 5 năm 2011. Vào ngày 10 tháng 01 nâm 2025,Sở Kế hcach va Đầu tư thành phố
+ Hô Chi Minh cấp Giấy chứng nhận đắng ký doanh nghiệp thay đổì gầr nhất lân thứ 21 sổ
+                                                       Tỏng
+ 3500102710 đế cập nhật thông tin vốn đíều lệ cúa               Còng ty từ 22 967,4 tỷ đầng lên thành
+ 23,426,7 tỷ đồng
+          cẩ phiếu của Tốrg Câng ty được chẩp thuận niêm yểt tại Sở Giao dịch Chứng khoán Thành phõ
+            Hồ Chí Mính {HOSE) theo Quyết định s6 60/2012/QĐ-SGDHCM ngày 27 thảng 4 năm 2012. Ngày
+  giao dich đầu tiên là ngay 21 thảng 5 nẳm 2012 vứi mã chứng khoán là GAS.
+  Cóng ty mẹ của Tổng Công ty là Tập doàn Công nghiệp - Năng Iượng Quỗc gia Việt Nam.
+                                                                         duờng         Hữu Tho,
+  Trusở chính của Tổng Còng ty đặt LạỈ Tòa nhà PV GAS Tower, số 673        Nguyễn
+  Xã Nhà Bè, Thảnh phỗ Hồ Chl Minh, Việt Nam.
+  Tổng 5ẩ nhân viên của Tóng Công ty vàcongty con tại ngày 30 tháng 6 năm 2025 là 2.923 (tai
+         ngay 31 tháng 12 năm 2024: là 2.934).
+         Ngành nghề kinh doanh và hoat động chính
+         Theo Giấy chứng nhận dáng kỷ doanh nghiệp; ngành nghề kinh doanh của Tổng Cỏng ty bao
+         Bồm:                                    phẩm
+          Thu gom; vận chuyên, tàng trữ khi và sản     khi; chi tỉểt: Chế biến khí và sản phẩm
+          Sản xuất khi đẩ: , phân phấi nhiên liệu khí đường                                kh ;
+                                                       ,ống
+                          Bán buôn nhiên liêu răn,lóng;knivà cac sản phẩm líên quan, chi tỉết: Tổ chức phân phối và
+          kinh dcanh các sán phấm khí khô, khí LNG, khÍ CNG, khí LPG và khÍ Condensate;
+          Xuất nhập khẩu cac sản phẩm khí khồ , khí LNG, khí LPG; Nhập khẩu khí Condensate;
+                                Hoat động xầy dựng chuyên dụng khac, chi tiêt: Đầu tư xâyJynB quản lý vận hanh, bảo
+          dưỡng sửa chữa các còng trinh khl, dự ắn khí và liên quan đển khivà dự ản, công trinh công
+          nghỉệp khảc;
+          Kinh doanh bất dộng sản;
+          Đầu tư cơ sở hạ tầng hệ thấng phân phói sản phẩm khí khâ, khí lỏng từ khâu nguồn từ cung
+          cấp đến khẩu phân phấi bán buôn, bấn lẻ; và
+                              Vận tảihànghóa bẳng đường bộ, chi tiết: DỊch vụ vận tải và các phương tỉện co sử dung
+                          nhiên liệu khí; vận chuyến sản phẩm khí (kinh doanh djch vụ vận chuyển các sán phẩm khí):
+
+         phân phối, kinh doanh khí và các sán  khi.
+                                          phẩm
+
+                                               10 +
  
-# CÔNG TY ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-**Địa chỉ:** Số 10 Phổ Quang, Phường 2, Q. Tân Bình, TP. Hồ Chí Minh.
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ
 
-## 5.3 Phương pháp hạch toán hàng tồn kho:  
-Công ty áp dụng phương pháp kê khai thường xuyên.
+_Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất giữa niên độ kèm theo_
 
-## 5.4 Lập dự phòng giảm giá hàng tồn kho:  
-Dự phòng giảm giá hàng tồn kho được lập cho từng mặt hàng tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được. Đối với dịch vụ cung cấp dở dang, việc lập dự phòng giảm giá được tính theo từng loại dịch vụ có mức giá riêng biệt. Tăng, giảm số dư dự phòng giảm giá hàng tồn kho cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào giá vốn hàng bán.
+## 1. THÔNG TIN KHÁI QUÁT
 
-## 6. Nguyên tắc kế toán và khấu hao TSCĐ hữu hình, TSCĐ vô hình:
+### Hình thức sở hữu vốn
 
-### 6.1 Nguyên tắc kế toán TSCĐ hữu hình, TSCĐ vô hình:  
-* Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm toàn bộ các chi phí mà Công ty phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng.  
-* Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ.  
-* Khấu hao được trích theo phương pháp đường thẳng và tuân thủ theo tỷ lệ khấu hao được xác định theo quy định tại Thông tư số 45/2013/TT-BTC ngày 25/04/2013 và Thông tư số 147/2016/TT-BTC ngày 13/10/2016 sửa đổi, bổ sung một số điều của Thông tư số 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính.
+Tổng Công ty Khí Việt Nam - Công ty Cổ phần (sau đây gọi tắt là "Tổng Công ty"), tiền thân là Tổng Công ty Khí Việt Nam - Công ty TNHH Một thành viên, là công ty con của Tập đoàn Dầu khí Việt Nam (nay là Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam ("PVN")), được thành lập theo Quyết định số 2232/QĐ-DKVN ngày 18 tháng 7 năm 2007 của PVN và Giấy chứng nhận đăng ký doanh nghiệp số 3500102710 cấp lần đầu ngày 13 tháng 12 năm 2007.
 
-### 6.2 Nguyên tắc kế toán bất động sản đầu tư:  
-* Bất động sản đầu tư là quyền sử dụng đất, nhà, một phần của nhà hoặc cơ sở hạ tầng thuộc sở hữu của Công ty hay thuê tài chính được sử dụng nhằm mục đích thu lợi từ việc cho thuê hoặc chờ tăng giá.  
-* Bất động sản đầu tư được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá của bất động sản đầu tư là toàn bộ các chi phí mà Công ty phải bỏ ra hoặc giá trị hợp lý của các khoản đưa ra để trao đổi nhằm có được bất động sản đầu tư tính đến thời điểm mua hoặc xây dựng hoàn thành.  
-* Các chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được ghi nhận vào chi phí, trừ khi chi phí này có khả năng chắc chắn làm cho bất động sản đầu tư tạo ra lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu thì được ghi tăng nguyên giá.  
-* Khi bất động sản đầu tư được bán, nguyên giá và khấu hao lũy kế được xóa sổ và lãi, lỗ nào phát sinh được hạch toán vào thu nhập hay chi phí trong năm.  
-* Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi chủ sở hữu chấm dứt sử dụng tài sản đó và bắt đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi chủ sở hữu bắt đầu sử dụng tài sản này hoặc bắt đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.
+Tổng Công ty Khí Việt Nam - Công ty TNHH Một thành viên chính thức chuyển sang hoạt động dưới hình thức công ty cổ phần với tên gọi Tổng Công ty Khí Việt Nam - Công ty Cổ phần theo Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư thành phố Hồ Chí Minh cấp ngày 16 tháng 5 năm 2011. Vào ngày 10 tháng 01 năm 2025, Sở Kế hoạch và Đầu tư thành phố Hồ Chí Minh cấp Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 21 số 3500102710 để cập nhật thông tin vốn điều lệ của Tổng Công ty từ 22.967,4 tỷ đồng lên thành 23.426,7 tỷ đồng.
 
-## 7. Nguyên tắc kế toán chi phí trả trước:  
-* Các loại chi phí trả trước nếu chỉ liên quan đến năm tài chính hiện tại thì được ghi nhận vào chi phí sản xuất kinh doanh trong năm tài chính.  
-* Việc tính và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng kỳ hạch toán được căn cứ vào tính chất, mức độ từng loại chi phí để chọn phương pháp và tiêu thức phân bổ hợp lý.
+Cổ phiếu của Tổng Công ty được chấp thuận niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE) theo Quyết định số 60/2012/QĐ-SGDHCM ngày 27 tháng 4 năm 2012. Ngày giao dịch đầu tiên là ngày 21 tháng 5 năm 2012 với mã chứng khoán là GAS.
 
-## 8. Nguyên tắc kế toán nợ phải trả và chi phí phải trả:  
-* Các khoản nợ phải trả và chi phí phải trả được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được. Chi phí phải trả được ghi nhận dựa trên các ước tính hợp lý về số tiền phải trả.  
-* Việc phân loại các khoản phải trả là phải trả người bán, chi phí phải trả, phải trả nội bộ và phải trả khác được thực hiện theo nguyên tắc sau:
+Công ty mẹ của Tổng Công ty là Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam.
+
+Trụ sở chính của Tổng Công ty đặt tại Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ, Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam.
+
+Tổng số nhân viên của Tổng Công ty và công ty con tại ngày 30 tháng 6 năm 2025 là 2.923 (tại ngày 31 tháng 12 năm 2024: là 2.934).
+
+### Ngành nghề kinh doanh và hoạt động chính
+
+Theo Giấy chứng nhận đăng ký doanh nghiệp, ngành nghề kinh doanh của Tổng Công ty bao gồm:
+
+* Thu gom, vận chuyển, tàng trữ khí và sản phẩm khí;
+* Sản xuất khí đốt, phân phối nhiên liệu khí đường ống, chi tiết: Chế biến khí và sản phẩm khí;
+* Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan, chi tiết: Tổ chức phân phối và kinh doanh các sản phẩm khí khô, khí LNG, khí CNG, khí LPG và khí Condensate;
+* Xuất nhập khẩu các sản phẩm khí khô, khí LNG, khí LPG; Nhập khẩu khí Condensate;
+* Hoạt động xây dựng chuyên dụng khác, chi tiết: Đầu tư xây dựng, quản lý vận hành, bảo dưỡng, sửa chữa các công trình khí, dự án khí và liên quan đến khí và dự án, công trình công nghiệp khác;
+* Kinh doanh bất động sản;
+* Đầu tư cơ sở hạ tầng hệ thống phân phối sản phẩm khí khô, khí lỏng từ khâu nguồn từ cung cấp đến khâu phân phối bán buôn, bán lẻ; và
+* Vận tải hàng hóa bằng đường bộ, chi tiết: Dịch vụ vận tải và các phương tiện có sử dụng nhiên liệu khí; vận chuyển sản phẩm khí (kinh doanh dịch vụ vận chuyển các sản phẩm khí).
+
+Hoạt động chính của Tổng Công ty bao gồm thu gom, nhập khẩu, vận chuyển, tàng trữ, chế biến, phân phối, kinh doanh khí và các sản phẩm khí.
  + 
  + [] 
  None

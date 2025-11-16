@@ -196,8 +196,9 @@ def respond_user_none_graph(user_question = '', temp_path = ''):
                     - ROA → Lợi nhuận sau thuế, Tổng tài sản
                     - EPS → Lợi nhuận sau thuế, Số lượng cổ phiếu lưu hành
                     - Biên lợi nhuận gộp → Lợi nhuận gộp, Doanh thu thuần
-                - Hãy tổng hợp các thông tin đó dưới dạng dưới dạng keyword và các thông tin cách nhau bởi dấu "," ví dụ: thông tin1, thông tin2, ....
-                - Hãy chỉ đưa ra câu trả lời trực tiếp và không cần giải thích thêm.
+                - Hãy tổng hợp các thông tin đó dưới dạng dưới dạng keyword và các thông tin cách nhau bởi dấu "," ví dụ:
+                        keyword1, keyword2, ...
+                - Hãy chỉ đưa ra câu trả lời trực tiếp và KHÔNG cần giải thích thêm, KHÔNG cần câu mở đầu.
                 - Hãy bỏ qua thông tin liên quan đến thời gian.
                 - Lưu ý các ngành nghề, lĩnh vực khác, các thông tin sẽ có những cách gọi tên khác nhau, hãy đưa ra hết các tên gọi có thể có.
                 - Mục định để phục vụ tìm kiếm trong cơ sở dữ liệu vector.

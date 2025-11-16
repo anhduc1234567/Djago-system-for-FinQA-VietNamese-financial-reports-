@@ -1,74 +1,56 @@
-CÔNG TY CỎ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chu: $ố 10 Phổ Quang, Phường 2, Quận Tân Bình, TP .Hồ Chi Minh
-2. Báo cáo bộ phận
- 2.1- Báo cáo bộ phận: Bao gổm bộ phận theolĩnhvực kinh doanh và bộ phận theo khu vực dđịa lý.
-  Bậ phận theo lĩnh vực kinh doanh: Lĩnh vựrc kinh doanh gồm đầu tư xây dụng và kinh doanh cáccôngtrình (cấp thoát nước, hạtầngkỹ thuật đô thị,côngtrình dân
-dụng côngnghiệp-  ), lĩnh vực kinh doanh bấtdộng sàn; cho thuê văn phòng; kinh doanh vật tưhànghóa, Sản xuất nước sạch và lĩnh vực dịch vụ (tư vấn thiết kế)
-      b- Bộ phận theo khu vực địa lý: Toàn lãnh thổ Việt Nam.
-     2.2- Trình bày báo cáo bộ phận theo lĩnh vực kinh doanh:
-
-                                                             Kinh doanh bất  Tư vẩn thiết kế,
-                                                                             sản xuất
-             Chỉ tiêu                      Thicôngxây lắp                    công                    Cho thuê văn       Kinh doanh          TổngCộng
-                                                             động sản        nghiệp, kinh doanh       phòng             vật tu,hànghóa
-                                                                             khác
-  Kết
-  quả
-  Doanh thu thuần                          84.595.270.874                           6.307.647.429     95.684.156.002     30.116.429.609      216.703.503.914
-  Chi phí                                  74.184.379.453                    3.121.677.197            54.896.858.075     28.980.618.089/     161.183.532.81
- Chi phí phân bố trực tiếp                 74.184.379.453                           3.121.677.197     54.896.858.075     28.980.618.089/     161.183.532.81
- (gồm cả giá vốn)
- Chi phí lãivay
- 3- Lợi nhuận gộp về ban hang va           10.410.891.421                           3.185.970.232     40.787.297.927     1.135.811.520       55.519.971.100
- cungcấp dịch vụ
- B -Tỗnggiá trị của tài sản bộ phận        208.762.179.365   16.718.010.726        82.476.485.453    115.010.087.427     11.507.056.327      434.473.819.298
- Jc- Nợ phải trả của bộ phận               197.821.432.697   5.837.572.099          1.419.335.922    20.235.106.432      10.685.030.221      235.998.477.371
- D- Tổngchi phí phát sinh trong niên
- lđộ để mua TSCĐ
-  Tổng chi phí khấu hao TSCĐ và             3.623.694.290                    1.324.213.317           10.517.989.755                          15.465.897.362
- phân bổ chi phí trả trước
-  Tổng chi phí khấu hao TSCĐ                3.617.471.558                             935.858.844     6.726.035.292                          11.279.365.694
- Tổng chi phí phẩn bổ chi phí trả trước     6.222.732                                 388.354.473     3.791.954,463                          4.186.531.668/
-
-
-
-
-
-
-= 24  41    1 3 1 +
+|  2  {  #  8
+9  8  !  8  ;
+8  9  ệ  8
+1[  {  g  5  5
+;  5
+ẵ  f  2 1   8  {  ẵ  1  6
+1  5  {  8
+ g  5  1  8  {
+ 3
+1  3  {  ẵ  ẵ
+8  0  ?
+1  ! ;  1  1  8  3
+1  1L  5  f
+9  8  0  1  ẵ
+5 2  8  '  {
+1 1  5 1  1  9  {
+1  1  f  ẵ
+g  8  8  ã  5
+11 4l 1  [ ;  1 [
+1 ; 'g  1  9
+1  2  {  2  2
+{  g  34 g  ;  {
+1  2 ,   2 {  !
+!  {  1  1ẵ {f
+1  5ẵ  ;
+1f { 1  1 g 1  1 8  {
+ ẵl  5  2  Ẻ   9  { 5  8  8
+ ẳf  2  2 +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh*
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
 
-## 2. Báo cáo bộ phận
+Tại 30 tháng 6 năm 2025, Tổng Công ty chỉ có các khoản vay ngắn hạn bằng VND với mức đích bổ sung vốn lưu động, chi tiết như sau:
 
-### 2.1- Báo cáo bộ phận:  
-Bao gồm bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý.
-
-- **a- Bộ phận theo lĩnh vực kinh doanh:**  
-  Lĩnh vực kinh doanh gồm đầu tư xây dựng và kinh doanh các công trình (cấp thoát nước, hạ tầng kỹ thuật đô thị, công trình dân dụng - công nghiệp…), lĩnh vực kinh doanh bất động sản, cho thuê văn phòng, kinh doanh vật tư hàng hóa, sản xuất nước sạch và lĩnh vực dịch vụ (tư vấn thiết kế).
-
-- **b- Bộ phận theo khu vực địa lý:**  
-  Toàn lãnh thổ Việt Nam.
-
-### 2.2- Trình bày báo cáo bộ phận theo lĩnh vực kinh doanh:
-
-| Chỉ tiêu                                                       | Thi công xây lắp | Kinh doanh bất động sản | Tư vấn thiết kế, sản xuất công nghiệp, kinh doanh khác | Tư vấn thiết kế, sản xuất công nghiệp, kinh doanh khác | Cho thuê văn phòng | Kinh doanh vật tư, hàng hóa | Tổng Cộng       |                 |
-| -------------------------------------------------------------- | ---------------- | ----------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------ | --------------------------- | --------------- | --------------- |
-| **A- Kết quả**                                                 |                  |                         |                                                        |                                                        |                    |                             |                 |                 |
-| 1- Doanh thu thuần                                             | 84.595.270.874   | 6.307.647.429           |                                                        | 95.684.156.002                                         |                    | 30.116.429.609              | 216.703.503.914 |                 |
-| 2- Chi phí                                                     | 74.184.379.453   | 3.121.677.197           |                                                        | 54.896.858.075                                         |                    | 28.980.618.089              | 161.183.532.814 |                 |
-| - Chi phí phân bổ trực tiếp (gồm cả giá vốn)                   | 74.184.379.453   | 3.121.677.197           |                                                        | 54.896.858.075                                         |                    | 28.980.618.089              | 161.183.532.814 |                 |
-| - Chi phí lãi vay                                              |                  |                         |                                                        |                                                        |                    |                             |                 |                 |
-| **3- Lợi nhuận gộp về bán hàng và cung cấp dịch vụ**           | 10.410.891.421   | 3.185.970.232           |                                                        | 40.787.297.927                                         |                    | 1.135.811.520               | 55.519.971.100  |                 |
-| **B- Tổng giá trị của tài sản bộ phận**                        | 208.762.179.365  | 16.718.010.726          |                                                        | 82.476.485.453                                         |                    | 115.010.087.427             | 11.507.056.327  | 434.473.819.298 |
-| **C- Nợ phải trả của bộ phận**                                 | 197.821.432.697  | 5.837.572.099           |                                                        | 1.419.335.922                                          |                    | 20.235.106.432              | 10.685.030.221  | 235.998.477.371 |
-| **D- Tổng chi phí phát sinh trong niên độ để mua TSCĐ**        |                  |                         |                                                        |                                                        |                    |                             |                 |                 |
-| **E- Tổng chi phí khấu hao TSCĐ và phân bổ chi phí trả trước** | 3.623.694.290    |                         | 1.324.213.317                                          |                                                        | 10.517.989.755     |                             | 15.465.897.362  |                 |
-| - Tổng chi phí khấu hao TSCĐ                                   | 3.617.471.558    |                         | 935.858.844                                            |                                                        | 6.726.035.292      |                             | 11.279.365.694  |                 |
-| - Tổng chi phí phân bổ chi phí trả trước                       | 6.222.732        |                         | 388.354.473                                            |                                                        | 3.791.954.463      |                             | 4.186.531.668   |                 |
+| Ngân hàng  | Kỳ hạn gốc                    | Lãi suất                 | Hình thức đảm bảo |
+| ---------- | ----------------------------- | ------------------------ | ----------------- |
+| Vietinbank | Đến ngày 15 tháng 12 năm 2025 | Từ 5,6%/năm đến 5,8%/năm | (i)               |
+| BIDV       | Đến ngày 30 tháng 11 năm 2025 | Từ 6,6%/năm đến 7%/năm   | (ii)              |
+| PVcomBank  | Đến ngày 25 tháng 12 năm 2025 | 7%/năm                   | (iii)             |
+| Agribank   | Đến ngày 26 tháng 12 năm 2025 | 6,8%/năm                 | (iv)              |
+| SeABank    | Đến ngày 16 tháng 11 năm 2025 | 7%/năm                   | (v)               |
+| MSB        | Đến ngày 10 tháng 12 năm 2025 | 5,8%/năm                 | Tín chấp          |
 
 
+(i) Khoản vay ngân hàng TMCP Công thương Việt Nam với tổng hạn mức tín dụng là 250 tỷ VND và tài sản đảm bảo là quyền sử dụng đất, tài sản hữu hình, hợp đồng gửi và quyền tài sản từ các hợp đồng đang thực hiện.
+
+(ii) Khoản vay ngân hàng TMCP Đầu tư và Phát triển Việt Nam với tổng hạn mức tín dụng là 130 tỷ VND và tài sản đảm bảo là các hợp đồng đồng tiền gửi với tổng giá trị 30 tỷ VND.
+
+(iii) Khoản vay ngân hàng TMCP Đại chúng Việt Nam với tổng hạn mức tín dụng là 200 tỷ VND và tài sản đảm bảo là hợp đồng tiền gửi với tổng giá trị 40 tỷ VND.
+
+(iv) Khoản vay ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam với tổng hạn mức tín dụng là 20 tỷ VND và tài sản đảm bảo là hợp đồng đồng tiền gửi giá trị 10 tỷ VND.
+
+(v) Khoản vay ngân hàng TMCP Đông Nam Á với tổng hạn mức tín dụng là 80 tỷ VND và tài sản đảm bảo là quyền tài sản từ các hợp đồng đang thực hiện.
  + 
  + [] 
  None

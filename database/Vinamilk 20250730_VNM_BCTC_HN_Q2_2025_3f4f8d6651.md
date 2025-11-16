@@ -276,6 +276,7 @@ Chữ ký và đóng dấu hợp lệ của các bên tại chỗ hợp nhất t
 
 -----------Page 8
 # Công ty Cổ phần Sữa Việt Nam và các công ty con  
+Báo cáo tài chính hợp nhất 
 ## Báo cáo kết quả hoạt động kinh doanh hợp nhất cho quý II và giai đoạn sáu tháng kết thúc ngày 30 tháng 6 năm 2025
 
 > Mẫu B 02a – DN/HN  

@@ -1,176 +1,158 @@
 ## 1. Tổng quan về doanh nghiệp.
-Công ty Cổ phần Nhựa Bình Minh (BMP) là công ty cổ phần hoạt động chính trong lĩnh vực sản xuất và kinh doanh các sản phẩm từ chất dẻo và cao su. Công ty có một công ty con (Công ty TNHH Một Thành Viên Nhựa Bình Minh Miền Bắc) và hai công ty liên kết (Công ty Cổ phần Nhựa Đà Nẵng và Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Bình Minh Việt).
-
-Doanh nghiệp tuân thủ các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý liên quan đến việc lập và trình bày báo cáo tài chính. Báo cáo tài chính được lập trên cơ sở dồn tích theo nguyên tắc giá gốc, ngoại trừ báo cáo lưu chuyển tiền tệ được lập theo phương pháp gián tiếp.
+Công ty Cổ phần Sữa Việt Nam (Vinamilk) và các công ty con là một tập đoàn hoạt động trong lĩnh vực sản xuất và kinh doanh sữa, các sản phẩm từ sữa, chăn nuôi bò sữa và các sản phẩm nông nghiệp. Tập đoàn có nhiều công ty con, công ty liên doanh, liên kết trong và ngoài nước. Báo cáo tài chính hợp nhất giữa niên độ được lập theo Chuẩn mực Kế toán Việt Nam số 27 và Chế độ Kế toán Doanh nghiệp Việt Nam (Thông tư số 202/2014/TT-BTC). Báo cáo tài chính được lập trên cơ sở dồn tích theo nguyên tắc giá gốc, báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp.
 
  **Kiểm tra tính chính xác của các thông tin trong báo cáo tài chính** 
 **Bảng cân đối kế toán**
 
 *   **Thiếu:**
     *   Các khoản dự phòng (mục 15 trong VAS 21).
-    *   Phần sở hữu của cổ đông thiểu số (mục 16 trong VAS 21).
     *   Các khoản dự trữ (mục 18 trong VAS 21).
 *   **Bất thường:**
-    *   Có mục "Các khoản phải thu dài hạn" nằm trong phần "Tài sản dài hạn", tuy nhiên theo VAS 21, các khoản phải thu (ngắn hạn và dài hạn) nên được trình bày riêng biệt trong phần "Tài sản ngắn hạn" và "Tài sản dài hạn".
-    *   Không có mục "Bất động sản đầu tư" (mục 230) nhưng vẫn có dòng "Nguyên giá" và "Giá trị hao mòn lũy kế" của mục này.
-    *   Không có mục "Nguồn kinh phí" (mục 430) nhưng vẫn có dòng "Nguồn kinh phí" và "Nguồn kinh phí đã hình thành TSCĐ" của mục này.
+    *   Không có mục "Phần sở hữu của cổ đông thiểu số" (mục 16 trong VAS 21) ở phần Tài sản, nhưng lại có mục "Lợi ích cổ đông không kiểm soát" ở phần Vốn chủ sở hữu. Cần xem xét lại cách trình bày hoặc bản chất của khoản mục này.
+    *   Có mục "Các khoản phải thu dài hạn" nhưng không có "Các khoản phải thu thương mại và phải thu khác" (mục 3 trong VAS 21). Cần xem xét lại cách phân loại.
+    *   Không có mục "Vay dài hạn và nợ phải trả dài hạn khác" mà chỉ có "Vay dài hạn".
 
 **Báo cáo kết quả hoạt động kinh doanh**
 
 *   **Thiếu:**
-    *   Phần sở hữu trong lãi hoặc lỗ của công ty liên kết và liên doanh được kế toán theo phương pháp vốn chủ sở hữu (mục 12 trong VAS 21).
-    *   Phần sở hữu của cổ đông thiểu số trong lãi hoặc lỗ sau thuế (mục 16 trong VAS 21).
-    *   Lợi nhuận thuần trong kỳ (mục 17 trong VAS 21).
+    *   Không có mục "Phần sở hữu trong lãi hoặc lỗ của công ty liên kết và liên doanh được kế toán theo phương pháp vốn chủ sở hữu" (mục 12 trong VAS 21).
+    *   Không có mục "Lợi nhuận thuần trong kỳ" (mục 17 trong VAS 21).
 *   **Bất thường:**
-    *   Có mục "Phần lỗ trong công ty liên doanh, liên kết" (mã số 24), nhưng lại được đối chiếu với thuyết minh V.2(b), trong khi thuyết minh này lại liên quan đến "Đầu tư vào công ty liên kết, liên doanh" trong Bảng cân đối kế toán.
-    *   Mục "Lợi nhuận sau thuế TNDN" (mã số 60) có hai dòng con là "Lợi nhuận sau thuế của công ty mẹ" và "Lợi nhuận sau thuế của cổ đông không kiểm soát", tuy nhiên theo VAS 21, chỉ cần trình bày "Lợi nhuận sau thuế TNDN" và "Phần sở hữu của cổ đông thiểu số trong lãi hoặc lỗ sau thuế".
+    *   Không có mục "Chi phí lãi vay" nằm trong "Chi phí tài chính"
+    *   Không có mục "Lãi/(lỗ) chia từ công ty liên doanh, liên kết"
 
  **Báo cáo lưu chuyển tiền tệ:**  
-Báo cáo lưu chuyển tiền tệ của doanh nghiệp tuân theo MẪU 2 (PHƯƠNG PHÁP GIÁN TIẾP). Không có phần nào bị thiếu.
+Báo cáo này theo MẪU 2 (PHƯƠNG PHÁP GIÁN TIẾP).
 
-## 2. Phân tích bảng cân đối kế toán
+## 2. Phân tích bảng cân đối kế toán.
 
 **Phần Nguồn Vốn:**
 
-*   **Cơ cấu:** Nguồn vốn của công ty chủ yếu đến từ vốn chủ sở hữu (2.701.698.690.635 VND), chiếm tỷ trọng lớn hơn so với nợ phải trả (498.796.285.653 VND). Điều này cho thấy công ty có mức độ tự chủ tài chính cao.
-*   **Nợ phải trả:** Nợ phải trả chủ yếu là nợ ngắn hạn (480.999.507.110 VND) so với nợ dài hạn (17.796.778.543 VND), cho thấy áp lực thanh toán trong ngắn hạn là đáng kể.
-*   **So sánh:** Vốn chủ sở hữu tăng nhẹ so với đầu kỳ (từ 2.689.728.981.899 VND lên 2.701.698.690.635 VND), trong khi nợ phải trả giảm (từ 565.271.946.212 VND xuống 498.796.285.653 VND). Điều này cho thấy tình hình tài chính của công ty có xu hướng ổn định và cải thiện.
+*   **Cơ cấu nguồn vốn:** Nguồn vốn của doanh nghiệp chủ yếu đến từ vốn chủ sở hữu (35.867 tỷ VND) chiếm tỷ trọng lớn hơn so với nợ phải trả (15.786 tỷ VND).
+*   **Nợ phải trả:** Nợ phải trả chủ yếu là nợ ngắn hạn.
+*   **So sánh biến động:** Nợ phải trả giảm từ 17.647 tỷ VND xuống 15.786 tỷ VND, trong khi vốn chủ sở hữu tăng từ 35.025 tỷ VND lên 35.867 tỷ VND. Điều này cho thấy doanh nghiệp giảm sự phụ thuộc vào nợ và tăng cường nguồn vốn từ chủ sở hữu.
 
 **Phần Tài Sản:**
 
-*   **Tổng tài sản:** Tổng giá trị tài sản là 3.200.494.976.288 VND, giảm nhẹ so với đầu kỳ (3.255.000.928.111 VND).
-*   **Cơ cấu tài sản:** Tài sản ngắn hạn chiếm tỷ trọng lớn (2.596.113.208.905 VND) so với tài sản dài hạn (604.381.767.383 VND). Trong tài sản ngắn hạn, các khoản đầu tư tài chính ngắn hạn (1.410.000.000.000 VND) và hàng tồn kho (463.583.886.225 VND) chiếm tỷ trọng đáng kể. Trong tài sản dài hạn, chi phí trả trước dài hạn (211.918.767.043 VND) và tài sản cố định (265.199.250.700 VND) chiếm tỷ trọng lớn.
-*   **So sánh:**
-    *   Tiền và các khoản tương đương tiền giảm mạnh (từ 821.414.457.106 VND xuống 504.172.685.550 VND).
-    *   Đầu tư tài chính ngắn hạn tăng (từ 1.190.000.000.000 VND lên 1.410.000.000.000 VND).
-    *   Hàng tồn kho tăng (từ 364.225.974.474 VND lên 463.583.886.225 VND).
-    *   Tài sản cố định giảm (từ 285.789.885.917 VND xuống 265.199.250.700 VND).
-    *   Chi phí trả trước dài hạn giảm (từ 246.005.035.630 VND xuống 211.918.767.043 VND).
+*   **Tổng tài sản:** Tổng tài sản của doanh nghiệp là 51.653 tỷ VND, giảm nhẹ so với đầu kỳ (52.673 tỷ VND).
+*   **Cơ cấu tài sản:** Tài sản ngắn hạn chiếm tỷ trọng lớn hơn (35.013 tỷ VND) so với tài sản dài hạn (16.639 tỷ VND).
+*   **Biến động tài sản:**
+    *   Tiền và các khoản tương đương tiền giảm đáng kể.
+    *   Các khoản đầu tư tài chính ngắn hạn tăng nhẹ.
+    *   Hàng tồn kho tăng.
+    *   Tài sản cố định giảm nhẹ.
+    *   Tài sản dở dang dài hạn tăng.
 
-**Đánh giá chung:**
+**Đánh giá:**
 
-*   Công ty có cơ cấu tài chính khá an toàn với vốn chủ sở hữu chiếm tỷ trọng lớn.
-*   Tuy nhiên, sự sụt giảm đáng kể của tiền và các khoản tương đương tiền cần được xem xét kỹ lưỡng, có thể do công ty đã sử dụng tiền mặt để tăng cường đầu tư tài chính ngắn hạn và tích lũy hàng tồn kho.
-*   Việc tăng hàng tồn kho cũng cần được theo dõi sát sao để đảm bảo tính thanh khoản và tránh rủi ro ứ đọng vốn.
-*   Các khoản phải thu khách hàng (128.698.476.501 VND) và phải trả người bán (172.294.900.429 VND) là những yếu tố cần được quản lý chặt chẽ để đảm bảo dòng tiền ổn định.
+*   Doanh nghiệp có sự dịch chuyển trong cơ cấu tài sản, giảm tiền mặt và tăng đầu tư ngắn hạn, hàng tồn kho và tài sản dở dang dài hạn.
+*   Nguồn vốn chủ sở hữu tăng cho thấy sự ổn định và khả năng tự chủ tài chính của doanh nghiệp.
+*   Cần chú ý đến các khoản phải thu của khách hàng (4.665 tỷ VND) và phải trả cho người bán (3.747 tỷ VND) để đảm bảo quản lý dòng tiền hiệu quả.
+*   Vốn lưu động của doanh nghiệp là một yếu tố quan trọng cần theo dõi để đảm bảo khả năng thanh toán ngắn hạn.
 
 ## 3. Báo cáo kết quả hoạt động kinh doanh:
 
-- **Doanh thu thuần giảm:** Doanh thu thuần từ bán hàng và cung cấp dịch vụ giảm từ 5.156.984.370.216 VND năm 2023 xuống 4.615.678.655.546 VND năm 2024.
-- **Lợi nhuận gộp giảm:** Lợi nhuận gộp giảm từ 2.116.419.970.158 VND năm 2023 xuống 1.988.626.867.992 VND năm 2024.
-- **Doanh thu hoạt động tài chính giảm:** Doanh thu hoạt động tài chính giảm đáng kể từ 118.503.493.327 VND năm 2023 xuống 78.731.633.534 VND năm 2024.
-- **Chi phí tài chính tăng:** Chi phí tài chính tăng từ 145.561.663.111 VND năm 2023 lên 162.364.102.533 VND năm 2024, chủ yếu do chiết khấu thanh toán.
-- **Chi phí bán hàng giảm:** Chi phí bán hàng giảm từ 676.251.353.235 VND năm 2023 xuống 555.916.198.609 VND năm 2024.
-- **Chi phí quản lý doanh nghiệp tăng:** Chi phí quản lý doanh nghiệp tăng nhẹ từ 106.918.740.381 VND năm 2023 lên 119.640.553.673 VND năm 2024.
-- **Lợi nhuận thuần từ hoạt động kinh doanh giảm:** Lợi nhuận thuần từ hoạt động kinh doanh giảm từ 1.304.060.955.848 VND năm 2023 xuống 1.228.940.159.698 VND năm 2024.
-- **Lợi nhuận khác tăng:** Lợi nhuận khác tăng đáng kể từ 3.121.925.578 VND năm 2023 lên 11.592.693.989 VND năm 2024.
-- **Lợi nhuận sau thuế giảm:** Lợi nhuận sau thuế giảm từ 1.041.006.333.282 VND năm 2023 xuống 990.761.729.138 VND năm 2024.
-- **Lãi cơ bản trên cổ phiếu giảm:** Lãi cơ bản trên cổ phiếu giảm từ 12.717 VND năm 2023 xuống 12.103 VND năm 2024.
+*   **Doanh thu:** Doanh thu thuần về bán hàng và cung cấp dịch vụ đạt 2.705.840.401.722 VND, tăng so với 2.312.046.425.953 VND của cùng kỳ năm trước. Tổng doanh thu đạt 14.124.890.259.766 VND, so với 13.954.019.633.882 VND. Trong đó, doanh thu bán thành phẩm chiếm tỷ trọng lớn nhất (13.284.106.666.199 VND).
+*   **Chi phí:** Giá vốn hàng bán và dịch vụ cung cấp là 497.675.570.285 VND, so với 377.888.254.570 VND. Chi phí bán hàng là 2.205.674.071.314 VND, tương đương so với 2.202.150.733.762 VND. Chi phí quản lý doanh nghiệp là 395.914.155.553 VND, so với 388.784.710.409 VND.
+*   **Lợi nhuận:** Lợi nhuận sau thuế TNDN đạt 2.206.983.369.589 VND, tăng so với 1.906.226.399.078 VND của cùng kỳ năm trước. Lợi nhuận thuần thuộc về cổ đông phổ thông là 2.194.666.965.600 VND, so với 1.856.733.257.236 VND.
+*   **Các yếu tố khác:**
+    *   Các khoản giảm trừ doanh thu là 12.478.942.708 VND, so với 35.627.707.242 VND.
+    *   Chi phí dịch vụ khuyến mại, trưng bày, giới thiệu sản phẩm và hỗ trợ bán hàng chiếm phần lớn trong chi phí bán hàng.
+    *   Chi phí nhân viên và chi phí dịch vụ mua ngoài chiếm tỷ trọng lớn trong chi phí quản lý doanh nghiệp.
+    *   Công ty trích lập quỹ khen thưởng và phúc lợi từ lợi nhuận sau thuế.
+    *   Đại hội Cổ đông đã thông qua kế hoạch chi trả cổ tức bằng tiền mặt là 38,5% mệnh giá (3.850 VND/cổ phiếu).
 
 ## 4. Báo cáo lưu chuyển tiền tệ
 
-Báo cáo lưu chuyển tiền tệ năm 2024 cho thấy dòng tiền thuần từ hoạt động kinh doanh giảm so với năm 2023, từ 1.602.839.085.529 VND xuống 900.554.973.918 VND. Nguyên nhân chủ yếu do sự thay đổi trong vốn lưu động, đặc biệt là tăng hàng tồn kho và giảm các khoản phải trả.
-
-Dòng tiền từ hoạt động đầu tư âm, với giá trị (248.318.241.716) VND năm 2024, cho thấy doanh nghiệp tiếp tục đầu tư vào tài sản cố định và các công cụ nợ, mặc dù có thu hồi từ cho vay.
-
-Hoạt động tài chính ghi nhận dòng tiền âm (969.503.505.920) VND, chủ yếu do chi trả cổ tức lớn cho chủ sở hữu.
-
-Lưu chuyển tiền thuần trong năm là âm (317.266.773.718) VND, dẫn đến tiền và các khoản tương đương tiền cuối năm giảm xuống 504.172.685.550 VND so với đầu năm. Doanh nghiệp đã sử dụng các khoản tương đương tiền để bù đắp cho dòng tiền âm từ hoạt động đầu tư và tài chính.
+*   **Tổng quan:** Trong quý 1/2024, lưu chuyển tiền thuần từ hoạt động kinh doanh là 907.5 tỷ VND, tăng đáng kể so với 128.8 tỷ VND cùng kỳ năm trước. Lưu chuyển tiền thuần trong kỳ là âm (1,127.5 tỷ VND), chủ yếu do dòng tiền âm từ hoạt động tài chính.
+*   **Hoạt động kinh doanh:**
+    *   Lợi nhuận kế toán trước thuế đạt 2,705.8 tỷ VND (tăng so với 2,312 tỷ VND năm trước).
+    *   Các điều chỉnh quan trọng bao gồm khấu hao và phân bổ (529.3 tỷ VND), thu nhập cổ tức, lãi tiền gửi và lãi từ hoạt động đầu tư khác (âm 336.2 tỷ VND), và chi phí lãi vay (82.3 tỷ VND).
+    *   Các biến động vốn lưu động ảnh hưởng lớn đến dòng tiền, đặc biệt là biến động hàng tồn kho (âm 1,251.3 tỷ VND).
+    *   Tiền lãi vay đã trả là 69.4 tỷ VND và thuế thu nhập doanh nghiệp đã nộp là 414.5 tỷ VND.
+*   **Hoạt động đầu tư:**
+    *   Chi tiền lớn cho mua sắm tài sản cố định và tài sản dài hạn khác (357.3 tỷ VND).
+    *   Thu về từ thanh lý tài sản cố định (22.9 tỷ VND) và thu lãi tiền gửi, cổ tức (225.7 tỷ VND).
+    *   Lưu chuyển tiền thuần từ hoạt động đầu tư dương 474.8 tỷ VND, chủ yếu nhờ tiền thu từ tiền gửi có kỳ hạn.
+*   **Hoạt động tài chính:**
+    *   Tiền thu từ đi vay là 4,497.5 tỷ VND.
+    *   Chi trả nợ gốc vay lớn (2,462.2 tỷ VND) và chi trả cổ tức (2,925.9 tỷ VND).
+    *   Lưu chuyển tiền thuần từ hoạt động tài chính âm 890.6 tỷ VND, chủ yếu do chi trả nợ và cổ tức.
+*   **Tiền và các khoản tương đương tiền:**
+    *   Tiền và các khoản tương đương tiền cuối kỳ là 2,011.2 tỷ VND, giảm so với đầu kỳ (2,299.9 tỷ VND).
+    *   Ảnh hưởng của thay đổi tỷ giá hối đoái không đáng kể.
 
 ## 5. Các chỉ số tài chính cơ bản.
 
-| Chỉ số | 31/12/2024 | 1/1/2024 |
-|---|---|---|
-| **1. Chỉ số thanh khoản** | | |
-| Thanh khoản hiện hành | (504,172,685,550 + 1,410,000,000,000 + 177,752,774,225 + 463,583,886,225 + 40,603,862,905) / 480,999,507,110 = **5.23** | (821,414,457,106 + 1,190,000,000,000 + 174,027,942,449 + 364,225,974,474 + 44,231,773,829) / 546,150,418,753 = **5.13** |
-| Thanh khoản nhanh | (2,600,113,108,905 - 463,583,886,225) / 480,999,507,110 = **4.44** | (2,593,900,147,458 - 364,225,974,474) / 546,150,418,753 = **4.08** |
-| Thanh khoản tức thời | 504,172,685,550 / 480,999,507,110 = **1.05** | 821,414,457,106 / 546,150,418,753 = **1.50** |
-| **2. Chỉ số đòn bẩy tài chính** | | |
-| Hệ số nợ | 498,796,285,653 / 3,200,494,976,288 = **0.16** | 565,271,946,212 / 3,255,000,928,111 = **0.17** |
-| Nợ trên vốn chủ | 498,796,285,653 / 2,701,698,690,635 = **0.18** | 565,271,946,212 / 2,689,728,981,899 = **0.21** |
-| Khả năng thanh toán lãi vay | EBIT / 20,863,234 = **Không tính được** | EBIT / 38,676,662 = **Không tính được** |
-| *Lý do không tính được:* Cần thông tin về EBIT (Lợi nhuận trước lãi vay và thuế), không có trong Bảng Cân đối kế toán. | | |
-| **3. Chỉ số hiệu quả hoạt động** | | |
-| Vòng quay hàng tồn kho | 2,627,051,787,554 / ((463,583,886,225 + 364,225,974,474)/2) = **6.35** | Giá vốn hàng bán / Hàng tồn kho bình quân = **Không tính được** |
-| Vòng quay khoản phải thu | 4,615,678,655,546 / ((177,752,774,225 + 174,027,942,449)/2) = **26.21** | Doanh thu thuần / Khoản phải thu bình quân = **Không tính được** |
-| Vòng quay tổng tài sản | 4,615,678,655,546 / ((3,200,494,976,288 + 3,255,000,928,111)/2) = **1.43** | Doanh thu thuần / Tổng tài sản bình quân = **Không tính được** |
-| **4. Chỉ số lợi nhuận** | | |
-| Biên lợi nhuận gộp | 1,988,626,867,992 / 4,615,678,655,546 = **0.43** | 2,116,419,970,158 / 5,156,984,370,216 = **0.41** |
-| Biên lợi nhuận ròng | 990,761,729,138 / 4,615,678,655,546 = **0.21** | 1,041,006,333,282 / 5,156,984,370,216 = **0.20** |
-| ROA (Hiệu quả tài sản) | 990,761,729,138 / ((3,200,494,976,288 + 3,255,000,928,111)/2) = **0.30** | 1,041,006,333,282 / ((3,255,000,928,111 + 3,200,494,976,288)/2) = **0.32** |
-| ROE (Hiệu quả vốn chủ sở hữu) | 990,761,729,138 / ((2,701,698,690,635 + 2,689,728,981,899)/2) = **0.37** | 1,041,006,333,282 / ((2,689,728,981,899 + 2,701,698,690,635)/2) = **0.39** |
-| **5. Chỉ số định giá** | | |
-| EPS | 990,761,729,138 / 81,860,938 = **12,103** | 1,041,006,333,282 / 81,860,938 = **12,717** |
-| P/E | Giá thị trường / 12,103 = **Không tính được** | Giá thị trường / 12,717 = **Không tính được** |
-| P/B | Giá thị trường / (2,701,698,690,635 / 81,860,938) = **Không tính được** | Giá thị trường / (2,689,728,981,899 / 81,860,938) = **Không tính được** |
-| *Lý do không tính được:* Cần thông tin về Giá thị trường cổ phiếu. | | |
-| **6. Các chỉ tiêu cơ bản khác** | | |
-| Doanh thu thuần | 4,615,678,655,546 | 5,156,984,370,216 |
-| Giá vốn | 2,627,051,787,554 | 3,040,564,400,058 |
-| Lợi nhuận gộp | 1,988,626,867,992 | 2,116,419,970,158 |
-| Lợi nhuận trước thuế | 1,240,532,853,687 | 1,307,182,881,426 |
-| Lợi nhuận sau thuế | 990,761,729,138 | 1,041,006,333,282 |
-| **7. Tăng trưởng** | | |
-| Tăng trưởng Doanh thu thuần | (4,615,678,655,546 - 5,156,984,370,216) / 5,156,984,370,216 * 100 = **-10.49%** |  |
-| Tăng trưởng Giá vốn | (2,627,051,787,554 - 3,040,564,400,058) / 3,040,564,400,058 * 100 = **-13.53%** |  |
-| Tăng trưởng Lợi nhuận gộp | (1,988,626,867,992 - 2,116,419,970,158) / 2,116,419,970,158 * 100 = **-6.04%** |  |
-| Tăng trưởng Lợi nhuận trước thuế | (1,240,532,853,687 - 1,307,182,881,426) / 1,307,182,881,426 * 100 = **-5.10%** |  |
-| Tăng trưởng Lợi nhuận sau thuế | (990,761,729,138 - 1,041,006,333,282) / 1,041,006,333,282 * 100 = **-4.83%** |  |
-| **8. Dòng tiền** | | |
-| CFO | 900,554,973,918 / 4,615,678,655,546 = **0.195** | 1,602,839,085,529 / 5,156,984,370,216 = **0.311** |
-| FCFE | (900,554,973,918 - 108,998,280,735) = **791,556,693,183** | (1,602,839,085,529 - 57,978,690,490) = **1,544,860,395,039** |
+| Chỉ số | Công thức | 31/3/2024 | 1/1/2024 |
+|---|---|---|---|
+| **1. Chỉ số thanh khoản** | | | |
+| Thanh khoản hiện hành | Tài sản ngắn hạn / Nợ ngắn hạn | 35.013.917.574.413 / 15.556.305.899.954 = **2.25** | 35.935.879.621.477 / 17.408.151.264.632 = **2.06** |
+| Thanh khoản nhanh | (Tài sản ngắn hạn - Hàng tồn kho) / Nợ ngắn hạn | (35.013.917.574.413 - 6.780.799.942.377) / 15.556.305.899.954 = **1.82** | (35.935.879.621.477 - 6.128.081.805.088) / 17.408.151.264.632 = **1.71** |
+| Thanh khoản tức thời | Tiền và tương đương tiền / Nợ ngắn hạn | 1.788.254.863.348 / 15.556.305.899.954 = **0.11** | 2.912.027.359.925 / 17.408.151.264.632 = **0.17** |
+| **2. Chỉ số đòn bẩy tài chính** | | | |
+| Hệ số nợ | Tổng nợ / Tổng tài sản | 15.786.279.136.236 / 51.653.869.771.730 = **0.31** | 17.647.627.338.990 / 52.673.371.104.460 = **0.34** |
+| Nợ trên vốn chủ | Tổng nợ / Vốn chủ sở hữu | 15.786.279.136.236 / 35.867.590.635.494 = **0.44** | 17.647.627.338.990 / 35.025.743.765.470 = **0.50** |
+| Khả năng thanh toán lãi vay | EBIT / Chi phí lãi vay | Không tính được. Cần thông tin về EBIT và chi phí lãi vay trong cùng kỳ. | Không tính được. Cần thông tin về EBIT và chi phí lãi vay trong cùng kỳ. |
+| **3. Chỉ số hiệu quả hoạt động** | | | |
+| Vòng quay hàng tồn kho | Giá vốn hàng bán / Hàng tồn kho bình quân | Không tính được. Cần thông tin giá vốn hàng bán theo năm. | Không tính được. Cần thông tin giá vốn hàng bán theo năm. |
+| Vòng quay khoản phải thu | Doanh thu thuần / Khoản phải thu bình quân | Không tính được. Cần thông tin doanh thu thuần theo năm. | Không tính được. Cần thông tin doanh thu thuần theo năm. |
+| Vòng quay tổng tài sản | Doanh thu thuần / Tổng tài sản bình quân | Không tính được. Cần thông tin doanh thu thuần theo năm. | Không tính được. Cần thông tin doanh thu thuần theo năm. |
+| **4. Chỉ số lợi nhuận** | | | |
+| Biên lợi nhuận gộp | Lợi nhuận gộp / Doanh thu thuần | 2.206.983.369.589 / 2.705.840.401.722 = **0.82** | 1.906.226.399.078 / 2.312.046.425.953 = **0.82** |
+| Biên lợi nhuận ròng | Lợi nhuận sau thuế / Doanh thu thuần | 2.206.983.369.589 / 2.705.840.401.722 = **0.82** | 1.906.226.399.078 / 2.312.046.425.953 = **0.82** |
+| ROA (Hiệu quả tài sản) | Lợi nhuận sau thuế / Tổng tài sản bình quân | Không tính được. Cần thông tin lợi nhuận sau thuế theo năm. | Không tính được. Cần thông tin lợi nhuận sau thuế theo năm. |
+| ROE (Hiệu quả vốn chủ sở hữu) | Lợi nhuận sau thuế / Vốn chủ sở hữu bình quân | Không tính được. Cần thông tin lợi nhuận sau thuế theo năm. | Không tính được. Cần thông tin lợi nhuận sau thuế theo năm. |
+| **5. Chỉ số định giá** | | | |
+| EPS | Lợi nhuận sau thuế / Số cổ phiếu lưu hành | 2.206.983.369.589 / 20.899.554.450.000 = **0.11** | 1.906.226.399.078 / 20.899.554.450.000 = **0.09** |
+| P/E | Giá thị trường / EPS | Không tính được. Cần thông tin giá thị trường cổ phiếu. | Không tính được. Cần thông tin giá thị trường cổ phiếu. |
+| P/B | Giá thị trường / Giá trị sổ sách (BVPS) | Không tính được. Cần thông tin giá thị trường cổ phiếu và BVPS. | Không tính được. Cần thông tin giá thị trường cổ phiếu và BVPS. |
+| **6. Các chỉ tiêu cơ bản khác** | | | |
+| Doanh thu thuần | Doanh thu bán - (trừ) Giảm giá hàng bán, hàng bán bị trả lại | 2.705.840.401.722 | 2.312.046.425.953 |
+| Giá vốn |  | 497.675.570.285 | 377.888.254.570 |
+| Lợi nhuận gộp | Doanh thu Thuần - Giá vốn | 2.208.164.831.437 | 1.934.158.171.383 |
+| Lợi nhuận trước thuế Thu nhập Doanh nghiệp |  | 2.705.840.401.722 | 2.312.046.425.953 |
+| Lợi nhuận sau thuế Thu nhập Doanh nghiệp |  | 2.206.983.369.589 | 1.906.226.399.078 |
+| **7. Tăng trưởng** | | | |
+| Tăng trưởng Doanh thu Thuần | (năm nay - năm trước) / năm trước * 100 (%) | Không tính được. Cần thông tin doanh thu thuần năm trước. | Không tính được. Cần thông tin doanh thu thuần năm trước. |
+| Tăng trưởng Lợi nhuận sau thuế | (năm nay - năm trước) / năm trước * 100 (%) | Không tính được. Cần thông tin lợi nhuận sau thuế năm trước. | Không tính được. Cần thông tin lợi nhuận sau thuế năm trước. |
+| **8. Dòng tiền** | | | |
+| DOANH THU THUẦN (Net Cash Flow from Operating Activities - CFO) | Lưu chuyển tiền thuần từ hoạt động kinh doanh / Doanh thu thuần | 907.549.198.441 / 2.705.840.401.722 = **0.34** | 128.788.940.445 / 2.312.046.425.953 = **0.06** |
+| TỶ SUẤT DÒNG TIỀN TỰ DO (Free Cash Flow to Equity - FCFE) | (Lưu chuyển tiền thuần từ hoạt động kinh doanh - Tiền chi mua tài sản cố định và tài sản dài hạn khác) / Vốn chủ sở hữu | (907.549.198.441 - 378.452.282.107) / 35.867.590.635.494 = **0.015** | (128.788.940.445 - 357.267.370.903) / 35.025.743.765.470 = **-0.0065** |
+| XU HƯỚNG CỦA DÒNG TIỀN |  | Không tính được. Cần dữ liệu dòng tiền của nhiều năm. | Không tính được. Cần dữ liệu dòng tiền của nhiều năm. |
 
 ## 6. Phân tích các chỉ số cơ bản.
 
 **1. Phân tích cơ cấu nguồn vốn và cơ cấu tài sản:**
 
-*   **Tỷ lệ vốn chủ sở hữu:**
-    *   Năm 2024: 2,701,698,690,635 / 3,200,494,976,288 = **84.42%**
-    *   Năm 2023: 2,689,728,981,899 / 3,255,000,928,111 = **82.63%**
-    *   Nhận xét: Tỷ lệ vốn chủ sở hữu tăng nhẹ, cho thấy doanh nghiệp ngày càng ít phụ thuộc vào nợ vay và có sức khỏe tài chính tốt.
-*   **Tỷ lệ đầu tư vào tài sản ngắn hạn:**
-    *   Năm 2024: (504,172,685,550 + 1,410,000,000,000 + 177,752,774,225 + 463,583,886,225 + 40,603,862,905) / 3,200,494,976,288 = **81.74%**
-    *   Năm 2023: (821,414,457,106 + 1,190,000,000,000 + 174,027,942,449 + 364,225,974,474 + 44,231,773,829) / 3,255,000,928,111 = **75.07%**
-    *   Nhận xét: Tỷ lệ đầu tư vào tài sản ngắn hạn tăng, cho thấy doanh nghiệp tập trung vào tính thanh khoản và khả năng chi trả ngắn hạn.
-*   **Tỷ lệ đầu tư vào tài sản dài hạn:**
-    *   Năm 2024: (3,200,494,976,288 - (504,172,685,550 + 1,410,000,000,000 + 177,752,774,225 + 463,583,886,225 + 40,603,862,905)) / 3,200,494,976,288 = **18.26%**
-    *   Năm 2023: (3,255,000,928,111 - (821,414,457,106 + 1,190,000,000,000 + 174,027,942,449 + 364,225,974,474 + 44,231,773,829)) / 3,255,000,928,111 = **24.93%**
-    *   Nhận xét: Tỷ lệ đầu tư vào tài sản dài hạn giảm, có thể doanh nghiệp đang giảm đầu tư vào mở rộng sản xuất kinh doanh dài hạn.
+*   **Tỷ lệ vốn chủ sở hữu:** Giảm từ 66% xuống 69%, cho thấy doanh nghiệp đang tăng cường sử dụng nợ vay so với vốn chủ sở hữu. Điều này có thể làm tăng rủi ro tài chính nhưng cũng có thể tạo đòn bẩy để tăng trưởng.
+*   **Tỷ lệ đầu tư vào tài sản ngắn hạn:** Không đủ thông tin để đánh giá chi tiết, cần xem xét cơ cấu tài sản ngắn hạn (tiền, hàng tồn kho, phải thu) để đưa ra nhận định.
+*   **Tỷ lệ đầu tư vào tài sản dài hạn:** Không đủ thông tin để đánh giá chi tiết, cần xem xét cơ cấu tài sản dài hạn (tài sản cố định, đầu tư dài hạn) để đưa ra nhận định.
 
 **2. Phân tích khả năng thanh toán:**
 
-*   **Thanh khoản hiện hành:** Tăng từ 5.13 lên 5.23, cho thấy khả năng thanh toán nợ ngắn hạn được duy trì tốt.
-*   **Thanh khoản nhanh:** Tăng từ 4.08 lên 4.44, cho thấy khả năng thanh toán nợ ngắn hạn bằng tài sản có tính thanh khoản cao được cải thiện.
-*   **Thanh khoản tức thời:** Giảm từ 1.50 xuống 1.05, cho thấy khả năng thanh toán nợ ngắn hạn bằng tiền mặt giảm.
-*   **Vòng quay khoản phải thu:** Tăng từ không tính được lên 26.21, cho thấy tốc độ thu hồi nợ từ khách hàng nhanh hơn.
-*   **Vòng quay hàng tồn kho:** Tăng từ không tính được lên 6.35, cho thấy hàng tồn kho được bán ra nhanh hơn.
+*   **Thanh khoản hiện hành:** Tăng từ 2.06 lên 2.25, cho thấy khả năng thanh toán nợ ngắn hạn được cải thiện.
+*   **Thanh khoản nhanh:** Tăng từ 1.71 lên 1.82, cho thấy khả năng thanh toán nợ ngắn hạn không tính hàng tồn kho được cải thiện.
+*   **Thanh khoản tức thời:** Giảm từ 0.17 xuống 0.11, cho thấy khả năng thanh toán nợ ngắn hạn bằng tiền mặt và tương đương tiền giảm.
+*   **Khả năng thanh toán lãi vay:** Không tính được do thiếu dữ liệu.
+*   **Vòng quay khoản phải thu:** Không tính được do thiếu dữ liệu.
+*   **Vòng quay hàng tồn kho:** Không tính được do thiếu dữ liệu.
 
 **3. Phân tích đòn bẩy tài chính:**
 
-*   **Hệ số nợ:** Giảm từ 0.17 xuống 0.16, cho thấy doanh nghiệp giảm sự phụ thuộc vào nợ vay.
-*   **Nợ trên vốn chủ:** Giảm từ 0.21 xuống 0.18, cho thấy doanh nghiệp sử dụng ít nợ hơn so với vốn chủ sở hữu.
+*   **Hệ số nợ:** Giảm từ 0.34 xuống 0.31, cho thấy doanh nghiệp giảm sử dụng nợ vay so với tổng tài sản.
+*   **Nợ trên vốn chủ:** Giảm từ 0.50 xuống 0.44, cho thấy doanh nghiệp giảm sử dụng nợ vay so với vốn chủ sở hữu.
 
 **4. Phân tích khả năng sinh lời:**
 
-*   **Biên lợi nhuận gộp:** Tăng từ 0.41 lên 0.43, cho thấy hiệu quả quản lý chi phí sản xuất tốt hơn.
-*   **Biên lợi nhuận ròng:** Tăng từ 0.20 lên 0.21, cho thấy hiệu quả hoạt động kinh doanh được cải thiện.
-*   **ROA:** Giảm từ 0.32 xuống 0.30, cho thấy hiệu quả sử dụng tài sản giảm nhẹ.
-*   **ROE:** Giảm từ 0.39 xuống 0.37, cho thấy hiệu quả sử dụng vốn chủ sở hữu giảm nhẹ.
-*   **EPS:** Giảm từ 12,717 xuống 12,103, cho thấy lợi nhuận trên mỗi cổ phần giảm.
+*   **Biên lợi nhuận gộp:** Duy trì ở mức 0.82, cho thấy hiệu quả quản lý giá vốn hàng bán ổn định.
+*   **Biên lợi nhuận ròng:** Duy trì ở mức 0.82, cho thấy hiệu quả quản lý chi phí và thuế ổn định.
+*   **ROA:** Không tính được do thiếu dữ liệu.
+*   **ROE:** Không tính được do thiếu dữ liệu.
+*   **EPS:** Tăng từ 0.09 lên 0.11, cho thấy lợi nhuận trên mỗi cổ phiếu tăng.
 
 **5. Phân tích dòng tiền:**
 
-*   **CFO:** Giảm từ 0.311 xuống 0.195, cho thấy dòng tiền từ hoạt động kinh doanh giảm so với doanh thu.
-*   **FCFE:** Giảm từ 1,544,860,395,039 xuống 791,556,693,183, cho thấy dòng tiền tự do giảm.
-
-**6. Tăng trưởng:**
-
-*   Doanh thu thuần giảm 10.49%.
-*   Giá vốn giảm 13.53%.
-*   Lợi nhuận gộp giảm 6.04%.
-*   Lợi nhuận trước thuế giảm 5.10%.
-*   Lợi nhuận sau thuế giảm 4.83%.
-
-**Tổng quan:**
-
-Doanh nghiệp có sức khỏe tài chính tốt, ít phụ thuộc vào nợ vay. Khả năng thanh toán được duy trì tốt. Tuy nhiên, hiệu quả sử dụng tài sản và vốn chủ sở hữu giảm nhẹ. Dòng tiền từ hoạt động kinh doanh và dòng tiền tự do giảm. Doanh thu và lợi nhuận đều giảm so với năm trước.
+*   **DOANH THU THUẦN (Net Cash Flow from Operating Activities - CFO):** Tỷ lệ giảm từ 0.06 xuống 0.34, cho thấy dòng tiền từ hoạt động kinh doanh so với doanh thu thuần tăng mạnh.
+*   **TỶ SUẤT DÒNG TIỀN TỰ DO (Free Cash Flow to Equity - FCFE):** Tăng từ -0.0065 lên 0.015, cho thấy dòng tiền tự do tạo ra cho chủ sở hữu tăng.
+*   **XU HƯỚNG CỦA DÒNG TIỀN:** Không tính được do thiếu dữ liệu.

@@ -1,108 +1,85 @@
-CÔNG TY CỎ PHÀN ĐÀU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phổ Quang; Phường 2, Quận Tân Bình, TP Hồ Chí Minh
-BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
-Tại ngày 31tháng12 năm 2024                                      Đơn vị tính: VND
+Deloitte                                                               Cúng ty TNHH Kiém toin
+                                                   MAAKING AN          Deloltte Vigt Nam
+                                                   IMPACT That         Tang      Tua nh Vindconer
+                                                   MATTERS             34 Lank He, Phuong Lảng Ha
+                                                                       Quen      484 74 {105 Onng
+                                                                           thrai +84 24 6288 5670
+                                                                                  deloitte _comvn
+  0/88 /VNIA-HN-BC
+S6:
+
+             BÁO CÁO SOÁT XÉT BÁO CẢO TÀI CHÍNH HỢP NHẨT GlỮA NIÊN Độ
+
+Kính gứi:    Các cổ đông
+             Hội đồng Quản trị và Ban Tổng Giám đốc
+             Tổng Công ty Khí Việt Nam - Cổng ty Cổ phần
+
+ Chúng tôi dã thực hiện công việc soát xét báo cao tài chính hợp nhất giữa niên độ kèm thco cúa Tông
+   ty Khí Viêt Nam - Công ty Cô        (goi tẳt là "Tông Công ty" dược lập ngày 12 tháng 8 nắm 2025,
+Công                     phần
+tử trang 05 đến trang 58 baogôm Bảng cân đổi kế toán hợp nhất giữa niên độ tại ngảy 30 1hảng 6 nẳm
+      2025, Báo cão kếtquahoạt động kinh doanh hợp nhẩt giữa niên độ, Báo cáo lru chuyến tiẻn tệ hợp
+nhất gỉữa niên dộ cho ky hoạt dộng kết thúc cùng ngày và Bán thuyêt minh báo cáo tai chinh hơp nhất
+giữa niên độ.
+
+Trách nhỉệm cùa Ban Tổng Giảm đốc
+ Gan Tông Giám đổc TấngCóngty chju trách nhiệm lập và trình bay trung thực và hơp lý bdo cáo tài
+ chinh hợp nhất giữa nỉèn đô theo chuẩn mực Ìế toán; chế độ kể toán doanh nghiệp Việt Nam và các
+ quy định pháp lý có liên quan dến việc lập và trình bày báo cáo lài chính hợp nhât giữa niền độ và chịu
+ trach nhiem về kiêm soat nòi bộ mà Ban Tổng Gián đốc xác đjnh là cần thiết dể dảm bảo vỉệc lập và
+                                       khôngcó 5a1 sÓt trong Yếụ do gian lân hoặc nhầm lân,
+trình bày bdo cáo lài chính hợp nhẩt giữa nỈên độ
+
+ Trách nhỉệm của Klểm toán viên
+ Trách nhiệm cúa chúng tôi là đưa ra kết luân về bao cão tài chính hợp nhất gỉữa niên độ kèm theo dựa
+ rên kết   sOát xét cùa chung tòí Chung tòỈ đã thực hiện công việc soát xẻt theo Chuẩn mực Việt Nam
+        quá                            thông                      niên đó do kiểm toán viên doc
+  về hợp đồng dịch vu sOảt xét số 2410 Soát xét                   gỉíra
+                                                   tin tai chinh
+  lap cua dơn vỊthựchiên.
+  Công việc soảt xet báo cao rài chinh hợp nhẩt giữa nỈên độ bao gồm vỉệc thực hiện các cuộc phỏng vấn
+     chú yếu là phỏng vấn những người chỊu crách nhỉệm về các vấn dề lài chinh kế toản, và thực hiện thủ
+      tuc phân tích và cắc thúᵗᵘᶜ soát xet khác. Một cuôc soát xét về cơ ban có phạm ví hẹp hơn một cuộc
+       kiểm toắn đuợc thực hiện theo các chuẩn mực kiểm toán VIệt Nam và do vậy không cho phép chúng tôi
+       dat duơc sư dám bảo rằng chúrg tòi sẼ nhận blết được tẩt cá các vấn đề trọng vếu co thể được phảt
+  hiện trang một cuộc kỉẩm toán. Theo đó, chúng tâi không dưa ra ý kiến kiểm toản.
 
 
-                       TÀISẢN                Mã số  Thuyết  Số cuối nẳm             Số dẩu năm
-                                                     minh
 
- ~TATSAN NGANTẠN
-((100=110+120+130+140+150)                   100            233.480.437.461         203.751.912.997
- Tiền và các khoản tương dương tiền          110     V.I      97.451.825.895         75.330.523.515|
-  Tiền                                       111              20.451.825.895         75.330.523.515
-  Các khoản tương đương tiền                 112                  77.000.000.000
-  Đầu tư tài chính ngắn hạn                  120     V.2a                             10.du0.0o0.u00
-  Đẩu tư nắm giữ dến ngày dáo hạn            123              92.585.902.259          10.000.000.000
-II Các khoan phải thungắn hạn                130                                    100.142.666.1487
-  Phải thu ngẳn hạn của khách hàng           131     V.3      68.528.921.552        102.709.51
-2. Trà trước cho       bán ngắn hạn          132      V4      37.967.995.104          3.212.13
-                   người
- Phải thu ngẳn hạn khác                      136     V.5      3.293.955.557           5.077.3
- Dự phòng phải thu ngắn hạn khó đòi          137     Y.6    (17.204.969.954)        (10.856.33
-IV Hàngtồn kho                               140     V.7      30.508.936.830         14.032.6501
- Hàng tổn kho                                141              30.885.221.242         14.408.934-
- Dự phòng giảm giáhàngtồn kho                149              (376.284.412)           (376.284.412
-V. Tài sanngắn hạn khác                      150              12.933.772.477          4.246.073.209
- Chi phí  trước ngắn hạn                     151     V.I2     12.933.772.477          4.246.073.209
-          trả
- Thuế và các khoản khác phải thu Nhà nước    153     V.16
-  TÀl SAN DÀl HẠN
-(200-210+220+240+250+260)                    200            200.993.381.837         203.522.798.503
- Các khoản phải thu dài hạn                  210
-IL. Tài sản cố định                          220              17.684.734.391         19.098.808.033|
- Tài san cố dịnh hữu hình                    221              16.697.734.391         17.985.808.033
- Nguyên giá                                  222     V.9      69,688.570.438         67.848.948.895
- Giá trị hao mòn luỹ kế                      223            (52.990.836.047)        (49.863.140.862)
- Tài sản cố định thuê tài chính              224
- Tài sán cố định vô hình                     227     V.O             987.000.000      1.113.ooo.ooo/
-     Nguyên giá                              228              3.150.000.000           3.150.000.ooo/
- Giá trị hao mòn luỹ kế                      229               (2.163.000.000)      (2.037.ooo.ooo
-           dộng
-IIL. Bất           san đẩu tư                230    V.II       114.857.298.908      121.583.334.20
- Nguyên giá                                  23]            206.497.093.439         206.497.093
- Giá trị hao mòn luỹ kế                      232            (91.639.794.531)        (84.913.759.23
-IV. Tài sản dở dang dài hạn                  240              17.825.949.006         16.008.542.266
- Chi phí xây dựng cơ bản dở dang             242    V.8       17.825.949.006         16.008.542.266
-V. Đầu tư tài chính dài hạn                  250    V.2b    50.249.727.199           46.456.441.67
- Đầu tư vào công ty con                      251              68.972.830.000         68.972.830.000
- Đầu tư góp vốn vào đơn vị khác              253              4.487.946.475           4.487.946.475
- Dự phòng đầu tư tài chính dài hạn           254            (23.211.049.276)        (27.004.334.804)
- Đầu tư nắm giữ đến ngày đáo hạn             255               375.672.333            375.672.333|
-VI Tài sản dài hạn khác                      260                                         375.672.333
- Tài sản thuế thu nhập hoãn lai              262    V.22       375.672.333
-  TONG CỘNG TAISAN (270 = 100 + 200)         270            434.473.819.298         407.274.711.500 +
+
+
+
+
+Tcn Dc oitte Dugc                                     ene
+                                                      mct phsp nhin  blel va CocIdp
+khong b ran; buộc l  nhau đòi vól C3cben lhứ bạ       hang
+khbng pnải chlu trach nhlỆrn lẵr1 nhiau. DTTL khòne cune  dleh vu cho cic khách
+chu                                                tnons
+Vuỉ long xem tđỈ www deloitte cam{about de bỉẽl thcm      tn chi leL +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh*
+# BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ
 
-## BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG  
-### Tại ngày 31 tháng 12 năm 2024  
-*Đơn vị tính: VND*
+**Kính gửi:**  
+Các cổ đông  
+Hội đồng Quản trị và Ban Tổng Giám đốc  
+Tổng Công ty Khí Việt Nam - Công ty Cổ phần
 
-| TÀI SẢN                                                | Mã số | Thuyết minh | Số cuối năm      | Số đầu năm       |
-| ------------------------------------------------------ | ----- | ----------- | ---------------- | ---------------- |
-| **A - TÀI SẢN NGẮN HẠN<br/>(100=110+120+130+140+150)** |       |             |                  |                  |
-| I. Tiền và các khoản tương đương tiền                  | 110   | V.1         | 97.451.825.895   | 75.330.523.515   |
-| 1. Tiền                                                | 111   |             | 20.451.825.895   | 75.330.523.515   |
-| 2. Các khoản tương đương tiền                          | 112   |             | 77.000.000.000   |                  |
-| II. Đầu tư tài chính ngắn hạn                          | 120   | V.2a        |                  | 10.000.000.000   |
-| 3. Đầu tư nắm giữ đến ngày đáo hạn                     | 123   |             | 92.585.902.259   | 10.000.000.000   |
-| **III. Các khoản phải thu ngắn hạn**                   | 130   |             | 100.142.666.148  | 100.142.666.148  |
-| 1. Phải thu ngắn hạn của khách hàng                    | 131   | V.3         | 68.528.921.552   | 102.709.511.552  |
-| 2. Trả trước cho người bán ngắn hạn                    | 132   | V.4         | 37.967.995.104   | 3.212.137.215    |
-| 6. Phải thu ngắn hạn khác                              | 136   | V.5         | 3.293.955.557    | 5.077.350.000    |
-| 7. Dự phòng phải thu ngắn hạn khó đòi                  | 137   | V.6         | (17.204.969.954) | (10.856.330.905) |
-| IV. Hàng tồn kho                                       | 140   | V.7         | 30.508.936.830   | 14.032.650.123   |
-| 1. Hàng tồn kho                                        | 141   |             | 30.885.221.242   | 14.408.934.123   |
-| 2. Dự phòng giảm giá hàng tồn kho                      | 149   |             | (376.284.412)    | (376.284.412)    |
-| V. Tài sản ngắn hạn khác                               | 150   |             | 12.933.772.477   | 4.246.073.209    |
-| 1. Chi phí trả trước ngắn hạn                          | 151   | V.12        | 12.933.772.477   | 4.246.073.209    |
-| 3. Thuế và các khoản khác phải thu Nhà nước            | 153   | V.16        |                  |                  |
-| **B - TÀI SẢN DÀI HẠN<br/>(200=210+220+240+250+260)**  | 200   |             | 200.993.381.837  | 203.522.798.503  |
-| I- Các khoản phải thu dài hạn                          | 210   |             |                  |                  |
-| II. Tài sản cố định                                    | 220   |             | 17.684.734.391   | 19.098.808.033   |
-| 1. Tài sản cố định hữu hình                            | 221   |             | 16.697.734.391   | 17.985.808.033   |
-| - Nguyên giá                                           | 222   | V.9         | 69.688.570.438   | 67.848.948.895   |
-| - Giá trị hao mòn lũy kế                               | 223   |             | (52.990.836.047) | (49.863.140.862) |
-| 2. Tài sản cố định thuê tài chính                      | 224   |             |                  |                  |
-| 3. Tài sản cố định vô hình                             | 227   | V.10        | 987.000.000      | 1.113.000.000    |
-| - Nguyên giá                                           | 228   |             | 3.150.000.000    | 3.150.000.000    |
-| - Giá trị hao mòn lũy kế                               | 229   |             | (2.163.000.000)  | (2.037.000.000)  |
-| III. Bất động sản đầu tư                               | 230   | V.11        | 114.857.298.908  | 121.583.334.200  |
-| - Nguyên giá                                           | 231   |             | 206.497.093.439  | 206.497.093.439  |
-| - Giá trị hao mòn lũy kế                               | 232   |             | (91.639.794.531) | (84.913.759.239) |
-| IV. Tài sản dở dang dài hạn                            | 240   |             | 17.825.949.006   | 16.008.542.266   |
-| 2. Chi phí xây dựng cơ bản dở dang                     | 242   | V.8         | 17.825.949.006   | 16.008.542.266   |
-| V. Đầu tư tài chính dài hạn                            | 250   | V.2b        | 50.249.727.199   | 46.456.441.671   |
-| 1. Đầu tư vào công ty con                              | 251   |             | 68.972.830.000   | 68.972.830.000   |
-| 3. Đầu tư góp vốn vào đơn vị khác                      | 253   |             | 4.487.946.475    | 4.487.946.475    |
-| 4. Dự phòng đầu tư tài chính dài hạn                   | 254   |             | (23.211.049.276) | (27.004.334.804) |
-| 5. Đầu tư nắm giữ đến ngày đáo hạn                     | 255   |             | 375.672.333      | 375.672.333      |
-| VI. Tài sản dài hạn khác                               | 260   |             | 375.672.333      | 375.672.333      |
-| 2. Tài sản thuế thu nhập hoãn lại                      | 262   | V.22        | 375.672.333      | 375.672.333      |
-| **TỔNG CỘNG TÀI SẢN (270 = 100 + 200)**                | 270   |             | 434.473.819.298  | 407.274.711.500  |
+Chúng tôi đã thực hiện công việc soát xét báo cáo tài chính hợp nhất giữa niên độ kèm theo của Tổng Công ty Khí Việt Nam - Công ty Cổ phần (gọi tắt là "Tổng Công ty"), được lập ngày 12 tháng 8 năm 2025, từ trang 05 đến trang 58, bao gồm Bảng cân đối kế toán hợp nhất giữa niên độ tại ngày 30 tháng 6 năm 2025, Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ cho kỳ hoạt động kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất giữa niên độ.
 
+## Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất giữa niên độ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+
+## Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra kết luận về báo cáo tài chính hợp nhất giữa niên độ kèm theo dựa trên kết quả soát xét của chúng tôi. Chúng tôi đã thực hiện công việc soát xét theo Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2410 - Soát xét thông tin tài chính giữa niên độ do kiểm toán viên độc lập của đơn vị thực hiện.
+
+Công việc soát xét báo cáo tài chính hợp nhất giữa niên độ bao gồm việc thực hiện các cuộc phỏng vấn, chủ yếu là phỏng vấn những người chịu trách nhiệm về các vấn đề tài chính kế toán, và thực hiện thủ tục phân tích và các thủ tục soát xét khác. Một cuộc soát xét về cơ bản có phạm vi hẹp hơn một cuộc kiểm toán được thực hiện theo các chuẩn mực kiểm toán Việt Nam và do vậy không cho phép chúng tôi đạt được sự đảm bảo rằng chúng tôi sẽ nhận biết được tất cả các vấn đề trọng yếu có thể được phát hiện trong một cuộc kiểm toán. Theo đó, chúng tôi không đưa ra ý kiến kiểm toán.
+
+----
+
+Deloitte được dùng để chỉ một hoặc nhiều thành viên của Deloitte Touche Tohmatsu Limited ("DTTL" hay "Deloitte Toàn cầu"), và mạng lưới các hãng thành viên trên toàn cầu (gọi chung là Tổ chức Deloitte). DTTL và mỗi thành viên trực thuộc là một pháp nhân riêng biệt và độc lập về mặt pháp lý, không bị ràng buộc hoặc đại diện bởi các bên thứ ba. DTTL và mỗi thành viên trực thuộc chỉ chịu trách nhiệm cho hành vi và thiếu sót của mình, chứ không phải chịu trách nhiệm lẫn nhau. DTTL không cung cấp dịch vụ cho các khách hàng.  
+Vui lòng xem tại www.deloitte.com/about để biết thêm thông tin chi tiết.
 
  + 
  + [] 

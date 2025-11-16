@@ -1,106 +1,88 @@
-CÔNG TY CỖ PHẢN ĐẦU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP Hồ Chi Minh.
-               BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                                                     Năm 2024
-                                                                                                     Đon vi tinh: VND
-V-THÔNG TIN BỎ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐÓI KÉ TOÁN
-RIÊNG
-1. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN                                             Số cuối năm        Số đầu nẳăm
-a/ Tiền mặt                                                                          47.629.303        85.485.984
-    Văn phòngcông                                                                    41.172.284        49.383.955
-    Trung Tâm Kinh Doanh                                                             2.219.223         14.334.559
-    Chi Nhánh Đakmil không                                                           4.237.796         21.767.470
-bfTiền gửi ngânhàng         kỳ hạn                                                 20.404.196.592     75.245.037.531
-    Văn phòngcông                                                                  20.230.924.090     75.156.972.953
-   NgânhàngTMCP Đầu tư và Phát triển Việt Nam        CN SGD 2                      9.890,427.761      21.805.323,035
-   NgânhàngVIETBANK Cộng hòa                                                         7.053.298         7.7125
-   Ngânhàng TMCPHàngHài Việt Nam                                                     720.480.271       192.125
-   Ngânhàng TMCP CôngThưong VN- Chi Nhánh 1 TpHCM                                  8.982.469.264     41.806.84
-   Ngânhàng TMCP CôngThương Việt Nam CN 1- CT Cà Mau                                 8.862.168         62484
-   Ngân hàng TMCPCôngThưong Việt Nam CT Buôn Ma Thuột                                10.657.219        10.635870
-   Ngânhảng TMCP CôngThương Việt Nam Gói XLS Quận 2                                  32.928.208        169.026.136
-   Ngânhàng TMCP Đẩu tư và Phát triển Việt Nam       CN Bến Thành                    3.714.502        10.154.638.191
-   Ngân hảng TMCPCôngThương Việt Nam     Tam PhướcĐồngNai                            16.863.455        470.191.677
-   Ngân hảng TMCP Quân Đội CN Phú Yên    Gói thầu OIXL
-   Ngânhàng TMCP Đầu Tư và Phát triển Việt Nam (67,58 EUR)                           1.769.447         2.332.176
-   Ngânhàng TMCP Đẩu Tư và Phát triển Việt Nam (21.699,87 USD)                       550.070.005       523.168.582
-  Ngânhàng TMCPCôngThương Việt Nam CN                Tp.HCM (222,04 USD)             5.628.492         5.346.723
-   Trung tâm kinh doanh                                                              171.637.460       74.686.099
-  Ngânhàng TMCP Ngoại Thưong Việt Nam                                                171.637.460       74.686.099
-   Chi Nhánh Đakmil                                                                  1.635.042         13.378.479
-   Ngân hàng TMCP Đầu tư và Phát triển (BIDV)                                        1.635,042         13.378.479
-cl Các khoản tương đương tiền                                 tháng   lãi suất     77.000.000.000
-   Tiền gửi tiết kiệm VND tại Vietinbank CNI (kỳ hạn                               10.000.000.000
-4.2%/năm, đáo hạn 20/01/2025)                                 tháng lãi suất
-   Tiền gửi tiết kiệm VND tại Vietinbank CNI (kỳ han 3                             5.000.000.000
- 4,2%/nẳm; rút gốc linh hoạt, dáo hạn 20/03/2025)             tháng; lãi suất
-      Tiền gửi tiết kiệm VND tại  Vietinbank CNI (kỳ hạn 3                         000.0oo.000
- 4.4%/nămn, đáo hạn 15/01/2025)                               tháng lãi suất       15
-      Tiền gửi tiết kiệm VND tại  Vietinbank CNI (kỷ hạn 3                         14.000.000,000
- 4,4%/năm, đáo hạn 02/03/2025)        Sở giao dịch II (kỷ hạn    tháng.lãi
-   Tiền  tiết kiệm VND tại BIDV
-    gửi                                                                              oo0.000
-suất 4,4%/năm, dáo hạn 20/01/2025)    Sở giao dịch II (kỳ hạn 3 tháng; lãi         20000.
-   Tiền gửi tiết kiệm VND tại BIDV                                                 8.000.000.000
- suất 4,4%/nãm, dáo hạn 15/01/2025 )  Sở giao dịch II (kỳ hạn 3tháng
-   Tiền gửi tiết kiệm VND tại BIDV                                   lãi             000.0oo
- suẩt 4,4%/năm, đáo han 03/03/2025                                                 5.000             75.330.523.515
-                           Cộng                                                    97.451.825.895
+ TỎNG CÔNG TY KHÍ VIỆT MAMM - CÔNG TY Cổ PHẦN                           MẪU SỐ B 09a-DN/HN
+ THUYÊT MIINH BÁO CÁO TÀI CHÍNH HỢP NHÃT GIỮA NIÊN ĐỘ (Tỉếp theo)
+  Cơ sở hơpnhất báo cáo tài chính giữ'a nỈên độ
+  Bac cao tàỉ chinn hợp rhất giữa niên độ bao gồm báo cáo tài chinhn riêng giữa niên độ của Tong
+ Cóng ty và báo Cáo Lài chính giữa niêr đậ cúa các công ty do TóngCong    kiẻm soát (cáccông
+                            động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. Víệc kIểrr soát nằy dat
+  ty con) cho kỳ hoat                                                     động
+  được khi Tẩng Công ty cá khả năng kiểm soát các chính sach tài chỉnh và hoạt         cúa các công
+  ty nhận đầu tư nhằm thu dược lợi ích lừ hoạt động của các công ty nầy.
+         Kẽtquáhoat động kinh aoanh giữa niên độ cỦJ các công ty con được mua lạỈ hoặc bán di trong
+  kỷ được trinh bầy trong Báa cáo kểt           hoat động kinh doanh hợp rhấ : giữa nỈên độ tỉ ngảy
+                                    quá
+   mua hoãc cho đén ngày bán khoản đâu    câng ty con đỏ
+                                         tur ar
+   Trong trường hợp cần thiết, báo cao tài chính của các công ty con        điều chinh để các chinh
+                                    Cóng             công       được
+   sách kể toán được áp dung tại Tổng     ty và các        ty con là giông nhau,
+          Tất cả các nghiêp vụ và sổ dư giỮa car công ty trongcungTổng Công ty được lozi bỏ khí hợp
+    nhất báo cảo tàí chinh giữa niên độ.
+      Lợi ich cúa cổđônBkhông kiẽm soảt bao gồm gỉá tri các Iợi ích củz cổ đông không kiểm soá1 Lạl
+         ngày hợp nhắt kinn doanh ban dầu và phần Iợi Ích của cổ đông không kiểm soát trong sự biến
+       dộng cúa tổng vón chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản Iẵ phắt sinh tại công
+                 ty conphải được phân bố tương ửng với phần sở hữu của cổdôngkhông kiểm soảt, kể cả
+        trường hợp s5 |ỗ đó Iớn hơn phần sở hữu cúa cổ đong khòng kiểm soát trong tài sản thuần của
+     công ty con.
+    Hợp nhất kInh doanh
+                                                                                ;hợp
+    Tài san, công nợva công nợ tiềm tàng của công ty con được xác định theo giá trị     lý tai ngằy
+                                                                           jhợplý cua tài sản thuàn
+       cóng tY con; Bẩt kỳ khoẻn phụ trội nào gỉữa giá mua và tổng giá trị
+     mua
+           được mua được ghi rhận là lựỉ thế thưdng mạl. Bất kỳ khoản thiếu hụt nào Giữa Glá mua và
+     tóng"gìá trj hợp lý của tài sản thuần dược mua dược ghi nhận vào kểt quả hoạt động  doanh
+                                                                                       kinh
+     hdp rhât cùa kỳ kê toán pnảc sinh hoạt động mua công ty con
+         Lợi íchcủa có dông không kiểm soát tạl ngày hợp nhất kinh doanh ban đầu được xác định trên
+        sở tỷ lệ của cổ dWng không kiểm soảt trong tổng glá trj hợp lý cúa tàí sản, công nợ và còng
+     nợ tiềm tàng dươc   nhân.
+                        Ghi
+     Đâu tư vào công ty liên kết
+     Công ty lién kết là một công ty mà Tẩng Công ty có ắnhhưởngđáng kế nhưng khỗng
+                                                                                         phai
+     công ty con       công ty lièn doanh cúa T ng Cõng ty. Ảnh hưởng đang kể thể hiện ở quyền thar
+        hay
+      gia vao việc dưa ra cac quyét djnh về chinh sách tàí chính và hoạt động cúa bên nhận đầu tư
+                                                     dôngkiểm soát những chinh sách nay
+       nhưng không có ảnh hưảng về mặt kiểrn soát hoặc
+       Kết quá hoạt động kinh doanh, tàỈ sẳn và công nợ của các công ty llên kết được hợp nhãt trong
+                  hợp nhẩt glua niên độ của Tổng Công ty sửdunb phựơng pháp vốn chủ sá
+       bao cảo tal chính
+        hữu Các khoản góp vón liên kết đươc trình bầy trong Bảng cân đốì kẽ toán hợp nhất gìữa niên
+        độ theo gié Bõc được điều chỉnh theo những thay dổi trong phần vổn góp của Tổng Công ty vào
+        phân tài sản thuân của công ty liên kẽt sau ngày mua khoản đầu tư. Các khoán lỗ của công ty
+        líên kết vượt quá khoản góp vấn cúa Tổng Công ty tại công ty lỉên kết đỏ (bao gồm bẩt kể các
+         khoảr góp vốn dài hạn mà về thực chất tao thành đầu tư thuần của Tổng Công ty tại công ty
+        lièn kết đó) không dược ghi nhận, trừ khi Tổng Cang ty có nghĩa vụ thực hiện thanh toán thay
+                           TỏngCông ty chỉ được ghi nhận phần sở hữu của mình trong khoản
+       ty llen kết hoạt động có lãi,
+      lai đó sau khi đã bù đẳp được phần lỗ thuân chưa được hach toán trước đây,
 
-
-
-
-18 +
+1 +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# Cơ sở hợp nhất báo cáo tài chính giữa niên độ
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024  
-*Đơn vị tính: VND*
+Báo cáo tài chính hợp nhất giữa niên độ bao gồm báo cáo tài chính riêng giữa niên độ của Tổng Công ty và báo cáo tài chính giữa niên độ của các công ty do Tổng Công ty kiểm soát (các công ty con) cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. Việc kiểm soát này đạt được khi Tổng Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
 
-----
+Kết quả hoạt động kinh doanh giữa niên độ của các công ty con được mua lại hoặc bán đi trong kỳ được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
 
-## V- THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Tổng Công ty và các công ty con là giống nhau.
 
-### 1. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Tất cả các nghiệp vụ và số dư giữa các công ty trong cùng Tổng Công ty được loại bỏ khi hợp nhất báo cáo tài chính giữa niên độ.
 
-|                                                                                                                        | Số cuối năm    | Số đầu năm     |
-| ---------------------------------------------------------------------------------------------------------------------- | -------------- | -------------- |
-| **a/ Tiền mặt**                                                                                                        | 47.629.303     | 85.485.984     |
-| - Văn phòng công ty                                                                                                    | 41.172.284     | 49.383.955     |
-| - Trung Tâm Kinh Doanh                                                                                                 | 2.219.223      | 14.334.559     |
-| - Chi Nhánh Đakmil                                                                                                     | 4.237.796      | 21.767.470     |
-| **b/ Tiền gửi ngân hàng không kỳ hạn**                                                                                 | 20.404.196.592 | 75.245.037.531 |
-| **\* Văn phòng công ty**                                                                                               | 20.230.924.090 | 75.156.972.953 |
-| - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - CN SGD 2                                                              | 9.890.427.761  | 21.805.323.035 |
-| - Ngân hàng VIETBANK - Cộng hòa                                                                                        | 7.053.298      | 7.712.536      |
-| - Ngân hàng TMCP Hàng Hải Việt Nam                                                                                     | 720.480.271    | 192.125.865    |
-| - Ngân hàng TMCP Công Thương VN - Chi Nhánh 1 Tp.HCM                                                                   | 8.982.469.264  | 41.806.847.229 |
-| - Ngân hàng TMCP Công Thương Việt Nam CN 1 - CT Cà Mau                                                                 | 8.862.168      | 9.624.843      |
-| - Ngân hàng TMCP Công Thương Việt Nam - CT Buôn Ma Thuột                                                               | 10.657.219     | 10.635.870     |
-| - Ngân hàng TMCP Công Thương Việt Nam - Gói XL5 - Quận 2                                                               | 32.928.208     | 169.026.136    |
-| - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - CN Bến Thành                                                          | 3.714.502      | 10.154.638.191 |
-| - Ngân hàng TMCP Công Thương Việt Nam - Tam Phước Đồng Nai                                                             | 16.863.455     | 470.191.677    |
-| - Ngân hàng TMCP Quân Đội - CN Phú Yên - Gói thầu 01XL                                                                 |                |                |
-| - Ngân hàng TMCP Đầu Tư và Phát triển Việt Nam (67,58 EUR)                                                             | 1.769.447      | 2.332.176      |
-| - Ngân hàng TMCP Đầu Tư và Phát triển Việt Nam (21.699,87 USD)                                                         | 550.070.005    | 523.168.582    |
-| - Ngân hàng TMCP Công Thương Việt Nam CN 1 Tp.HCM (222,04 USD)                                                         | 5.628.492      | 5.346.723      |
-| **\* Trung tâm kinh doanh**                                                                                            | 171.637.460    | 74.686.099     |
-| - Ngân hàng TMCP Ngoại Thương Việt Nam                                                                                 | 171.637.460    | 74.686.099     |
-| **\* Chi Nhánh Đakmil**                                                                                                | 1.635.042      | 13.378.479     |
-| - Ngân hàng TMCP Đầu tư và Phát triển (BIDV)                                                                           | 1.635.042      | 13.378.479     |
-| **c/ Các khoản tương đương tiền**                                                                                      | 77.000.000.000 |                |
-| - Tiền gửi tiết kiệm VND tại Vietinbank CN1 (kỳ hạn 1 tháng, lãi suất 4,2%/năm, đáo hạn 20/01/2025)                    | 10.000.000.000 |                |
-| - Tiền gửi tiết kiệm VND tại Vietinbank CN1 (kỳ hạn 3 tháng, lãi suất 4,2%/năm, rút gốc linh hoạt, đáo hạn 20/03/2025) | 5.000.000.000  |                |
-| - Tiền gửi tiết kiệm VND tại Vietinbank CN1 (kỳ hạn 3 tháng, lãi suất 4,4%/năm, đáo hạn 15/01/2025)                    | 15.000.000.000 |                |
-| - Tiền gửi tiết kiệm VND tại Vietinbank CN1 (kỳ hạn 3 tháng, lãi suất 4,4%/năm, đáo hạn 02/03/2025)                    | 14.000.000.000 |                |
-| - Tiền gửi tiết kiệm VND tại BIDV - Sở giao dịch II (kỳ hạn 1 tháng, lãi suất 4,4%/năm, đáo hạn 20/01/2025)            | 20.000.000.000 |                |
-| - Tiền gửi tiết kiệm VND tại BIDV - Sở giao dịch II (kỳ hạn 3 tháng, lãi suất 4,4%/năm, đáo hạn 15/01/2025)            | 8.000.000.000  |                |
-| - Tiền gửi tiết kiệm VND tại BIDV - Sở giao dịch II (kỳ hạn 3 tháng, lãi suất 4,4%/năm, đáo hạn 03/03/2025)            | 5.000.000.000  |                |
-| **Cộng**                                                                                                               | 97.451.825.895 | 75.330.523.515 |
+Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
 
+## Hợp nhất kinh doanh
 
+Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản thuần được mua được ghi nhận là lợi thế thương mại. Bất kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản thuần được mua được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất của kỳ kế toán phát sinh hoạt động mua công ty con.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
+
+## Đầu tư vào công ty liên kết
+
+Công ty liên kết là một công ty mà Tổng Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tổng Công ty. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.
+
+Kết quả hoạt động kinh doanh, tài sản và công nợ của các công ty liên kết được hợp nhất trong báo cáo tài chính hợp nhất giữa niên độ của Tổng Công ty sử dụng phương pháp vốn chủ sở hữu. Các khoản góp vốn liên kết được trình bày trong Bảng cân đối kế toán hợp nhất giữa niên độ theo giá gốc được điều chỉnh theo những thay đổi trong phần vốn góp của Tổng Công ty vào phân tài sản thuần của công ty liên kết sau ngày mua khoản đầu tư. Các khoản lỗ của công ty liên kết vượt quá khoản góp vốn của Tổng Công ty tại công ty liên kết đó (bao gồm bất kể các khoản góp vốn dài hạn mà về thực chất tạo thành đầu tư thuần của Tổng Công ty tại công ty liên kết đó) không được ghi nhận, trừ khi Tổng Công ty có nghĩa vụ thực hiện thanh toán thay cho công ty liên kết các khoản nợ mà Tổng Công ty đã đảm bảo và cam kết trả. Nếu sau đó công ty liên kết hoạt động có lãi, Tổng Công ty chỉ được ghi nhận phần sở hữu của mình trong khoản lợi đó sau khi đã bù đắp được phần lỗ thuần chưa được hạch toán trước đây.
  + 
  + [] 
  None

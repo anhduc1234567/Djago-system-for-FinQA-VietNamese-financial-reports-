@@ -19,6 +19,7 @@ from sentence_transformers import SentenceTransformer
 import os
 from rank_bm25 import BM25Okapi
 import re
+import faiss
 
 def normalize_for_prompt(content: str) -> str:
     content = re.sub(r'<br\s*/?>', '\n', content)   # <br/> -> newline
@@ -108,7 +109,7 @@ def get_doc_from_notes_by_key_word(key_word, infor, temp_path):
 #get vector database and metadatas
 def get_database(input_model='all-MiniLM-L6-v2',temp_path=None, content = None, is_graph = False) -> tuple:
     if temp_path is None:
-        input_path = get_input_path()
+        input_path = None
     input_path = temp_path
     
     #checking file type
@@ -158,7 +159,7 @@ def get_user_question() -> str:
 #embedd user question into a vector
 def get_user_question_embedding(input_model='all-MiniLM-L6-v2', user_question = '') -> tuple:
     user_question = user_question
-    model = SentenceTransformer(input_model)
+    model = SentenceTransformer(input_model,device='cuda')
     user_question_embeddings = model.encode([user_question])
     return user_question, user_question_embeddings[0]
 
@@ -172,210 +173,240 @@ def find_information_by_graph(temp_path = None, user_question = ''):
     if infor[3] == 'Chứng khoán':
         isIndex = "CÓ"
     prompt_requery_by_graph = f""" 
-            Hãy dựa vào câu hỏi của người dùng xác định xem câu hỏi của người dùng sử dụng đến thông tin nào trong
-            mục và mục con của chúng trong báo cáo tài chính. Các mục và mục con đó chỉ có thể là các mục sau 
-            LƯU Ý CHỈ LẤY NHỮNG MỤC THẬT SỰ QUAN TRỌNG VÀ CẦN THIẾT vì những thông tin đó dài và để đưa vào prompt cho LLM chỉ tối đa: 
-                Nếu có 1 mục lớn: không giới hạn mục con.
-                Nếu có 2 mục lớn: tối đa mỗi mục 3 mục con.
-                Nếu có 3,4 mục lớn: tối đa 1 mục lớn có 2 mục con và các mục còn lại 1 mục con.
-            
-            Đối với doanh nghiệp KHÔNG phải ngân hàng.
-                0. Giới thiệu:
-                    - Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
-                    BÁO CÁO KIỂM TOÁN nếu có.
-                
-                1. BẢNG CÂN ĐỐI KẾ TOÁN
-                    1.1 TÀI SẢN NGẮN HẠN
-                    1.2 TÀI SẢN DÀI HẠN
-                    1.3 NỢ PHẢI TRẢ
-                    1.4 VỐN CHỦ SỞ HỮU
-                    
-                2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH
-                    2.1 DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ 
-                        - gồm các mục như: 1. Doanh thu bán hàng và cung cấp dịch vụ	
-                                        2. Các khoản giảm trừ doanh thu
-                                        3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10= 01-02)	
-                                        4. Giá vốn hàng bán	
-                                        5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10 - 11)	
-                        - Hoặc các mục có tên và ý nghĩa tương tự có thể có.
-                    2.1 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
-                        - gồm các mục tiếp tục theo sau đó như: 6. Doanh thu hoạt động tài chính
-                                    7. Chi phí tài chính
-                                    - Trong đó: Chi phí lãi vay 
-                                    8. Chi phí bán hàng
-                                    9. Chi phí quản lý doanh nghiệp
-                                    10 Lợi nhuận thuần từ hoạt động kinh doanh
-                                    (30 = 20 + (21 - 22) - (25 + 26))
-                        - Hoặc các mục có tên và ý nghĩa tương tự có thể có.
-                                                        
-                    2.2 THU NHẬP KHÁC
-                        - gồm toàn bộ những mục còn lại như:
-                                11. Thu nhập khác
-                                12. Chi phí khác
-                                13. Lợi nhuận khác (40 = 31 - 32)
-                                14. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)
-                                15. Chi phí thuế TNDN hiện hành
-                                16. Chi phí thuế TNDN hoãn lại
-                                17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 – 51 - 52)
-                                18. Lãi cơ bản trên cổ phiếu (*)
-                                19. Lãi suy giảm trên cổ phiếu (*)
-                        - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
-                    
-                3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ
-                    3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
-                    3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
-                    3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
-                
-                4. THUYẾT MINH BÁO CÁO TÀI CHÍNH
-                
-                      
-            Đối với doanh nghiệp NGÂN HÀNG.
-                0. Giới thiệu:
-                    - Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
-                    BÁO CÁO KIỂM TOÁN nếu có.
-            
-                1. BẢNG CÂN ĐỐI KẾ TOÁN 
-                    Tại đây sẽ trình bày các chuẩn mực kể toán và tối thiệu các khoản mục sau:
-                     Khoản mục tài sản:
-                        Tiền mặt, vàng bạc, đá quý;
-                        Tiền gửi tại Ngân hàng Nhà nước;
-                        Tín phiếu Kho bạc và các chứng chỉ có giá khác dùng tái chiết khấu với  Ngân hàng Nhà nước;
-                        Trái phiếu Chính phủ và các chứng khoán khác được nắm giữ với mục đích thương mại;
-                        Tiền gửi tại các Ngân hàng khác, cho vay và ứng trước cho các tổ chức tín dụng và các tổ chức tài chính tương tự khác;
-                        Tiền gửi khác trên thị trường tiền tệ;
-                        Cho vay và ứng trước cho khách hàng;
-                        Chứng  khoán đầu tư;
-                        Góp vốn đầu tư.
-                     Khoản mục nợ phải trả:
-                        Tiền gửi của các ngân hàng và các tổ chức tương tự khác;
-                        Tiền gửi từ thị trường tiền tệ;
-                        Tiền gửi của khách hàng;
-                        Chứng chỉ tiền gửi;
-                        Thương phiếu, hối phiếu và các chứng chỉ nhận nợ;
-                        Các khoản đi vay khác.
-                        
-                    Các khoản mục đó được chia vào các phần con như sau:
-                    1.1 TÀI SẢN
-                    1.2 TÀI SẢN CỐ ĐỊNH
-                    1.3 NỢ PHẢI TRẢ
-                    1.4 VỐN CHỦ SỞ HỮU
-                    1.5 CHỈ TIÊU NGOÀI
-                        - đây là mục chưa thông tin về các chỉ tiêu ngoài báo cáo tình hình tài chính
-                    
-                2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH          
-                    2.1 THU NHẬP LÃI VÀ CÁC KHOẢN
-                        - Gồm các khoản bắt đầu của báo cáo kết quả hoạt động kinh doanh như: 1. Thu nhập lãi và các khoản thu nhập tương tự,
-                        2. Chi phí lãi và các chi phí tương tự, I Thu nhập lãi thuần, 3. Thu nhập từ hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,
-                        II Lãi thuần từ hoạt động dịch vụ, III 	Lãi/(lỗ) thuần từ hoạt động kinh doanh ngoại hối,
-                        IV Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh/ đầu tư và các khoản tương đương có thể có.
-                    2.2 THU NHẬP TỪ HOẠT ĐỘNG KHÁC
-                        - Các khoản tiếp tục như: 5. Thu nhập từ hoạt động khác, 6. Chi phí hoạt động khác,
-                        VIII. Lãi thuần từ hoạt động khác 	VII Thu nhập từ góp vốn, mua cổ phần, VIII	Chi phí hoạt động,
-                        IX	Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,
-                        X	Chi phí dự phòng rủi ro tín dụng, XI	Tổng lợi nhuận trước thuế. Và các khoảng tương tự có thể có.
-                    2.3 CHI PHÍ THUẾ
-                        - Gồm các khoản còn lại: 7	Chi phí thuế thu nhập doanh nghiệp hiện hành, 8	Chi phí thuế thu nhập doanh nghiệp hoãn lại, XII	Chi phí thuế thu nhập doanh nghiệp,
-                        XIII	Lợi nhuận sau thuế, XV	Lãi cơ bản trên cổ phiếu (đồng/cổ phiếu) và các khoản tương đương.
-                        - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
-                        
-                3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ
-                    3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
-                    3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
-                    3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
-                    
-                4. THUYẾT MINH BÁO CÁO TÀI CHÍNH
-                
+                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Câu hỏi người dùng: {user_question}
+                Tuân thủ các nguyên tắc sau:
+                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối không thêm mục hay mục con nào khác.
 
-            Đối với doanh nghiệp là công ty CHỨNG KHOÁN:
-                0. Giới thiệu:
-                    - Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
-                    BÁO CÁO KIỂM TOÁN nếu có.
-            
-                1. BẢNG CÂN ĐỐI KẾ TOÁN
-                    1.1 TÀI SẢN NGẮN HẠN
-                    1.2 TÀI SẢN DÀI HẠN
-                    1.3 NỢ PHẢI TRẢ
-                    1.4 VỐN CHỦ SỞ HỮU
-                    1.5 TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN
-                        - gồm các thông tin như hoặc các thông tin liên quan tương tự:
-                        1. Nợ khó đòi đã xử lý                                                                                      
-                        2. Cổ phiếu đang lưu hành (số lượng)                                                                                                    
-                        3. Tài sản tài chính niêm yết đăng ký giao dịch tại Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam ("VSDC") của CTCK 
-                        4. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của CTCK                                              
-                        5. Tài sản tài chính chờ về của CTCK                                                                            
-                        6. Tài sản tài chính chưa lưu ký tại VSDC của CTCK                                                              
-                        7. Tài sản tài chính được hưởng quyền của CTCK       
-                                                                                           
-                    1.6 TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ
-                        - Gồm các thông tin như: 
-                            1. Tài sản tài chính niêm yết đăng ký giao dịch tại VSDC của Nhà đầu tư                                                  
-                                1.1 Tài sản tài chính giao dịch tự do chuyển nhượng                                                                   
-                                1.2 Tài sản tài chính hạn chế chuyển nhượng                                                                            
-                                1.3 Tài sản tài chính giao dịch cầm cố                                                                                 
-                                1.4 Tài sản tài chính phong tỏa, tạm giữ                                                                              
-                                1.5 Tài sản tài chính chờ thanh toán                                                                                 
-                            2. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư                                               
-                                2.1 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng                                            
-                                2.2 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch; hạn chế chuyển nhượng                               
-                            3. Tài sản tài chính chờ về của Nhà đầu tư 
-                            4. Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư                                               
-                            5. Tài sản tài chính được hưởng quyền của Nhà đầu tư                                                
-                            6. Tiền gửi của khách hàng                                                                                         
-                                6.1 Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý                 
-                                6.2 Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                         
-                                6.3 Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                                         
-                                6.4 Tiền gửi bù trừ và thanh toán giao dịch chứng khoán                                                                    
-                                - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư trong nước                                              
-                                - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư nước ngoài                                            
-                                6.5 Tiền gửi của Tổ chức phát hành chứng khoán                                                      
-                            7. Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý              
-                                7.1 Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                         
-                                7.2 Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                             
-                                7.3 Phải trả Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                                        
-                            8. Phải trả cổ tức, gốc và lãi trái phiếu                                                                                                                              
+                2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
 
-                    
-                2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH
-                    2.1 DOANH THU HOẠT ĐỘNG
-                        - Gồm các khoản từ mục I.  Doanh thu hoạt động của các công ty chứng khoán.
-                       
-                    2.2 CHI PHÍ HOẠT ĐỘNG
-                        - Gồm các khoản từ mục II. Chi phí hoạt động của các công ty chứng khoán.
-                        
-                    2.3 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
-                        - Gồm các khoản từ mục III. Doanh thu hoạt động tài chính.
-                       
-                    2.4 CHI PHÍ TÀI CHÍNH
-                        - Gồm các mục IV. Chi phí tài chính, V. Chí phí quản lý công ty chứng khoán, VI. Kết quả hoạt động.
-                    
-                    2.5 THU NHẬP KHÁC
-                        - Gồm các mục từ VII. Thu thập khác và chi phí khác, VIII tổng lợi nhuận kế toàn toán trước thuế, IX Chi phí thuế thu nhập doanh nghiệp,
-                         X. Lợi nhuận kế toán sau thuế, XI. lợi nhuận trên cổ phiếu cổ đông. Và các mục còn lại nếu có.
-                        - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
-            
-                3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ
-                    3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
-                    3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
-                    3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
-                    3.4 PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI
+                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+
+                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+
+                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+
+                3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
+
+                4. Cấu trúc trả về KHÔNG giải thích dẫn dắt thêm bỏ số thứ tự ở đầu mỗi section và subsection nếu sử dụng Thuyết Minh sử dụng keywords tương ứng để tìm thông tin phù hợp với câu hỏi của người dùng:
+                    section1: subsection1, subsection2,... ; section2: subsection1, subsection2,... ; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
+                5. Sử dụng cấu trúc báo cáo tài chính khác nhau cho từng lĩnh vực của doanh nghiệp như sau. Dựa vào các thông tin "Mô tả" bổ sung bên dưới để chọn section và subsection phù hợp với câu hỏi.
                 
-                4. BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU
-                5. THUYẾT MINH BÁO CÁO TÀI CHÍNH
-                     
-             Ưu tiên thông tin ở các mục 1 2 3, Chú ý hạn chế sử dụng thông tin ở THUYẾT MINH BÁO CÁO TÀI CHÍNH nhất có thể.
-             Lưu ý nếu người dùng muốn tìm kiếm thông tin về doanh nghiệp như: tên ngành nghề, mã cổ phiếu, ... hoặc các thông tin về báo cáo tài chính như: loại báo cáo, kỳ báo cáo,... sử dụng THUYẾT MINH BÁO CÁO TÀI CHÍNH. 
-             Hãy trả về dưới định dạng sau KHÔNG GIẢI THÍCH THÊM các section và subsection, 
-             sử dụng tên cụ thể như ở trên và bỏ các số thứ tự ở đầu. LƯU Ý: các section và subsection đã được nêu tên theo đúng như mô tả không sử dụng tên khác thay thế:
-                section1: subsection1, subsection2,... ; section2: subsection2, subsection2,... 
-             Nếu phải dùng đến THUYẾT MINH BÁO CÁO TÀI CHÍNH THÌ cách trả về cũng tương tự tuy nhiên thay các subsection thày các key word để tìm kiếm, các key word  dùng để tìm các 
-             đoạn thông tin có liên quan đến câu hỏi của người dùng nhất. Ví dụ:
-                section1: subsection1, subsection2,... ; section2: subsection2, subsection2,...; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
-            Lưu ý mục giới thiệu không có subsection.
-            Lưu ý với từng lĩnh vực hoạt động khác nhau của doanh nghiệp có các subsection trong các section khác nhau dựa trên hướng dẫn trên và thông tin về lĩnh vực doanh nghiệp dưới đây.
-            Câu hỏi người dùng: {user_question}, và công ty {isBank} là ngân hàng, doanh nghiệp trên {isIndex} là công ty Chứng khoán.
-                       
+                Hướng dẫn chi tiết chọn section và subsection chi tiết cho doanh nghiệp như sau:
+                Đối với doanh nghiệp KHÔNG phải ngân hàng.
+                    0. Giới thiệu (section)
+                        Mô tả: Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,BÁO CÁO KIỂM TOÁN nếu có.
+                    1. BẢNG CÂN ĐỐI KẾ TOÁN (section)
+                        1.1 TÀI SẢN NGẮN HẠN (subsection)
+                        1.2 TÀI SẢN DÀI HẠN (subsection)
+                        1.3 NỢ PHẢI TRẢ (subsection)
+                        1.4 VỐN CHỦ SỞ HỮU (subsection)
+                    2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (section)
+                        2.1 DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ  (subsection)
+                            Mô tả: gồm các mục như: 1. Doanh thu bán hàng và cung cấp dịch vụ 2. Các khoản giảm trừ doanh th 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10= 01-02) 4. Giá vốn hàng bán 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10 - 11) Hoặc các mục có tên và ý nghĩa tương tự có thể có.
+                        2.1 DOANH THU HOẠT ĐỘNG TÀI CHÍNH (subsection)
+                            Mô tả:
+                            - gồm các mục tiếp tục theo sau đó như:  
+                                6. Doanh thu hoạt động tài chính 
+                                7. Chi phí tài chính - Trong đó: Chi phí lãi vay
+                                8. Chi phí bán hàng 
+                                9. Chi phí quản lý doanh nghiệp 
+                                10 Lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + (21 - 22) - (25 + 26))
+                            - Hoặc các mục có tên và ý nghĩa tương tự có thể có.                         
+                        2.2 THU NHẬP KHÁC (subsection)
+                            Mô tả:
+                            - gồm toàn bộ những mục còn lại như:
+                                    11. Thu nhập khác
+                                    12. Chi phí khác
+                                    13. Lợi nhuận khác (40 = 31 - 32)
+                                    14. Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)
+                                    15. Chi phí thuế TNDN hiện hành
+                                    16. Chi phí thuế TNDN hoãn lại
+                                    17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 - 51 - 52)
+                                    18. Lãi cơ bản trên cổ phiếu (*)
+                                    19. Lãi suy giảm trên cổ phiếu (*)
+                            - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
+                    3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ (section)
+                        3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH (subsection)
+                        3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ (subsection)
+                        3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH (subsection)
+                    4. THUYẾT MINH BÁO CÁO TÀI CHÍNH (section)                  
     """
-    features = call_api_gemi(prompt_requery_by_graph)
+    prompt_requery_by_graph_for_bank = f""" 
+                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Câu hỏi người dùng: {user_question}
+                Công ty {isBank} là ngân hàng
+                Tuân thủ các nguyên tắc sau:
+                
+                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối không thêm mục hay mục con nào khác.
+
+                2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
+
+                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+
+                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+
+                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+
+                3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
+
+                4. Cấu trúc trả về KHÔNG giải thích dẫn dắt thêm bỏ số thứ tự ở đầu mỗi section và subsection nếu sử dụng Thuyết Minh sử dụng keywords tương ứng để tìm thông tin phù hợp với câu hỏi của người dùng:
+                    section1: subsection1, subsection2,... ; section2: subsection1, subsection2,... ; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
+                5. Sử dụng cấu trúc báo cáo tài chính khác nhau cho từng lĩnh vực của doanh nghiệp như sau. Dựa vào các thông tin "Mô tả" bổ sung bên dưới để chọn section và subsection phù hợp với câu hỏi.
+                
+                Hướng dẫn chi tiết chọn section và subsection chi tiết cho doanh nghiệp như sau:
+        
+                Đối với doanh nghiệp NGÂN HÀNG.
+                    0. Giới thiệu (section)
+                        Mô tả: Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
+                        BÁO CÁO KIỂM TOÁN nếu có.
+                    1. BẢNG CÂN ĐỐI KẾ TOÁN  (section)
+                        Mô tả:
+                            Tại đây sẽ trình bày các chuẩn mực kể toán và tối thiệu các khoản mục sau:
+                            Khoản mục tài sản:
+                                Tiền mặt, vàng bạc, đá quý;
+                                Tiền gửi tại Ngân hàng Nhà nước;
+                                Tín phiếu Kho bạc và các chứng chỉ có giá khác dùng tái chiết khấu với  Ngân hàng Nhà nước;
+                                Trái phiếu Chính phủ và các chứng khoán khác được nắm giữ với mục đích thương mại;
+                                Tiền gửi tại các Ngân hàng khác, cho vay và ứng trước cho các tổ chức tín dụng và các tổ chức tài chính tương tự khác;
+                                Tiền gửi khác trên thị trường tiền tệ;
+                                Cho vay và ứng trước cho khách hàng;
+                                Chứng  khoán đầu tư;
+                                Góp vốn đầu tư.
+                            Khoản mục nợ phải trả:
+                                Tiền gửi của các ngân hàng và các tổ chức tương tự khác;
+                                Tiền gửi từ thị trường tiền tệ;
+                                Tiền gửi của khách hàng;
+                                Chứng chỉ tiền gửi;
+                                Thương phiếu, hối phiếu và các chứng chỉ nhận nợ;
+                                Các khoản đi vay khác.
+                            Các khoản mục đó được chia vào các phần con như sau:
+                        1.1 TÀI SẢN (subsection)
+                        1.2 TÀI SẢN CỐ ĐỊNH (subsection)
+                        1.3 NỢ PHẢI TRẢ (subsection)
+                        1.4 VỐN CHỦ SỞ HỮU (subsection)
+                        1.5 CHỈ TIÊU NGOÀI (subsection)
+                            - đây là mục chưa thông tin về các chỉ tiêu ngoài báo cáo tình hình tài chính
+                    2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (section)      
+                        2.1 THU NHẬP LÃI VÀ CÁC KHOẢN (subsection)
+                            Mô tả: - Gồm các khoản bắt đầu của báo cáo kết quả hoạt động kinh doanh như: 1. Thu nhập lãi và các khoản thu nhập tương tự,
+                            2. Chi phí lãi và các chi phí tương tự, I Thu nhập lãi thuần, 3. Thu nhập từ hoạt động dịch vụ,4. Chi phí hoạt động dịch vụ,
+                            II Lãi thuần từ hoạt động dịch vụ, III 	Lãi/(lỗ) thuần từ hoạt động kinh doanh ngoại hối,
+                            IV Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh/ đầu tư và các khoản tương đương có thể có.
+                        2.2 THU NHẬP TỪ HOẠT ĐỘNG KHÁC (subsection)
+                            Mô tả: - Các khoản tiếp tục như: 5. Thu nhập từ hoạt động khác, 6. Chi phí hoạt động khác,
+                            VIII. Lãi thuần từ hoạt động khác 	VII Thu nhập từ góp vốn, mua cổ phần, VIII	Chi phí hoạt động,
+                            IX	Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,
+                            X	Chi phí dự phòng rủi ro tín dụng, XI	Tổng lợi nhuận trước thuế. Và các khoảng tương tự có thể có.
+                        2.3 CHI PHÍ THUẾ (subsection)
+                            Mô tả: - Gồm các khoản còn lại: 7	Chi phí thuế thu nhập doanh nghiệp hiện hành, 8	Chi phí thuế thu nhập doanh nghiệp hoãn lại, XII	Chi phí thuế thu nhập doanh nghiệp,
+                            XIII	Lợi nhuận sau thuế, XV	Lãi cơ bản trên cổ phiếu (đồng/cổ phiếu) và các khoản tương đương.
+                            - Các thông tin về LỢI NHUẬN sẽ nằm ở phần này          
+                    3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ (section)
+                        3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH (subsection)
+                        3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ (subsection)
+                        3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH (subsection)
+                        
+                    4. THUYẾT MINH BÁO CÁO TÀI CHÍNH (section)                   
+    """
+    prompt_requery_by_graph_for_index = f""" 
+                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Câu hỏi người dùng: {user_question}
+                Doanh nghiệp trên {isIndex} là công ty chứng khoán
+                Tuân thủ các nguyên tắc sau:
+                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối không thêm mục hay mục con nào khác.
+
+                2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
+
+                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+
+                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+
+                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+
+                3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
+
+                4. Cấu trúc trả về KHÔNG giải thích dẫn dắt thêm bỏ số thứ tự ở đầu mỗi section và subsection nếu sử dụng Thuyết Minh sử dụng keywords tương ứng để tìm thông tin phù hợp với câu hỏi của người dùng:
+                    section1: subsection1, subsection2,... ; section2: subsection1, subsection2,... ; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
+                5. Sử dụng cấu trúc báo cáo tài chính khác nhau cho từng lĩnh vực của doanh nghiệp như sau. Dựa vào các thông tin "Mô tả" bổ sung bên dưới để chọn section và subsection phù hợp với câu hỏi.
+                
+                Hướng dẫn chi tiết chọn section và subsection chi tiết cho doanh nghiệp như sau:
+                Đối với doanh nghiệp là công ty CHỨNG KHOÁN:
+                    0. Giới thiệu (section)
+                        Mô tả: - Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
+                        BÁO CÁO KIỂM TOÁN nếu có.
+                    1. BẢNG CÂN ĐỐI KẾ TOÁN (section)
+                        1.1 TÀI SẢN NGẮN HẠN (subsection)
+                        1.2 TÀI SẢN DÀI HẠN (subsection)
+                        1.3 NỢ PHẢI TRẢ (subsection)
+                        1.4 VỐN CHỦ SỞ HỮU (subsection)
+                        1.5 TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (subsection)
+                            Mô tả: - gồm các thông tin như hoặc các thông tin liên quan tương tự:
+                                1. Nợ khó đòi đã xử lý                                                                                      
+                                2. Cổ phiếu đang lưu hành (số lượng)                                                                                                    
+                                3. Tài sản tài chính niêm yết đăng ký giao dịch tại Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam ("VSDC") của CTCK 
+                                4. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của CTCK                                              
+                                5. Tài sản tài chính chờ về của CTCK                                                                            
+                                6. Tài sản tài chính chưa lưu ký tại VSDC của CTCK                                                              
+                                7. Tài sản tài chính được hưởng quyền của CTCK                                                                         
+                        1.6 TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ (subsection)
+                            Mô tả: - Gồm các thông tin như: 
+                                1. Tài sản tài chính niêm yết đăng ký giao dịch tại VSDC của Nhà đầu tư                                                  
+                                    1.1 Tài sản tài chính giao dịch tự do chuyển nhượng                                                                   
+                                    1.2 Tài sản tài chính hạn chế chuyển nhượng                                                                            
+                                    1.3 Tài sản tài chính giao dịch cầm cố                                                                                 
+                                    1.4 Tài sản tài chính phong tỏa, tạm giữ                                                                              
+                                    1.5 Tài sản tài chính chờ thanh toán                                                                                 
+                                2. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư                                               
+                                    2.1 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng                                            
+                                    2.2 Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch; hạn chế chuyển nhượng                               
+                                3. Tài sản tài chính chờ về của Nhà đầu tư 
+                                4. Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư                                               
+                                5. Tài sản tài chính được hưởng quyền của Nhà đầu tư                                                
+                                6. Tiền gửi của khách hàng                                                                                         
+                                    6.1 Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý                 
+                                    6.2 Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                         
+                                    6.3 Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                                         
+                                    6.4 Tiền gửi bù trừ và thanh toán giao dịch chứng khoán                                                                    
+                                    - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư trong nước                                              
+                                    - Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của Nhà đầu tư nước ngoài                                            
+                                    6.5 Tiền gửi của Tổ chức phát hành chứng khoán                                                      
+                                7. Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý              
+                                    7.1 Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                         
+                                    7.2 Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                             
+                                    7.3 Phải trả Tiền gửi ký quỹ của Nhà đầu tư tại VSDC                                                                        
+                                8. Phải trả cổ tức, gốc và lãi trái phiếu                                                                                                                              
+                    2. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (section)
+                        2.1 DOANH THU HOẠT ĐỘNG (subsection)
+                            Mô tả: - Gồm các khoản từ mục I.  Doanh thu hoạt động của các công ty chứng khoán.
+                        2.2 CHI PHÍ HOẠT ĐỘNG (subsection)
+                            Mô tả: - Gồm các khoản từ mục II. Chi phí hoạt động của các công ty chứng khoán.  
+                        2.3 DOANH THU HOẠT ĐỘNG TÀI CHÍNH (subsection)
+                            Mô tả: - Gồm các khoản từ mục III. Doanh thu hoạt động tài chính.
+                        2.4 CHI PHÍ TÀI CHÍNH (subsection)
+                            Mô tả: - Gồm các mục IV. Chi phí tài chính, V. Chí phí quản lý công ty chứng khoán, VI. Kết quả hoạt động.
+                        2.5 THU NHẬP KHÁC (subsection)
+                            Mô tả: - Gồm các mục từ VII. Thu thập khác và chi phí khác, VIII tổng lợi nhuận kế toàn toán trước thuế, IX Chi phí thuế thu nhập doanh nghiệp,
+                                X. Lợi nhuận kế toán sau thuế, XI. lợi nhuận trên cổ phiếu cổ đông. Và các mục còn lại nếu có.
+                            Mô tả:- Các thông tin về LỢI NHUẬN sẽ nằm ở phần này 
+                    3. BÁO CÁO LƯU CHUYỂN TIỀN TỆ (section)
+                        3.1 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH (subsection)
+                        3.2 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ (subsection)
+                        3.3 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH (subsection)
+                        3.4 PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI (subsection)
+                    4. BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU (section)
+                    5. THUYẾT MINH BÁO CÁO TÀI CHÍNH  (section)                     
+    """
+    if isBank == 'CÓ':
+        features = call_api_gemi(prompt_requery_by_graph_for_bank, model='2.5-flash')
+    elif isIndex == 'CÓ':
+        features = call_api_gemi(prompt_requery_by_graph_for_index, model='2.5-flash')
+    else:
+        features = call_api_gemi(prompt_requery_by_graph, model='2.5-flash')
+        
     features = [x.strip() for x in features.split(";") if x.strip()]
     result = ''
     notes_infor  = ''
@@ -417,6 +448,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
 def find_information(input_model='all-MiniLM-L6-v2', k=20, infor_question = '',temp_path = None, content = None) -> tuple:
     index, metadatas = get_database(input_model='all-MiniLM-L6-v2',temp_path = temp_path,content = content, is_graph = False)
     similar_infos = []
+    
     for promot in infor_question:
         user_question, user_question_vector = get_user_question_embedding(input_model=input_model, user_question = promot)
 
@@ -452,7 +484,7 @@ def remove_same_content(similar_doc):
     return candidates
 
 from sentence_transformers import CrossEncoder
-reranker = CrossEncoder("BAAI/bge-reranker-v2-m3", device='cpu')
+reranker = CrossEncoder("BAAI/bge-reranker-v2-m3")
 
 def rerank(query, candidates, top_k=5):
     print("Đang re-rank")

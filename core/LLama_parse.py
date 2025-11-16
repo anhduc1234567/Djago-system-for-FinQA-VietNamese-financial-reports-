@@ -7,8 +7,11 @@ from llama_index.llms.gemini import Gemini
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_cloud_services import LlamaParse
 import json
-os.environ["LLAMA_CLOUD_API_KEY"] = 'llx-'
-os.environ["GOOGLE_API_KEY"] = ''
+from dotenv import load_dotenv
+load_dotenv()
+
+os.environ["LLAMA_CLOUD_API_KEY"] = os.getenv("LLAMA_CLOUD_API_KEY")
+os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API")
 # Settings.llm = Gemini(model="gemini-2.5-flash")
 # Settings.embed_model = GeminiEmbedding()
 
@@ -35,7 +38,7 @@ import sys
 
 if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-def pdf_to_md(file_path,type):
+def pdf_to_md(file_path,type):    
     parser = LlamaParse(
     # result_type="markdown",
     # num_workers=4,

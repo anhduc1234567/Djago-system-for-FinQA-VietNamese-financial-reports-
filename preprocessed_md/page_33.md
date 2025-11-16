@@ -1,141 +1,95 @@
- CÔNG TY CỔ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
- Địa       Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP Hồ Chi Minh
-       chi:
-                  BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                                                      Năm 2024
-                                                                                           Đon vi tính: VND
-  b/ Chi tiết vốn đầu tư chủ sở hữu                           Tỷ lệ     Số cuối năm         Số dầu năm
-   Vốn góp cua công ty mẹ                                     60%        79.200.000.000     79.200.000.000
-   Vốn gÓP của đối tuong_khác                                 40%        52.800.000.00o     52.800.000.000
-                  Cộng                                        100%      132.000.000.000     132.000.000.000
+TỐNG CÔNG TY KHÍ VIÊT NAM - CỖNG TY cẩ PHẦN                        MẪU SỐ B 09a-DN/HN
+THUYẼT MINH BÁO CÁO TẦl CHÍNH HỢP NHẤT GlỮA NIÊN ĐỘ (Tiếp theo)
 
-  c/ Các giao dịch về vốn với các chủ sở hữu và phân  cổ tức, chia lọi
-nhuận                                             phối                   Năm nay            Năm trước
-     Vốn đầu tư của chủ sở hữu
-      Vốn góp đầu năm                                                    132.000.000.000   132.000.o00.000
-      Vốn góptẳngtrong năm
-      Vốn góp giảm trong năm
-      Vốn góp cuối năm                                                  132.000.000.000    132.000.000.000
-     Cổ tức lợi nhuận đ0 chia                                            23.100.000.000     26.400.000.000
- d/ Cỗ phiếu                                                            Số cuối năm        Số đầu nẳm
-    Số lượng cổ          đăng ký phát hành                               13.200.000             13.200.000
-                 phiếu
-    Số Iượng cổ phiếu bán ra côngchúng                                   13.200.000             13.200.000
-       Cổ phiếu   thông                                                  13.200.000             13.200,000
-                phổ
-         'phiếu
-       Cỗ        ưU đãi
-    Số Iưpng cổ phiếu được mua lại
-       Cổ phiếu   thông
-                phổ
-         phiếu
-       Cổ        UL đãi
-    Số Iượng cổ phiếudang Iưu hành                                       13.199.997             13.199.997
-       Cổ         thông                                                  13.199.997             13.199,997
-         phiếu
-           phổ
-         phiếu
-       Cẩ        ULI dãi
-     Mệnh giá cổ         dangIuu hành: 10.000 đCP
-                 phiếu
-  el Cácquỹcủa doanh nghiệp                                              34.419.917.589     34.419.917.589
-    Quỹ đầu uư phát triển                                                34.419.917.589     34.419.917.589
-25. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN                            Số cuối năm        Số đầu nămg
-                                                                                                      N:03
+10.  HANG TÒN KHO
+                                                     Sô cudi kỳ                                 58 đau kỳ
+                                      Giá gôc        Du phòng      Gia goC                      Dự phòng
+                                          VND        VND           VND                          VND
+     Hàng mua dang di          45,731.523.249                      1210 323.529.576
+     dương                    1.139.292.425.619 (132.184.134.078) 1.033.551621.705 (133.055.767,522)
+     Nguyên lỉệu, vật liệu                                         43.704.504,.951
+     Công cụ, dung cu              48.372,477.201                  27.705.782,423
+      Chi phí sản xuả: , kinh     125.821.840.240
+      doanh dù dang               173.735,546.862                  192.304.492.344
+      Thành phâm                 1729.8/3.006.458                  2.132.714.834,357
+     Hàng hoả
+      Hang g41 ban                  ~91Ja2/1b0
+                              3.357.742.646.765 (132.184.134.078) 4.732.006,717.115 (133.,055.767.522)
 
-    Ngoai tệ các loai                                                    21.921.91          21.948 alu TU
-    USD                                                                  67.58                        44iP
-  EUR                                                                                                ZanBinh
-VI. THÔNG TIN BỎ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO KÉT QUẢ
- HOẠT ĐỘNG KINH DOANH RIÊNG
-     TỎNG DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ                         Năm nay            Năm trước
-     Doanh thu bánhàng                                                   30.116.429.609     27.162.917.805
-     Doanh thu cho thuê VP và cung cấp dich vụ                           95.684.156.002     94,.954.374.793
-    Doanh thu SX công nghiệp (SX nước sạch)                              6.329.105.916      5.823.713.616
-    Doanh thu hợpdồng-xây dựng                                           84.595.270.874    307.286,627.787
-    Doanh thu hoatdôngkhác                                               (21.458.487)       448.204.486
-                             Cộng                                      216.703.503.914     435.675.838.487
+11.   CHI PHf TRẢ TRƯỚC
+                                                         Sấ cuôi kỳ                             Số dáu kỷ
+                                                                VND                             VND
 
-
-
-
-34 +
+         Ngắn hạn                                                  71.259.764.917            46.023.323.039
+      Chi phi quẳng cáo và truyền thông                                25.992.762.028        14.304.319.789
+      Chl phf mua báo hier                                              8.976.256,604        10.299.755.,464
+      Chi phí trá trươc ngắn hạn khác                                  36.290.746.285        21,419.247,786
+        b. Dài hạn                                                  3.386.521.349.063        3.630.161.349.445
+       Chi phí mua khi bao tlẽu (*)                                  1991.862.899,598        2.259.101 296.936
+       Trong đc:                                                        1.573.597.060.888    1.573 597.060,888
+         Chi phí muo khí bao tiêu Lô 05 1b và 05-Ic năm 2021          236,225,757 581          503.464.154.919
+          Chi phí muo khí bao tỉêu L6 05-1b và O5-c nằm 2023              182,040.081.129          040.051.129
+         Chi phí muo khí bao tiêu Ló 05-1b và 05-Ic nam 2024              509,006.571.345    152
+       Chi ohl vo binh gas                                                297,920.815.272      537.554.169,861
+       Chi phỉ thuê đất và thuê vẵn phàng                                  111248.222.099      290,922.515.708
+        Chi phi bảo dưỡng sỬa chua                                                             127.359,144.254
+        Chi phl bảo hiém                                                  158.320.140,472       65.887.613.158
+        Chi phi côrg cụ, dụng cu                                   64.717.825.266               43.239.909.240
+        Chi phí trả trước dài han khảc                                    253,444.875.011      306.096.700.288
+                                                                3.457.781.113.980            3.676.184.672.484
+        Phản ánh chi phí mua khí theo hợp đồng bao tiêu được xác định dựa trên phần chênh lệch giữa
+         chi phí mua khí theo bao tiêu và chi phí mua khí thực tể dưới mức bão tiẻu của Tẩng Công ty
+         vởi PVN. Tổng Công ty co quyền nhận từ PVN mệt IượnE khi tương dương lượng khí trẳ trước
+         này trong thừi hạn như sau:
+         Chi phí mua khí bao tiêu năm 2021: Tổng Công ty được nhận trong suốt thờỉ hạn hợp dồng;
+          Chi phí mua khí bao tiêu nắm 2023 và 2024; Tổng Công ty phảí thực hiện trong vòng 5 năm
+          hạp đồng từ thờỉ điểm phát sinh khoản chênh Iệch.
+        Ban Tổng Giam đổc đánh giá khả năne          hiện cúa khoàn chi phí trả trước dàí han này là cao
+                                                     thvc +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# 10. HÀNG TỒN KHO
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024  
-> Đơn vị tính: VND
-
-### b/ Chi tiết vốn đầu tư chủ sở hữu
-
-|                              | Tỷ lệ    | Số cuối năm         | Số đầu năm          |
-| ---------------------------- | -------- | ------------------- | ------------------- |
-| - Vốn góp của công ty mẹ     | 60%      | 79.200.000.000      | 79.200.000.000      |
-| - Vốn góp của đối tượng khác | 40%      | 52.800.000.000      | 52.800.000.000      |
-| **Cộng**                     | **100%** | **132.000.000.000** | **132.000.000.000** |
+|                                      | Số cuối kỳ<br/>Giá gốcVND | Số cuối kỳ<br/>Dự phòngVND | Số đầu kỳ<br/>Giá gốcVND | Số đầu kỳ<br/>Dự phòngVND |
+| ------------------------------------ | ------------------------- | -------------------------- | ------------------------ | ------------------------- |
+| Hàng mua đang đi đường               | 45.731.523.249            |                            | 1.210.323.529.576        |                           |
+| Nguyên liệu, vật liệu                | 1.139.292.425.619         | (132.184.134.078)          | 1.033.551.621.705        | (133.055.767.522)         |
+| Công cụ, dụng cụ                     | 48.372.477.201            |                            | 43.704.504.951           |                           |
+| Chi phí sản xuất, kinh doanh dở dang | 125.821.840.240           |                            | 27.705.782.423           |                           |
+| Thành phẩm                           | 173.735.546.862           |                            | 192.304.492.344          |                           |
+| Hàng hóa                             | 1.729.873.006.458         |                            | 2.132.714.834.357        |                           |
+| Hàng gửi bán                         | 94.915.827.136            |                            | 91.701.951.759           |                           |
+| **Tổng cộng**                        | **3.357.742.646.765**     | **(132.184.134.078)**      | **4.732.006.717.115**    | **(133.055.767.522)**     |
 
 
-### c/ Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, chia lợi nhuận
+# 11. CHI PHÍ TRẢ TRƯỚC
 
-|                                | Năm nay            | Năm trước          |
-| ------------------------------ | ------------------ | ------------------ |
-| *- Vốn đầu tư của chủ sở hữu*  |                    |                    |
-| + Vốn góp đầu năm              | 132.000.000.000    | 132.000.000.000    |
-| + Vốn góp tăng trong năm       |                    |                    |
-| + Vốn góp giảm trong năm       |                    |                    |
-| + Vốn góp cuối năm             | 132.000.000.000    | 132.000.000.000    |
-| **- Cổ tức lợi nhuận đã chia** | **23.100.000.000** | **26.400.000.000** |
-
-
-### d/ Cổ phiếu
-
-|                                                   | Số cuối năm | Số đầu năm |
-| ------------------------------------------------- | ----------- | ---------- |
-| - Số lượng cổ phiếu đăng ký phát hành             | 13.200.000  | 13.200.000 |
-| - Số lượng cổ phiếu bán ra công chúng             | 13.200.000  | 13.200.000 |
-| + Cổ phiếu phổ thông                              | 13.200.000  | 13.200.000 |
-| + Cổ phiếu ưu đãi                                 |             |            |
-| - Số lượng cổ phiếu được mua lại                  | 3           | 3          |
-| + Cổ phiếu phổ thông                              | 3           | 3          |
-| + Cổ phiếu ưu đãi                                 |             |            |
-| - Số lượng cổ phiếu đang lưu hành                 | 13.199.997  | 13.199.997 |
-| + Cổ phiếu phổ thông                              | 13.199.997  | 13.199.997 |
-| + Cổ phiếu ưu đãi                                 |             |            |
-| *\* Mệnh giá cổ phiếu đang lưu hành: 10.000 đ/CP* |             |            |
+|                                                       | Số cuối kỳVND         | Số đầu kỳVND          |
+| ----------------------------------------------------- | --------------------- | --------------------- |
+| **a. Ngắn hạn**                                       | 71.259.764.917        | 46.023.323.039        |
+| Chi phí quảng cáo và truyền thông                     | 25.992.762.028        | 14.304.319.789        |
+| Chi phí mua bảo hiểm                                  | 8.976.256.604         | 10.299.755.464        |
+| Chi phí trả trước ngắn hạn khác                       | 36.290.746.285        | 21.419.247.786        |
+| **b. Dài hạn**                                        | 3.386.521.349.063     | 3.630.161.349.445     |
+| Chi phí mua khí bao tiêu (\*)                         | 1.991.862.899.598     | 2.259.101.296.936     |
+| *Trong đó:*                                           |                       |                       |
+| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2021 | 1.573.597.060.888     | 1.573.597.060.888     |
+| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2023 | 236.225.757.581       | 503.464.154.919       |
+| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2024 | 182.040.081.129       | 182.040.081.129       |
+| Chi phí vỏ bình gas                                   | 509.006.571.345       | 537.554.169.861       |
+| Chi phí thuê đất và thuê văn phòng                    | 297.920.815.272       | 290.922.515.708       |
+| Chi phí bảo dưỡng sửa chữa                            | 111.248.222.099       | 127.359.144.254       |
+| Chi phí bảo hiểm                                      | 158.320.140.472       | 65.887.613.158        |
+| Chi phí công cụ, dụng cụ                              | 64.717.825.266        | 43.239.909.240        |
+| Chi phí trả trước dài hạn khác                        | 253.444.875.011       | 306.096.700.288       |
+| **Tổng cộng**                                         | **3.457.781.113.980** | **3.676.184.672.484** |
 
 
-### e/ Các quỹ của doanh nghiệp
-
-|                         | Số cuối năm    | Số đầu năm     |
-| ----------------------- | -------------- | -------------- |
-| - Quỹ đầu tư phát triển | 34.419.917.589 | 34.419.917.589 |
-
-
-## 25. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
-
-|                      | Số cuối năm | Số đầu năm |
-| -------------------- | ----------- | ---------- |
-| \* Ngoại tệ các loại |             |            |
-| - USD                | 21.921,91   | 21.948     |
-| - EUR                | 67,58       |            |
-
-
-## VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
-
-### 1. TỔNG DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
-
-|                                             | Năm nay             | Năm trước           |
-| ------------------------------------------- | ------------------- | ------------------- |
-| - Doanh thu bán hàng                        | 30.116.429.609      | 27.162.917.805      |
-| - Doanh thu cho thuê VP và cung cấp dịch vụ | 95.684.156.002      | 94.954.374.793      |
-| - Doanh thu SX công nghiệp (SX nước sạch)   | 6.329.105.916       | 5.823.713.616       |
-| - Doanh thu hợp đồng xây dựng               | 84.595.270.874      | 307.286.627.787     |
-| - Doanh thu hoạt động khác                  | (21.458.487)        | 448.204.486         |
-| **Cộng**                                    | **216.703.503.914** | **435.675.838.487** |
-
-
+> (*) Phản ánh chi phí mua khí theo hợp đồng bao tiêu được xác định dựa trên phần chênh lệch giữa chi phí mua khí theo bao tiêu và chi phí mua khí thực tế dưới mức bao tiêu của Tổng Công ty với PVN. Tổng Công ty có quyền nhận từ PVN một lượng khí tương đương lượng khí trả trước này trong thời hạn như sau:
+> 
+> * Chi phí mua khí bao tiêu năm 2021: Tổng Công ty được nhận trong suốt thời hạn hợp đồng;
+> * Chi phí mua khí bao tiêu năm 2023 và 2024: Tổng Công ty phải thực hiện trong vòng 5 năm hợp đồng từ thời điểm phát sinh khoản chênh lệch.
+> 
+> Ban Tổng Giám đốc đánh giá khả năng thực hiện của khoản chi phí trả trước dài hạn này là cao.
  + 
  + [] 
  None

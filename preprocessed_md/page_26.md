@@ -1,59 +1,72 @@
-CÔNG TY CỎ PHẢN ĐẢU          VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)
-                             TƯ
-Địa chi: Sấ 10 Phồ Quang; Phường 2, Quân Tân Bình, TP Hồ Chi Minh
-                                           BẢN THUYÉT MINH BÁO CÁO TÀI CHÍNH RIÊNG
-                                                                 Nẳm 2024
+TỔNG CỖNG TY KHI VIỆT NAIV - CÔNG TY cỐ PHẦN                   MẪU SÓ B 09a-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÃT GIỮA NIÊN ĐỘ (Tiếp theo)
+Thuể thu nhập hoãn lại được xác định theo thuể suãt cự tính sẽ ảp dung cho kỷ tài sdn được
+    thu hồihaynọ phả trả dưvc thanh toán. Thuế thu nhâp hoãn lại được ghi nhận vào Bảo cáo
+       quàhoat dong kinh doanhhapnhẩt giữa nỉên đệ và chi ghi vàa vấn chủ sở hữu khi khoản
+  kPt
+  thuế dá có liên quan đến các khcản muc dược ghi thang vao vỔn chủ sở hữu.
+ Tài sán thuế thu nhặp hcãn lại và nợ thuế thu nhâp hoấn lại phẳi trả được bù trừ khi Tóng Công
+  ty có quyền hợp pháp để bu trừ giữa tài sản thuễ thu nhập hiện hành với thuế thu nhập hiện
+ hanh phảl nộp và khi các tài sán thuế thu nhập hoãn lại và nợ thuế thu nhập hoấn lalpháiᵗʳᵃ
+ lièn quan tái thuế thu nhập doanh nghiệp được quản lý bởi cung môt cơ quan thuê và Tõng
+Công ty cỏ dự đjnh thanh toán thué thu nhập híện hành trén cơ sở thuàn.
+  Việc xác định thuế thu nhập cúa Tống Công ty căn cứ vàn các quy định hiện hành về thuế: Tuy
+   nhiên , nhíng quy đjnh nảy thay đổi theo từnG ihời ky và vỉệc xác định sau cùrg về thuê thu
+  nhạp doanh ngrỉệptÙYthuộc vao kết qu4 kiểm tra của cơ quan thuế có thẩm quyền.
+  Các loai thuê khác đưqc áp          theo cac luật thuể hién hanh tại Việt Nam.
+                       dune
+   Các bên liên quan
+                                                                                dang
+  Các hên được coi la liên quan nếu một bên có khẳ nẳng kiểm soát hoặc cỏ ành hưởng  kế
+   trực tìếp hoặc gián tiếp đối vớl bên kia trong vìệc rd quyết định các chính sách tài chính và hoat
+                                    'với Tổng Công ty chú yếu là các công ty có cùng công ty mẹ
+  động. Các bên liên quan có Biao dịch  Công
+   là PVN và các còng ty líên kêt cúa Tông           Tuynhiên, không phảí tất cả các công tY mà
+   PVN la chủ sở hữu hoẳc cá quyền chi phối được xern là bẻn lièn quan. Trong việc xem xét từng
+                                               Công ty xem xét bản chãt cúa các môi quan hê chứ
+   mổl quan hệ cúa các bên liên quan,Tổng
+   không chỉ hinh thức pháp lỷ cúaMổiquan hệ đó
+   TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+                                                Sô cuni kỳ                                  5ấ đầu kỳ
+                                                                VND                               VND
+                                                0 75o 100                                     188 867
+   Tíên gửỉ ngân hàng không kỳ han              2.204.647.351.257               1 164.90      142.606
+   Tiền dang chuyên                                     294,444.108             75,85         0Oo.0oo
+    Các khoán tương tương tiền (1)                8.165.775.364,889                 4,319.900.0od @00
+                                                 10.377.145.910.363                 5,567,983,431.468
 
-13. VAY VÀ NỢ THUÊ TÀI CHÍNH                                     Số cuối năm                         Phát sinh trong năm                Số đầu năm
-                                                                 Giá trị    Số có khả                Tăng            Giảm               Giá trị            Số có khả
-Vayngắn hạn        CôngThương                                    10.529.423.870  nángtrá nợ                                                                nángtrả nợ
-  NgânhàngTMCP                                                                   10.529.,423.870     20.082.694.995  23.624.011.038     14,070.739,913     14.070.739.913
-VN Chi Nhánh       Tp HCM
-        Cộng                                                     10.529.423.870  10.529.423.870      20.082.694.995  23.624.011.038     14.070.739.913     14.070.739.913
-
-b. Vay dài hạn (**)
-  Ngânhàng TMCPCôngThương                                                                                            15.527.530.241     15.527.530.241     15.527.530.241
-VN- Chi Nhánh      Tp.HCM
-        Công                                                                                                         15.527.530.241     15.527.530.241     15.527.530.241
-
-Ghi chú:
-  (*): Chi tiết khoản vay ngắn hạn như sau:
- Vay ngắn hạn Ngânhàng TMCPCôngThươngViệtNam CN                               TP . HCM theohợp dồngcho vay hạn mức số 189/2024-HĐCVHMNHCT9O2-WASECO ngày 18tháng 09 nẳm 2024
- dể bổ sung vốn lưudộngphục vụ hoatđộng kinh doanh; Hạn mức cho vay 40.000.000.000dồng: Thời hạn cho vay tối đakhôngquá 06tháng;Lãi suẩt quy dịnh theotừnglần nhận nợ;
- Khoản vay nảy được dảm báobằngviệc thế chấpcôngtrình nhà văn phòng. nhà điều hành sản xuất thuộchạng Mụccôngtrình vẳn phòng (Khu A) tại địa chỉ số 10, Phổ Quang; P.2,
- Q.Tân Bình theoHạp dồngthế chấp tài sản số 026/2022/HĐBĐINHCT9O2-WASECO ngày 22/04/2022 (xem thuyết minh số VIIL.3.b.4.2) thế chấp các khoàn phải thu của cáccông
- trinh do Vietinbank tải trợ.
-  (**): Chi tiết khoản vay dài hạn như sau:
-  Vay dài hạn Ngânhàng TMCPCôngThuong Việt Nam CN                          TP. HCM theohợp dồngcho vay dự án đầu tư số HF1/2017/HĐCVDADTINHCT9O2-WASECO ngày 28 tháng 06 năm
- 2017 dùng dể thanh toán các chi phí đầu tưhợppháp của dự án Đẩu tưTrung tâm trung bày vật tu, vẳn phòng làm việc và cho thuê Waseco (Khu C); Số tiền cho vay 94.000.000.00o
-  đồng; Thời hạn cho vay 138tháng;Lãi suất cho vay là lãi suất ghi trêntừnggiấy nhận nợ; Khoản vay này dược dảm bảobằngviệc thế chấpTrungtâm trưngbàyvật tư, vẳn phòng làm
-  việc và cho thuê Waseco (Khu C) theo các Hợpđồngthế chấp bấtdộngsán hinh thành [ongtưong lai (xem thuyết minh số VIIL.3.b.4.2).
-
-
-IMInh  d31    YINH#h'hn +
+                                                                       khòng    03 tháng tal
+    Các khoẳn tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn gổc        quá
+     càc ngân hàng thuơng mai với lãi suẩt tử 0,2%/năm đến 4,4%/nẳm (tai ngày 31tháng 12 nảm
+     2024; từ C,2% nẳm úến 4,75%/nẳm) +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh*
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
 
-## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG  
-### Năm 2024
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ và chi ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
 
-### 13. VAY VÀ NỢ THUÊ TÀI CHÍNH
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tổng Công ty có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tổng Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuận.
 
-|                                                                                    | Số cuối năm<br/>Giá trị | Số cuối năm<br/>Số có khả năng trả nợ | Phát sinh trong năm<br/>Tăng | Phát sinh trong năm<br/>Giảm | Số đầu năm<br/>Giá trị | Số đầu năm<br/>Số có khả năng trả nợ |
-| ---------------------------------------------------------------------------------- | ----------------------- | ------------------------------------- | ---------------------------- | ---------------------------- | ---------------------- | ------------------------------------ |
-| **a. Vay ngắn hạn (\*)**<br/>- Ngân hàng TMCP Công Thương VN - Chi Nhánh 1 Tp.HCM  | 10.529.423.870          | 10.529.423.870                        | 20.082.694.995               | 23.624.011.038               | 14.070.739.913         | 14.070.739.913                       |
-| **Cộng**                                                                           | 10.529.423.870          | 10.529.423.870                        | 20.082.694.995               | 23.624.011.038               | 14.070.739.913         | 14.070.739.913                       |
-| **b. Vay dài hạn (\*\*)**<br/>- Ngân hàng TMCP Công Thương VN - Chi Nhánh 1 Tp.HCM |                         |                                       |                              |                              | 15.527.530.241         | 15.527.530.241                       |
-| **Cộng**                                                                           |                         |                                       |                              |                              | 15.527.530.241         | 15.527.530.241                       |
+Việc xác định thuế thu nhập của Tổng Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+## Các bên liên quan
+
+Các bên được coi là liên quan nếu một bên có khả năng kiểm soát hoặc có ảnh hưởng đáng kể trực tiếp hoặc gián tiếp đối với bên kia trong việc ra quyết định các chính sách tài chính và hoạt động. Các bên liên quan có giao dịch với Tổng Công ty chủ yếu là các công ty có cùng công ty mẹ là PVN và các công ty liên kết của Tổng Công ty. Tuy nhiên, không phải tất cả các công ty mà PVN là chủ sở hữu hoặc có quyền chi phối được xem là bên liên quan. Trong việc xem xét từng mối quan hệ của các bên liên quan, Tổng Công ty xem xét bản chất của các mối quan hệ chứ không chỉ hình thức pháp lý của mỗi quan hệ đó.
+
+## 4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+|                                 | Số cuối kỳ<br/>VND     | Số đầu kỳ<br/>VND     |
+| ------------------------------- | ---------------------- | --------------------- |
+| Tiền mặt                        | 6.428.750.109          | 7.331.988.862         |
+| Tiền gửi ngân hàng không kỳ hạn | 2.204.647.351.257      | 1.164.901.142.606     |
+| Tiền đang chuyển                | 294.444.108            | 75.850.000.000        |
+| Các khoản tương tương tiền (i)  | 8.165.775.364.889      | 4.319.900.000.000     |
+| **Tổng cộng**                   | **10.377.145.910.363** | **5.567.983.431.468** |
 
 
-### Ghi chú:  
-*(*): Chi tiết khoản vay ngắn hạn như sau:*  
-Vay ngắn hạn Ngân hàng TMCP Công Thương Việt Nam - CN 1 TP. HCM theo hợp đồng cho vay hạn mức số 189/2024-HĐCVHM/NHCT902-WASECO ngày 18 tháng 09 năm 2024 để bổ sung vốn lưu động phục vụ hoạt động kinh doanh; Hạn mức cho vay 40.000.000.000 đồng; Thời hạn cho vay tối đa không quá 06 tháng; Lãi suất quy định theo từng lần nhận nợ; Khoản vay này được đảm bảo bằng việc thế chấp công trình nhà văn phòng, nhà điều hành sản xuất thuộc hạng mục công trình văn phòng (Khu A) tại địa chỉ số 10, Phổ Quang, P.2, Q. Tân Bình theo Hợp đồng thế chấp tài sản số 026/2022/HĐBĐ/NHCT902-WASECO ngày 22/04/2022 (xem thuyết minh số VIII.3.b.4.2), thế chấp các khoản phải thu của các công trình do Vietinbank tài trợ.
-
-*(**): Chi tiết khoản vay dài hạn như sau:*  
-Vay dài hạn Ngân hàng TMCP Công Thương Việt Nam - CN 1 TP. HCM theo hợp đồng cho vay dự án đầu tư số 111/2017/HĐCVDADT/NHCT902-WASECO ngày 28 tháng 06 năm 2017 dùng để thanh toán các chi phí đầu tư hợp pháp của dự án Đầu tư Trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê Waseco (Khu C); Số tiền cho vay 94.000.000.000 đồng; Thời hạn cho vay 138 tháng; Lãi suất cho vay là lãi suất ghi trên từng giấy nhận nợ; Khoản vay này được đảm bảo bằng việc thế chấp Trung tâm trưng bày vật tư, văn phòng làm việc và cho thuê Waseco (Khu C) theo các Hợp đồng thế chấp bất động sản hình thành trong tương lai (xem thuyết minh số VIII.3.b.4.2).
+(i) Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn gốc không quá 03 tháng tại các ngân hàng thương mại với lãi suất từ 0,2%/năm đến 4,4%/năm (tại ngày 31 tháng 12 năm 2024; từ 0,2%/năm đến 4,75%/năm).
  + 
  + [] 
  None

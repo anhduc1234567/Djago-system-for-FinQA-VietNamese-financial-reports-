@@ -124,16 +124,17 @@ def chat_upload(request, chat_id):
 
 
 def add_new_message_to_conversation(role, content, conversation_id, user_id):
-    print("đang ghi mess mới")
-    msg = Message(
-                role=f"{role}",
-                content=f"{content}",
-                timestamp=datetime.utcnow()
-        )
-    conv = Conversation.objects(conversation_id=conversation_id,user_id= user_id).first()
-    conv.messages.append(msg)
-    conv.updated_at = datetime.utcnow()
-    conv.save()
+    if conversation_id != 'None':
+        print("đang ghi mess mới")
+        msg = Message(
+                    role=f"{role}",
+                    content=f"{content}",
+                    timestamp=datetime.utcnow()
+            )
+        conv = Conversation.objects(conversation_id=conversation_id,user_id= user_id).first()
+        conv.messages.append(msg)
+        conv.updated_at = datetime.utcnow()
+        conv.save()
     
     
 @csrf_exempt
@@ -216,6 +217,7 @@ def chat_send(request, conversation_id):
                 "suggestions": suggestions or []
                  })
             # except Exception as e:     
+            #     print(e)
             #     return JsonResponse({
             #         "response": "❌ Lỗi trong quá trình xử lý chatbot:",
             #         "suggestions":  []

@@ -1,7 +1,11 @@
 from google import genai
 from google.genai import types
 import time 
-GOOGLE_API =  ""
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+GOOGLE_API = os.getenv("GOOGLE_API")
 client = genai.Client(api_key= GOOGLE_API)
 
 def call_api_gemi(prompt, model = '2.0-flash', temperture = 0.1, max_retries = 200, retry_delay = 2):

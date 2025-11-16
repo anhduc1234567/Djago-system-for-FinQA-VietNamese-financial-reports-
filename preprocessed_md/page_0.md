@@ -1,10 +1,4 @@
-    CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-    Địa chi: Số 10 Phổ Quang, Phường2, Quận Tân Bình, TP Hồ Chí Minh.
-
-
-
-        Báo cáo của BanTổng Giám đốc và
-Báo cáo tài chínhriêngđã được kiểm toán
+PETROVIETNAN
 
 
 
@@ -15,45 +9,62 @@ Báo cáo tài chínhriêngđã được kiểm toán
 
 
 
-CÔNG TY CP ĐẦU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC
-                  (WASECO)
-    Báo cáo tài chínhriêng
-                  Năm 2024
+TỔNG CÔNC: Tv}
+3  KHÍJAM     Qble
 
-
-
-
-
-
-
-
-
-
-    Dươc_kiểm toán bỏi:
-               CÔNG TY TNHH DỊCH VỤ TƯ VÁN TÀI CHÍNH KÉ TOÁN VÀ KIẺM TOÁN PHÍA NAM
-                                             (AASCS)
-29 Võ Thị Sáu, Quận 1, TP. Hồ Chí Minh; Điện thoại: (028). 38 205.944 _38 205.947; Fax: 38 205.942 +
+1 CÔNG TY     4
+   CỔ PH+ v
+   BE.TPHR
+   CHÍ +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
-
-> **Báo cáo của Ban Tổng Giám đốc và**  
-> **Báo cáo tài chính riêng đã được kiểm toán**
+# TẬP ĐOÀN CÔNG NGHIỆP - NĂNG LƯỢNG QUỐC GIA VIỆT NAM  
+## TỔNG CÔNG TY KHÍ VIỆT NAM  
 
 ----
 
-# CÔNG TY CP ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC  
-## (WASECO)  
-### Báo cáo tài chính riêng  
-### Năm 2024
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
+**Độc lập - Tự do - Hạnh phúc**
 
 ----
 
-**Được kiểm toán bởi:**  
-**CÔNG TY TNHH DỊCH VỤ TƯ VẤN TÀI CHÍNH KẾ TOÁN VÀ KIỂM TOÁN PHÍA NAM**  
-(AASCS)  
-29 Võ Thị Sáu, Quận 1, TP. Hồ Chí Minh;  
-Điện thoại: (028) 38 205.944 - 38 205.947; Fax: 38 205.942
+Số: 1533/KVN-TC  
+*Thành phố Hồ Chí Minh, ngày 14 tháng 08 năm 2025*
+
+# CÔNG BỐ THÔNG TIN ĐỊNH KỲ
+
+**Kính gửi:**  
+* Ủy ban Chứng khoán Nhà nước;  
+* Sở Giao dịch Chứng khoán Tp. HCM.
+
+**Tổng Công ty Khí Việt Nam – CTCP (PV GAS)**  
+Mã chứng khoán: GAS  
+Địa chỉ trụ sở chính: PV GAS TOWER, số 673 đường Nguyễn Hữu Thọ, xã Nhà Bè, Tp. Hồ Chí Minh.  
+Điện thoại: (028) 37816777. Fax: (028) 37815666 – 37815777.
+
+Nội dung thông tin công bố: Báo cáo tài chính hợp nhất giữa niên độ đã được soát xét của Tổng công ty Khí Việt Nam – CTCP.  
+Thông tin này đã được công bố trên trang thông tin điện tử của PV GAS ngày 14/08/2025 tại website http://www.pvgas.com.vn, chuyên mục Quan hệ cổ đông/Tài liệu cổ đông.  
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.
+
+**Nơi nhận:**  
+* Như trên;  
+* UBCKNN (Vụ Quản lý Phát hành Chứng khoán);  
+* HĐQT TCT (để báo cáo);  
+* TGĐ TCT (để báo cáo);  
+* PTGĐ N.C.Luận (để báo cáo);  
+* Các Ban: TC, KSNB, KT;  
+* Lưu: VT, TC.TDNC.
+
+----
+
+**TUQ. TỔNG GIÁM ĐỐC**  
+**NGƯỜI ĐƯỢC ỦY QUYỀN**  
+**CÔNG BỐ THÔNG TIN**
+
+*Phan Thị Phương Anh*
+
+----
+
+> *Văn bản này được xác thực tại https://cks.pvgas.com.vn với mã tài liệu: KVN.25.3681*
  + 
  + [] 
  None

@@ -1,26 +1,47 @@
-CÔNG TY CO PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Số 10 Phổ Quang Phờng 2, Quận Tân Bình, TP Hồ Chí Minh
+TỔNG CÔNG TY KHÍ VIỆT NAMV - CÔNG TY cỔ PHẦN                    MẪU SỔ B 09a-DN/HN
+THUYẾT MMINH BÁO CÁO TÀl CHÍNH HỢP NHÁT GIỮA NIỄN ĐỘ (Tiểp theo)
+PHẢI THU NGẮN HẠN CỦA KHACH HÀNG
+                                                          Số cuâi kỳ           5ố đau kỳ
+                                                                VND                  VND
+  Phảỉ thu ngẳn hạn cúa khách hằng không phải là        11.620.923.323.740     11.580.472.575.636
+bên lien quan                                           1.695.824.949.331      1.739.993,982 218
+Công ty Nhỉệt điện Phú Mỹ - Chi nhánh Tông Công ty
+Phét ziên 3 Công ty Có phàn                             967.160.266,661        889,851,.457.494
+Còng ty TNHH Gas Venus                                  675.029.880.957
+PNX Petroleum Singapore Pte. Ltd,                       673.970,.501.305
+SK Gas Internatlonal Pte. Lld.                          667,.804.107 020
+Wanhua Chemical (Sirgapore} Pte Ltd,                                             783, 211.504 419
+ CôngIy Cổ phăn Nang lượng Vletpetrol                   608 097.077.627
+ Cong ty (NAH Nang UƠng IvIE KOnB ( )                                             888.333.195.622
+ Công ty Điện lực TNHH BOT Phú Mỹ 3 (*)                   6.326.036.540.839     6 111.366,466.951
+ Các khéch hàng khác                                     3,.549.274.522.245     5.164.183.298.841
+ b. Phải thu khảch háng Ià các bên Ilên quan chủ yếu
+(Chi tỉết tại Thụyết minh 5ố 35)
+                                                         15.170.197,845.985    16.744.655.874.477
+
+ Sã dư đầu ky phản ánh cac khoản                    Công ty TNHH Năng lượng Mê Kông ("PMM2 2") và
+                                     phải{hu
+ Cong ty Eiện lực TNHH BOT Phú Mỹ 3 ("PM3") về phần chênh lệch giữa đơn gia bấn kní mới và
+ dơn giá bán khÍcũ do cú sự thay đổi về các nguồn cung cẩp khí củaTổngCông ty cho PMZ .2 và
+  PM3.
+ Trong kỳ, Tổng Cỏng ty đã thống nhất đơn giá bán khí mởi và thực hiện ký kết các phu luc sửa
+ đổi mới của Hợp đồng mua bán khí với PM2 2 và PMJ Theo đó, cac khoản phải thu ngan han
+ tươngứnBnày dã dưdc thanh toản toàn bô
+           IRẢ TRƯỞC CHO NGƯỜl BÁN NGÁN HẠN
+                                                          S6 cuoi ky           Sô dau
+                                                                VND            VID
+                                      không               83.993.008,088       95.094.884.158
+  Trả trưởc cha người bán ngắn hạn         phải là
+  bên liên quan chủ yếu                                   33,265.594.823       32 897.728.823
+  Trung tàm Phảt triến Quỹ dất HLyện Long Điền
+  Câng ty TNHH Xây dựng Thương mại Dịch vụ Nam            11.173,408.048
+  Hưng                                                    39.554.005.217       62.197.155.335
+  Các đốl tượng khảc                                                           280.544.439.039
+  b.Trả trưởc cho người bán ngắn hạn là các bên llên     121.794.031.875
+  quan chủ yéu
+  {Chi tiết tạ Thuyểt minh số 35)                        205.787.039.963       375.639.323.192
 
 
-16. THUÉ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC                       Số đầu năm         Số phải nộp       Số đã thực nộp
-Thuế giá trị gia tăng                                           2.960.109.535     trong năm                                       trong năm      Số cuối nảm
- VPCông          Trung tâm kinh doanh                           2.911.185.088     5.743.898.939                                   5.698.818.721  3.005.189.753
- Chi nhánh Đakmil                                                  48.924.447     5.479.130.614                                   5.441.592.356  2.948.723.346
-Thuế thu nhập doanh nghiệp                                                        264.768.325                                     257.226.365    56.466.407
- Thuế nhà dất và tiền thuê dất                                  2.433.217.538     7.157.729.303                                   5.227.963.782  4.362.983.059
-  Tiền thuê đất tại số 10 Phổ Quang; P.2, QTân Bình, TPHCM    2.356.506.173      11.375.407.295                                   13.731.913.468
-  Tiền thuê đất tại Xa Lộ Hà Nội, P. Hiệp Phú, TP. Thủ Đức       1511.025.949     8.875.661.805                                   10.386.687.754
-  Tiền thuê đất Chi nhánh Đakmil                                  845.480.224     2.498.520.590                                   3.344.000.814
-Thuế tài nguyên                                                     5.805.505     1224.900                                        1.224.900
- Thuế TNCN                                                        740.569.203     81.459.216                                      81.362.897     5.901.824
- Thuế môn bài                                                                     798.784.165                                     807.052.365    732.301.003
- Phí bảo vệ môi trường                                                            5.000.000                                       5.000.000
- Phí dịch vụ môi trường                                            28.863.313     416.208.388                                     415.148.353    29.923.348
- Các loai thuế khác        rừng                                     5.054.608     24.059.620                                      23.744.032     5.370.196
-                 Công                                         8.530.125.875       27.484.417                                      27.484.417     8.141.669.183
-                                                                                 25.630.031.343                                   26.018.488.035
-Qưyết toán thuế cùaCôngty sẽ chịu sự kiểm tra cua cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiềuloaigiao dịch khác nhau có thể được giải
-thích theo nhiều cách khác nhau, số thuế được trình bày trên Báo cáo tài chinh có thể bị thay đổi theo quyết định cua cơ quan thuế
 
 
 
@@ -29,35 +50,41 @@ thích theo nhiều cách khác nhau, số thuế được trình bày trên Bá
 
 
 
-
-
-d9    30    INH   HHN +
+26 +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
 
-## 16. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
-
-|                                                                | Số đầu năm    | Số phải nộp trong năm | Số đã thực nộp trong năm | Số cuối năm   |
-| -------------------------------------------------------------- | ------------- | --------------------- | ------------------------ | ------------- |
-| **Thuế giá trị gia tăng**                                      | 2.960.109.535 | 5.743.898.939         | 5.698.818.721            | 3.005.189.753 |
-| - VP Công ty + Trung tâm kinh doanh                            | 2.911.185.088 | 5.479.130.614         | 5.441.592.356            | 2.948.723.346 |
-| - Chi nhánh Đakmil                                             | 48.924.447    | 264.768.325           | 257.226.365              | 56.466.407    |
-| **Thuế thu nhập doanh nghiệp**                                 | 2.433.217.538 | 7.157.729.303         | 5.227.963.782            | 4.362.983.059 |
-| **Thuế nhà đất và tiền thuê đất**                              | 2.356.506.173 | 11.375.407.295        | 13.731.913.468           |               |
-| - Tiền thuê đất tại số 10 Phổ Quang, P.2, Q. Tân Bình, TP. HCM | 1.511.025.949 | 8.875.661.805         | 10.386.687.754           |               |
-| - Tiền thuê đất tại Xa Lộ Hà Nội, P. Hiệp Phú, TP. Thủ Đức     | 845.480.224   | 2.498.520.590         | 3.344.000.814            |               |
-| - Tiền thuê đất Chi nhánh Đakmil                               |               | 1.224.900             | 1.224.900                |               |
-| **Thuế tài nguyên**                                            | 5.805.505     | 81.459.216            | 81.362.897               | 5.901.824     |
-| **Thuế TNCN**                                                  | 740.569.203   | 798.784.165           | 807.052.365              | 732.301.003   |
-| **Thuế môn bài**                                               |               | 5.000.000             | 5.000.000                |               |
-| **Phí bảo vệ môi trường**                                      | 28.863.313    | 416.208.388           | 415.148.353              | 29.923.348    |
-| **Phí dịch vụ môi trường rừng**                                | 5.054.608     | 24.059.620            | 23.744.032               | 5.370.196     |
-| **Các loại thuế khác**                                         |               | 27.484.417            | 27.484.417               |               |
-| **Cộng**                                                       | 8.530.125.875 | 25.630.031.343        | 26.018.488.035           | 8.141.669.183 |
+|                                                                                          | Số cuối kỳ<br/>VND | Số đầu kỳ<br/>VND  |
+| ---------------------------------------------------------------------------------------- | ------------------ | ------------------ |
+| a. Phải thu ngắn hạn của khách hàng không phải là bên liên quan                          | 11.620.923.323.740 | 11.580.472.575.636 |
+| Công ty Nhiệt điện Phú Mỹ - Chi nhánh Tổng Công ty Phát điện 3 - Công ty Cổ phần         | 1.699.824.949.331  | 1.739.993.982.218  |
+| Công ty TNHH Gas Venus                                                                   | 967.160.266.661    | 889.851.457.494    |
+| PNX Petroleum Singapore Pte. Ltd.                                                        | 678.029.880.957    |                    |
+| SK Gas International Pte. Ltd.                                                           | 673.970.501.305    |                    |
+| Wanhua Chemical (Singapore) Pte. Ltd.                                                    | 667.804.107.020    |                    |
+| Công ty Cổ phần Năng lượng Vietpetrol                                                    | 608.097.077.627    | 783.211.504.419    |
+| Công ty TNHH Năng lượng Mê Kông (\*)                                                     |                    | 1.167.715.968.932  |
+| Công ty Điện lực TNHH BOT Phú Mỹ 3 (\*)                                                  |                    | 888.333.195.622    |
+| Các khách hàng khác                                                                      | 6.326.036.540.839  | 6.111.366.466.951  |
+|                                                                                          | 3.549.274.522.245  | 5.164.183.298.841  |
+| **b. Phải thu khách hàng là các bên liên quan chủ yếu (Chi tiết tại Thuyết minh số 35)** | 15.170.197.845.985 | 16.744.655.874.477 |
 
 
-> Quyết toán thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên Báo cáo tài chính có thể bị thay đổi theo quyết định của cơ quan thuế.
+> (*) Số dư đầu kỳ phản ánh các khoản phải thu Công ty TNHH Năng lượng Mê Kông ("PM2.2") và Công ty Điện lực TNHH BOT Phú Mỹ 3 ("PM3") về phần chênh lệch giữa đơn giá bán khí mới và đơn giá bán khí cũ do có sự thay đổi về các nguồn cung cấp khí của Tổng Công ty cho PM2.2 và PM3.  
+> Trong kỳ, Tổng Công ty đã thống nhất đơn giá bán khí mới và thực hiện ký kết các phụ lục sửa đổi mới của Hợp đồng mua bán khí với PM2.2 và PM3. Theo đó, các khoản phải thu ngắn hạn tương ứng này đã được thanh toán toàn bộ.
+
+# TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+|                                                                                                       | Số cuối kỳ<br/>VND | Số đầu kỳ<br/>VND |
+| ----------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
+| a. Trả trước cho người bán ngắn hạn không phải là bên liên quan chủ yếu                               | 83.993.008.088     | 95.094.884.158    |
+| Trung tâm Phát triển Quỹ đất Huyện Long Điền                                                          | 33.265.594.823     | 32.897.728.823    |
+| Công ty TNHH Xây dựng Thương mại Dịch vụ Nam Hưng                                                     | 11.173.408.048     |                   |
+| Các đối tượng khác                                                                                    | 39.554.005.217     | 62.197.155.335    |
+| **b. Trả trước cho người bán ngắn hạn là các bên liên quan chủ yếu (Chi tiết tại Thuyết minh số 35)** | 121.794.031.875    | 280.544.439.039   |
+| **Tổng cộng**                                                                                         | 205.787.039.963    | 375.639.323.197   |
+
+
  + 
  + [] 
  None

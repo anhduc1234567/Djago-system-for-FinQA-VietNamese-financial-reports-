@@ -1,94 +1,104 @@
-CÔNG TY ĐẢU              VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-                 TƯ'
-Địa chi: Số 10 Phổ Quang, Phường 2, Q Tân Bình, TP. Hồ Chí Minh.
-                 Côngty CP Tư vấn và Cấp nướcĐôngNam Á - Mêkông Rạch Giá
-                 Địa chỉ: Số 18 Lý Thường Kiệt, Phường Vĩnh Thanh, TP . Rạch Giá, Tinh Kiên Giang
-                 Tỷ Iệ lợi ích củaCôngty mẹ: 89,75%
-                 Quyển biêu  của CôngLy mẹ: 89,75%.
-                         quyết ,
-          Sốlượngcông nhân viênCôngty tính đến 31/12/2024: 131 người.
-          Kỳ kế toán, dơn vị tiền tệ sử dụng trong kế toán:
-          Kỳ kế toán củaCôngty bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12hàng nfm           đồng
-          Đơn vị tiền tệ sửdụngtrong kế toán: Đơn vị tiền tệ sử dụng trong ghi chép kế toán là         Việt
-          Nam (VND).
-III       Chuẩn mực và Chế độ kế toán áp dụng:
-                   Chế độ kế toán áp dụng: Công ty áp dụng chế độ kế toán Việt Nam ban hành theo Thông tusố
-         200/2014/TT-BTC ngày 22 tháng 12 năm 2014;Thông               số 53/2016/TT-BTC ngày 21 tháng 03
-         năm 2016 sửa đổi, bổ sung một số đỉều củaThôngtusố 200/2014/TT-BTC ngày 22thảng 12 nám
-         2014 cuaBộ Tài chínhhuóngdẫn chế độ kế toán doanh nghiệp,cũngnhư cácthông                huởngdẫn
-          thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính
-          Tuyên bố về việc tuân thủ chuẩn mực kế toán và chế độ kế toán: BanTổngGiám đốc đảm bảo đã OAN
-                  tuân thủ yêu cấu cua chuẩn mực kể toán; Chế dộ kế toán doanh nghiệpViệt Nam được ban hành
-                     theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014; Thông tư số 53/2016/TT-BTC
-                 ngày 21tháng 03 nẳm 2016 sửa dổi, bố sung một sỗ điều của Thông tư số 200/2014/TT-BTC ngày
-         22 iháng 12 năm 2014 của Bộ Tài chínhhướng dẫn chế độ kế toán doanh nghiệp,cũng như các
-          thông       hướngdẫn thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập và trinh bày Báo
-         cáu lài chínlu .
-IV       Các chính sách kế toán áp dụng:
-         Các loai tỷ giá hối doái ápdụngtrong kế toán:                                   Thông        số
-         Việc ghi nhận; dánl giá, xử lý các khoản chênh lệch tỷ giá trong kỳ được thực hiện theo    tu
-         200/2014/TT-BTC ngày 22 tháng 12 năm 2014 vàThông tư số 53/2016/TT-BTC ngày 21 tháng⁰³
-        năm 2016 sửa đổi, bỗ sung một số điều củaThông tư số 200/20I4/TT-BTC ngày 22tháng 12 năm
-        2014 của Bộ Tài chínhhướngdẫn chế độ kế toán doanh nghiệp.
-          Nguyên tắc     nhận các khoản tiền và các khoản tương đương tiền:
-                 ghi
-                                                  không                    chuyển;
-        Tiền bao gôm tiền mặt, tiền gửi ngânhàng          kỳ hạn và có kỳ hạn; tiền đang          vàngtiê
-          Các khoản tương dưong tiền Ỉà các khoản đẩu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạp
-        khôngquá 3 tháng kề từ ngày mua, dễ dàng chuyển đổi thành tiền cũng như không có nhiều rủi ro)
-        trong việc chuyển đổi thành tiền.                                                             "ng
-        Nguyên tắc kế toán các khoản đầu tư tài chính:
-        Các khoản đầu tư nắm giữ đến ngày đáo hạn:
-                 Khoản dầu tư được phân loại là nắm giữ dến ngày đáo hạn khiCôngty có ý định và khảnẳng giữ
-                dến ngày đáo hạn Các khoản đẩu tư nẳm giữ đến ngày dáo hạn bao gổm: các khoản tiên gửi ngân
-       hàngcó kỳ hạn (bao gồm cả các loại tín phiếu; kỳ phiếu) . trái  cổ phiếu ưu đãi bên           hành
-                                                            phiếu;                                phát
-         bẳt buộc phải mua lại tại một thời điêm nhất định trong tưong lai và các khoản cho vay nắm giữ đến
-       ngảy đáo hạn với mục đích thu lãihàngkỳ và các khoản dầu tư nắm giữ đến ngày đáo hạn khác.
-       Các khoản đầu     nẳm giữ đến ngày dáo hạn được            nhận ban đầu theo giá gốc bao gồm giá mua
-                                                           ghi
-       và các chi phí liên quan đến giao dịch mua các khoàn đầu tu. Sau khi nhận ban đầu, các khoàn dầu tur
-        uàyđược ghi nhận theo giá trị có thể thu hồi. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày dáo
-             han saungày mua dược ghi nhận trên Báo cáo kết qua hoạt dộng kinh doanh trên cơ sở dự thu. Lãi
-       đuợchurởngtrước khiCôngty nắm giữ được ghi giảm trừ vào giá gốc tại thời diểm mua.
-                                                  12 +
+   TỔNG CÔNG TY KHÍ VIÊT NAM - CÔNG TY CỔ PHẦN                      MẪU SỐ B 03a-DNJHN
+   Tòa nhà PV GAS Tower, 56 673 đưởng NguyỄn Hữu Thọ           Ban hảnh theo Thãng tư sũ 202/2014/1T-BTC
+   Nhà Bè, Thảnh phự Hô Chí Minh Viét Nam                          nEàỵ 22 tháng 12 nam 2014 của Bộ Tài chính
+                          BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN Độ
+                                    ' tháng
+                       Cho kỳ hogt dBng 6      kêt thúc ngày 30 tháng 6 năm 2025                      Đơn vl VND
+
+   cHi TIEU                                                Mã só    Kỳnày                               Kỳ trước
+       CHUYÉN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+    LƯU                                                               9,410.488.006.623        7.409.849.888.981
+    Lợí nhuận trưởc thuè
+     Điều chinh cho cac khoun:                                                                  1311.204.748.872
+    Khãu hao tàí san có djnh vả bat động sẩn đầu tu'       02         1.428.844.6/9.961          899.215,879,373
+    Cac khoan dự phòng                                              (1 527.985.829,.984
+   (Lãì) /Iễ chệnh lệch tý giá hôi doái do đánh giá lai     04         (27.787.281.896)           30 1CO,661.152
+    Lãi từ hcar đậng đàu tư                                 05      (609./39.476,429)          (842.662.248.538)
+    Chi phi lãi vay                                                 112.230.125.035             192.764.,731.120
+     Lợí nhuẬn từ hogt động kInh doanh trước thay                         8,786.050.223.310    9.000.473,660.960
+     dỗi vốn lưu động                                                     (192.602.223.865)    {7.063.664.024.484)
+   Táng giảm các khoản
+                          phải
+    Tảng       hàng lồn kho         thu                     10            1.374.264,070,350    1.176.194.372.052
+       giàn                                                                                    3.370.762.837,105
+   Táng giảm các khoản phál trả (Không kể Iăi vay                           560.564.111.494
+    phảl trá, thuế thu nhập doanh nghiệp phái nộp)                          218.403 558.504     (90.834.288 569)
+    Tăng giam chi phltrả trước                                      (111,234.006.320}          {184.909.293.142)
+   Tiền [ãl vay đã trả                                      14      (1.529.347.102.573)        {1.183   803.945)
+     Thué thu hhãp doanh nghiep đã nôp                              (220.248.311.360)          400 .
+     Tiền chi khác cho hoạt đẸng kinh doanh                         8.885,850.319.540          (159.507,627,848)
+       chuyến tíền thuần từ hoạt động                       20                                 4.865.114.832.129
+      Lưu
+     kinh doanh
+     LƯU CHUYẺN TIỀN TỪ HOAT ĐỘNG ĐẦU TƯ                            838.235.623)               (883 998,477.778)
+     Tiên chi mua sằm, Xày dựng TSCĐ và                      21     020
+      cac tai san dèi han khác                                         2.670.000
+      Tiên thu tharh l, nhưong ban TSCĐ va
+       cac (ai san @a1 nan Krlac                             23     (18.733.147.858.253)   (2-,972 322.012.378)
+      Tien cni cho Yay, mua công CU nợ cúa đơn vi
+      khác                                                          15,496.376,433.351         20.693.660.135.731
+      Tiền thu hầí cho vay, bán lai cac công cụ nợ           24
+       cúa đơn vị khác                                       27                                747,858,315.891
+       Tiên thu lãi cho vay, cổ tức và Igi nhuân được               411.017.1/7.890
+       chia                                                         (2.846.589.812.635)
+       chuyển tiền thuân từ hogt động đầu tư                 30                                (1,414,.802.038.534)
+       Lưu
+
+
+
+
+
+
+
+
+
+
+   Cúc thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chínn hợp nhất giữa nìên độ này
+
+1 +
  
-# CÔNG TY ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Q. Tân Bình, TP. Hồ Chí Minh.*
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
 
-* Công ty CP Tư vấn và Cấp nước Đông Nam Á - Mêkông Rạch Giá  
-  Địa chỉ: Số 18 Lý Thường Kiệt, Phường Vĩnh Thanh, TP. Rạch Giá, Tỉnh Kiên Giang  
-  Tỷ lệ lợi ích của Công ty mẹ: 89,75%.  
-  Quyền biểu quyết của Công ty mẹ: 89,75%.
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ  
+xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam  
 
-7. **Số lượng công nhân viên Công ty tính đến 31/12/2024:** 131 người.
+Ban hành theo Thông tư số 202/2014/TT-BTC  
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính  
 
-## II. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán:
+## BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ  
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025  
 
-1. **Kỳ kế toán** của Công ty bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm.  
-2. **Đơn vị tiền tệ sử dụng trong kế toán:** Đơn vị tiền tệ sử dụng trong ghi chép kế toán là đồng Việt Nam (VND).
+Đơn vị: VND
 
-## III. Chuẩn mực và Chế độ kế toán áp dụng:
+| CHỈ TIÊU                                                                                         | Mã số | Kỳ này                  | Kỳ trước                |
+| ------------------------------------------------------------------------------------------------ | ----- | ----------------------- | ----------------------- |
+| **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH**                                                   |       |                         |                         |
+| 1. Lợi nhuận trước thuế                                                                          | 01    | 9.410.488.006.623       | 7.409.849.888.981       |
+| 2. Điều chỉnh cho các khoản:                                                                     |       |                         |                         |
+| - Khấu hao tài sản cố định và bất động sản đầu tư                                                | 02    | 1.428.844.679.961       | 1.311.204.748.872       |
+| - Các khoản dự phòng                                                                             | 03    | (1.527.985.829.984)     | 899.215.879.373         |
+| - (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ      | 04    | (27.787.281.896)        | 30.100.661.152          |
+| - Lãi từ hoạt động đầu tư                                                                        | 05    | (609.739.476.429)       | (842.662.248.538)       |
+| - Chi phí lãi vay                                                                                | 06    | 112.230.125.035         | 192.764.731.120         |
+| 3. *Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động*                               | 08    | **8.786.050.223.310**   | **9.000.473.660.960**   |
+| - Tăng, giảm các khoản phải thu                                                                  | 09    | (192.602.223.865)       | (7.063.664.024.484)     |
+| - Tăng giảm hàng tồn kho                                                                         | 10    | 1.374.264.070.350       | 1.176.194.372.052       |
+| - Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) | 11    | 560.564.111.494         | 3.370.762.837.105       |
+| - Tăng, giảm chi phí trả trước                                                                   | 12    | 218.403.558.504         | (90.834.288.569)        |
+| - Tiền lãi vay đã trả                                                                            | 14    | (111.234.006.320)       | (184.909.293.142)       |
+| - Thuế thu nhập doanh nghiệp đã nộp                                                              | 15    | (1.529.347.102.573)     | (1.183.400.803.945)     |
+| - Tiền chi khác cho hoạt động kinh doanh                                                         | 17    | (220.248.311.360)       | (159.507.627.848)       |
+| *Lưu chuyển tiền thuần từ hoạt động kinh doanh*                                                  | 20    | **8.885.850.319.540**   | **4.865.114.832.129**   |
+| **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ**                                                      |       |                         |                         |
+| 1. Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác                                   | 21    | (1.020.838.235.623)     | (883.998.477.778)       |
+| 2. Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác                                | 22    | 2.670.000               |                         |
+| 3. Tiền chi cho vay, mua công cụ nợ của đơn vị khác                                              | 23    | (18.733.147.858.253)    | (21.972.322.012.378)    |
+| 4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác                                  | 24    | 15.496.376.433.351      | 20.693.660.135.731      |
+| 5. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia                                           | 27    | 411.017.177.890         | 747.858.315.891         |
+| *Lưu chuyển tiền thuần từ hoạt động đầu tư*                                                      | 30    | **(3.846.589.812.635)** | **(1.414.802.038.534)** |
 
-1. **Chế độ kế toán áp dụng:**  
-   Công ty áp dụng chế độ kế toán Việt Nam ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014; Thông tư số 53/2016/TT-BTC ngày 21 tháng 03 năm 2016 sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp, cũng như các thông tư hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính.
 
-2. **Tuyên bố về việc tuân thủ chuẩn mực kế toán và chế độ kế toán:**  
-   Ban Tổng Giám đốc đảm bảo đã tuân thủ yêu cầu của chuẩn mực kế toán; Chế độ kế toán doanh nghiệp Việt Nam được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014; Thông tư số 53/2016/TT-BTC ngày 21 tháng 03 năm 2016 sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp, cũng như các thông tư hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính.
-
-## IV. Các chính sách kế toán áp dụng:
-
-1. **Các loại tỷ giá hối đoái áp dụng trong kế toán:**  
-   Việc ghi nhận, đánh giá, xử lý các khoản chênh lệch tỷ giá trong kỳ được thực hiện theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 và Thông tư số 53/2016/TT-BTC ngày 21 tháng 03 năm 2016 sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp.
-
-2. **Nguyên tắc ghi nhận các khoản tiền và các khoản tương đương tiền:**  
-   Tiền bao gồm tiền mặt, tiền gửi ngân hàng không kỳ hạn và có kỳ hạn, tiền đang chuyển, vàng tiền tệ. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá 3 tháng kể từ ngày mua, dễ dàng chuyển đổi thành tiền cũng như không có nhiều rủi ro trong việc chuyển đổi thành tiền.
-
-3. **Nguyên tắc kế toán các khoản đầu tư tài chính:**  
-   **Các khoản đầu tư nắm giữ đến ngày đáo hạn:**  
-   Khoản đầu tư được phân loại là nắm giữ đến ngày đáo hạn khi Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
-
-   Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+> Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
  + 
  + [] 
  None

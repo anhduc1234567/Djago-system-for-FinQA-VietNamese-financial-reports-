@@ -43,9 +43,11 @@ subtitles_of_cash_flow = [
     "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
     "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
     "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+    
     "LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG KINH DOANH",
     "LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG ĐẦU TƯ",
     "LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+    
     "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG SẢN XUẤT",
     "LƯU CHUYỂN TIỀN TỆ TỪ HOẠT ĐỘNG SXKD",
 ]
@@ -64,7 +66,9 @@ subtitles_of_income_statement= [
 
 subtitles_of_income_statement_for_bank= [
     "THU NHẬP LÃI VÀ CÁC KHOẢN",
+    
     "THU NHẬP TỪ HOẠT ĐỘNG KHÁC",
+    
     "CHI PHÍ THUẾ"
 ]
 subtitles_of_balance_sheet_for_bank = [
@@ -77,18 +81,27 @@ subtitles_of_balance_sheet_for_bank = [
 
 subtitles_of_balance_sheet_for_index = [
     "TÀI SẢN NGẮN HẠN",
+    
     "TÀI SẢN DÀI HẠN",
+    
     "NỢ PHẢI TRẢ",
+    
     "VỐN CHỦ SỞ HỮU",
+    
     "TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN",
+    
     "TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ"
 ]
 
 subtitles_of_income_statement_for_index = [
   "DOANH THU HOẠT ĐỘNG",
+  
   "CHI PHÍ HOẠT ĐỘNG",
+  
   "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+  
   "CHI PHÍ TÀI CHÍNH",
+  
   "THU NHẬP KHÁC"
 ]
 
@@ -110,7 +123,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder", device='cpu')
+model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder",device='cuda')
 def remove_accents(text):
     text = unicodedata.normalize('NFD', text)
     return ''.join(c for c in text if unicodedata.category(c) != 'Mn')
@@ -190,11 +203,11 @@ def get_name_report_and_times(pages1):
         6. Y tế
         7. Chứng khoán
         8. Công nghệ thông tin
-        9. Viễn thông & Truyền thông
-        10. Hạ tầng tiện ích (Utilities)
+        9. Viễn thông và Truyền thông
+        10. Hạ tầng tiện ích 
         11. Bất động sản
         12. Ngân hàng
-        - Thời điểm báo cáo phải nằm trong 6 thời điểm sau hãy trả về tên gọi đơn giản nhất ví dụ Qúy 1 [năm]:
+        - Thời điểm báo cáo phải nằm trong 6 thời điểm sau hãy trả về tên gọi đơn giản nhất ví dụ Quý 1 [năm]:
             - Quý 1 [năm]   (Cho kỳ 3 tháng (01/01 - 31/03))
             - Quý 2  [năm]   (Cho kỳ 3 tháng (01/04 - 30/06))
             - Bán niên  [năm] (Cho kỳ 6 tháng (01/01 - 30/06))
@@ -365,12 +378,12 @@ def split_balance_content(content, subtitles):
 
             matched_sub = matched_subs[0]
             used.add(matched_sub)
-            if matched_sub == "DOANH THU BÁN HÀNG" or matched_sub == "TỔNG DOANH THU":
+            if matched_sub == "DOANH THU BÁN HÀNG" or matched_sub == "TỔNG DOANH THU" or  matched_sub == "DOANH THU CUNG CẤP DỊCH VỤ":
                 current_sub = {"subtitle": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ", "raw_text": line}
-            elif matched_sub == "DOANH THU CUNG CẤP DỊCH VỤ":
-                current_sub = {"subtitle": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ", "raw_text": line}
+         
             elif matched_sub == "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG SẢN XUẤT" or matched_sub == "LƯU CHUYỂN TIỀN TỆ TỪ HOẠT ĐỘNG SXKD":
                 current_sub = {"subtitle": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH", "raw_text": line} 
+                
             else:
                 current_sub = {"subtitle": matched_sub, "raw_text": line}
         else:

@@ -1,117 +1,105 @@
-CÔNG TY CỎ PHẢN ĐẢU TƯ VÀ XÂY DỰNG CÁP THOÁT NƯỚC (WASECO)
-Địa chi: Só 10 Phổ Quang Phường 2, Quận Tân Bình_TP Hồ Chi_Minh
-  Côngty quản lý rủi ro thanh khoànthôngqua việcduytrì một Iưong tiền và các khoản tương đương tiền phù hợp và các
-  khoản vay ở mức mà Ban Tổng Giám đốc cho là đủ để đáp ứng nhu cầuhoatdộng cua Côngty nhằm giảm thiều ảnh
-  hưởngcủanhữngbiếndộng vềluồngtiền.                                    ty có khả năng thanh toán các khoản nợ đến
- Côngty choTẳngmức độ tập trung rủi ro đối với việc trả nợ là thấp. Công
- han từdòngtiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn
- Tài sản tài chinh                               Dưới nẳm               Trên 1 nẳm        Tổngcông
+   TỔNG CÔNG TY KHỈ VIỆT NAMM - CÔNG TY cỖ PHẦN                  MẪU SỐ B 09a-DN /HN
+   THUYẾT MINH BAO CÁO TÀl CHÍNH HỢP NHẨT GIỮA NIÊN ĐỘ (Tiếpthco)
+   Khoản vay được hoan trà theo ljch biêu sau:
+                                                              Số cuõi ky                   S9 đău kỳ
+                                                                     VND                   VIVD
+          Trong vòng mô- nắrr                            812.276.237.685                   810.374.237,685
+          Trorg nằm thử hai                                 791.999.532.366                792 047 532 366
+          Tử nám thử ba dển nềm thứ năm                     1121.641.204,713             1,498.704,476.901
+                                                            2.725.916.974,764            3.101.126.246.952
 
-  Tại 31/12/2024                                                                           97.451.825.895
- Tiền và các khoẩn tương đương tiền              97.451.825.895                            71.822.877.109
- Phải thu kháchhàng và phải thu khác             71.822.877.109
- Đầu tư ngẳn hạn                                                        50.249.727.199     50.249.727.199
- Đầu tưr dài hạn                                 769.274.703.004        50.249.727.199    219.524.430.203
- Tong Công                                                                                              5172?
- Tại 1/01/2024                                   75.330.523.515                            75.330.523 .SNS TY
- Tiền và các khoản tuong đương tiền              107.786.865.838                           107.786.865
- Phải thu kháchhàng vaphảithu khác               10,000.000.000                             10.0o0.00o.000 KE
- Đầu tư ngắn hạn                                                        46.456.441.671     46.456.441    'TOÁ
- Đầu tưr dài hạn                                                        46.456.441.671    239.573.831
- Tỗng Cộng                                       193.117.389.353                                        TPHC
- Nợ phải trả tài chính                           Dưới nám               Trên 1 nẳm        Tôngcông
- Tại 31/12/2024                                  10.529.423.870                             10.529.423.870
- Vay và nợ thuê tài chính                        50,486.109.264                             50.486.109.264
- Phải trả     bán
-   người                                          18.289.952.464        27.847.474.962      46.137.427.426
- Các khoản phải trà, phải nộp khác                19.848.911.610                            19.848.911.610
- Chi phí phải trà                                99.154.397.208         27.847.474.962     127.001.872.170
- Tông Công
- Tại 1/01/2024                                    14.070.739.913        15.527.530.241      29.598.270.154
- Vayvà nợ thuê tài chính                          72.439.552.494                            72.439.552.494
- Phài trảngurờibán                                20.746.999.059        27.108.606.446      47.855.605.505
- Các khoản phải trà; phải nộp khác               13.825.907.769                             13.825.907.769
- Chi phí phải trả                                121.083.199.235        42.636.136.687     163.719.335.922
- TôngCộng
- b.4 Tài sản đảm bảo                                                                          J03935
- b.4.1. Tài sản thế chấp cho đơn vị khác                                                      ÔNG TY
- Đến ngày 31/12/2024 Côngty có các tài sản thế chấp sau:                                      ổ PHẨN
-   Tại BIDV   CN SGD2:                                                                      IvÀ xÂY [
-  Hợp đồng thế chấp          sản số 211/2021/62599/HĐBĐ ngày 14/05/2021.                    fhoat KUC
-   Hợp đồng thế chấp bấtdộng                                                                            ~IPHõ
-   Hợp đồng thế chấp tài sản số 416/2016/62599/HĐBĐ ngày 22/07/2016.
-   VB sửa đổi bổ sung hợp đồng thế chấp tài sản số 04/416/2016/62599 HĐBĐ ngày 04/03/2020.
-  Tài sẩn thế chấp:
-   Quyễn sử dụng đất và Tài sản gắn liền trên dất "Nhà điều hành sản xuất và cho thuê văn phòng 13 tẩng"
-   Xe cẩu tự hành bánh lốp 40 tấn.
-   Cẩu tháp cố định có trọng tải lớn nhất 10 tấn.
+   21     QUỸ KHEN THƯỎNG, PHÚC LỢl
+                                                                            KỲnàỵ          Năm trước
+                                                                 VND                       VND
+          SỂ dư ửàu kỷ/năm                                        631.564.845.191          569,062.923.168
+          Tăng trong kỷ/nầm                                 313.569.514.462                425.218.670.337
+          Giảm trorg kỲ/nắm                                     (210.893.735.974}         (362.716.748.314)
+          Sô dư cuâi kỳ/năm                                 734.240.623.679                631.564.845.191
+
+   22     DỰ PHÒNG PHẢl TRẢ DÀl HẠN
+                                                               Kỳnày                              Kỳ trưrớc
+                                                                 VND                          VND
+
+           Bể Cửu Long                                              1.994.818,250.165     1.994.818.250,165
+          PM3 Cà Mau (i)                                              526.548.711.782       292.653.883.884
+          Nhà máy chế biến, ẩường õng vận chuyen và các               277,448.836.882       248.349 077,007
+           trạm phân phôi khí (ti)
+           Đưong ấng Nam côn Sơn 2 - Gial đoạn 2 và đường   170.320.(00.000                 143.690,00O.0OO
+           óng Sao Vang Dại Nguyêt (ilỉ)                                                     56.152.223.832
+           Đường 6ng Phú Mỹ - Thành phõ Hồ Chí Minh (iv)               59.271.791,823
+           Khác                                                         11979.333,415           923.394,211
+                                                                    3.040.376.924.067     2.940.586.829.099
+
+            Dự phòng phải trả chi phí thu dọn, khòi phục và hoàn trả mặt bằng công trinh khỉ Để Cửu Long
+            và PM3 Ca Mau dược lập dựa trên cc s6 dự toán đã đươc Bộ Công thương phê duyệt theo
+            Quyết định só 1295/00-BCT ngày 17 tháng 5 năm 2019.
+                                                               bẳngcông trinh Nhả máy chế biến ,
+           Dự phòng       itrả chí phíthu dạn, khôi phục và hoan trá măt
+                   phdl
+                đường ống vận chuyển và các tram phân phối khí được trích lập dựa trẻn cơ sở dựtoán đã được
+            3ộ Córg thương phè duyệt theo Quyết định số 2437/00 BCT ngày 16 tháng 9 nămn 2020.
+           (iii) Dự phòng phải trả chi phí thu don, khôi phục và hoàn trả mặt bằng cổng trinh Đường ống Nam
+                  Còn Sun 2 Giai đoạn 2 và Đường óng Sao Vầng ĐạỈ Nguyét được láp dựa trên cơ sở dự toán đã
+            được Bộ Công thưong phê duyệt theo Quyết dịnh sô 610/08-BCT ngày 10 tháng      nẳm 2023.
+         (iv) Dự phong phảl trả chi phí     don, khôi phuc và hoàn trá mặt bằng công trinh Đưởng ấng Phú
+                                  thu
+                     phổHồ Chí Mính được trich lập dựa trên cơ sở dự toán đã dược Bộ Công thương
+            Mỹ - Thanh
+            phé duyệ theo Quyết dịnh 56 3754/0Đ-BCT ngèy 19 tháng 9 nắm 2015.
 
 
-
-44 +
+{ +
  
-# CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG CẤP THOÁT NƯỚC (WASECO)  
-*Địa chỉ: Số 10 Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh.*
+# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)  
 
-Công ty quản lý rủi ro thanh khoản thông qua việc duy trì một lượng tiền và các khoản tương đương tiền phù hợp và các khoản vay ở mức mà Ban Tổng Giám đốc cho là đủ để đáp ứng nhu cầu hoạt động của Công ty nhằm giảm thiểu ảnh hưởng của những biến động về luồng tiền.
+Khoản vay được hoàn trả theo lịch biểu sau:
 
-Công ty cho rằng mức độ tập trung rủi ro đối với việc trả nợ là thấp. Công ty có khả năng thanh toán các khoản nợ đến hạn từ dòng tiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn.
-
-## Tài sản tài chính
-
-|                                      | Dưới 1 năm      | Trên 1 năm      | Tổng cộng       |
-| ------------------------------------ | --------------- | --------------- | --------------- |
-| **Tại 31/12/2024**                   | 97.451.825.895  | 71.822.877.109  | 97.451.825.895  |
-| Tiền và các khoản tương đương tiền   | 97.451.825.895  |                 |                 |
-| Phải thu khách hàng và phải thu khác | 71.822.877.109  |                 |                 |
-| Đầu tư ngắn hạn                      |                 | 50.249.727.199  | 50.249.727.199  |
-| Đầu tư dài hạn                       | 169.274.703.004 | 50.249.727.199  | 219.524.430.203 |
-| **Tổng Cộng**                        | 169.274.703.004 | 50.249.727.199  | 219.524.430.203 |
-| **Tại 1/01/2024**                    | 75.330.523.515  | 107.786.865.838 | 75.330.523.515  |
-| Tiền và các khoản tương đương tiền   | 75.330.523.515  |                 |                 |
-| Phải thu khách hàng và phải thu khác | 107.786.865.838 |                 |                 |
-| Đầu tư ngắn hạn                      | 10.000.000.000  |                 | 10.000.000.000  |
-| Đầu tư dài hạn                       |                 | 46.456.441.671  | 46.456.441.671  |
-| **Tổng Cộng**                        | 193.117.389.353 | 46.456.441.671  | 239.573.831.024 |
+|                               | Số cuối kỳ<br/>VND    | Số đầu kỳ<br/>VND     |
+| ----------------------------- | --------------------- | --------------------- |
+| Trong vòng một năm            | 812.276.237.685       | 810.374.237.685       |
+| Trong năm thứ hai             | 791.999.532.366       | 792.047.532.366       |
+| Từ năm thứ ba đến năm thứ năm | 1.121.641.204.713     | 1.498.704.476.901     |
+| **Tổng cộng**                 | **2.725.916.974.764** | **3.101.126.246.952** |
 
 
-## Nợ phải trả tài chính
+----
 
-|                                   | Dưới 1 năm      | Trên 1 năm     | Tổng cộng       |
-| --------------------------------- | --------------- | -------------- | --------------- |
-| **Tại 31/12/2024**                | 10.529.423.870  |                | 10.529.423.870  |
-| Vay và nợ thuê tài chính          | 50.486.109.264  |                | 50.486.109.264  |
-| Phải trả người bán                | 18.289.952.464  | 27.847.474.962 | 46.137.427.426  |
-| Các khoản phải trả, phải nộp khác | 19.848.911.610  |                | 19.848.911.610  |
-| Chi phí phải trả                  | 99.154.397.208  | 27.847.474.962 | 127.001.872.170 |
-| **Tổng Cộng**                     | 99.154.397.208  | 27.847.474.962 | 127.001.872.170 |
-| **Tại 1/01/2024**                 | 14.070.739.913  | 15.527.530.241 | 29.598.270.154  |
-| Vay và nợ thuê tài chính          | 72.439.552.494  |                | 72.439.552.494  |
-| Phải trả người bán                | 20.746.999.059  | 27.108.606.446 | 47.855.605.505  |
-| Các khoản phải trả, phải nộp khác | 13.825.907.769  |                | 13.825.907.769  |
-| Chi phí phải trả                  | 121.083.199.235 | 42.636.136.687 | 163.719.335.922 |
-| **Tổng Cộng**                     | 121.083.199.235 | 42.636.136.687 | 163.719.335.922 |
+## 21. QUỸ KHEN THƯỞNG, PHÚC LỢI
+
+|                       | Kỳ này<br/>VND      | Năm trước<br/>VND   |
+| --------------------- | ------------------- | ------------------- |
+| Số dư đầu kỳ/năm      | 631.564.845.191     | 569.062.923.168     |
+| Tăng trong kỳ/năm     | 313.569.514.462     | 425.218.670.337     |
+| Giảm trong kỳ/năm     | (210.893.735.974)   | (362.716.748.314)   |
+| **Số dư cuối kỳ/năm** | **734.240.623.679** | **631.564.845.191** |
 
 
-## b.4 Tài sản đảm bảo
+----
 
-### b.4.1. Tài sản thế chấp cho đơn vị khác
+## 22. DỰ PHÒNG PHẢI TRẢ DÀI HẠN
 
-Đến ngày 31/12/2024, Công ty có các tài sản thế chấp sau:
+|                                                                              | Kỳ này<br/>VND        | Kỳ trước<br/>VND      |
+| ---------------------------------------------------------------------------- | --------------------- | --------------------- |
+| Bể Cửu Long (i)                                                              | 1.994.818.250.165     | 1.994.818.250.165     |
+| PM3 - Cà Mau (i)                                                             | 526.548.711.782       | 492.653.883.884       |
+| Nhà máy chế biến, đường ống vận chuyển và các trạm phân phối khí (ii)        | 277.448.836.882       | 248.349.077.007       |
+| Đường ống Nam Côn Sơn 2 - Giai đoạn 2 và đường ống Sao Vàng Đại Nguyệt (iii) | 170.310.000.000       | 143.690.000.000       |
+| Đường ống Phú Mỹ - Thành phố Hồ Chí Minh (iv)                                | 59.271.791.823        | 56.152.223.832        |
+| Khác                                                                         | 11.979.333.415        | 4.923.394.211         |
+| **Tổng cộng**                                                                | **3.040.376.924.067** | **2.940.586.829.099** |
 
-* **Tại BIDV - CN SGD2:**
 
-**Hợp đồng thế chấp:**
+----
 
-- Hợp đồng thế chấp bất động sản số 211/2021/62599/HĐBĐ ngày 14/05/2021.
-- Hợp đồng thế chấp tài sản số 416/2016/62599/HĐBĐ ngày 22/07/2016.
-- VB sửa đổi bổ sung hợp đồng thế chấp tài sản số 04/416/2016/62599/HĐBĐ ngày 04/03/2020.
+(i) Dự phòng phải trả chi phí thu dọn, khôi phục và hoàn trả mặt bằng công trình khí Bể Cửu Long và PM3 – Cà Mau được lập dựa trên cơ sở dự toán đã được Bộ Công thương phê duyệt theo Quyết định số 1295/QĐ-BCT ngày 17 tháng 5 năm 2019.
 
-**Tài sản thế chấp:**
+(ii) Dự phòng phải trả chi phí thu dọn, khôi phục và hoàn trả mặt bằng công trình Nhà máy chế biến, đường ống vận chuyển và các trạm phân phối khí được trích lập dựa trên cơ sở dự toán đã được Bộ Công thương phê duyệt theo Quyết định số 2437/QĐ-BCT ngày 16 tháng 9 năm 2020.
 
-- Quyền sử dụng đất và Tài sản gắn liền trên đất "Nhà điều hành sản xuất và cho thuê văn phòng 13 tầng"
-- Xe cẩu tự hành bánh lốp 40 tấn.
-- Cẩu tháp cố định có trọng tải lớn nhất 10 tấn.
+(iii) Dự phòng phải trả chi phí thu dọn, khôi phục và hoàn trả mặt bằng công trình Đường ống Nam Côn Sơn 2 - Giai đoạn 2 và Đường ống Sao Vàng Đại Nguyệt được lập dựa trên cơ sở dự toán đã được Bộ Công thương phê duyệt theo Quyết định số 610/QĐ-BCT ngày 10 tháng 3 năm 2023.
+
+(iv) Dự phòng phải trả chi phí thu dọn, khôi phục và hoàn trả mặt bằng công trình Đường ống Phú Mỹ - Thành phố Hồ Chí Minh được trích lập dựa trên cơ sở dự toán đã được Bộ Công thương phê duyệt theo Quyết định số 3754/QĐ-BCT ngày 19 tháng 9 năm 2016.
+
  + 
  + [] 
  None
