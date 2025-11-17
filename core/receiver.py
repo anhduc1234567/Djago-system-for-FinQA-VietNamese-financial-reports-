@@ -13,8 +13,11 @@ from core.call_api_llm import call_api_gemi
 # from pdf_database_creater import keyword_search
 # from graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text
 # from call_api_llm import call_api_gemi
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
-
+DEVICE = os.getenv("DEVICE")
 from sentence_transformers import SentenceTransformer
 import os
 from rank_bm25 import BM25Okapi
@@ -484,7 +487,7 @@ def remove_same_content(similar_doc):
     return candidates
 
 from sentence_transformers import CrossEncoder
-reranker = CrossEncoder("BAAI/bge-reranker-v2-m3")
+reranker = CrossEncoder("BAAI/bge-reranker-v2-m3", device=DEVICE)
 
 def rerank(query, candidates, top_k=5):
     print("Đang re-rank")

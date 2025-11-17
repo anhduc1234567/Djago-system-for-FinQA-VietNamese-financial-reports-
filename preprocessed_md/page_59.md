@@ -1,67 +1,94 @@
-TỔNG CÔNG TY KHÍ VIỆT NAM CÔNG TY CỔ PHẦN                         MÂU S6 B 09a-DN/HN
-THUYET MMINH BÁO CÁO TÀJ CHÍNH HỢP NHẤT GlỮA NIÊN ĐỌ (Tiếp theo)
- 36,     CÔNG NỢ TIỀIv TÀNG
-         Tông Công ty có thê phát sinh chi phí thu dpn, khôi phục và hoàn trả mặt bằng;cÔngtrinh Đưung
-                                                                  ' Tổng Công ty có vắn phòng kỈnh doanh.
-          óng Khi Narn Côn Sơn 1 vá cac khu đẩt tại các tỉnh nơi
-         Tõng Công ty chưa thẻ ưởc tính giá trị và thờì gian chi trả chi phi thu dọn, khôl phục và hoàn trả
-           naymộtcach dang tirl cay nér chua co khoan dự phèng          trà dai hạn nào được ghi nhận vào
-              phai E
-           động  tháng
-           baa cáo tài chính hop nhắt glữa niên độ cho kỳ hoạt               kết thúc ngày 30 tháng 6 năm
-           2025.
- 37.     THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO LƯU CHUYỂN TIỀN
-         TỆ HỢP NHẤT GIỮA NIÊN ĐỘ
-         Thông tin bẩ sung cho cảc khoản phi tiền tệ
-          Tỉền chí mua tàỉ sán cấ định và chi phí xây dựng cơ bán dở dang trong kỳ khâng bao gồm
-          42.387.741.739 VND (cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng      năm 2024:
-          37,.569.308,449 VND), là số tỉền dùng để mua sẳm tài sản cố định và xây dựng co bản dở dang
-          phát sinh trong kỳ mả chura đựợc thanh toán   vậy, môt khoan tíên tươngửngdà đưoc điêu
-          chỉnh trên phần tăng, gỉảm các khoản phải trẩ,
-                                                                  động
-          Tỉên lãỉ vay đẳtrả trong kỳ không bao gềm 21.784.027.795 VND (kỳ hoạt            6 tháng kết thúc
-          ngày 30 tháng 6 năm 2024.54.850.515.268 VND) là sê tiền lãi cúa các khoán vay phát sinh trong
-                                                                                   Phân tăng
-          kỷỳ chưa dươc thanh toản. Vivậy một khcan tỉền tương ửng dã dược diều chỉnh trên
-          giảm các khoản phải trả
-          Tiền thu Iăi cho vay, cổ tức và Iợi nhuận đươc chia trong kỷ không bao gồm 483.550.441.861
-                 VND (kỳ hoat dộng 6 thảng kỂt thúc ngay 30 thang 6 nẽm 2024. 718.742.152.047 VND) , là lãi
-          Elền gửi trong kỳ chưa nhận được. Vì vậy, một khoản tiên rưong ứng đã được điều chỈnh tren
-          phân tăng, giám các khoán
-                                 phailhu
-
-
-                                         Tohg Cong
-                                         VIeT NAM
-                                         CoM;
-                                         CỦ PhAM
-Đặng Thị Hâng Yẽn     Nguyễn Anh Tuẩn     Wguyên Công Luan
-Ngườí lập biểu        Kế toán trưởng      Phỏ Tổng Giám đốc
-                                          Ngày 12 tháng 8 nằm 2025 +
+Công
+taỉ ngày 31 tháng 03 nám 2025 và cho kỷ kế toán kết thủc cùng ngày
+THUYET MINH BÁO CẢO TẢl CHÍNH HỢP NHÁT QUÝ
+29.1.
+LÃll(LỐ) TỪ CÁC TẢI SẢN TÀI CHÍNH
+Lýil(lỗ) bán các tài sản tàỉ chính FVTPL
+ty Cổ phần Chứng khoán SSI
+STT
+LÃl BÁN
+Danh muc cac khoan đẩu tu
+Tong cong
+phiẻu
+phat
+Có phiéu và chứng khoản
+niem yêt (bao gom co
+cno
+Cổ phiéu và chúng khoán
+chua niêm yẻt khác
+Trai phiéu và CCTG
+Lai
+chPng khoán phải sinh
+Chửng quyen do Cóng ty
+chúng quyen)
+hành
+phòng ngừa rúi
+the cúa hợp đỏng
+522 913.600
+737.230.958
+Só luong ban
+122477.272
+13.499.990
+78 '
+340.096
+Đon vi
+NAM 2025 (tỉễp theo)
+30.157.124.811.628
+27,.347,.451.259.166
+2,279,499.710.500
+149.023.326.670
+381,150,515 292
+Tong giá
+VND
+bán
+quyẻn tính đẻn cuối ngảy
+Gỉá vón binh quân gia
+27,295.991.108.302
+29.939.856.828.770
+2.218.771.862.802
+123 425.446.666
+301.668,411,.000
+giao dich
+VND
+khoár Quỷ 1/2025
+260.983.520.858
+60.727.847.698
+25.597,880,004
+51,460.150.864
+43.715 538 00O
+79,482 104 292
+Lãi bản chúng
+VND
+B05-CTCKJHN
+Lãi bán chúng khoan
+164,783,367.742
+366.230.190.237
+97.128.288,237
+15.802.744 0Oo
+78.879.698.793
+9.636.091,465
+Quỷ 1/2024
+VND +
  
-# 36. CÔNG NỢ TIỀM TÀNG
+# Công ty Cổ phần Chứng khoán SSI
 
-Tổng Công ty có thể phát sinh chi phí thu dọn, khôi phục và hoàn trả mặt bằng công trình Đường ống Khí Nam Côn Sơn 1 và các khu đất tại các tỉnh nơi Tổng Công ty có văn phòng kinh doanh. Tổng Công ty chưa thể ước tính giá trị và thời gian chi trả chi phí thu dọn, khôi phục và hoàn trả này một cách đáng tin cậy nên chưa có khoản dự phòng phải trả dài hạn nào được ghi nhận vào báo cáo tài chính hợp nhất giữa niên độ cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025.
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+Tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-# 37. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ
+### 29.1. LÃI (LỖ) TỪ CÁC TÀI SẢN TÀI CHÍNH  
+Lãi (lỗ) bán các tài sản tài chính FVTPL
 
-## Thông tin bổ sung cho các khoản phi tiền tệ
+| STT           | LÃI BÁN                                                                               | Danh mục các khoản đầu tư | Số lượng bán    | Đơn vị | Tổng giá trị bán (VND)<br/>Giá trị | Tổng giá trị bán (VND) | Giá vốn bình quân giá quyền tính đến cuối ngày giao dịch (VND)<br/>Giá vốn | Giá vốn bình quân giá quyền tính đến cuối ngày giao dịch (VND) | Lãi bán chứng khoán Quý 1/2025 (VND)<br/>Lãi bán | Lãi bán chứng khoán Quý 1/2025 (VND) | Lãi bán chứng khoán Quý 1/2024 (VND)<br/>Lãi bán | Lãi bán chứng khoán Quý 1/2024 (VND) |
+| ------------- | ------------------------------------------------------------------------------------- | ------------------------- | --------------- | ------ | ---------------------------------- | ---------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------ | ------------------------------------------------ | ------------------------------------ |
+| 1             | Cổ phiếu và chứng khoán niêm yết (bao gồm cổ phiếu phòng ngừa rủi ro cho chứng quyền) |                           | 78,340,096      |        | 2,279,499,710,500                  |                        | 2,218,771,862,802                                                          |                                                                | 60,727,847,698                                   |                                      | 97,128,288,237                                   |                                      |
+| 2             | Cổ phiếu và chứng khoán chưa niêm yết khác                                            |                           | 13,499,990      |        | 149,023,326,670                    |                        | 123,425,446,666                                                            |                                                                | 25,597,880,004                                   |                                      | 9,636,091,465                                    |                                      |
+| 3             | Trái phiếu và CCTG                                                                    |                           | 122,477,272     |        | 27,347,451,259,166                 |                        | 27,295,991,108,302                                                         |                                                                | 51,460,150,864                                   |                                      | 164,783,367,742                                  |                                      |
+| 4             | Lãi chứng khoán phải sinh chứng quyền do Công ty phát hành                            |                           | 381,150,515,292 |        | 522,913,600                        |                        | 301,668,411,000                                                            |                                                                | 220,983,520,858                                  |                                      | 366,230,190,237                                  |                                      |
+| 5             | Chứng quyền do Công ty phát hành                                                      |                           | ---             |        | ---                                |                        | ---                                                                        |                                                                | ---                                              |                                      | ---                                              |                                      |
+| **Tổng cộng** |                                                                                       |                           |                 |        | **30,157,124,811,628**             |                        | **29,939,856,828,770**                                                     |                                                                | **260,983,520,858**                              |                                      | **366,230,190,237**                              |                                      |
 
-- Tiền chi mua tài sản cố định và chi phí xây dựng cơ bản dở dang trong kỳ không bao gồm 42.387.741.739 VND (cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024: 37.569.308.449 VND), là số tiền dùng để mua sắm tài sản cố định và xây dựng cơ bản dở dang phát sinh trong kỳ mà chưa được thanh toán. Vì vậy, một khoản tiền tương ứng đã được điều chỉnh trên phần tăng, giảm các khoản phải trả.
 
-- Tiền lãi vay đã trả trong kỳ không bao gồm 21.784.027.795 VND (kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024: 54.850.515.268 VND) là số tiền lãi của các khoản vay phát sinh trong kỳ chưa được thanh toán. Vì vậy, một khoản tiền tương ứng đã được điều chỉnh trên phần tăng, giảm các khoản phải trả.
-
-- Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia trong kỳ không bao gồm 483.550.441.861 VND (kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024: 718.742.152.047 VND), là lãi tiền gửi trong kỳ chưa nhận được. Vì vậy, một khoản tiền tương ứng đã được điều chỉnh trên phần tăng, giảm các khoản phải thu.
-
-----
-
-| Đặng Thị Hồng Yến | Nguyễn Anh Tuấn | Nguyễn Công Luận |
-|-------------------|-----------------|------------------|
-| Người lập biểu    | Kế toán trưởng  | Phó Tổng Giám đốc |
-
-*Ngày 12 tháng 8 năm 2025*
-
-Con dấu Tổng Công Ty Khí Việt Nam Công Ty Cổ Phần  
+B05-CTCKJHN
  + 
  + [] 
  None

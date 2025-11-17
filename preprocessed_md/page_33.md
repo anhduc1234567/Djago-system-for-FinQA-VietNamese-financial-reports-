@@ -1,95 +1,91 @@
-TỐNG CÔNG TY KHÍ VIÊT NAM - CỖNG TY cẩ PHẦN                        MẪU SỐ B 09a-DN/HN
-THUYẼT MINH BÁO CÁO TẦl CHÍNH HỢP NHẤT GlỮA NIÊN ĐỘ (Tiếp theo)
-
-10.  HANG TÒN KHO
-                                                     Sô cudi kỳ                                 58 đau kỳ
-                                      Giá gôc        Du phòng      Gia goC                      Dự phòng
-                                          VND        VND           VND                          VND
-     Hàng mua dang di          45,731.523.249                      1210 323.529.576
-     dương                    1.139.292.425.619 (132.184.134.078) 1.033.551621.705 (133.055.767,522)
-     Nguyên lỉệu, vật liệu                                         43.704.504,.951
-     Công cụ, dung cu              48.372,477.201                  27.705.782,423
-      Chi phí sản xuả: , kinh     125.821.840.240
-      doanh dù dang               173.735,546.862                  192.304.492.344
-      Thành phâm                 1729.8/3.006.458                  2.132.714.834,357
-     Hàng hoả
-      Hang g41 ban                  ~91Ja2/1b0
-                              3.357.742.646.765 (132.184.134.078) 4.732.006,717.115 (133.,055.767.522)
-
-11.   CHI PHf TRẢ TRƯỚC
-                                                         Sấ cuôi kỳ                             Số dáu kỷ
-                                                                VND                             VND
-
-         Ngắn hạn                                                  71.259.764.917            46.023.323.039
-      Chi phi quẳng cáo và truyền thông                                25.992.762.028        14.304.319.789
-      Chl phf mua báo hier                                              8.976.256,604        10.299.755.,464
-      Chi phí trá trươc ngắn hạn khác                                  36.290.746.285        21,419.247,786
-        b. Dài hạn                                                  3.386.521.349.063        3.630.161.349.445
-       Chi phí mua khi bao tlẽu (*)                                  1991.862.899,598        2.259.101 296.936
-       Trong đc:                                                        1.573.597.060.888    1.573 597.060,888
-         Chi phí muo khí bao tiêu Lô 05 1b và 05-Ic năm 2021          236,225,757 581          503.464.154.919
-          Chi phí muo khí bao tỉêu L6 05-1b và O5-c nằm 2023              182,040.081.129          040.051.129
-         Chi phí muo khí bao tiêu Ló 05-1b và 05-Ic nam 2024              509,006.571.345    152
-       Chi ohl vo binh gas                                                297,920.815.272      537.554.169,861
-       Chi phỉ thuê đất và thuê vẵn phàng                                  111248.222.099      290,922.515.708
-        Chi phi bảo dưỡng sỬa chua                                                             127.359,144.254
-        Chi phl bảo hiém                                                  158.320.140,472       65.887.613.158
-        Chi phi côrg cụ, dụng cu                                   64.717.825.266               43.239.909.240
-        Chi phí trả trước dài han khảc                                    253,444.875.011      306.096.700.288
-                                                                3.457.781.113.980            3.676.184.672.484
-        Phản ánh chi phí mua khí theo hợp đồng bao tiêu được xác định dựa trên phần chênh lệch giữa
-         chi phí mua khí theo bao tiêu và chi phí mua khí thực tể dưới mức bão tiẻu của Tẩng Công ty
-         vởi PVN. Tổng Công ty co quyền nhận từ PVN mệt IượnE khi tương dương lượng khí trẳ trước
-         này trong thừi hạn như sau:
-         Chi phí mua khí bao tiêu năm 2021: Tổng Công ty được nhận trong suốt thờỉ hạn hợp dồng;
-          Chi phí mua khí bao tiêu nắm 2023 và 2024; Tổng Công ty phảí thực hiện trong vòng 5 năm
-          hạp đồng từ thờỉ điểm phát sinh khoản chênh Iệch.
-        Ban Tổng Giam đổc đánh giá khả năne          hiện cúa khoàn chi phí trả trước dàí han này là cao
-                                                     thvc +
+Công ty Cổ phần Chứng khoán SSI                                                 805-CTCKHN
+ THUYÉT MINH BÁO CÁO TẢI CHÍNH HỢP NHAT QUÝ       NAM 2025 (tiêp theo)
+ tai ngảy 31 tháng 03 nam 2025 và cho kỷ ké toán kết thúc cùng ngảy
+ 4.15       Bất động sản đẳu tư
+            Bất động sàn đầu tư được thẻ hiên theo nguyên giá bao gồm cả các chi phí giao dịch liên
+            quan trử đi giá tri hao mòn lũy ke
+            Các khoản chi phỉ liên quan đén bất động sản đầu tư phát sinh sau ghi nhận ban đầu được
+            hach toán giá trị còn Iai cùa bât động sàn đâu tư khỉ Công ty có khà nắng thu đuợc cac Iợi
+            ích kinh té trong tuong lai nhièu hơn mức hoatđongđược đánh giá ban dau cua bat động
+            sàn đau tư đó
+            Khấu hao và khấu trừ bát động sản đầu tư được trích theo phuơng pháp kháuhao đường
+            thang trong suót thởỉ gian hữu dung ước tinh của cac bat động sản Thởi gian khau hao là
+            27,5 nfm.
+ 4.16       Thuê tài sản
+            Việc xác định một thỏa thuân có phải lả thỏa thuan thue tài sản hay không dựa trên bản chát
+           cùa thỏa thuân đó vào thởi đỉẻm khởi đầu: lỉệu vỉéc thuc hiện thỏa thuân này có phụ thuộc
+           vào việc s6 dung một tà sản nhát định và thỏa thuan có bao gôm điéu khoản vêquyen
+           dung tai sản hay không
+           Các khoản tièn thuê theo hợpdongthuê hoat động được hach toán vào báo cáo kết quả hoat
+           đóng theo phuơng pháp đưởng tháng dua theo thởi han cua hợp đông thuê
+4.17        Chi phi trà truởc
+           Chi phf trả trước bao góm cảc chi phi trà trưởc ngán han hoặc chi phí trá trước dài han tren
+           báo cáo tInh hinh tài chinh và được phân bố trong khoàng thời gian trả trước của chi phl
+           tuong ứng vớỉ cảc lvi ích kinh tế được tao ra từ các chi phí này -
+           Các loai chi phí sau đây được hach toán vào chi phí trà trước dài hạn đế phân bổ dần từ một
+          (1) đên ba (3) nm vào báo cáo ketquảhoatdông:
+             Chi phi cải tao vằn phỏng;
+             Chi phí thuê văn phỏng;
+             Chi phi vật dung văn phòng
+             Chi phl gia han dich vu, bào trl, bảo hanh các phan mem
+4.18      Các hợpdongmua lại
+          Những tài sản được bản đổng thời cam kết s5 mua lại vào một thờỉ điẻm nhát định trong
+          tuong  (các hợp đồng mua lại) không được ghi giảm trên báo cao tinh hinh tải chinh Khoản
+         tien nhan được theo các hợp đồng mua lai này dược ghi nhận là khoản nợ phải trả trên báo
+          cáo tinh hinh tài chinh. Phản chenh lech giữa giả bán và giá cam kết mua lai trong tương lai
+         được xem như là chi phi If và dược phân bô theo phương pháp dường thâng vào báo cáo
+         kết quả hoatđộnghợp nhẩt trong suôt thởi gian hiệu lực cua hợp dồngmua lai.
+4.19     Các khoản vay
+         Các khoản vay của Cóng ty được công bó vả trinh bày theo só dư gốc tai thởi điém kết thúc
+         kỷ kế toán
+4.20     Các khoản phải trả và chi phi trich trước
+                         trả và chỉ phí trich trước được ghi nhán cho s6 tỉẻn  trả trong tương lai
+                   phải :                                                      phảỉ 5
+         Cac khoan                       hàng
+         lien quan den lai trái phieu         hóa và djch vu đa nhan đưoc khóng phu thuoc vào việc
+         Công ty da nhan được hóa đon của nhacung cap hay chua +
  
-# 10. HÀNG TỒN KHO
+# Công ty Cổ phần Chứng khoán SSI
 
-|                                      | Số cuối kỳ<br/>Giá gốcVND | Số cuối kỳ<br/>Dự phòngVND | Số đầu kỳ<br/>Giá gốcVND | Số đầu kỳ<br/>Dự phòngVND |
-| ------------------------------------ | ------------------------- | -------------------------- | ------------------------ | ------------------------- |
-| Hàng mua đang đi đường               | 45.731.523.249            |                            | 1.210.323.529.576        |                           |
-| Nguyên liệu, vật liệu                | 1.139.292.425.619         | (132.184.134.078)          | 1.033.551.621.705        | (133.055.767.522)         |
-| Công cụ, dụng cụ                     | 48.372.477.201            |                            | 43.704.504.951           |                           |
-| Chi phí sản xuất, kinh doanh dở dang | 125.821.840.240           |                            | 27.705.782.423           |                           |
-| Thành phẩm                           | 173.735.546.862           |                            | 192.304.492.344          |                           |
-| Hàng hóa                             | 1.729.873.006.458         |                            | 2.132.714.834.357        |                           |
-| Hàng gửi bán                         | 94.915.827.136            |                            | 91.701.951.759           |                           |
-| **Tổng cộng**                        | **3.357.742.646.765**     | **(132.184.134.078)**      | **4.732.006.717.115**    | **(133.055.767.522)**     |
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
+### 4.15 Bất động sản đầu tư
 
-# 11. CHI PHÍ TRẢ TRƯỚC
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kế.
 
-|                                                       | Số cuối kỳVND         | Số đầu kỳVND          |
-| ----------------------------------------------------- | --------------------- | --------------------- |
-| **a. Ngắn hạn**                                       | 71.259.764.917        | 46.023.323.039        |
-| Chi phí quảng cáo và truyền thông                     | 25.992.762.028        | 14.304.319.789        |
-| Chi phí mua bảo hiểm                                  | 8.976.256.604         | 10.299.755.464        |
-| Chi phí trả trước ngắn hạn khác                       | 36.290.746.285        | 21.419.247.786        |
-| **b. Dài hạn**                                        | 3.386.521.349.063     | 3.630.161.349.445     |
-| Chi phí mua khí bao tiêu (\*)                         | 1.991.862.899.598     | 2.259.101.296.936     |
-| *Trong đó:*                                           |                       |                       |
-| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2021 | 1.573.597.060.888     | 1.573.597.060.888     |
-| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2023 | 236.225.757.581       | 503.464.154.919       |
-| - Chi phí mua khí bao tiêu Lô 05-1b và 05-1c năm 2024 | 182.040.081.129       | 182.040.081.129       |
-| Chi phí vỏ bình gas                                   | 509.006.571.345       | 537.554.169.861       |
-| Chi phí thuê đất và thuê văn phòng                    | 297.920.815.272       | 290.922.515.708       |
-| Chi phí bảo dưỡng sửa chữa                            | 111.248.222.099       | 127.359.144.254       |
-| Chi phí bảo hiểm                                      | 158.320.140.472       | 65.887.613.158        |
-| Chi phí công cụ, dụng cụ                              | 64.717.825.266        | 43.239.909.240        |
-| Chi phí trả trước dài hạn khác                        | 253.444.875.011       | 306.096.700.288       |
-| **Tổng cộng**                                         | **3.457.781.113.980** | **3.676.184.672.484** |
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán giá trị còn lại của bất động sản đầu tư khi Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
 
+Khấu hao và khấu trừ bất động sản đầu tư được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản. Thời gian khấu hao là 27,5 năm.
 
-> (*) Phản ánh chi phí mua khí theo hợp đồng bao tiêu được xác định dựa trên phần chênh lệch giữa chi phí mua khí theo bao tiêu và chi phí mua khí thực tế dưới mức bao tiêu của Tổng Công ty với PVN. Tổng Công ty có quyền nhận từ PVN một lượng khí tương đương lượng khí trả trước này trong thời hạn như sau:
-> 
-> * Chi phí mua khí bao tiêu năm 2021: Tổng Công ty được nhận trong suốt thời hạn hợp đồng;
-> * Chi phí mua khí bao tiêu năm 2023 và 2024: Tổng Công ty phải thực hiện trong vòng 5 năm hợp đồng từ thời điểm phát sinh khoản chênh lệch.
-> 
-> Ban Tổng Giám đốc đánh giá khả năng thực hiện của khoản chi phí trả trước dài hạn này là cao.
+### 4.16 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó vào thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động theo phương pháp đường thẳng dựa theo thời hạn của hợp đồng thuê.
+
+### 4.17 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên báo cáo tình hình tài chính và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dần từ một (1) đến ba (3) năm vào báo cáo kết quả hoạt động:
+
+* Chi phí cải tạo văn phòng;
+* Chi phí thuê văn phòng;
+* Chi phí vật dụng văn phòng; và
+* Chi phí gia hạn dịch vụ, bảo trì, bảo hành các phần mềm.
+
+### 4.18 Các hợp đồng mua lại
+
+Những tài sản được bán đồng thời cam kết sẽ mua lại vào một thời điểm nhất định trong tương lai (các hợp đồng mua lại) không được ghi giảm trên báo cáo tình hình tài chính. Khoản tiền nhận được theo các hợp đồng mua lại này được ghi nhận là khoản nợ phải trả trên báo cáo tình hình tài chính. Phần chênh lệch giữa giá bán và giá cam kết mua lại trong tương lai được xem như là chi phí lãi và được phân bổ theo phương pháp đường thẳng vào báo cáo kết quả hoạt động hợp nhất trong suốt thời gian hiệu lực của hợp đồng mua lại.
+
+### 4.19 Các khoản vay
+
+Các khoản vay của Công ty được công bố và trình bày theo số dư gốc tại thời điểm kết thúc kỳ kế toán.
+
+### 4.20 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến lãi trái phiếu, hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
  + 
  + [] 
  None

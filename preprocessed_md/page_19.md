@@ -1,77 +1,165 @@
-TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY cỔ PHẦN                           MẪU SỐ B 09a-DN/HN
-THUYẼT MMINH BÁO CÁO TÀl CHÍNH HỢP NHẤT GlỮA NIÊN ĐỘ (Tiếp theo)
-Dự phỏrg tổn thất đầu tư nấm gìữ đến ngày đáo hạn đươc trỉch lâp theo các quy định kế taán
-hlện hanh
-Đâu tư vùo công cụ vổn cúa đơn v; khác
-Đầu tư vàc công cu vốn của đơr vị khác         ánh các khoản đầu tư còng cu vẩn nhưng Tổng
-                                          phản
- Còng ty không có quyền kiểm soát,đồngkiểm soát hoặc có ảnh hưởng đáng kể dổ] vởi bên
- được jẩu tu .
-Các khoản đâu tư vào công CU vổn cúa đơn vị khác được trinh bày trong Báng can dối kể toán
-hợp nhât      niện dậ theo nguyên giá trừ đi cảc khodn dự phỏng gỉảm gỈá đầu tư. Dự phòrg
-          Eiữa
- giảm giá cúa càc khoan dầu tư đuơc thực hiện khi có bằng chửng chẳc chẳn cho thấy có sự suy
- giàm giá trị của các khoản dâu tư này tal ngày kết thúc kỳ hoat độnB.
- HợP đồng hợp tác kinh doanh ("BCC"}
- BCC là thỏa thuận gila Tổng Công ty và các đũỉ tác bắng hợp đông đế cùrg thực hiên hoạt dộng
- kinh tế nhưrg không hình thành phảp nhân dộc lập. Hoat dỏng này đươc đồng kIểm soát hởi
- các bẻn theo thóa thuận của BCC hoặc kiẻm soát bởí một trong sẩ các bẻn. BCC có thể được
- thực hiện dưỞi hình thức tài sản đồng kiêm soát hoặc chia lợi nhuận sau thuế ("LNST") Cac bển
-  tham gi2 trong BCC thỏa thuận chia doanh thu, chia sản phẩm hoặc chia Iqi nhuận sau thuế
-  Đôi  BCC theo hỉnh thửc tài sản dồng kíểm sodt
-    với
- Tài sản đồng kiểm soát bởi các bên tham gia BCC là tài sản đưọc cac bên mua hoặc xây dựng;
-  được sử dụng cho muc đich của BCC và mang lai lợi ích cho cac bên tham gia BCCtheo quy đjnh
-  cúa BCC TongCông ty ghi nhận phần gia trị tài sản cồng kiểm soát đươc hưởng là tài sản trên
-                                             ẩỒng                     hoặc doanh thu từ viỆc
-  tao cáo tài chính hợp nnất glữa niên độ                         phẩm
-                                               thừí Bhi nhận sẳn
-  sử dụng và khai thác tài sán đông kiểm soảt và chju một phần chi phi phảt sỉnh theo thỏa thuận
-  trong hợp đòng
-
-  BCC chia LNST Ia BCC dướỉ hinh thức hoạt động đầng kỈểm soát. BCC quy định các bên tham gia
-  BCC dược phẩn chia lợỉ nhuận nếu kết      hoạt động của BCC có lãi, và phái gảnh chju lẵ. Tổng
-                quả
-  Cêng ty ghi nhận toàn bộ doanh ihu và chi phí liên quan tển BCC, sau dó phân chia doanh thu
-   và chi phí trong kỷ theo tỷ lệ thỏa thuận cho cảc bên tham gia.
-    phải
-  Nợ      thu
-          thu là số tỉền co thể thu hồí của khách hàng hoặc các ẩõi tượng khác. Nợ phảí thu được
-    phái
-    No
-   trinn bày th2o giá tri Ehi sổ trừ đi các khoán dự phòng phải thu khó đòi.
-      Dự phòng phải thu khó đài được trich lập cho những khoản nợ phảí thu da quá hạn thanh toán
-      I thang trở lên trên cc sở đánh giá khả nắng thu hồi các khoản nợ phải thu, hoặc các khoản
-    tu sau
-    phải thu mà ngườl nợ khó có khả năng thanh toán do bị thanh lý, phả sảnhaycác khó khặn
-    nc
-    tuong tự. +
+ChỈ TIEU
+11 Co pheu Phó
+1 2 Tháng du vón
+13 Có phiẻu quy
+5 ? Loi nhuan
+TONG CONG
+cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
+Công
+BÁO CÁO TỈNH HINH BIẾN ĐONG VỐN CHỦ SỞ HỮU HỢP NHẨT QUÝ
+HUU
+Von dau
+chù sở hữu
+cÓ phán
+Quỹ du trữ bó
+sung vón dieu
+Chénh lech
+danh giá lai tải
+hợp
+Chênh lech lỳ
+giá hôi doái
+Loi nhuan
+chua phan
+phól
+Lo' nhvan d
+thuc hien
+Lợi ich co đóng
+thong
+khong
+cnuaiuc
+BIEN ĐỌNG
+VON CHU S@
+Iheo già Iri
+kiem
+ty Cổ phần Chứng khoán SSI
+hen
+cúa
+Thuyer]
+28.2
+28 1
+28,1
+Munin
+18.291.394,836 235
+15011.301.370 00o
+23,240.892.110.813
+3,299 208 472.644
+Ngay 01/01/2024
+(68 711.431.030)
+696.261.511,253
+764.972942.283
+140.533.221.129
+(3.793.033.106}
+61,252.419.507
+55 243.155.795
+3115
+VND
+006 409)
+58 dẳu nám
+20.713.065.094.108
+26.826,650.611.768
+19,638.639.180.000
+Ngay 01/012025
+6,025
+1.093 540 920.517
+(169,088 533.253)
+(19 115,006 409)
+856.098.315.938
+150.619,133,.436
+31.690.477,740
+72.177,590 546
+'O00.0oo.0oo
+VND
+86 849.191
+839.993.316,458
+769.660.975.612
+856.760.954.846
+70 332.340.846
+856.781.886
+861.905.388
+VNND
+48.951.114
+Tang
+Kytnoc
+NÁM 2025
+(76.748.430.711)
+(75741.986.266)
+(76.748,430.711)
+(1.006.444.445)
+VND
+S0 targ glarn
+Giám
+1.022.527.488.352
+990 130,468,833
+277.248 351 388
+712.882 107, 445
+30,386 032.152
+2.010.987.367
+VIvD
+nav
+(145.823.735,146)
+(144.718.628.840)
+(145.824.995.685)
+(1.105.106.306)
+VND
+260.539)
+Giárn
+18.291.394.836.235
+15011 301.370,.000
+24.020.904.634.948
+Ngay 31/32024
+3.299 208.472.644
+5 533 627 473 450
+(15.115.006 409)
+459,506,397,.00o
+(74 121,076 450)
+140.582.172 243
+61.252,419,507
+63.105.061.183
+5 063,748,780
+VnD
+S8 cuói kỷ
+BO4-CTCKIHN
+20.713.065.024-108
+19,.638.639180 000
+27.703.353.104,435
+Ngây 31/032025
+093 540.920 517
+(19115006,.409)
+700,405.049.625
+736 963 850 330
+(35 558 Boo 705)
+150.617.872.897
+62,.076,509 892
+74.188.577.913
+VnD
+0oo Ooo.00o +
  
-# Dự phòng tổn thất đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành.
+# Công ty Cổ phần Chứng khoán SSI
 
-## Đầu tư vào công cụ vốn của đơn vị khác
+## BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU HỢP NHẤT QUÝ 1 NĂM 2025  
+cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
 
-Đầu tư vào công cụ vốn của đơn vị khác phản ánh các khoản đầu tư công cụ vốn nhưng Tổng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.
+| Chỉ tiêu                                               | Thuyết minh<br/>A | Thuyết minh<br/>B | Số đầu năm<br/>Ngày 01/01/2024 | Số đầu năm<br/>VND | Số tăng/giảm<br/>Ngày 01/01/2025 | Số tăng/giảm<br/>VND | Số cuối kỳ<br/>Ngày 31/03/2024 | Số cuối kỳ<br/>VND | Ngày 31/03/2025 | VND |
+| ------------------------------------------------------ | ----------------- | ----------------- | ------------------------------ | ------------------ | -------------------------------- | -------------------- | ------------------------------ | ------------------ | --------------- | --- |
+| 1. Vốn đầu tư của chủ sở hữu                           | 28.2              |                   | 18.291.394.836.235             | 18.291.394.836.235 |                                  |                      | 18.291.394.836.235             | 18.291.394.836.235 |                 |     |
+| 1.1 Chủ sở hữu                                         | 28.1              |                   | 15.011.301.370.000             | 15.011.301.370.000 |                                  |                      | 15.011.301.370.000             | 15.011.301.370.000 |                 |     |
+| 1.2 Quỹ dự trữ bổ sung vốn điều lệ                     |                   |                   | 3.299.208.472.644              | 3.299.208.472.644  |                                  |                      | 3.299.208.472.644              | 3.299.208.472.644  |                 |     |
+| 1.3 Quỹ khác                                           |                   |                   | (19.115.006.409)               | (19.115.006.409)   |                                  |                      | (19.115.006.409)               | (19.115.006.409)   |                 |     |
+| 2. Lợi nhuận chưa phân phối                            | 28.1              |                   | 6.962.615.511.253              | 6.025.186.849.191  | (937.428.662.062)                |                      | 5.533.627.473.450              | 6.700.405.049.625  |                 |     |
+| 3. Chênh lệch đánh giá lại tài sản theo giá thị trường |                   |                   | 61.252.419.507                 | 61.252.419.507     |                                  |                      | 61.252.419.507                 | 62.076.509.892     |                 |     |
+| 4. Chênh lệch tỷ giá hối đoái                          |                   |                   | (3.793.033.106)                |                    |                                  |                      |                                |                    |                 |     |
+| 5. Lợi ích cổ đông không kiểm soát                     |                   |                   | 140.533.221.129                | 150.619.133.436    | 10.085.912.307                   |                      | 150.617.872.897                | 150.617.872.897    |                 |     |
+| 6. Tổng cộng                                           |                   |                   | 23.240.892.110.813             | 26.826.650.611.768 | 3.585.758.500.955                |                      | 27.703.353.104.435             | 27.703.353.104.435 |                 |     |
 
-Các khoản đầu tư vào công cụ vốn của đơn vị khác được trình bày trong Bảng cân đối kế toán hợp nhất giữa niên độ theo nguyên giá trừ đi các khoản dự phòng giảm giá đầu tư. Dự phòng giảm giá của các khoản đầu tư được thực hiện khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này tại ngày kết thúc kỳ hoạt động.
 
-## Hợp đồng hợp tác kinh doanh ("BCC")
+----
 
-BCC là thỏa thuận giữa Tổng Công ty và các đối tác bằng hợp đồng để cùng thực hiện hoạt động kinh tế nhưng không hình thành pháp nhân độc lập. Hoạt động này được đồng kiểm soát bởi các bên theo thỏa thuận của BCC hoặc kiểm soát bởi một trong số các bên. BCC có thể được thực hiện dưới hình thức tài sản đồng kiểm soát hoặc chia lợi nhuận sau thuế ("LNST"). Các bên tham gia trong BCC thỏa thuận chia doanh thu, chia sản phẩm hoặc chia lợi nhuận sau thuế.
+### Ghi chú:
 
-### Đối với BCC theo hình thức tài sản đồng kiểm soát
+- Các số liệu được trình bày bằng đơn vị VND (đồng Việt Nam).
+- Số liệu thể hiện biến động vốn chủ sở hữu trong kỳ kế toán từ ngày 01/01/2024 đến ngày 31/03/2025.
+- Các khoản mục bao gồm vốn đầu tư của chủ sở hữu, lợi nhuận chưa phân phối, chênh lệch đánh giá lại tài sản, chênh lệch tỷ giá hối đoái, lợi ích cổ đông không kiểm soát và tổng cộng.
 
-Tài sản đồng kiểm soát bởi các bên tham gia BCC là tài sản được các bên mua hoặc xây dựng, được sử dụng cho mục đích của BCC và mang lại lợi ích cho các bên tham gia BCC theo quy định của BCC. Tổng Công ty ghi nhận phần giá trị tài sản đồng kiểm soát được hưởng là tài sản trên báo cáo tài chính hợp nhất giữa niên độ, đồng thời ghi nhận sản phẩm hoặc doanh thu từ việc sử dụng và khai thác tài sản đồng kiểm soát và chịu một phần chi phí phát sinh theo thỏa thuận trong hợp đồng.
-
-### Đối với BCC chia LNST
-
-BCC chia LNST là BCC dưới hình thức hoạt động đồng kiểm soát. BCC quy định các bên tham gia BCC được phân chia lợi nhuận nếu kết quả hoạt động của BCC có lãi, và phải gánh chịu lỗ. Tổng Công ty ghi nhận toàn bộ doanh thu và chi phí liên quan đến BCC, sau đó phân chia doanh thu và chi phí trong kỳ theo tỷ lệ thỏa thuận cho các bên tham gia.
-
-## Nợ phải thu
-
-Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.
-
-Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sáu tháng trở lên trên cơ sở đánh giá khả năng thu hồi các khoản nợ phải thu, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
  + 
  + [] 
  None

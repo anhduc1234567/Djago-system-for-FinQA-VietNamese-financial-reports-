@@ -186,12 +186,14 @@ def parse_requery_output(llm_output: str):
 #             """
 def respond_user_none_graph(user_question = '', temp_path = ''):
     prompt_requery = f"""
-                Hãy tưởng tượng bạn là một trợ lý tài chính chuyên phân tích đọc hiểu BÁO CÁO TÀI CHÍNH. Giả sử người dùng đưa ra câu hỏi. Hãy suy nghĩ xem 
-                bạn cần tìm những thông tin gì trong báo cáo tài chính để có thể trả lời phân tích suy luận diễn giải cho người dùng đầy đủ nhất, chi tiết nhất.
-                - Nếu câu hỏi của người dùng là 1 thông tin trực tiếp không cần tính toán mà có thể tìm kiếm thẳng ở trong bao báo luôn thì hãy viết lại thành đúng cụm từ trong
-                văn phong báo cáo tài chính trả về dạng chuỗi đơn.
+                Bạn đóng vai tr là một trợ lý tài chính chuyên phân tích đọc hiểu BÁO CÁO TÀI CHÍNH. 
+                Nhiệm vụ của bạn lần này là dựa vào câu hỏi của người dùng. Hãy suy nghĩ xem 
+                bạn cần tìm những thông tin gì trong báo cáo tài chính để có thể trả lời phân tích suy luận diễn giải cho người dùng đầy đủ nhất, chi tiết nhất và tìm ra những keyword để 
+                tìm thông tin đó trong cơ sở dữ liệu vector chứa các chunks của báo cáo tài chính. Mục tiêu là sử dụng keyword để tìm ra các chunks chứa thông tin đó. 
+                - Nếu câu hỏi của người dùng là 1 thông tin trực tiếp không cần tính toán mà có thể tìm kiếm thẳng ở trong bao báo luôn thì hãy viết lại thành các cụm từ theo
+                văn phong được dùng báo cáo tài chính trả về dạng chuỗi đơn.
                 - Lưu ý các thông tin phải là thông tin có trực tiếp trong báo cáo tài chính. Với những thông tin KHÔNG CÓ SẴN cần tính toán như các chỉ số, tỷ lệ, hệ số, khả năng thanh khoản... KHÔNG ĐƯA TRỰC TIẾP 
-                cần đưa các số liệu cần thiết để tính thay vì tính trực tiếp. Số liệu đó phải được tìm thấy trong các bảng báo cáo của báo cáo tài chính ví dụ như:
+                cần đưa các thông tin số liệu cần thiết để tính thay vì tính trực tiếp. Thông tin đó Số liệu đó phải được tìm thấy trong các bảng báo cáo của báo cáo tài chính ví dụ như:
                     - ROE → Lợi nhuận sau thuế, Vốn chủ sở hữu
                     - ROA → Lợi nhuận sau thuế, Tổng tài sản
                     - EPS → Lợi nhuận sau thuế, Số lượng cổ phiếu lưu hành
@@ -200,10 +202,10 @@ def respond_user_none_graph(user_question = '', temp_path = ''):
                         keyword1, keyword2, ...
                 - Hãy chỉ đưa ra câu trả lời trực tiếp và KHÔNG cần giải thích thêm, KHÔNG cần câu mở đầu.
                 - Hãy bỏ qua thông tin liên quan đến thời gian.
-                - Lưu ý các ngành nghề, lĩnh vực khác, các thông tin sẽ có những cách gọi tên khác nhau, hãy đưa ra hết các tên gọi có thể có.
-                - Mục định để phục vụ tìm kiếm trong cơ sở dữ liệu vector.
-                - Lưu ý trả về tối đa 10 mục hãy ưu tiên để lấy được nhiều thông tin nhất.
-                có thể được thay thế nhất trành trùng lặp quá nhiều không cần thiết.
+                - Lưu ý các ngành nghề, lĩnh vực khác, các thông tin sẽ có những cách gọi tên khác nhau, hãy đưa ra hết các tên gọi có thể có. ví dụ:
+                    - “Doanh thu thuần” có thể là “Thu nhập lãi thuần” (ngân hàng)
+                    - “Chi phí bán hàng” có thể là “Chi phí hoạt động” (tổ chức tài chính)
+    
                 Câu hỏi của người dùng: {user_question}
             """
     query_rewriting = call_api_gemi(prompt_requery)

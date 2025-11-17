@@ -11,7 +11,11 @@ from core.call_api_llm import call_api_gemi
 # from graph_db import add_new_report
 # from call_api_llm import call_api_gemi
  #https://aistudio.google.com/apikey truy cập để lấy API
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
+DEVICE = os.getenv("DEVICE")
 names = [
     "BÁO CÁO CỦA BAN GIÁM ĐỐC",
     "BÁO CÁO SOÁT XÉT",
@@ -123,7 +127,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder",device='cuda')
+model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder",device=DEVICE)
 def remove_accents(text):
     text = unicodedata.normalize('NFD', text)
     return ''.join(c for c in text if unicodedata.category(c) != 'Mn')

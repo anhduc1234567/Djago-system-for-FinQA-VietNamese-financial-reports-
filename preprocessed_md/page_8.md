@@ -1,120 +1,60 @@
-  TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN    MẪU SỐ B Ola-DN/HN
-  Tòa nhà PV GAS Tower, sỗ 673 dương Nguyễn Hữu Iho Ban hành theo Thông tư 56 202/7014/TT-BTC
-  xã Nhà Bè, Thanh  Hò Chi Mính, Việt Nam           ngảỵ 22 thang 12 nám 2014 của Bộ Faichinh
-{    Phõ            BẢNG cÂN ĐỐl KỂ TOÁN HỢP NHẤT GIỮA NIÊN Độ
-                    Tại ngùy 30 thởng 6 nằm 2025              Đơn vị: VND
+Côngty Cổ phần Chứng khoán SSI                                          BO1-CTCKHN
+BÁO CẢO TINH HINH TÀI CHÍNH HƠP NHÁT QUÝ        NĂM 2025 (tỉếp theo)
+ ngày 31 tháng 03 nám 2025
+
+CÁC CHỈ TIÊU NGOẢI BÁO CÁO TỈNH HỈNH TẢl CHÍNH HỢP NHAT
+                                                (tieptheo)
+
+        CHỈ TIÊU                                Thuyét    S8 cuói kỳ        Só đẩu nám
+                                                minh             VND               VND
+
+         TAI SÁN VA CAC KHOAN PHÁI TRA VE
+         TẢl SẢN QUẢN LÝ CAM KÉT VỚl KHÁCH
+         HANG (tiép theo}
+
+ 032    Phải trả Tó chửc pháthanhchửng khoán          29,513,877.00O    122,465.0OO
+        Phải trả có tức gổc và l<i trẩi                                 11.174.732 134
+ 035                      Phiéu                       21,214.180.634
 
 
-     TÀl 5ẢN                                                 Mã sẩThuyết             5ố cuối kỲ                  5ô dau kỳ
-                                                                          minh
-     TÀl SẢN NGẮN HẠN                                        oo                    64.857,286.428.940            57,290,495.430.038
-     Tíền va các khoản tương dương tiên                      110                   10.377.145.910.363            5.567.983.431.468
-              Tlêr                                           111                    2,211,370.545.474            1248.083.431.468
-{             Các khoan tưdng dươngtiền                      112                    8 165.775.364.889            4.319.902.0uo.0OO
-              Đầu tư tài chính ngẳr hạn                      120                   30.730.802.707.604            27.494.031.282.702
-               Đầu Lu nắm giữ đển ngay đảo han               123                   30.730.802 707.604            27.494.031.282,702
-{              Caác khoản phảl thu ngắn hạn                  130                   19.777.698.700.821            19.098,417.078,475
-              Phải thu ngẳn hẹn của khách hàng               131                   15,170.197.845.985            16.744.655.874,477
-               Trả trươc cho người ban ngán hạn              132                      205.787.039.963            375.639,323.,197
-               Phải thu ngắn hạn khác                        136                    5.543.603.795.122            4.746.916.152.558
-               Dự phàng phải thu ngan hạn khó dòl            137                    (1.141.889.980.249|          (2.768.794 271.757)
-               Hàng tồn kho                                  140          10        3.225.558.512.687            4.598.950.949.593
-               Hàng :ỗn kho                                   11                        3.357.742.646.765        4.732.006,717.115
-               Dự phòng giẩm giá hàng tôn kho                149                    (132.184 134,078)            (133,055.76/.522)
-               Tài sản ngẳn hạn khác                         150                    746.080.597,465              531.112.687.800
-               Chi phÍ trả trước ngắn hạn                    151                          71.259.764,.917        46.023.323.039
-               Thuế giá trị gia tăng ẩuợc khấu               152                    634.838,225,512              447.768.536.836
-                                               trù                                   39.982.607.036              37.320.827,925
-                                          phai thu           153
-                Thuế và các khoản khác
-                Nha nước                                                            23.776.852.681.762           24.564.385.978.120
-               TÀl SẢN DÀI HẠN                               200                    705.386.247,.544                 531.249.275,544
-                Các khoản phảl thu dàl hạn                     210                             57,885.027.689    70.495.232.935
-                Tra truức cho người bản dằi hạn                212                  647.501.219.855              460.754.042.609
-                Phải thu dâi han khac                              216              17.089.849.325.838
-                Tèi sản cô dịnh                                    220                     16.733,436,960.506     18,221.636.601.588
-                 Tài sán có dinh hữv hinh                      221            12                                  17.852.624.248.6/5
-                  Nguyên gỉá                                       222                     65.095.275.125.319     64.803.330.016.602
-                  Giá trị hao mòn lũy kể                           223              (48.361.838.167.813)   (46.950.705.767.927)
-                 Tài sản cỗ dỊnh vó hinr                           227        13    356.412.365,332                  369.012.352.913
-                  Nguyên giá                                       228                        652.329.474.461        655.572.693.047
-                  Giá trị hac mon Iũy kể                           229              (295.917.109.129)              (286.560.340.134)
-     IIL .       Bất ẩộng sản đầu tư                               230               29.692.350.309                   30.370,446.725
-                  Nạưyên gỉá                                       231                         38.867.115.741         38,867.115.741
-                  Giá trỊ hco mòn lũy kể                           232               (9.174.765.432)             (8,496.669.016)
-     IV.          Tai sán dớ dang dài han                          240              2.154.794.155.650            1.717.948.385.041
-                  Chỉ phÍ xây dyng cơ ban dở dang                  242              2.154.794,155,650            1,717,948.385,04 1
-                  Đầu tư tài chinh dai han                         250               374.941.837.090             399.715.358.524
-                  Đầu tư vào công ty llên doanh; liên kếL          152               564.941 837.090             329.715.358.524
-                  Đêu tư Ẹỏp vón vào đơn vị khảc                   253               35.O00,O0o.0OO              35.000.0oo,CoO
-                  Dự phong đầu -ư tài chinh dài hạn                254               (25.000.0OO.000)            (25.0uo.OOD.0oD)
-     VI:          Tai sán dài hạn khác                       260                    3,.422.188.765.331           3.663.465.910.698
-                  Chi phl trả trước dàl hạn                        261              3.386 521.349.063            3 630.161.349.445
-                  Tài sản thue thu nh?p hcãn lai             262                     35,667,416.268              33.304.561.253
-                  TONG CONG TAI SAN (270=100+200)            27O                    88.63+.139.11u./u2
- {   Cár thuyết minh kèm theo 1à môt bộ phận hợp thành cúa báo cáo tai chính hơp nhất                            niên độ này
-                                                                                                                 gỉữa +
+                               CONG
+/VOw                           cO PHẨN
+                               CHÚNG
+
+Bà Bủỉ Thỉ Quanh         Bà Nguyễn Thị Hài Anh    Ỏng Nguyen Hong Nam
+Ngườỉ lap biéu           Ké toán Trưởng           Tong Giám đóc
+
+Thành phó Hồ Chi Minh, Việt Nam
+Ngày 29 tháng 04 nảm 2025 +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ  
-xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam  
+# Công ty Cổ phần Chứng khoán SSI  
+B01-CTCK/HN  
 
-MẪU SỐ B 01a-DN/HN  
-Ban hành theo Thông tư số 202/2014/TT-BTC  
-ngày 22 tháng 12 năm 2014 của Bộ Tài chính  
+## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025  
 
-## BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN ĐỘ  
-*Tại ngày 30 tháng 6 năm 2025*  
-Đơn vị: VND
+### CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)  
 
-| TÀI SẢN                                     | Mã số | Thuyết minh | Số cuối kỳ           | Số cuối kỳ | Số đầu kỳ            | Số đầu kỳ |
-| ------------------------------------------- | ----- | ----------- | -------------------- | ---------- | -------------------- | --------- |
-| **A. TÀI SẢN NGẮN HẠN**                     | 100   |             | 64.857.286.428.940   |            | 57.290.495.430.038   |           |
-| I. Tiền và các khoản tương đương tiền       | 110   | 4           | 10.377.145.910.363   |            | 5.567.983.431.468    |           |
-| 1. Tiền                                     | 111   |             | 2.211.370.545.474    |            | 1.248.083.431.468    |           |
-| 2. Các khoản tương đương tiền               | 112   |             | 8.165.775.364.889    |            | 4.319.900.000.000    |           |
-| II. Đầu tư tài chính ngắn hạn               | 120   | 5           | 30.730.802.707.604   |            | 27.494.031.282.702   |           |
-| 1. Đầu tư nắm giữ đến ngày đáo hạn          | 123   |             | 30.730.802.707.604   |            | 27.494.031.282.702   |           |
-| III. Các khoản phải thu ngắn hạn            | 130   |             | 19.777.698.700.821   |            | 19.098.417.078.475   |           |
-| 1. Phải thu ngắn hạn của khách hàng         | 131   | 6           | 15.170.197.845.985   |            | 16.744.655.874.477   |           |
-| 2. Trả trước cho người bán ngắn hạn         | 132   | 7           | 205.787.039.963      |            | 375.639.323.197      |           |
-| 3. Phải thu ngắn hạn khác                   | 136   | 8           | 5.543.603.795.122    |            | 4.746.916.152.558    |           |
-| 4. Dự phòng phải thu ngắn hạn khó đòi       | 137   | 9           | (1.141.889.980.249)  |            | (2.768.794.271.757)  |           |
-| IV. Hàng tồn kho                            | 140   | 10          | 3.225.558.512.687    |            | 4.598.950.949.593    |           |
-| 1. Hàng tồn kho                             | 141   |             | 3.357.742.646.765    |            | 4.732.006.717.115    |           |
-| 2. Dự phòng giảm giá hàng tồn kho           | 149   |             | (132.184.134.078)    |            | (133.055.767.522)    |           |
-| V. Tài sản ngắn hạn khác                    | 150   |             | 746.080.597.465      |            | 531.112.687.800      |           |
-| 1. Chi phí trả trước ngắn hạn               | 151   | 11          | 71.259.764.917       |            | 46.023.323.039       |           |
-| 2. Thuế giá trị gia tăng được khấu trừ      | 152   |             | 634.838.225.512      |            | 447.768.536.836      |           |
-| 3. Thuế và các khoản khác phải thu Nhà nước | 153   | 16          | 39.982.607.036       |            | 37.320.827.925       |           |
-| **B. TÀI SẢN DÀI HẠN**                      | 200   |             | 23.776.852.681.762   |            | 24.564.385.978.120   |           |
-| I. Các khoản phải thu dài hạn               | 210   |             | 705.386.247.544      |            | 531.249.275.544      |           |
-| 1. Trả trước cho người bán dài hạn          | 212   |             | 57.885.027.689       |            | 70.495.232.935       |           |
-| 2. Phải thu dài hạn khác                    | 216   | 8           | 647.501.219.855      |            | 460.754.042.609      |           |
-| II. Tài sản cố định                         | 220   |             | 17.089.849.325.838   |            | 18.221.636.601.588   |           |
-| 1. Tài sản cố định hữu hình                 | 221   | 12          | 16.733.436.960.506   |            | 17.852.624.248.675   |           |
-| - Nguyên giá                                | 222   |             | 65.095.275.128.319   |            | 64.803.330.016.602   |           |
-| - Giá trị hao mòn lũy kế                    | 223   |             | (48.361.838.167.813) |            | (46.950.705.767.927) |           |
-| 2. Tài sản cố định vô hình                  | 227   | 13          | 356.412.365.332      |            | 369.012.352.913      |           |
-| - Nguyên giá                                | 228   |             | 652.329.474.461      |            | 655.572.693.047      |           |
-| - Giá trị hao mòn lũy kế                    | 229   |             | (295.917.109.129)    |            | (286.560.340.134)    |           |
-| III. Bất động sản đầu tư                    | 230   |             | 29.692.350.309       |            | 30.370.446.725       |           |
-| - Nguyên giá                                | 231   |             | 38.867.115.741       |            | 38.867.115.741       |           |
-| - Giá trị hao mòn lũy kế                    | 232   |             | (9.174.765.432)      |            | (8.496.669.016)      |           |
-| IV. Tài sản dở dang dài hạn                 | 240   |             | 2.154.794.155.650    |            | 1.717.948.385.041    |           |
-| 1. Chi phí xây dựng cơ bản dở dang          | 242   | 14          | 2.154.794.155.650    |            | 1.717.948.385.041    |           |
-| V. Đầu tư tài chính dài hạn                 | 250   | 5           | 374.941.837.090      |            | 399.715.358.524      |           |
-| 1. Đầu tư vào công ty liên doanh, liên kết  | 251   |             | 364.941.837.090      |            | 389.715.358.524      |           |
-| 2. Đầu tư góp vốn vào đơn vị khác           | 253   |             | 35.000.000.000       |            | 35.000.000.000       |           |
-| 3. Dự phòng đầu tư tài chính dài hạn        | 254   |             | (25.000.000.000)     |            | (25.000.000.000)     |           |
-| VI. Tài sản dài hạn khác                    | 260   |             | 3.422.188.765.331    |            | 3.663.465.910.698    |           |
-| 1. Chi phí trả trước dài hạn                | 261   | 11          | 3.386.521.349.063    |            | 3.630.161.349.445    |           |
-| 2. Tài sản thuế thu nhập hoãn lại           | 262   |             | 35.667.416.268       |            | 33.304.561.253       |           |
-| **TỔNG CỘNG TÀI SẢN (270=100+200)**         | 270   |             | 88.634.139.110.702   |            | 81.854.881.408.158   |           |
+| Mã số       | CHỈ TIÊU                                                                                       | Thuyết minh | Số cuối kỳ VND | Số đầu năm VND |
+| ----------- | ---------------------------------------------------------------------------------------------- | ----------- | -------------- | -------------- |
+| 032<br/>035 | **B. TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ<br/>TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG (tiếp theo)** |             |                |                |
+|             | Phải trả Tổ chức phát hành chứng khoán                                                         |             | 29.513.877.000 | 122.465.000    |
+|             | Phải trả cổ tức, gốc và lãi trái phiếu                                                         |             | 21.214.180.634 | 11.174.732.134 |
 
 
-> Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+----
 
+Bà Bùi Thị Quanh  
+Người lập biểu  
+
+Bà Nguyễn Thị Hải Anh  
+Kế toán Trưởng  
+
+Ông Nguyễn Hồng Nam  
+Tổng Giám đốc  
+
+Thành phố Hồ Chí Minh, Việt Nam  
+Ngày 29 tháng 04 năm 2025  
  + 
  + [] 
  None

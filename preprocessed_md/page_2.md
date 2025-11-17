@@ -1,37 +1,12 @@
- Deloitte
-
-
-
-
-
-
-
-
-
-
-   TỔNG CÔNG TY KHÍ VIỆT NAMM - CÔNG TY CỔ PHẦM
-   (Thanh IÙp tui nưóc Cộng hoà Xõ hôi ChủnghuViêt Nurn)
-
-   BÁO CÁO TÀl CHÍNH HỢP NHẤT
-   GIỮA NIÊN ĐỘ ĐÃ ĐƯỢC SOÁT XÉT
-   Cho kỷ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
-
-
-
-
-
-
-
-5 +
+Côngty Cổ phần Chứng khoán SSI
+Báo cáo tài chinh hợp nhàt Quỷ nám 2025
+Ngày 31 tháng 03 năm 2025 +
  
-# Deloitte
+# Công ty Cổ phần Chứng khoán SSI
 
-**TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN**  
-*(Thành lập tại nước Cộng hòa Xã hội Chủ nghĩa Việt Nam)*
+Báo cáo tài chính hợp nhất Quý 1 năm 2025
 
-## BÁO CÁO TÀI CHÍNH HỢP NHẤT  
-### GIỮA NIÊN ĐỘ ĐÃ ĐƯỢC SOÁT XÉT  
-Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
+Ngày 31 tháng 03 năm 2025
  + 
  + [] 
  None

@@ -1,98 +1,96 @@
-TỔNG CÔNG TY KHÍ VIỆT NAMM - CÔNG TY cỐ PHÂN                    MẪU SỐ B 09a-DN/HN
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẨT GlỮ4 NIÊN ĐỘ (Tiếp theo)
-PHÁl THU kHÁC
-     Phảí thu ngăn hạn khác
-                                                                      Sõ cuôi kỷ               58 đu kỳ
-                                                                             VND                    VND
- Phẩi thu vê doanh thu bán khí tari tínli                     4.369.643.826.359       3.694.327,314.230
- Trong đo                                                                             1,105.155,592,348
-  Công ty Cẩ phần Đỉện wực Dàu khi Nhơn Trach 2                1.069.609.952.127
-   Công ty Nhỉệt đỉện Phú Mỹ - Chi nhánh Tổng Câng ty Phát     927.495.257.028          944.096.469.517
-dien 3 - CTCP                                                  759.943.698.313
- Tập oàn Đlện lực Vỉệt Nam                                     530.657.066.298
- Chi nhảnh Tông Công ty Phân bon va Hóa chất Dầu khí -                                  51/ 570.446 789
- CTCP Nho mriay Đạm Phu My                                                              117.654.708.782
-   Chi nhánh Tốrg Công ty Đien Iực Dầu khí Việt Nam - CTCP     489.536.055,455
-  Cónq ty Đỉện Iực Dau khí Mhon Troch                          114.653.838.266
-  Công ty Cổ phần Kinn doanh Khí Miền Nam                                               140.385.395.645
-   Congty TNHF Nẵng Iượng Mc Kông                               7.192.094.854           441.848.839.049
-  Các đốl tượng khdr                                                 470.555,823.918    427.615.812.100
- Phẳi thu về doanh thu vân chuyẻn khl tạm tính                 244.934 969.486          407.964.032.967
- Trong đỏ:                 Năng lương Quõc      Viêt Nam             130.874.530.112    166.934.493.549
-   Tâp đcan Công nghiệp                      gia                                         76.111.979.074
-   Công ty Điều Hành Dầu Khí Blển Đông Lô 05-2                        67 566.543.932     27.070.332.530
-   Công ty Đlều Hành Dầu Khi Bỉển Đong Lô 05-3                        38.729.717.775     55.814.003.125
-   Tõng Còng ty Thẩm dò Khal thác Dầu khỉ                                                82.033.224,689
-    Cúc đếi {urng khác                                                 7.764.177.664    291,648,784,086
- Phảithu về lãitiền gửi có kỳ hạn                                    483.550.441.861
- Kỷ quỹ, ký cược ngắn hạn                                             73,0/3.579.272     74.165.793.862
- [hác                                                                372,400.978.144    278.810 227,413
-                                                                   5.543.603.795.122    4.746.916,152.558
- Trong đó:                                                    2.519.381.104.610   2.375,.066.743.606
-             ngấn hạn khảc là cảc bên llên quan chủ yểu
- Phảl thu
-
-     Phảí thu dàl han khác
-                                                                56 cuối kỲ                      Sấ dầu kỳ
-                                                                VND                     VND
- Phẩi thu gỏp vốn theo BCC (i}                                  630.799,982 465           445.948.514.436
- Ký cược, kỷ quỹ                                                16.701.237.390          14.805.528.1/3
-                                                                647.501.219.855           460.754.042.609
-  Trong đé:                                                     630.799,982.465           445.948.514.436
- Phải thu dài hạn khác là các bên liên quan chủ yếu
-  {Chi tiét tai Thuyet minh s1 35)
-    Phản ánh khoán tiền Tổng Công tY gỎp vốn để thực hiện Dự ản đường ốrg dẳn khí Lô B - Ô
-    Môn theo BCC số 26a/2010/PVGAS/KTTT-CHEVRON MOECO-PTTEP/D4 ngảy 5 tháng 2 năm
-    2010 và các sửa đổi, bố sung gỉữa Tông Còng ty và Tập đoàn Dau khí Việt Nam (nay là "Tập
-         ' Công rghiệp - Năng Iượng Quỗc gia Viêt Nam' MOECO Southwest Vietnam Pipeline B,V
-     ẩcàn                                                       Theo thảa thuận giữa các bên, BCC
-     và PTTEP Southwest Vietnam Pipeline Company Limited
-     náy theo hình thức tàl sản đồng kỉêm soat với tý lệ sở hữu của Tổng Công ty là 51%. +
+Côngty Cổ phần Chứng khoán SSI                                             BO5-CTCKHN
+THUYÉT MINH BÁO CÁO TÀI CHÍNH HỌP NHÁT QUÝ     NĂM 2025 (tỉép theo)
+tai ngày 31 tháng 03 năm 2025 và cho kỳ ké toán kết thúc củng ngày
+          Trưởng hợp khoản nợ ghi nhận có hinh thửc bảo lành các tàs sản chuyen nhượng sé được
+    ghi nhặn theo giá trị nho hơn giữa gỉá tri ghi só ban đầu cúa tài sản và số tiên tối đa mà Công
+  ty đưoc yéu cau phai thanh toan
+  Phán loai lại tài sản tài chinh
+  Phân loai lai khỉ bán tài sán tàỉ chinh không thuộc nhóm FVTPL
+  Công ty chúng khoán khi bán các tài sản tàf chính không thuộc loai tàỉ sản tài chinh FVTPL
+  pha thuc hiên phân loai lai các tài sản tài chính từ các loai tài sản khác có lien quan vé tà
+  sàn tài chinh FVTPL Các chénh lệch đánh giá lai tài sản tàỉ chinh AFS hỉệndang theo dòi
+  tren khoan mục Chênh lệch đanh gỉá tài sản theo giá trị hợp lý" sé được ghi nhận vào tà
+  khoản doanh thu hoặc chi phí tưongửng tai ngày phân loai lại các tài sản tài chinh AFS khi
+  ban
+  Phán loai lai do thay đổi dự dịnh hoặc khả năng nẳrn gỉữ
+                                       lai các tải sản tàl chinh vào nhóm tàỉ sản tai chlnh khác
+  Công ty chúng khoán được phànloal
+  phù hợp do thay đối dự đinh hoặc khả năng nám giữ , theo đó:
+                                         cbôngbị yéu cầu phân loai vào nhóm tài sản tàr
+    Tài sản tài chinh FVTPL phi phaỉ sinh và
+    chính FVTPL vào lúc ghỉ nhận ban đẩu có               được phân loai lai vào nhóm cho vay và
+                                                                  nưong
+    phảỉ thu trong môt s6 truởng hợp đàc biệt hoác vào nhóm tien và               dương tien néu
+    thỏa măn các điẻu kiện được phân loai vào nhóm này . Các khoàn lãi,           dả ghi nhan do
+    đánh giá lai tài sản tài chính FVTPL trưởc thởỉ đỉẻm phan loai lai s5 không được hoàn
+    nhâp.
+    Nếu do thay đổi dự định hoặc khả năng nảm gỉữ , việc phànloaimột khoản đằu tư vào
+    nhóm nắm gỉữ đén khi đáo han khỏng còn phủ hợp thi khoản đàu tư đó phảỉ được chuyén
+    sang nhóm tài sản tảỉ chính AFS và phải định giá lai theo giá trị hợp lý. Chênh lệch giữa
+    gỉả tri ghi só và giá trị hợp lỷ sé đươc ghi nhân khoan muc      Chénh lệch đánh gỉá tài sản
+    theo giá trị hơp lý" thuâc Von chủ sở húu
+  Các khoàn đảu tư vào cóng ty liên kết
+  Công ty liên kết là các công ty mà trong đó nhả đầu tư có ảnh hưởngđangké nhung không
+phải là công ty con haycôngty liên doanh của nhà đầu tư . Thông thưởng, Công ty được coi
+ là có ảnh hưởngdang kẻ nếu sở hữu từ 20% quyèn bỏ phiéu          đơn vị nhân dàu tư.
+ Các khoản đàu tư vao công ty lien két đưoc ghi nhận theo phương phảp vón chú sở hữu
+ Theo phưong phảp vôn chú sở hữu; khoàn đảu tư được ghi nhan ban đau trên báo cáo tInh
+ hinh tải chinh hợp nhát theo gia gốc. Trường hợp khi mua khoản đảu tư , phản chenh lệch
+                                         hợplỷ của tài sản thuản có thẻ xác đjnh được
+ gỉữa gỉá mua khoản đàu tư và gỉả trị                                                Iợiơhg
+ ửng vớỉ phan sở hữu cúa Công ty trong công ty lien kêt tai ngày mua đưyc goi là lợi
+ thương mai, Loi the thương mai àm được két chuyen ngay vào khoàn muc "Doanh thu khác
+             (phànlãỉl(lo) trong công ty lỉên két) trén báo cáo kết quả hoat động hợp nhát . Lợi
+vê đau tu
+the thưong mai dưong đưpc phàn ánh vảo giá trị khoàn đau tư vào công ty lien két thuộc báo
+ cáo tinh hinh tài chinh hợp nhat.
+Trongquatrinh xác định giá trị hợp lỷ cua tài sàn thuẩn có thế xác định được củacôngty liên
+két, Cóng ty áp dung các nguyen tac và già định sau:
+   Gỉá trị hợp lý cúa tỉền mặt và tỉên gửỉ ngắn han, các khoản phải trà người bán và nợ phải
+   trả ngắn han khác tương đương vởỉ giá trị ghi só của các khoản mục nảy do nhung cóng
+   cu này có kỷ han ngàn;
+   Giả trị hợp lý cua các khoản          thu được xác định dựa trên đánh gỉá vé khả nẳng thu
+                                 phảỉ
+   hồi, theo dó, Công ty ước tinh giá trị hop lý xấp xi gia trị ghỉ sỎ trử đỉ só du các khoàn dự
+   phỏng đf trich l#p
+   Giá trị hợp lý của các khoản đẩu tư tài chinh đưoc xác đjnh theo giả thj trường; +
  
-# PHẢI THU KHÁC
+# Công ty Cổ phần Chứng khoán SSI
 
-## a) Phải thu ngắn hạn khác
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-|                                                                                      | Số cuối kỳ<br/>VND    | Số đầu kỳ<br/>VND     |
-| ------------------------------------------------------------------------------------ | --------------------- | --------------------- |
-| Phải thu về doanh thu bán khí tạm tính                                               | 4.369.643.826.359     | 3.694.327.314.230     |
-| *Trong đó:*                                                                          |                       | 1.105.155.592.348     |
-| - Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2                                      | 1.069.609.952.127     |                       |
-| - Công ty Nhiệt điện Phú Mỹ - Chi nhánh Tổng Công ty Phát điện 3 - CTCP              | 927.495.257.028       | 944.096.469.517       |
-| - Tập đoàn Điện lực Việt Nam                                                         | 759.943.698.313       |                       |
-| - Chi nhánh Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP - Nhà máy Đạm Phú Mỹ    | 530.657.066.298       | 517.570.446.789       |
-| - Chi nhánh Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP                            | 489.536.055.455       | 117.654.708.782       |
-| - Công ty Điện lực Dầu khí Nhơn Trạch                                                | 114.653.838.266       |                       |
-| - Công ty Cổ phần Kinh doanh Khí Miền Nam                                            |                       | 140.385.395.645       |
-| - Công ty TNHH Năng lượng Mê Kông                                                    | 7.192.094.854         | 441.848.839.049       |
-| - Các đối tượng khác                                                                 | 470.555.823.918       | 427.615.812.100       |
-| Phải thu về doanh thu vận chuyển khí tạm tính                                        | 244.934.969.486       | 407.964.032.967       |
-| *Trong đó:*                                                                          |                       |                       |
-| - Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam                                | 130.874.530.112       | 166.934.493.549       |
-| - Công ty Điều Hành Dầu Khí Biển Đông Lô 05-2                                        | 67.566.543.932        | 76.111.979.074        |
-| - Công ty Điều Hành Dầu Khí Biển Đông Lô 05-3                                        | 38.729.717.775        | 27.070.332.530        |
-| - Tổng Công ty Thăm dò Khai thác Dầu khí                                             |                       | 55.814.003.125        |
-| - Các đối tượng khác                                                                 | 7.764.177.664         | 82.033.224.689        |
-| Phải thu về lãi tiền gửi có kỳ hạn                                                   | 483.550.441.861       | 291.648.784.086       |
-| Ký quỹ, ký cược ngắn hạn                                                             | 73.073.579.272        | 74.165.793.862        |
-| Khác                                                                                 | 372.400.978.144       | 278.810.227.413       |
-| **Tổng cộng**                                                                        | **5.543.603.795.122** | **4.746.916.152.558** |
-| *Trong đó:*                                                                          |                       |                       |
-| Phải thu ngắn hạn khác là các bên liên quan chủ yếu (Chi tiết tại Thuyết minh số 35) | 2.519.381.104.610     | 2.375.066.743.606     |
+Trường hợp khoản nợ ghi nhận có hình thức bảo lãnh các tài sản chuyển nhượng sẽ được ghi nhận theo giá trị nhỏ hơn giữa giá trị ghi sổ ban đầu của tài sản và số tiền tối đa mà Công ty được yêu cầu phải thanh toán.
 
+## 4.8 Phân loại lại tài sản tài chính
 
-## b) Phải thu dài hạn khác
+### Phân loại lại khi bán tài sản tài chính không thuộc nhóm FVTPL
 
-|                                                                                     | Số cuối kỳ<br/>VND  | Số đầu kỳ<br/>VND   |
-| ----------------------------------------------------------------------------------- | ------------------- | ------------------- |
-| Phải thu góp vốn theo BCC (i)                                                       | 630.799.982.465     | 445.948.514.436     |
-| Ký cược, ký quỹ                                                                     | 16.701.237.390      | 14.805.528.173      |
-| **Tổng cộng**                                                                       | **647.501.219.855** | **460.754.042.609** |
-| *Trong đó:*                                                                         |                     |                     |
-| Phải thu dài hạn khác là các bên liên quan chủ yếu (Chi tiết tại Thuyết minh số 35) | 630.799.982.465     | 445.948.514.436     |
+Công ty chứng khoán khi bán các tài sản tài chính không thuộc loại tài sản tài chính FVTPL phải thực hiện phân loại lại các tài sản tài chính từ các loại tài sản khác có liên quan về tài sản tài chính FVTPL. Các chênh lệch đánh giá lại tài sản tài chính AFS hiện đang theo dõi trên khoản mục "Chênh lệch đánh giá tài sản theo giá trị hợp lý" sẽ được ghi nhận vào tài khoản doanh thu hoặc chi phí tương ứng tại ngày phân loại lại các tài sản tài chính AFS khi bán.
 
+### Phân loại lại do thay đổi dự định hoặc khả năng nắm giữ
 
-> (i) Phản ánh khoản tiền Tổng Công ty góp vốn để thực hiện Dự án đường ống dẫn khí Lô B - Ô Môn theo BCC số 26a/2010/PVGAS/KTTT-CHEVRON MOECO-PTTEP/D4 ngày 5 tháng 2 năm 2010 và các sửa đổi, bổ sung giữa Tổng Công ty và Tập đoàn Dầu khí Việt Nam (nay là "Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam"), MOECO Southwest Vietnam Pipeline B.V. và PTTEP Southwest Vietnam Pipeline Company Limited. Theo thỏa thuận giữa các bên, BCC này theo hình thức tài sản đồng kiểm soát với tỷ lệ sở hữu của Tổng Công ty là 51%.
+Công ty chứng khoán được phân loại lại các tài sản tài chính vào nhóm tài sản tài chính khác phù hợp do thay đổi dự định hoặc khả năng nắm giữ, theo đó:
+
+* Tài sản tài chính FVTPL phi phát sinh và không bị yêu cầu phân loại vào nhóm tài sản tài chính FVTPL vào lúc ghi nhận ban đầu có thể được phân loại lại vào nhóm cho vay và phải thu trong một số trường hợp đặc biệt hoặc vào nhóm tiền và tương đương tiền nếu thỏa mãn các điều kiện được phân loại vào nhóm này. Các khoản lãi, đã ghi nhận do đánh giá lại tài sản tài chính FVTPL trước thời điểm phân loại lại sẽ không được hoàn nhập.
+
+* Nếu do thay đổi dự định hoặc khả năng nắm giữ, việc phân loại một khoản đầu tư vào nhóm nắm giữ đến khi đáo hạn không còn phù hợp thì khoản đầu tư đó phải được chuyển sang nhóm tài sản tài chính AFS và phải định giá lại theo giá trị hợp lý. Chênh lệch giữa giá trị ghi sổ và giá trị hợp lý sẽ được ghi nhận khoản mục "Chênh lệch đánh giá tài sản theo giá trị hợp lý" thuộc Vốn chủ sở hữu.
+
+## 4.9 Các khoản đầu tư vào công ty liên kết
+
+Công ty liên kết là các công ty mà trong đó nhà đầu tư có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của nhà đầu tư. Thông thường, Công ty được coi là có ảnh hưởng đáng kể nếu sở hữu từ 20% quyền bỏ phiếu ở đơn vị nhận đầu tư.
+
+Các khoản đầu tư vào công ty liên kết được ghi nhận theo phương pháp vốn chủ sở hữu.
+
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên báo cáo tình hình tài chính hợp nhất theo giá gốc. Trường hợp khi mua khoản đầu tư, phần chênh lệch giữa giá mua khoản đầu tư và giá trị hợp lý của tài sản thuần có thể xác định được tương ứng với phần sở hữu của Công ty trong công ty liên kết tại ngày mua được gọi là lợi thế thương mại. Lợi thế thương mại âm được kết chuyển ngay vào khoản mục "Doanh thu khác về đầu tư (phân lãi/lỗ) trong công ty liên kết" trên báo cáo kết quả hoạt động hợp nhất. Lợi thế thương mại dương được phản ánh vào giá trị khoản đầu tư vào công ty liên kết thuộc báo cáo tình hình tài chính hợp nhất.
+
+Trong quá trình xác định giá trị hợp lý của tài sản thuần có thể xác định được của công ty liên kết, Công ty áp dụng các nguyên tắc và giả định sau:
+
+* Giá trị hợp lý của tiền mặt và tiền gửi ngắn hạn, các khoản phải trả người bán và nợ phải trả ngắn hạn khác tương đương với giá trị ghi sổ của các khoản mục này do những công cụ này có kỳ hạn ngắn;
+
+* Giá trị hợp lý của các khoản phải thu được xác định dựa trên đánh giá về khả năng thu hồi, theo đó, Công ty ước tính giá trị hợp lý xấp xỉ giá trị ghi sổ trừ đi số dư các khoản dự phòng đã trích lập;
+
+* Giá trị hợp lý của các khoản đầu tư tài chính được xác định theo giá thị trường;
  + 
  + [] 
  None

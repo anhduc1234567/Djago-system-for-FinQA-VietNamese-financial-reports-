@@ -1,79 +1,71 @@
-TỔNG CÔNG TY KHÍ VIỆT NAMM - CÔNG TY cỔ PHẦN                          MẪU SỔ B 09a-DN/HN
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GlỮA NIỀN Độ (Tiếp theo)
- Chi phÍ mua khí bao tiêu theo hợp đồng mua bán khi dược tinh dựa trèn phần chênh lệch giữa
- chi phí mua khí theo cam kểt Iượng khl nhận tổì thỉểu và chi phi mua khí thực tể dưới mức cam
- kết giữa Tong Công ty với PVN. Chi phí này sê được phđn bố vào kết   t ưộng kinh doanh
-                                                               quahoe
- tương ứng vớí Iượng khí nhận trong tương lai theo thởi hạn quy đinh trên hợp dồng
- Giá trj vỏ binh gas dã đưa vào sử dụng dược ghi nhận Ià chi phí trà trưởc dài hạn vả phân bó
-          Vao kẼt quả hoatdôngkinh doanh theo phương phápJưởngthẳng trong vóng 10 năm, Giá tri
- vỏ bình gas bao gồm chi phí mua vỏ binh gas và các chi phí liên quan khác để vó binn gas ởtrang
- thái sansàngsử' dung
- Khoản trả trước tỉền thue ẩất đưcc phân bô vàa kết         hoạt động kinh doanh hợp nhẩt theo
-                                                   qua
-              thẳng
-  phương Fháp đường         tươngứngvoi thờỉ gian thuê
-  Các khoản chl pnf trả trưóc khác bao gầm glá trịcôngcu, dung cụ đã xuất dùng, chi phí cải tao
-  và các chi phí khác và được coi là có khả năng đem lại lợi ích kinh tể trong tương lai cho Tổng
- Công ty Các chi phí rày được vốn hóa dưởi hình thức cảc khcản trả trước và dược phân bẩ vào
-   Báo cao kêtquahoạt động kinh doanh hợp nhẩt giữa niên độ, sử dụng phương pháp ỉường
- thẩng theo các quy dịnh kế toán hiện hành.
-  Thuê tài sán
-  Iổng_ Còna_tỵ_ià bên cho thuê
-   Dcanh thu cho zhuê hoat dộng dược ghi nhân theo phương pháp đường thẳng trong suốt thờỉ
-  gian cho thuê . Chi phÍ trực tiểp ban đầu phát sinh trongQuatrình Gam phán ky hợp đồng thuẻ
-   hoat động được ghi nhện vào chi phí trong kỳ khi phát sinh hoặc phân bổ dần vào chi phí trong
-   suôt thời hạn cho thuê phù hợp vởi việ c ghi nh;n doanh thu cho thué hoat tông
-  IỆndCônaty lù bêndi thuê
-   Một khoán thuê dược xem là thuè hoạt động khi bên cho thuê vẫn được hưởng
-                                                                                 phan
-                                                                                          lởn cac
-          Pud                                               rn Chiphithus hnaltang duocghihan vào
-   kết    hoat động kinh doanh hơp nhất theo phương pháp đường thắng trong suất thời gian
-    quà
-   thuè. Các khoán tiền nhận đưực hoặc phái thu nhẳm tạo diều kién ký kết hợp đồng thuê hoạt
-   dộng cũng được ghi nhận theo phương phảp đuơng thẳng trong suất thời gian thuê.
-                     phải
-   Các khoản du phòng       trả
-                                                'TổnB 3Công ty có nghĩa vụ nợ hiện tạỉ do kết
-   Các khoản dự phòng phảitrả dược ghi nhận khi                                      quá
-                               Côngty có khé năng phái thanh toan nghĩa vu nảy. Các khoản
-   từ mộtsự klén đă xảy ra  Tổng                       TổngGiám đõc về cảc khoản chí phl càn
-   dự phòng được xác đjnh trên ca sở ước tinh cúa Ban
-   thiẽt để thanh toán nghĩa vy nợ nằy tại ngày kẽt thúc kỳ hoat động:
-   Cảc khoẩn du phòng          gồm dự phàng chi phí thu don công trinh khỉvà các khoản dự
-                 phảitrà bao                                               Quyết đInh s8
-    phòng khác. Dự phòng chi phí thu don công trinh khÍ được trich Iập theo
-    49/2017/QD-TTg ngày 21 tháng 12 năm 2017 của Thủ tướng Chính phủ về việcthu !don các công
-    trinh, thiết bị và phương tiện phục vụ hoạt động dầu khi và dự toán được Bộ Câng thương phê
-    duyệt; +
+Côngty Cổ phần Chứng khoán SSI                                    B05-CTCKIHN
+THUYET MINH BÁO CÁO TẢI CHÍNH HƠP NHAT QUÝ NĂM 2025 (tiếp theo)
+tai ngày 31 tháng 03 nảm 2025 vả cho kỷ kế toán kết thúc cung ngảy
+
+Hạn chế đẩu tư
+Côngty tuân thủ quy định tại Điêu 28, Thông tư só 121/2020/TT-BTC ngày 31 tháng 12 nam
+2020 quy định vẻ hoat động công ty chúng khoán; Một só khoản muc hạn ché đầu tư theo
+cảc quy định hiện hành nhu sau:
+  Công ty chửng khoán không được mua góp vốn mua bất động sản trừ trường hợp đé
+  sứ dung làm tru sở chinh; chi nhánh, phòng giao dịch phuc vụ trực tiêp cho các hoat dộng
+  nghiệp vụ cúa cóng ty chứng khoán.
+  Cóng ty chứng khoán mua, đẩu tư vào bấtđôngsảntheo quy định tai khoản     trên và tà
+  sàn có đinh theo nguyen tac giá trị còn lai cúa tàỉ sản có đinh và bất động sản không
+                         phần trfm (50%) gỉá trỉ tong tài sản của công ty chứng khoán.
+  dược vượt quà nẵm mươi
+ Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được
+  vượt quá bảy mươỉ phan trám (709) vónchúsở húu. Công ty chứng khoán đưoc cap
+  phẻp thuc hiên nghiệp vu tư doanh chứng khoán được phép mua bán lai trải phỉéu nièm
+ yet theo quy định có lien quan ve mua bán lai trái phieu
+ Công ty chứng khoán không được trực tỉếp hoặc ủy thác thuc hiện các nghiệp vụ sau:
+    Đẩu tư vào cổ phiếu hoặc    vốn góp cúa công ty có sở hữu trên nam mươi phân
+                               phân
+    trăm (50%) vốn điều lệ của công ty chửng khoán; trừ trưởng hợp mua có phiéu Iô lẻ
+    theo yêu cau cùa khảch hàng;
+    Cùng với ngưởỉ có liên quan đầu tư từ nằm phản trăm (5%) trở lên vốn điều lệ của
+    công ty chúng khoán khác;
+    Đau tuquahai mươi phan trfm (20%) tongsố cổ phiếu, chứng chi quỹ đang lưu
+    hành của môt tó chửc niém yét;
+    Đảu tư qua mưởi lăm phản trăm (15% tóng số có phỉéu; chứng chỉ quỹ đang Iưu
+    hành của một tố chức chưa niêm yét, quy đpnh nảy không áp dung đối với chứng chi
+    quy thanh vỉèn, quy hoán đóỉ danh muc và quỹ mo;
+    Đẩu tư hoac góp vốn quá mưởi phân tram (10%          tổng số vốn góp của một công
+                                                 trên
+   ty trách nhièm húu han hoẳc du án kinh doanh;
+   Đàu tư hoặc góp vốn quá mười lam phân trám (15%) vốn chù sờ húu vào một t8
+   chừc hoac dự an kinh doanh;
+   Đẩu tư quá bày mươi phẩn trăm (70%) vón chủ sở hữu vào có phỉéu, phàn vón góp
+   và dự án kinh doanh, trong đó không được đầu tư quá hai mươi phẳn tram (209)
+   vốn chủ sở hữu vào cổ phiéu chưa niêm yét, phân vốn góp và du án kinh doanh
+Công ty chúng khoản được thành lập, mua lai công ty quàn lỷ quỹ làm công ty con; Trong
+ truonghop nay công ty chửng khoán không phải tuân thủ các quy đinh tai điém  d, va
+  Khoan tren +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+# Công ty Cổ phần Chứng khoán SSI  
+B05-CTCK/HN  
 
-Chi phí mua khí bao tiêu theo hợp đồng mua bán khí được tính dựa trên phần chênh lệch giữa chi phí mua khí theo cam kết lượng khí nhận tối thiểu và chi phí mua khí thực tế dưới mức cam kết giữa Tổng Công ty với PVN. Chi phí này sẽ được phân bổ vào kết quả hoạt động kinh doanh tương ứng với lượng khí nhận trong tương lai theo thời hạn quy định trên hợp đồng.
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày  
 
-Giá trị vỏ bình gas đã đưa vào sử dụng được ghi nhận là chi phí trả trước dài hạn và phân bổ vào kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong vòng 10 năm. Giá trị vỏ bình gas bao gồm chi phí mua vỏ bình gas và các chi phí liên quan khác để vỏ bình gas ở trạng thái sẵn sàng sử dụng.
+### Hạn chế đầu tư  
+Công ty tuân thủ quy định tại Điều 28, Thông tư số 121/2020/TT-BTC ngày 31 tháng 12 năm 2020 quy định về hoạt động công ty chứng khoán. Một số khoản mục hạn chế đầu tư theo các quy định hiện hành như sau:  
 
-Khoản trả trước tiền thuê đất được phân bổ vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng tương ứng với thời gian thuê.
+1. Công ty chứng khoán không được mua, góp vốn mua bất động sản trừ trường hợp để sử dụng làm trụ sở chính, chi nhánh, phòng giao dịch phục vụ trực tiếp cho các hoạt động nghiệp vụ của công ty chứng khoán.  
 
-Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ đã xuất dùng, chi phí cải tạo và các chi phí khác và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Tổng Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.
+2. Công ty chứng khoán mua, đầu tư vào bất động sản theo quy định tại khoản 1 trên và tài sản cố định theo nguyên tắc giá trị còn lại của tài sản cố định và bất động sản không được vượt quá năm mươi phần trăm (50%) giá trị tổng tài sản của công ty chứng khoán.  
 
-### Thuê tài sản
+3. Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được vượt quá bảy mươi phần trăm (70%) vốn chủ sở hữu. Công ty chứng khoán được cấp phép thực hiện nghiệp vụ tư doanh chứng khoán được phép mua bán lại trái phiếu niêm yết theo quy định có liên quan về mua bán lại trái phiếu.  
 
-#### Tổng Công ty là bên cho thuê
+4. Công ty chứng khoán không được trực tiếp hoặc ủy thác thực hiện các nghiệp vụ sau:  
+   * a. Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên năm mươi phần trăm (50%) vốn điều lệ của công ty chứng khoán; trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng;  
+   * b. Cùng với người có liên quan đầu tư từ năm phần trăm (5%) trở lên vốn điều lệ của công ty chứng khoán khác;  
+   * c. Đầu tư quá hai mươi phần trăm (20%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;  
+   * d. Đầu tư quá mười lăm phần trăm (15%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức chưa niêm yết, quy định này không áp dụng đối với chứng chỉ quỹ thành viên, quỹ hoán đổi danh mục và quỹ mở;  
+   * e. Đầu tư hoặc góp vốn quá mười phần trăm (10%) trên tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;  
+   * f. Đầu tư hoặc góp vốn quá mười lăm phần trăm (15%) vốn chủ sở hữu vào một tổ chức hoặc dự án kinh doanh;  
+   * g. Đầu tư quá bảy mươi phần trăm (70%) vốn chủ sở hữu vào cổ phiếu, phần vốn góp và dự án kinh doanh, trong đó không được đầu tư quá hai mươi phần trăm (20%) vốn chủ sở hữu vào cổ phiếu chưa niêm yết, phần vốn góp và dự án kinh doanh.  
 
-Doanh thu cho thuê hoạt động được ghi nhận theo phương pháp đường thẳng trong suốt thời gian cho thuê. Chi phí trực tiếp ban đầu phát sinh trong quá trình đàm phán ký hợp đồng thuê hoạt động được ghi nhận vào chi phí trong kỳ khi phát sinh hoặc phân bổ dần vào chi phí trong suốt thời hạn cho thuê phù hợp với việc ghi nhận doanh thu cho thuê hoạt động.
-
-#### Tổng Công ty là bên đi thuê
-
-Một khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro về quyền sở hữu tài sản. Chi phí thuê hoạt động được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê. Các khoản tiền nhận được hoặc phải thu nhằm tạo điều kiện ký kết hợp đồng thuê hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suốt thời gian thuê.
-
-### Các khoản dự phòng phải trả
-
-Các khoản dự phòng phải trả được ghi nhận khi Tổng Công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tổng Công ty có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ hoạt động.
-
-Các khoản dự phòng phải trả bao gồm dự phòng chi phí thu dọn công trình khí và các khoản dự phòng khác. Dự phòng chi phí thu dọn công trình khí được trích lập theo Quyết định số 49/2017/QĐ-TTg ngày 21 tháng 12 năm 2017 của Thủ tướng Chính phủ về việc thu dọn các công trình, thiết bị và phương tiện phục vụ hoạt động dầu khí và dự toán được Bộ Công thương phê duyệt;
+Công ty chứng khoán được thành lập, mua lại công ty quản lý quỹ làm công ty con; Trong trường hợp này, công ty chứng khoán không phải tuân thủ các quy định tại điểm c, d, và e Khoản 4 trên.  
  + 
  + [] 
  None

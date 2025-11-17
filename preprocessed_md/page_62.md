@@ -1,83 +1,150 @@
-PETROVIETNAM GAS JOINT STOCK CORPORATION
- PV GA5 Tower, 673 Nguyen Huu Tho Street
- Nha Be Commune Ho Chi Minh City Vietnam
-
-                             STATEMENT OF THE BOARD OF MANAGEMENT
-
-The Board of Management of PetroVietram Gas Joint Stock Corporation (the "Corporation" presents
-thỉs report cogether wỉth the Corporation'5 interim cunsolidated financia statements for the 6-month
-period ended 30 June 2025.
-
- BOARDS OF DIRECTORS AND MANAGEMENT
- Tne members of the Boards of Directors and Management of the Corporaliori during the period and lo
- [nC Uale 0
- Board of Directors
-
-  Mr .Nguyen Thanh Binh       Chairman
-               Phong          Merber
-  Mr. Pham Van
-  Mr. Trieu Quoc Tuan          Member                 May
-  Mr. Tran NhatFuy           Member (appointed on 30  2025}
-  Mr . Trinh Van Khiem        Member (appointed on 30 May 2025)
-  Mr. DoDong Nguyen           Independent Member                                                    1no TY
- Mr. Nguyen Thanh Hao        Independent Member
-  Mrs. Vo Thi Thanh Ngoc      Member (resigned on 30 May 2025)                                      NAM
-  Mr. Truong Hong Son         Member (resigned on 30 May 2025)
-  Board of Management                                                                               H6
-  Mr. Pham Van Phong           Chief Executive Officer
-  Mr. Huynh Quang Hai           Executive Officer
-  Mr. Nguyen Phuc Tue           Executive Officer
-  Mr NeuvenCone Luan            Executive Officer
-  Mr, Hoang Trorg Dung          Executive Officer
-  Mr, Nguyen Minh Tuan          Executive Officer (appointed on 02 June 2025)
-  Mr Tran Nhat Huy             Execurive Officer (resigned on 30 May 2025)
-  Supervispry Board             Head of the Supervisory Board {appointed on 30 May 2025)
-  Mr. Trinh Van Minh
-   Mr . Nguyen Cang Minh        Member of thc Supervisory Board
-   Mr. Nguyen Thi Kim Yen       Member of the Supervisory Board
-           Hoang Anh            Head of the Supervisory Board (resigned on 30 May 2025)
-   Ms. Tran Thi +
+Công ty Cổ phần Chứng khoán SSI
+THUYÉT MINH BÁO CÁO TẢl CHÍNH HƠP NHAT QUỶ
+tại ngày 31 tháng 03 năm 2025 và cho kỷ kế toán kết thúc cùng ngày
+29.3.
+29.4.
+Chénh lệch về đánh gỉá lạỉ phải trà chúng quyẻn
+STT
+Cổ tức, tiẻn lãi phát sinh tử tài sản tài chinh FVTPL, HTM, AFS
+Tỗng cộng
+Tử tài sàn tàỉ chinh FVTPL
+Tử tài sản tài chính HTM
+Tử cảc khoàn cho vay và phải thu
+Tử tàỉ sản tài chinh AFS
+Cổ túc, trái túc phát sinh từ tàỉ sản tài chính AFS
+Danh muc các loai chứng quyen
+Cong
+Tong cong
+ACBIIMISSIICIEUICash-17
+FPTI9MISSIICIEUICash-17
+HPGIGMISSIICIEUICash-17
+HPGI9MISSIICIEUICash-17
+MBBISMISSIICIEUICash-17
+Chứng quyen khac
+ty phát hành
+Già trỉ phát hảnh thoo
+202.503.511.880
+313.803.888.628
+35.321.325.115
+12.754.740.070
+22.166.583,406
+25.618.202.194
+15.439.525.963
+NẰM 2025 (tiếp theo)
+S0 ke (oan
+VND
+1.223.983.904.023
+627.993.174.845
+509.584.128.758
+Quý
+145.212 504.00o
+226.285.916.000
+85.401.559.324
+13.320.280,000
+21.700.564,00o
+19.657.097.000
+11.313.660,000
+15.081.811.000
+1.005.041,.096
+Giá trị thị truung
+005.041.096
+các khoản cho vay và phải thu
+nám 2025
+VND
+VND
+1.038.882.539.536
+15.664.228,115
+57291.007.880
+87.517.972.628
+Só dư chénh lech
+3.917.638.194
+484.193.622.120
+446,711.339.935
+1.441.080,070
+105.822.526.572
+Quỷ
+846.303.406
+357.714.963
+2.155.050.909
+2.155.050.909
+danh giá lal
+cuổi kỷ [2]
+nám 2024
+VND
+VND
+(10.005.321.947)
+25.182.337.759
+16.659.332.481
+Su dư chénh léch
+1,161,764,228
+1.223.983.904.023
+Lúy ké nfm 2025
+311,368,298
+509.584.128.758
+627.993.174.845
+(1.525.305)
+10,709,448
+85.401.559.324
+1.005.041.096
+dánh giá lai
+đau qưỷ [1]
+005.041.096
+VND
+VND
+805-CTCKIHN
+chinh sô ke loán ([2]-[1])
+Chênh lệch thuàn điu
+1.038.882.539.536
+Lúy kể nám 2024
+484.193.622.120
+446.711.339.935
+105.822.526.572
+25.669 550.062
+32.108,670.121
+70.858.640.147
+1.430.370,622
+3.606.269.896
+7.684.539.178
+2.155.050,909
+2.155.050.909
+359.240.268
+Quý 1/2025
+VND
+VND +
  
-# PETROVIETNAM GAS JOINT STOCK CORPORATION  
-PV GAS Tower, 673 Nguyen Huu Tho Street  
-Nha Be Commune, Ho Chi Minh City, Vietnam  
+# Công ty Cổ phần Chứng khoán SSI
 
-## STATEMENT OF THE BOARD OF MANAGEMENT
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-The Board of Management of PetroVietnam Gas Joint Stock Corporation (the "Corporation") presents this report together with the Corporation's interim consolidated financial statements for the 6-month period ended 30 June 2025.
+----
 
-## BOARDS OF DIRECTORS AND MANAGEMENT
+### 29.3. Chênh lệch về đánh giá lại phải trả chứng quyền
 
-The members of the Boards of Directors and Management of the Corporation during the period and to the date of this report are as follows:
+| STT           | Danh mục các loại chứng quyền | Giá trị phát hành theo số kế toán (VND) | Giá trị thị trường (VND) | Số dư chênh lệch đánh giá lại cuối kỳ \[2] (VND) | Số dư chênh lệch đánh giá lại đầu quý \[1] (VND) | Chênh lệch thuần điều chỉnh số kế toán (\[2]-\[1]) (VND) |
+| ------------- | ----------------------------- | --------------------------------------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------------------- |
+| 1             | FPTI9MISSIICIEUICash-17       | 35.321.325.115                          | 19.657.097.000           | 15.664.228.115                                   | (10.005.321.947)                                 | 25.669.550.062                                           |
+| 2             | ACBIIMISSIICIEUICash-17       | 12.754.740.070                          | 11.313.660.000           | 1.441.080.070                                    | 1.161.764.228                                    | 25.182.337.759                                           |
+| 3             | HPGIGMISSIICIEUICash-17       | 22.166.583.406                          | 13.320.280.000           | 8.846.303.406                                    | 1.116.764.228                                    | 16.659.332.481                                           |
+| 4             | HPGI9MISSIICIEUICash-17       | 25.618.202.194                          | 21.700.564.000           | 3.917.638.194                                    | 311.368.298                                      | 25.182.337.759                                           |
+| 5             | MBBISMISSIICIEUICash-17       | 15.439.525.963                          | 15.081.811.000           | 357.714.963                                      | (1.525.305)                                      | 7.684.539.178                                            |
+| 6             | Chứng quyền khác              | 145.212.504.000                         | 145.212.504.000          | 0                                                | 0                                                | 0                                                        |
+| **Tổng cộng** |                               | 313.803.888.628                         | 226.285.916.000          | 87.517.972.628                                   | 25.182.337.759                                   | 70.858.640.147                                           |
 
-### Board of Directors
 
-* Mr. Nguyen Thanh Binh — Chairman  
-* Mr. Pham Van Phong — Member  
-* Mr. Trieu Quoc Tuan — Member  
-* Mr. Tran Nhat Huy — Member (appointed on 30 May 2025)  
-* Mr. Trinh Van Khiem — Member (appointed on 30 May 2025)  
-* Mr. Do Dong Nguyen — Independent Member  
-* Mr. Nguyen Thanh Hao — Independent Member  
-* Mrs. Vo Thi Thanh Ngoc — Member (resigned on 30 May 2025)  
-* Mr. Truong Hong Son — Member (resigned on 30 May 2025)  
+----
 
-### Board of Management
+### 29.4. Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL, HTM, AFS, các khoản cho vay và phải thu
 
-* Mr. Pham Van Phong — Chief Executive Officer  
-* Mr. Huynh Quang Hai — Executive Officer  
-* Mr. Nguyen Phuc Tue — Executive Officer  
-* Mr. Nguyen Cong Luan — Executive Officer  
-* Mr. Hoang Trong Dung — Executive Officer  
-* Mr. Nguyen Minh Tuan — Executive Officer (appointed on 02 June 2025)  
-* Mr. Tran Nhat Huy — Executive Officer (resigned on 30 May 2025)  
+|                           | Từ tài sản tài chính FVTPL | Từ tài sản tài chính HTM | Từ các khoản cho vay và phải thu | Từ tài sản tài chính AFS | Cổ tức, trái tức phát sinh từ tài sản tài chính AFS |                   |
+| ------------------------- | -------------------------- | ------------------------ | -------------------------------- | ------------------------ | --------------------------------------------------- | ----------------- |
+| **Quý 1 năm 2025 (VND)**  | 509.584.128.758            | 85.401.559.324           | 627.993.174.845                  | 446.711.339.935          | 1.005.041.096                                       | 1.223.983.904.023 |
+| **Quý 1 năm 2024 (VND)**  | 484.193.622.120            | 105.822.526.572          | 627.993.174.845                  | 446.711.339.935          | 1.005.041.096                                       | 1.223.983.904.023 |
+| **Lũy kế năm 2025 (VND)** | 509.584.128.758            | 85.401.559.324           | 627.993.174.845                  | 446.711.339.935          | 1.005.041.096                                       | 1.223.983.904.023 |
+| **Lũy kế năm 2024 (VND)** | 484.193.622.120            | 105.822.526.572          | 627.993.174.845                  | 446.711.339.935          | 1.005.041.096                                       | 1.223.983.904.023 |
+| **Tổng cộng**             | 1.038.882.539.536          | 1.038.882.539.536        |                                  |                          |                                                     |                   |
 
-### Supervisory Board
 
-* Mr. Trinh Van Minh — Head of the Supervisory Board (appointed on 30 May 2025)  
-* Mr. Nguyen Cong Minh — Member of the Supervisory Board  
-* Mr. Nguyen Thi Kim Yen — Member of the Supervisory Board  
-* Ms. Tran Thi Hoang Anh — Head of the Supervisory Board (resigned on 30 May 2025)  
  + 
  + [] 
  None

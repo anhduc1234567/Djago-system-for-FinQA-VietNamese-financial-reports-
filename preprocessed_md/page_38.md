@@ -1,113 +1,83 @@
-TỐNG CÔNG TY KHÍ VIỆT MAM - CÔNG TY Cẩ PHẦN                              MẪU SỐ B 09a-DN /HN
-THUYẼT MINH BẢO CAO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
-
-19.     PHÁl TRÁ KHÁC
-                                                                         Số cuốì kỲ                  Sở đầu kỳ
-                                                                                VND                VND
-            Phải trà ngắn hạn khác                                  133,034,435,280    142,649,759 162
-        Nhan ký cược ky qu7 ngan han
-        Phẻi -rả cac bên trong hợp đồng hợp tác kinh dcanh           81,955,704,768     79,613,834,547
-        ("BCC")                                                  43,163,407,491                    258,349,500
-         Cỏ tức phải trả                                                                        31,653,059,057
-         Chenh lệch giá khí bao tíẻu phắi nộp Nhả nước               85,966,140,033            119 663,579,466
-        Fhẩitrả ngắn hạn khác
-                                                                     344119,687,572            373,838,581,752
-         Trong đó:
-         Pnartra ngan nan Khac cno Cac ben Ilen quan Chu Veu     3919u219
-         (chi tiết rại Thuyét minh 5ố 35)
-          b. PhẢi trẢ dài hạn khác                                  117,993,329,052            128,767,710,130
-         Nhân ký quỹ kỶ cưoc dai hạn                                      2,431,891,964
-          Phảỉ lrả dai han khác                                                                    932,488,529
-                                                                        120,425,221,016        129,700,198,659
-         Pnẩn ánh phần vốn gỏp và lơi nhuán dược chla của Công ty Cẩ phần Đja ốc Phú Long từ vìệc đầu
-          tư' xãy dựng vè kInh doanh khai thác Dự án "Tòa nhà Vẳn phòng PV Gas Tower"                673 Đường
-                                                                                               tai sổ
-         Nguyễn HữuTnoXã Nhà Bè, Thành Phố Hồ Chí Minh Theo thỏa thuận giữa các bên, Tổng Công
-          ty thực hiện      lý và hạch toán kết  kinh doenh cúa hợp đồng và phân chia lợi rhuận sau
-                          quản                 quả
-          tnuế cha cac bên theo tỷ lé vổn gop.
-          Tỷ lệ vốn góp của các bên theo thóa thuan tai BCC như sau:
-                                                                                                 TỷIệ góp (%)
-          Tổng Công ty                                                                               9096
-          Công         phần Đia óc Phú Long                                                                 1096
-             tY Cỗ
-          Giá tri tài sán cố định của BCC tại cuôi kỳ hoạt dộng như sau:
-                                                                                  Số cuổilỲ               dầu kỳ
-                                                                                        VND                  VND
-          Nguyen giá                                            723.317.373.840                 723 317 373,.840
-            Trong đó;                                           223,730.000 O0o                  223 730.cO0.0oO
-             Quyền sử dung đât                                   499,.58/.373 840               499.587.373.840
-             Tàl sán tren đốt                                             (168.782 476.627)    {164.018.979.532)
-           Giá tri khấu hao lũy kế cua tài sảr trên đắt         554.534.897 213                  559.298.394.307
-           Giá trị cèn lai
-          Tinh hình hoat độrg kinh doanh và phãn chia lãi /(lố) then tý lệ võp gỏp cho kỷ hoạt động 6 tháng
-          kêt thúc ngày 30 théng 6 năm 2025 và ngay 30 tháng 6 nãm 2024 như sau:
-                                                                                      Kỳnàỵ          Kỳ trước
-                                                                                        VND          VND
-            Doanhu thu                                                       64.647.787,379      61.285,606.912
-            Glz von                                                        (27.709.328,074)     {26.466,752.241)
-            Chl phí khác                                         (1.035 594.554)                 (763 193.366)
-            Thuể thu nhập doanh nghiệp                                  180.572.950}             (6.811 132.261)
-           Lợi nhuận sau thuế                                     28.722.291.801                 27.244.529.094
-            Phcn chia theo tỷ le gop vẩn:                         26.380 421.580                 25,.024,307,996
-            Tẩng Công ty                                                                         2,220.221.048
-            Công ty Cẵ phần Đja ũc Phú Long                         2.341,870.221 +
+  Côngty Cổ phần Chứng khoán SSI                                               B05-CTCKHN
+  THUYÉT MINH BẢO CÁO TẢI CHÍNH HỢP NHAT QUÝ               NĂM 2025 (tiép theo)
+  tại ngảy 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+  4.31         Vón chu sở hữu
+               Vổn góp cùa chù sở hữu
+              Vốn góp từ phát hành có phiéu được ghi vào tài khoản vốn điều lệ theo mệnh giá
+              Lpi nhuân chưa phân phổi
+              Lợi nhuan chua phan phoi bao gom lợi nhuàn đã thực hien và chua thuc hien,
+              Lợi nhuân chuathuc hién của kỳ kế toản là s8 chénh lêch giữatBnggiá trị Iãi , lỗ dánh giá la
+              của các tải sản tải chÍnh ghi nhân thông qua láillỗ hoặc khác tính vao bảo cáo lãỉ lỗ của Báo
+              cáo ket qua hoat đông hop nhat thuôc danh muc tai san  chinh của Công ty và khoản
+                                                                                            thue
+              thu nhâp doanh nghiep hoán lai phài trà liên quan dến phàn đảnh giả tăng s0 vớỉ giá gốc cùa
+              tài san tàr chinh FVTPL và khác của Công
+              Lợi nhuận đã thực hiện của kỳ kế toán là số chênh lệch gỉữatongdoanh thu thu nhâp với
+              tong các khoản chi phi tinh vào Báo cáo kêt  hoat động hợp nhát của Công ty              Các
+                                                      quả                                   ngoai
+             khoản đ0 được ghỉ nhận vào lợỉ nhuan chua thực hiện.
+              Cac quỹ
+             Cac          được trich lập theo Nghị quyết của Đại hội đồng Cổ đông tại cuộc họp thường niên
+               quy
+             của Đal hóỉ đóng Cô đông
+ 4.32        Phán chia lợỉ nhuận
+             Lợi nhuân thuàn sau thué thu nhập doanh nghỉệp có thẻ được chia cho các nhả đằu tư sau
+            khi được phê duyệt tại Cuộc hop thuởng niên cua Đai hội đong Co đông và sau khi đà trÍch
+              ập các quỹ dự phòng theo Đieu  Công ty và các quy đjnh của pháp luat Viẹt Nam.
+ 4.33       Thỗng tin bộ phận
+           Một bộ phận là một cấu phẩn có thé xác đinh riêng biệt của Côngty tham gia vào vỉệccung
+           cap các sản pham hoac dich vu lien quan (bộ phan được chia theo hoat đông kinh doanh)
+           hoăc cung cáp sản phấm hoặc dịch vu trong môt môi trường kinh tế cu thé (bộ phận được
+           chia theo khu vyc đja lý) Moi một bó phận này chịu rùi ro và thu đuoc loi Ich khác biet so vói
+           các bô phan khác.
+          Bộ phân theo hoat động kinh doanh của Công ty chủ yếu được xác định dựa trên cac djch vu
+           dưoc cung cap cho nhà đau tư. Ban Giám doc xác định bộ phàn theo khu vực đja lý cùa Công
+          ty dua theo dịa điém cua tài sàn
+4.34       Các bên liên quan
+          Các bên được coi là bên lien quan của Công ty neu môt ben có khà náng truc tỉêp hoac gián
+          tiêp, kỉém soát bén kia hoặc gây ảnh hưởng đáng kẻ tới bên kỉa trong vỉệc ra các quyét định
+          tai chinh vahoatđộng, hoặc khi Công ty và bên kia cùng chiu sự kỉém soát chung hoặc ảnh
+          hưởng đáng ké chung. Các bén lien quan néu trên có thé là các công ty hoặc các cá nhân;
+          bao gôm cà các thành vỉên mât thiet trong gia đinh cùa họ
+4.35      Các khoản mục không có số dư
+          Các khoàn muckhông duợc trinh bàytrén báo cao tai chinh này theo Thông tư
+          210/2014/TT-BTC ngảy 30 tháng 12 nam 2014, Thôngtư s8 334/2016/TT-BTC ngày 27Ihang
+          12 năm 2016 do Bộ Tài chinh ban hành là các khoàn muc không có s8 dư. +
  
-# 19. PHẢI TRẢ KHÁC
+# Công ty Cổ phần Chứng khoán SSI  
+B05-CTCK/HN
 
-|                                                                                       | Số cuối kỳVND       | Số đầu kỳVND        |
-| ------------------------------------------------------------------------------------- | ------------------- | ------------------- |
-| **a. Phải trả ngắn hạn khác**                                                         |                     |                     |
-| Nhận ký cược, ký quỹ ngắn hạn                                                         | 133,034,435,280     | 142,649,759,182     |
-| Phải trả các bên trong hợp đồng hợp tác kinh doanh ("BCC") (\*)                       | 81,955,704,768      | 79,613,834,547      |
-| Cổ tức phải trả                                                                       | 43,163,407,491      | 258,349,500         |
-| Chênh lệch giá khí bao tiêu phải nộp Nhà nước                                         | 85,966,140,033      | 119,663,579,466     |
-| Phải trả ngắn hạn khác                                                                |                     |                     |
-| ***Tổng cộng***                                                                       | **344,119,687,572** | **373,838,581,752** |
-| *Trong đó:*                                                                           |                     |                     |
-| Phải trả ngắn hạn khác cho các bên liên quan chủ yếu (chi tiết tại Thuyết minh số 35) | 39,302,920,354      | 24,567,931,587      |
-| **b. Phải trả dài hạn khác**                                                          |                     |                     |
-| Nhận ký quỹ, ký cược dài hạn                                                          | 117,993,329,052     | 128,767,710,130     |
-| Phải trả dài hạn khác                                                                 | 2,431,891,964       | 932,488,529         |
-| ***Tổng cộng***                                                                       | **120,425,221,016** | **129,700,198,659** |
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
+## 4.31 Vốn chủ sở hữu
 
-> (*) Phản ánh phần vốn góp và lợi nhuận được chia của Công ty Cổ phần Địa ốc Phú Long từ việc đầu tư xây dựng và kinh doanh khai thác Dự án "Tòa nhà Văn phòng PV Gas Tower" tại số 673 Đường Nguyễn Hữu Thọ, Xã Nhà Bè, Thành Phố Hồ Chí Minh. Theo thỏa thuận giữa các bên, Tổng Công ty thực hiện quản lý và hạch toán kết quả kinh doanh của hợp đồng và phân chia lợi nhuận sau thuế cho các bên theo tỷ lệ vốn góp.
+### Vốn góp của chủ sở hữu  
+Vốn góp từ phát hành cổ phiếu được ghi vào tài khoản vốn điều lệ theo mệnh giá.
 
-Tỷ lệ vốn góp của các bên theo thỏa thuận tại BCC như sau:
+### Lợi nhuận chưa phân phối  
+Lợi nhuận chưa phân phối bao gồm lợi nhuận đã thực hiện và chưa thực hiện.
 
-|                                 | Tỷ lệ góp (%) |
-| ------------------------------- | ------------- |
-| Tổng Công ty                    | 90%           |
-| Công ty Cổ phần Địa ốc Phú Long | 10%           |
+Lợi nhuận chưa thực hiện của kỳ kế toán là số chênh lệch giữa tổng giá trị lãi, lỗ đánh giá lại của các tài sản tài chính ghi nhận thông qua lãi/lỗ hoặc khác tính vào báo cáo lãi lỗ của Báo cáo kết quả hoạt động hợp nhất thuộc danh mục tài sản tài chính của Công ty và khoản thuế thu nhập doanh nghiệp hoãn lại phải trả liên quan đến phần đánh giá tăng so với giá gốc của tài sản tài chính FVTPL và khác của Công ty.
 
+Lợi nhuận đã thực hiện của kỳ kế toán là số chênh lệch giữa tổng doanh thu, thu nhập với tổng các khoản chi phí tính vào Báo cáo kết quả hoạt động hợp nhất của Công ty ngoài các khoản đã được ghi nhận vào lợi nhuận chưa thực hiện.
 
-Giá trị tài sản cố định của BCC tại cuối kỳ hoạt động như sau:
+### Các quỹ  
+Các quỹ được trích lập theo Nghị quyết của Đại hội đồng Cổ đông tại cuộc họp thường niên của Đại hội đồng Cổ đông.
 
-|                                              | Số cuối kỳVND       | Số đầu kỳVND        |
-| -------------------------------------------- | ------------------- | ------------------- |
-| Nguyên giá                                   | 723,317,373,840     | 723,317,373,840     |
-| Trong đó:                                    |                     |                     |
-| Quyền sử dụng đất                            | 223,730,000,000     | 223,730,000,000     |
-| Tài sản trên đất                             | 499,587,373,840     | 499,587,373,840     |
-| Giá trị khấu hao lũy kế của tài sản trên đất | (168,782,476,627)   | (164,018,979,533)   |
-| **Giá trị còn lại**                          | **554,534,897,213** | **559,298,394,307** |
+## 4.32 Phân chia lợi nhuận  
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các nhà đầu tư sau khi được phê duyệt tại Cuộc họp thường niên của Đại hội đồng Cổ đông và sau khi đã trích lập các quỹ dự phòng theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
 
+## 4.33 Thông tin bộ phận  
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận được chia theo hoạt động kinh doanh) hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi một bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.
 
-Tình hình hoạt động kinh doanh và phân chia lãi/(lỗ) theo tỷ lệ vốn góp cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025 và ngày 30 tháng 6 năm 2024 như sau:
+Bộ phận theo hoạt động kinh doanh của Công ty chủ yếu được xác định dựa trên các dịch vụ được cung cấp cho nhà đầu tư. Ban Giám đốc xác định bộ phận theo khu vực địa lý của Công ty dựa theo địa điểm của tài sản.
 
-|                                   | Kỳ nàyVND          | Kỳ trướcVND        |
-| --------------------------------- | ------------------ | ------------------ |
-| Doanh thu                         | 64,647,787,379     | 61,285,606,912     |
-| Giá vốn                           | (27,709,328,074)   | (26,466,752,241)   |
-| Chi phí khác                      | (1,035,594,554)    | (763,193,366)      |
-| Thuế thu nhập doanh nghiệp        | (7,180,572,950)    | (6,811,132,261)    |
-| **Lợi nhuận sau thuế**            | **28,722,291,801** | **27,244,529,094** |
-| Phân chia theo tỷ lệ góp vốn:     |                    |                    |
-| - Tổng Công ty                    | 26,380,421,580     | 25,024,307,996     |
-| - Công ty Cổ phần Địa ốc Phú Long | 2,341,870,221      | 2,220,221,048      |
+## 4.34 Các bên liên quan  
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nêu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
 
-
+## 4.35 Các khoản mục không có số dư  
+Các khoản mục không được trình bày trên báo cáo tài chính này theo Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014, Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành là các khoản mục không có số dư.
  + 
  + [] 
  None

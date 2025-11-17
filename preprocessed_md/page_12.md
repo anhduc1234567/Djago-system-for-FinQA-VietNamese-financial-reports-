@@ -1,77 +1,118 @@
-TỞNG CÔNG TY KHÍ VIỆT MAM - CÔNG TY cÕ PHÃN            MẴU SỐ B 03a-DN /HN
-Tòa nhà PV GAS Tower; số 673 đuờng Nguyễn Hữu Thọ      Thông tI số 202/2014/1T-BTC
-                                                       Ban hành theo
-Kẫ Nhà Bè Thảnlu phó Hà_ChlMinh, Viêt Nam              ngàỵ 22 tháng 1Znãm 2014 của Bé Tàichính
- BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
-  Cho kỳ hoạt động 6 tháng kêt thúc ngày 30 tháng 6 năm 2025
-                                                                            Đdn vị' VND
-
-CHỈTIÊU                                      MMà sổ    Kỳ này               Kỳ trưởc
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TAI CHÍNH                 380.771.869 0C8         1697 577.258.460
-Tiên thu tù'đi vay                                 (611.765 142,445)        [3.269.973.802.302)
- Tiền trả nợ gôc vay                                                        {1.572.396.543.842)
- Lưu chuyển tỉền thuần từ hoat động          40    (230.993.273.437)
- tdl chÍnh
- Lưu chuyển tlềr thuần trong kỳ              50        4,808.267.233.468      1.877.916.249.753
- (50=20+30+40)
-Tỉền và tương đương tiền đầu kỳ                        5.567.983.431.468     5.668.895.193,.049
-Ánh hưởng của thay đổi tỷ giá hốì doái                       895 245,427    8.489,824.254
- quY đổi ngoai tệ
- Tỉền và Ẻương đưrơng tiền cuổi kỳ                     10.377.145.910.363   7.555.301.267.056
-{70-50+60+61)
-
-
-
-Viet_NAM
-                                        CoNG
-                                        Cophan
-                                         E
-Đặng Th] Hông Yến    Nguyễn Anh Tuấn     Nguyễn Công Luận
-Người lập biểu       toán trưởng         Phó Tong Giam doc
-                     Kể
-                                         Ngày 12 thúng 8 nằm 2025
-
-
-
-
-
-
-
-
-
-
-Cac thuvét mỉnh kerr theo là một bộ phận hợp thành cua báo cáo tai chính hợp nhất giữa nỉên độ này +
+BÁO CÁO KÉT QUẢ HOẠT ĐONG HỢP NHÁT QUỶ
+Công
+cho kỷ kế toán kết thúc ngày 31 tháng 03 năm 2025
+ty Cổ phần Chứng khoán SSI
+Mã só
+100.
+100.
+100
+200
+201
+203
+Lợi nhuan đà thưc hien
+Lợi nhuan chua thuc hien
+Chỉ phi thué TNDN hiẻn hành
+Chi phil (thu nhập) thuế TNDN hoan lai
+húu
+co dông không kỉém soát
+CHỈ TIÉU
+VII. THU NHAP KHÁC VÀ CHI PHÍ KHẢC
+Thu nháp khác
+Chi phi khác
+Cong két quả hoat động khác
+VIII. TONG LQI NHUẠN KÉ TOẢN TRƯỚC
+Lợi nhuận sau thuể phân bổ cho chủ sở
+Loi nhuan thuan phán bo cho lơi ich của
+THUE
+CHI PHI THUÉ THU NHẠP DOANH
+NGHIEP (TNDN)
+LỢI NHUAN KÉ TOẢN SAU THUÉ
+TNDN
+NĂM 2025 (tiếp theo)
+Thuyét
+minh
+1.047.063.625.660
+915.247,001.160
+131.816,624.500
+203.070.361.304
+198.113,402,886
+843.993.264.356
+843.994,524.895
+1.713.103.220
+947,470.527
+234.367,307
+956,958.418
+(1,.260.539)
+Nam nay
+VND
+Quỷ
+942.652.063.843
+957.068 239.752
+(14 416.175.909)
+178,351.782.536
+193,324,352.833
+(14.972.570.297)
+764.251.330.193
+764 5
+528.406,490
+475.464.252
+300.281.307
+52.942.238
+48.951.114
+Nam truớc
+VND
+1.047.063.625.660
+Lũy ké từ dẳu nám đến cuói quj này
+915 247.001.160
+843.993.264.356
+131.816.624.500
+203.070.361.304
+198,113 402.886
+843.994.524.895
+1.947.470.527
+1.713.103.220
+234.367,307
+956.958.418
+(1.260.539)
+Nam nay
+B01-CTCKIHN
+VND
+(14 416.175.909)
+(14.972.570.297)
+942.652.063.843
+957.068.239.752
+178.351.782.536
+193,324,352.833
+764.300.281.307
+764 251.330.193
+528.406,490
+475.464.252
+52.942 238
+48.951.114
+Nam truoc
+VND +
  
-# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)  
-*Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025*  
+# Công ty Cổ phần Chứng khoán SSI
 
-**Đơn vị: VND**
+## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
 
-| CHỈ TIÊU                                                | Mã số | Kỳ này             | Kỳ trước            |
-| ------------------------------------------------------- | ----- | ------------------ | ------------------- |
-| III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH             |       |                    |                     |
-| 1. Tiền thu từ đi vay                                   | 33    | 380.771.869.008    | 1.697.577.258.460   |
-| 2. Tiền trả nợ gốc vay                                  | 34    | (611.765.142.445)  | (3.269.973.802.302) |
-| *Lưu chuyển tiền thuần từ hoạt động tài chính*          | 40    | (230.993.273.437)  | (1.572.396.543.842) |
-| **Lưu chuyển tiền thuần trong kỳ (50=20+30+40)**        | 50    | 4.808.267.233.468  | 1.877.916.249.753   |
-| Tiền và tương đương tiền đầu kỳ                         | 60    | 5.567.983.431.468  | 5.668.895.193.049   |
-| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | 61    | 895.245.427        | 8.489.824.254       |
-| **Tiền và tương đương tiền cuối kỳ (70=50+60+61)**      | 70    | 10.377.145.910.363 | 7.555.301.267.056   |
+| Mã số | CHỈ TIÊU                                                           | Quý 1<br/>Năm nayVND | Quý 1<br/>Năm trướcVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |
+| ----- | ------------------------------------------------------------------ | -------------------- | ---------------------- | ------------------------------------------------- | --------------------------------------------------- |
+| 71    | Thu nhập khác                                                      | 1.947.470.527        | 528.406.490            | 1.947.470.527                                     | 528.406.490                                         |
+| 72    | Chi phí khác                                                       | 234.367.307          | 52.942.238             | 234.367.307                                       | 52.942.238                                          |
+| 80    | Cộng kết quả hoạt động khác                                        | 1.713.103.220        | 475.464.252            | 1.713.103.220                                     | 475.464.252                                         |
+| 90    | VIII. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ                            | 1.047.063.625.660    | 942.652.063.843        | 1.047.063.625.660                                 | 942.652.063.843                                     |
+| 91    | Lợi nhuận đã thực hiện                                             | 915.247.001.160      | 957.068.239.752        | 915.247.001.160                                   | 957.068.239.752                                     |
+| 92    | Lợi nhuận chưa thực hiện                                           | 131.816.624.500      | (14.416.175.909)       | 131.816.624.500                                   | (14.416.175.909)                                    |
+| 100   | IX. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP (TNDN)                      | 203.070.361.304      | 178.351.782.536        | 203.070.361.304                                   | 178.351.782.536                                     |
+| 100.1 | Chi phí thuế TNDN hiện hành                                        | 198.113.402.886      | 193.324.352.833        | 198.113.402.886                                   | 193.324.352.833                                     |
+| 100.2 | Chi phí (thu nhập) thuế TNDN hoàn lại                              | 4.956.958.418        | (14.972.570.297)       | 4.956.958.418                                     | (14.972.570.297)                                    |
+| 200   | **LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN**                                | 843.993.264.356      | 764.300.281.307        | 843.993.264.356                                   | 764.300.281.307                                     |
+| 201   | 1. Lợi nhuận sau thuế phân bổ cho chủ sở hữu                       | 843.994.524.895      | 764.251.330.193        | 843.994.524.895                                   | 764.251.330.193                                     |
+| 203   | 2. Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát | (1.260.539)          | 48.951.114             | (1.260.539)                                       | 48.951.114                                          |
 
 
-----
-
-### Chữ ký
-
-| Đặng Thị Hồng Yến | Nguyễn Anh Tuấn | Nguyễn Công Luận |
-|-------------------|----------------|------------------|
-| Người lập biểu    | Kế toán trưởng | Phó Tổng Giám đốc |
-
-*Ngày 12 tháng 8 năm 2025*
-
-----
-
-_Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này._
  + 
  + [] 
  None

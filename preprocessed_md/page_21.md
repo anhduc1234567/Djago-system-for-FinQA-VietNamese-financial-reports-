@@ -1,87 +1,87 @@
-TỐNG CÔNG TY KHÍ VIÊT MAM CÔNG TY CỔ PHẦN                      MẪU SỐ B 09a-DN /HN
-THUYỂT MINH BÁO CÁO TÀl CHÍNH HỢP NHẮT GIỮA NIÊN ĐỘ (Tiểp theo)
- Tài sán cố định vô hinh và khau hao
- Tài sẳn cố định vĐ hInh thể hiện giá trị quyÊn sử dụng đãt, phẩn mềm máy tinh và cac tài sẩn cỗ
- dinh vâ hinh khác, zươc trinh bàytheo nguyên giấ trừ giá tri hao mòn lũy kế
-   Nguyên giá tài sản có địrh vó hình bao gồm giả mua và toàn bộ các chi phí khác liên quan trực
- tỉếp đẾn việc đưa tài sản vào trạng thải sẵn sàng sử dung
-       Quvền sử dung dất co thời hạn đươc khẩu hao theo thởì gian ẩược cấp, quyên sử dụng đất có
-               'dụng lau dai không phái trích khấu hao. Phằn mềm máy tính và cac tai sản cổ định
-  thoi nan sử
-  vô hinh khác nược khấu haa theo phương pháp dường thẳng dựa trén thời gian hữu dụng ước
-  tinh, cuthể như sau:                                                                    Số năm
-
- Quyền sử dung đấtcó thời hạn                                                              03 50
-  Pnần mêm máy tinh                                                                           10
-  Tai sản cã dinh vò hình khác                                                             03 05
-  Bất động sản đâu tư
-    Bẩt động sẳn dău tư bao gỒ11 quyền sử dụng đất và nhà cửa, vát kiến trúc do Tấng Công ty nắm
-                                             'tăng                  Bẩt dộng sản đầu tu cho thuê
-  giữ nhằm muc đích thu lựỉ tử viêc cho thuể haậc chờ     gỉá
-   dưyc trinh hằy theo nguyên gia trừ gỉá tri hao mòn lũy kế. Bất đóng sản đầu tư chù tăng giá
-                                                                     động
-   dược trinh bày theo nguyên giá trừ suy giảm giá trj: Nguyên Biá cúa bất  sán ẩâu tưr dưqc
-   mua bao gồm giá mua va các chi phí lỉên quan trực tiếp nhưr phÍ dịch vụ tư vấn về luật pháp Ilên
-   quan, thuế truoc bạ và chi phl giao djch liên quan khác. Nguyên giđ bất dộng sẳn đầu tư tự xây
-   là giá tr) quyết toáncôngtrinn hoac cac chi phí liên quan trực tiêp của bất đỘng sản đìu tư.
-   Bất đong sản đau tư cho thuêQudckhẩu hao Iheo phương pháp đường thẳng trên thờỉ gian
-   hữudyngưửc tính cúa tàiSan.
-                                                                            ane
-
-   Chi phí xây dựng cơ bản dở dang
-   Các tàl sản dang trong quá trinh xây dựng phục vụ mục đích sản xuẩt, cho thué, quán lý hoặc
-   cho các muc đích khác được ghi nhận theo giá gốc bao gồm các chi phí cần thiết để hinh thành
-    tàỈ sản baa gồm chỉ phí xây lắp, thi-t bị chi phí khác co liên quan phù hợp với chính sách kế toẩn
-      TổngCông tY. Cac chi phí này sế ẩươc chuyển sang    'giá tài sán cố định theo giả tam
-    cua                                                nguyên
-    tính InếL chưa có quyểt toán được phệ cluyệt) khi các tải sản đưqc bàn giao đưa vào sử dung
-     Theo quy định về quản lý dầu tư và xây dựng của Nhà nưác, tùy theo phân cãp quản lý. gỉả tri
-    quyết toản céc công trinh xắy dung cơ bản haàn thành cần được cảc cơ quan có thẩm quyền
-     phê cuyệt Do đó, giá trj cuôl cùng của các công trình xẩy dựnf co bản có thể thay đổi và phụ
-     thuộc vàoquyẽttoán được phê duyệt bởi cảc cơ quan có thẩm quyền.
-     Các khoản trả trước
-     Chi phí trả trước bao gồm các chi phi thực tế đã phát sinh nhưng có líên quan đến kết  hoạt
-                                                                               qua
-     đông sản xuất kinh doanh của nhỉpu kỳ kế toán. Chi phí trá trưởc bao gằm chi phÍ mua khi bao
-      sứa chữa chi phỉ phân hẩ cong cu, dung cu khòng thỏa mãn đỉều kiện ghi nhận Tài sản cấ đjnh
-      và các khoản chi phi trả trước khác.
-                                          18 +
+Công ty Cổ phần Chứng khoán SSI                                    B05-CTCKIHN
+THUYET MINH BÁO CÁO TẢI CHÍNH HỢP NHÁT QUÝ     NĂM 2025
+tại ngảy 31 tháng 03 nám 2025 và cho kỷ kế toán kết thúc cùng ngày
+ THÔNG TIN DOANH NGHIEP
+   Công ty Có  chứng khoán SSI    Công ty ) là một công ty có phần được thành lập theo Luât
+          phan                  Giấy phép Thành Iập công ty co phấn số 3041/GP-UB do Uỷ ban
+   Doanh Nghỉêp Viet Nam
+       Nhàn dân Thanh phó Ho Chi Minh cấp ngày 27 tháng 12 năm 1999 và Giấy Chứng nhân Đăng
+  ký Kinh doanh s8 0301955155 do Sở Ké hoach và Đảu tư Thanh       Hổ Chí Minh cáp đang
+                                                                  phó
+  ký làn đẩu vào ngày 05 tháng 04 nẳm 2000 Công ty hoat động theo Giay phép Hoat đông Kinh
+  doanh Chửng khoán số O3IGPHĐKD do Chủ tich Ủy ban Chứng khoản Nhà nước cap ngày
+  tháng nam 2000 và các giây phép điêu chinh
+  Vón điều lệ ban đầu của Công ty là 6.000.000,000 VND và đã được bỏ sung trong tửng thởi
+  kỳ theo các giấy phép điều chinh; gàn nhẩt là giáy phép đièu chinh số 1OIGPĐC- UBCK do
+  Chủ tịch Uy ban Chứng khoan Nhà nước cap, có hiệu lực ké từ ngày 23 tháng 12 nám 2024_
+  Tai ngày 31 tháng 03 nằm 2025, tóng 'vón đièu le của Cóng ty là 19.638.639.180.000 VND
+  Hoat động chinh cua Công ty là môi giới chứng khoản tự doanh chứng khoán; bảo lanh phát
+  hảnh chứng khoán, lưu ký chứng khoán; tư vấn tảỉ chinh và tư ván đầu tư chứng khoán, giao
+  dịch ký quỹ chứng khoán và hoạt động kinh doanh chứng khoán phái sinh; Công ty có trụ sở
+  chính tai s6 72 đưởng Nguyễn Huệ, phường Bến Nghé, Quận        Thành phố Hồ Chi Minh. Tại
+  ngay 31 tháng 03 nẩm 2025, Công ty có chi nhánh tai Thành phó Hồ Chí Minh Hà Nội, Hải
+  Phòng và các phòng giao dịch tai Thành phó Hó Chí Minh và Hà Nôi.
+  NGƯỞl ĐẠl DIỆN THEO PHẢP LUẶT
+ Ngưởi đạ diện theo phảp luat cúa Côngty trong kỳ và cho đến thời điểm lập báo cáo tai
+ chinh hop nhát Quỷ nắm 2025 này là Ông Nguyễn Duy Hung, chửc danh Chủ tich Hội đồng
+  Quản trị
+  Ong5Nguyễn Hồng Nam            Tóng Giám đốc đưoc óng Nguyễn Duy Hưng ủy quyèn ký báo cáo
+tai chính hợp nhat Quỷ       nảm 2025 theo Giáy Úy quyèn s6 09/2020/UQ-SSI cúa Chủ tich Hội
+ đông Quan trị ngày 01 tháng nam 2020
+ Số lượng nhân viên cúa Công ty tại ngày 31 thảng 03 nẳm 2025 là:     406 ngưởi   (31 tháng
+12 nam 2024:   553 ngưởỉ)
+Những đặc diẻm chinh vẻ hoat động của Công ty
+ Quymô vón
+ Tai ngày 31 tháng 03 nằm 2025, tổng vốn đỉẻu  cúa Công ty là 19,638.639.180.000 VND,
+von chủ sở hữu bao gom cả loi ích có đông khóng kỉém soát là 27.703.353.104.435 VND
+tong tài sản là 84.043.901.711.559 VND
+Muc tỉêu đảu tư
+Là công ty chứng khoán niem yết có quy mô lớn nhất trên thị trưởng chứng khoán Việt Nam
+vớihoat ẩông chlnh bao gom mói  chứng khoán, tự doanh chúng khoán, bào lanh phát
+                               gioi
+hành chung khoán luu ký chứng khoán; tư vấn tài chinh; tư vấn đầu tư chúng khoán giao
+dịch ký quy chứng khoán và hoat động kinh doanh chửng khoán phái sinh. Công  hoat
+dộng với mục tiêu là trở thành đối tác của khách hàng cung thành công; tập trung moi nguon
+lực và sáng kien của Công ty đe dem thành cng dén cho khách hàng, đội ngú nhàn vỉên và
+cộng đồng nơi Công ty hoat động +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)  
+# Công ty Cổ phần Chứng khoán SSI  
+B05-CTCK/HN
 
-### Tài sản cố định vô hình và khấu hao
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-Tài sản cố định vô hình thể hiện giá trị quyền sử dụng đất, phần mềm máy tính và các tài sản cố định vô hình khác, được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+----
 
-Nguyên giá tài sản cố định vô hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+## 1. THÔNG TIN DOANH NGHIỆP
 
-Quyền sử dụng đất có thời hạn được khấu hao theo thời gian được cấp, quyền sử dụng đất có thời hạn sử dụng lâu dài không phải trích khấu hao. Phần mềm máy tính và các tài sản cố định vô hình khác được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+Công ty Cổ phần Chứng khoán SSI ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh Nghiệp Việt Nam, Giấy phép Thành lập công ty cổ phần số 3041/GP-UB do Ủy ban Nhân dân Thành phố Hồ Chí Minh cấp ngày 27 tháng 12 năm 1999 và Giấy Chứng nhận Đăng ký Kinh doanh số 0301955155 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp đăng ký lần đầu vào ngày 05 tháng 04 năm 2000. Công ty hoạt động theo Giấy phép Hoạt động Kinh doanh Chứng khoán số 03/GPHDKD do Chủ tịch Ủy ban Chứng khoán Nhà nước cấp ngày 5 tháng 4 năm 2000 và các giấy phép điều chỉnh.
 
-| Loại tài sản                  | Số năm  |
-| ----------------------------- | ------- |
-| Quyền sử dụng đất có thời hạn | 03 - 50 |
-| Phần mềm máy tính             | 03 - 10 |
-| Tài sản cố định vô hình khác  | 03 - 05 |
+Vốn điều lệ ban đầu của Công ty là 6.000.000.000 VND và đã được bổ sung trong từng thời kỳ theo các giấy phép điều chỉnh, gần nhất là giấy phép điều chỉnh số 100/GPĐC-UBCK do Chủ tịch Ủy ban Chứng khoán Nhà nước cấp, có hiệu lực kể từ ngày 23 tháng 12 năm 2024. Tại ngày 31 tháng 03 năm 2025, tổng vốn điều lệ của Công ty là 19.638.639.180.000 VND.
 
+Hoạt động chính của Công ty là môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, lưu ký chứng khoán, tư vấn tài chính và tư vấn đầu tư chứng khoán, giao dịch ký quỹ chứng khoán và hoạt động kinh doanh chứng khoán phái sinh. Công ty có trụ sở chính tại số 72 đường Nguyễn Huệ, phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh. Tại ngày 31 tháng 03 năm 2025, Công ty có chi nhánh tại Thành phố Hồ Chí Minh, Hà Nội, Hải Phòng và các phòng giao dịch tại Thành phố Hồ Chí Minh và Hà Nội.
 
-### Bất động sản đầu tư
+----
 
-Bất động sản đầu tư bao gồm quyền sử dụng đất và nhà cửa, vật kiến trúc do Tổng Công ty nắm giữ nhằm mục đích thu lợi từ việc cho thuê hoặc chờ tăng giá. Bất động sản đầu tư cho thuê được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Bất động sản đầu tư chờ tăng giá được trình bày theo nguyên giá trừ suy giảm giá trị. Nguyên giá của bất động sản đầu tư được mua bao gồm giá mua và các chi phí liên quan trực tiếp như phí dịch vụ tư vấn về luật pháp liên quan, thuế trước bạ và chi phí giao dịch liên quan khác. Nguyên giá bất động sản đầu tư tự xây là giá trị quyết toán công trình hoặc các chi phí liên quan trực tiếp của bất động sản đầu tư.
+## NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
 
-Bất động sản đầu tư cho thuê được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của tài sản.
+Người đại diện theo pháp luật của Công ty trong kỳ và cho đến thời điểm lập báo cáo tài chính hợp nhất Quý 1 năm 2025 này là Ông Nguyễn Duy Hưng, chức danh Chủ tịch Hội đồng Quản trị.
 
-Tổng Công ty không trích khấu hao đối với bất động sản đầu tư nằm giữ chờ tăng giá.
+Ông Nguyễn Hồng Nam – Tổng Giám đốc được ông Nguyễn Duy Hưng ủy quyền ký báo cáo tài chính hợp nhất Quý 1 năm 2025 theo Giấy Ủy quyền số 09/2020/UQ-SSI của Chủ tịch Hội đồng Quản trị ngày 01 tháng 8 năm 2020.
 
-### Chi phí xây dựng cơ bản dở dang
+Số lượng nhân viên của Công ty tại ngày 31 tháng 03 năm 2025 là: 1.406 người (31 tháng 12 năm 2024: 1.553 người).
 
-Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản lý hoặc cho các mục đích khác được ghi nhận theo giá gốc bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết bị, chi phí khác có liên quan phù hợp với chính sách kế toán của Tổng Công ty. Các chi phí này sẽ được chuyển sang nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bàn giao đưa vào sử dụng.
+----
 
-Theo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng của các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+## Những đặc điểm chính về hoạt động của Công ty
 
-### Các khoản trả trước
+### Quy mô vốn
 
-Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước bao gồm chi phí mua khi bao tiêu, chi phí vỏ bình gas, khoản trả trước tiền thuê đất, chi phí mua bảo hiểm, chi phí bảo dưỡng, sửa chữa, chi phí phân bổ công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận Tài sản cố định và các khoản chi phí trả trước khác.
+Tại ngày 31 tháng 03 năm 2025, tổng vốn điều lệ của Công ty là 19.638.639.180.000 VND, vốn chủ sở hữu bao gồm cả lợi ích cổ đông không kiểm soát là 27.703.353.104.435 VND, tổng tài sản là 84.043.901.711.559 VND.
+
+### Mục tiêu đầu tư
+
+Là công ty chứng khoán niêm yết có quy mô lớn nhất trên thị trường chứng khoán Việt Nam với hoạt động chính bao gồm môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, lưu ký chứng khoán, tư vấn tài chính, tư vấn đầu tư chứng khoán, giao dịch ký quỹ chứng khoán và hoạt động kinh doanh chứng khoán phái sinh. Công ty hoạt động với mục tiêu là trở thành đối tác của khách hàng cùng thành công; tập trung mọi nguồn lực và sáng kiến của Công ty để đem thành công đến cho khách hàng, đội ngũ nhân viên và cộng đồng nơi Công ty hoạt động.
  + 
  + [] 
  None

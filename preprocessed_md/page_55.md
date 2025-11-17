@@ -1,104 +1,71 @@
-TỔNG CÕNG TY KHỈ VIỆT NAM CÔNG TY cổ PHẦN                      MẪU SÓ B O9a-DN/HN
-THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHÂT GIỮA NIÊN ĐỘ (Tiếp theo)
- Trong kỷ, Cỏng ty đã có các giao dịch chú yếu vởi các bên liên quan sau dây (tiếp theo):
-                                                                    Kỳnàỵ             Kỳ trước
-                                                                      VND                VND
- Lãl tiền Bửi                                              21.289,752.301        36.430.128.838
-  Công ty thành viên thuộc Tập doàn                        21,289.752.301        26,430.128.838
-  Ngán hang TMCP Đạỉ chúng Vỉệt Nam                         150.702.813           425.582.769
-  Lãi vay
-  Công ty thành vỉên thuậc Tập doàn                         150.702.813           425,582.769
-  NgânhangTMCP Đại chúng Viêt Nam                          37.975.482.081        40.248.326.660
-  Cổ tức, lợí nhuận dược chia
-   Công ty liên daanh, liên Irểt
-   Córg ty CẩphầnKinh doanh Khí Miên Nam                   35.263.158.000        35,263.158.000
-   Còng ty thành vỉên thuộc Tập doàn                       2.712.324,081         4.985.168.660
-   Tóng Công ty Dằu Việt Nan - CTCP (*)
-[*) Tổng công ty đU được chia lợi nhuận theo Hợp đồng BCC sô 13/2021/PVGASITT-PVOIL/D4 ngày
-  20 tháng 01 năm 2021 vởi Tỗng công ty Dầu Vỉệt Nam.
-   Thù lao, thu nhập cúa Hội đồng Quản trị; Ban Tổng Giám ẳốc và cúc cổp quản lý khác được
-   hưởng trong kỳ như suu:
-                                                                       Ky này         Kỳ trưởc
-                                                                          VND            VND
-   Hộl đàng Quản tri                                            1.387,149.615     927,778.672
-   ÔngNguyễnThanh Binh - Chủ tịch
-   Bà Vã Thj Thanh Ngoc            [miễn nhiệm ngày 30      1.148,6*2.018          929.684 113
-                           Thành vien
-    tháng 5 nám 2025}                                                              907.362.045
-    Ỏng 5Phạm Vặn Phong - Thành vien                        1.387.149.615           897.235.722
-    ÔngĐẵ Đông Nguyên Thành viên độc I4p                    1-261.002.387
-    ông Trịnh Văn Khiêm - Thanh viên (bó nhiêm ngày 30      107.837.000
-    thàng 5 nắm 2025)                                       62.837.000
-    ÔngTràn NhậtHuy + Thành viên (bổ nhiệm ngảy 30
-    thang 5 nẳm 2025)                                      1.125.155,650             897.235.722
-    Ông Trương Hòng Son Thành viên [mlễn nhiệm ngày
-     30 tháng    nám 2025}                                  1.193.031 932           843.370,667
-     ÔrgTrièu Quóc Tuẩn - Thành viên                        949.818.938               59.055.000
-     Ông
-      Nguyễn Thanh Hào - Thành viên độc lập
-     Ban Tông Giám đốc             giám đõc
-     ỒngPhạm Vắn Phong TóngTổng Giảm đỗc                    1.152 987.317            841.286,.504
-     OngNguyễn Công Luàn Phó                                1.132.987,317             811.605.040
-     Ôngkuynh Quang Hải - Pnó Tẩng Giár đốc
-      ÔngNguyễn Minh Tuán - Phó Tổng Giám đốc (bẩ nhlệm     131.823.000
-      ngảy 02 tháng 6 nam 2025)                             1.029.668.820            790 403.979
-      ỖngTran Nhật Huy - Phá Tóng Giám đóc (miẻn nhỉêm
-      ngày 30 tháng 5 năm 2025)                                                      482.331.344
-        HcàngTrong Dũng - Phé Tõng Giảm dõc                 1.198.323.263
-      ông                     Phó Tổng Glám đốc             1.123.798.143             284.115.0oo
-      Ong Nguvễn Phúc Tuê     Tổng giám đấc (miễn nhiệm                               508.806.277
-      ôns Phan Đẳng Nam Phó
-      nBay   tháng năr 2024)
-     TrÌnh tày tại phần thù lao, thu nhập cúa Hộỉ dầng Quản tri do có sự kiêm nhiệrr về chức vụ. +
+Công ty Cổ phần Chứng khoán SSI                                               B05-CTCKHN
+THUYÊT MINH BÁO CÁO TẢI CHÍNH HỢP NHÁT QUÝ         NĂM 2025 (tiép theo)
+tại ngảy 31 thảng 03 năm 2025 và cho kỷ kế toán kết thúc cùng ngày
+   CHI PHÍ PHẢl TRẢ NGAN HẠN
+                                                                Số cuói kỳ        Só dáu năm
+                                                                       VND               VND
+                                                                              55.602.
+   Chi phi Iãi vay                                          54,907.716,405    410 -
+                    phải                                   399.060.000                   419
+   Phi dich vu                                                                   875.070,0o0
+   Phi hoa hông phảỉ trà cho đoi tảc                     8.206.377.573         7.904,462.846
+   Các khoản khác                                        3.331.284,502      3,465.234,163
+  Tỏng cộng                                                 66.844.438,480    67.847.177.428
+
+   QUỸ KHEN THƯỞNG, PHÚC LỢl
+                                                            Só cuói kỳ         Só dẩu nám
+                                                                   VND                VND
+
+    Quy khen thuởng và phúc lợi cho nhan vien          157.613.957.999    229.575.623.719
+    Quỹ tử thien                                       126.957.738.703    126.957.738.703
+ Tổng cộng                                             284.571.696.702    356.533.362.422
+
+  CÁC KHOẢN PHẢl TRẢ, PHẢl NỌP NGÁN HẠN KHÁC
+                                                            Só cuoi kỳ         Sô đau nám
+                                                                   VND                VND
+
+  Phải trả cô tức lZi trái phiéu                     8.159.000.494            183.580.361
+     Phảỉ trá có tức cho có đông Công ty             7.636.452.900          7.659.494.900
+     Phải trằ trái tứr cho trái chú cua Công ty        522.547.594            524.085.461
+  Phải trả khác                                     13.294.458.368          9.853.891.693
+ Tổng cộng                                          21.453.459.862         18.037.472.054 +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM – CÔNG TY CỔ PHẦN  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+# Công ty Cổ phần Chứng khoán SSI
 
-> Trong kỳ, Công ty đã có các giao dịch chủ yếu với các bên liên quan sau đây (tiếp theo):
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-|                                         | Kỳ nàyVND      | Kỳ trướcVND    |
-| --------------------------------------- | -------------- | -------------- |
-| Lãi tiền gửi                            | 21.289.752.301 | 36.430.128.838 |
-| *Công ty thành viên thuộc Tập đoàn*     | 21.289.752.301 | 36.430.128.838 |
-| Ngân hàng TMCP Đại chúng Việt Nam       | 150.702.813    | 425.582.769    |
-| Lãi vay                                 | 150.702.813    | 425.582.769    |
-| *Công ty thành viên thuộc Tập đoàn*     | 150.702.813    | 425.582.769    |
-| Ngân hàng TMCP Đại chúng Việt Nam       | 37.975.482.081 | 40.248.326.660 |
-| Cổ tức, lợi nhuận được chia             |                |                |
-| *Công ty liên doanh, liên kết*          | 35.263.158.000 | 35.263.158.000 |
-| Công ty Cổ phần Kinh doanh Khí Miền Nam | 35.263.158.000 | 35.263.158.000 |
-| *Công ty thành viên thuộc Tập đoàn*     | 2.712.324.081  | 4.985.168.660  |
-| Tổng Công ty Dầu Việt Nam - CTCP (\*)   | 2.712.324.081  | 4.985.168.660  |
+### 24. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+|                                   | Số cuối kỳVND      | Số đầu nămVND      |
+| --------------------------------- | ------------------ | ------------------ |
+| Chi phí lãi vay phải trả          | 54.907.716.405     | 55.602.410.419     |
+| Phí dịch vụ                       | 399.060.000        | 875.070.000        |
+| Phí hoa hồng phải trả cho đối tác | 8.206.377.573      | 7.904.462.846      |
+| Các khoản khác                    | 3.331.284.502      | 3.465.234.163      |
+| **Tổng cộng**                     | **66.844.438.480** | **67.847.177.428** |
 
 
-> (*) Tổng công ty đã được chia lợi nhuận theo Hợp đồng BCC số 13/2021/PVGAS/TT-PVOIL/D4 ngày 20 tháng 01 năm 2021 với Tổng công ty Dầu Việt Nam.
+### 25. QUỸ KHEN THƯỞNG, PHÚC LỢI
 
-> Thù lao, thu nhập của Hội đồng Quản trị, Ban Tổng Giám đốc và các cấp quản lý khác được hưởng trong kỳ như sau:
-
-|                                                                              | Kỳ nàyVND     | Kỳ trướcVND |
-| ---------------------------------------------------------------------------- | ------------- | ----------- |
-| **Hội đồng Quản trị**                                                        |               |             |
-| Ông Nguyễn Thanh Bình - Chủ tịch                                             | 1.387.149.615 | 927.778.672 |
-| Bà Võ Thị Thanh Ngọc - Thành viên (miễn nhiệm ngày 30 tháng 5 năm 2025)      | 1.148.642.018 | 929.684.113 |
-| Ông Phạm Văn Phong - Thành viên                                              | 1.387.149.615 | 907.362.045 |
-| Ông Đỗ Đông Nguyên - Thành viên độc lập                                      | 1.261.002.387 | 897.235.722 |
-| Ông Trịnh Văn Khiêm - Thành viên (bổ nhiệm ngày 30 tháng 5 năm 2025)         | 107.837.000   |             |
-| Ông Trần Nhật Huy - Thành viên (bổ nhiệm ngày 30 tháng 5 năm 2025)           | 62.837.000    |             |
-| Ông Trương Hồng Sơn - Thành viên (miễn nhiệm ngày 30 tháng 5 năm 2025)       | 1.125.155.650 | 897.235.722 |
-| Ông Triệu Quốc Tuấn - Thành viên                                             | 1.193.031.932 | 843.370.667 |
-| Ông Nguyễn Thanh Hào - Thành viên độc lập                                    | 949.818.938   | 59.055.000  |
-| **Ban Tổng Giám đốc**                                                        |               |             |
-| Ông Phạm Văn Phong - Tổng giám đốc                                           | 1.152.987.317 | 841.286.504 |
-| Ông Nguyễn Công Luận - Phó Tổng Giám đốc                                     | 1.132.987.317 | 811.605.040 |
-| Ông Huỳnh Quang Hải - Phó Tổng Giám đốc                                      |               |             |
-| Ông Nguyễn Minh Tuấn - Phó Tổng Giám đốc (bổ nhiệm ngày 02 tháng 6 năm 2025) | 131.823.000   |             |
-| Ông Trần Nhật Huy - Phó Tổng Giám đốc (miễn nhiệm ngày 30 tháng 5 năm 2025)  | 1.029.668.820 | 790.403.979 |
-| Ông Hoàng Trọng Dũng - Phó Tổng Giám đốc                                     | 1.198.323.263 | 482.331.344 |
-| Ông Nguyễn Phúc Tuệ - Phó Tổng Giám đốc                                      | 1.123.798.143 | 284.115.000 |
-| Ông Phan Đăng Nam - Phó Tổng giám đốc (miễn nhiệm ngày 1 tháng 1 năm 2024)   |               | 508.806.277 |
+|                                           | Số cuối kỳVND       | Số đầu nămVND       |
+| ----------------------------------------- | ------------------- | ------------------- |
+| Quỹ khen thưởng và phúc lợi cho nhân viên | 157.613.957.999     | 229.575.623.719     |
+| Quỹ từ thiện                              | 126.957.738.703     | 126.957.738.703     |
+| **Tổng cộng**                             | **284.571.696.702** | **356.533.362.422** |
 
 
-> (*) Trình bày tại phần thù lao, thu nhập của Hội đồng Quản trị do có sự kiêm nhiệm về chức vụ.
+### 26. CÁC KHOẢN PHẢI TRẢ, PHẢI NỘP NGẮN HẠN KHÁC
+
+|                                              | Số cuối kỳVND      | Số đầu nămVND      |
+| -------------------------------------------- | ------------------ | ------------------ |
+| Phải trả cổ tức, lãi trái phiếu              | 8.159.000.494      | 8.183.580.361      |
+| - Phải trả cổ tức cho cổ đông Công ty        | 7.636.452.900      | 7.659.494.900      |
+| - Phải trả trái tức cho trái chủ của Công ty | 522.547.594        | 524.085.461        |
+| Phải trả khác                                | 13.294.459.368     | 9.853.891.693      |
+| **Tổng cộng**                                | **21.453.459.862** | **18.037.472.054** |
+
+
  + 
  + [] 
  None

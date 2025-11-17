@@ -1,84 +1,101 @@
-   TỔNG CÔNG TY KHÍ VIỆT NAM CÔNG TY Cổ PHẦN
-   Tòa nhà PV GAS Tower sỐ 673 đường Nguyễn Hữu Tho
-   xã Nhà Be, Thành    Hồ Chí Minh Việt Nam
-              phổ
-
-                           BÁO CÁO CỦA BAN TỖNG GIÁM ĐỖc (Tiếp theo)
-
-   TRÁCH NHIỆM CÚA BAN TỔNG GIÁM Đỗc
-           BanTórgGiám đóc Tổng Cóng ty có trách nhiệm lập bao cao tài chính hợp nhất giữa niên dộ phản ảnh
-         một cách trung thực và hợp lỷ tinh hinh tài chính hợp nhãt của Tổng Còng ty tạl ngày 30 thắng 6 năm
-   2025 , cũng như kết quả hoat động kinh doanh hợp nhất và tình hình Iưru chuyển tíền tệ hợp nhat cho
-   kỳ hoạt động 6 tháng kểt thúc cung ngày, Phù hợp vởi chuấn mực kê toán, chẽ dộ kể toán doanh nghiệp
-       Việt Nam và cảc quy đjnh phap lý cá liên quan dên vỉệc lập và trinh bày bão cáo tài chính hợp nhất giữa
-         niên dộ. Trong việc làp các báo cão tàl chính hơp nhẩt gỈữa niên độ này, Ban TẩnE Giám đổc được yêụ
-      phải:
-    Cdu
-              Lựà chọn các chính sách kế toán thích hợp vò áp dụng các chinh sách đó một cách nhất quán;
-       Đưa ra cảc xét đcán va ước tinh mật cách hợp lý và thận irọng;
-       Mêu rã các nguyên tẳc kể toán thích hợp có được tuân thủ hay khârg, có những áp dung sai lêch
-                       cêng                                                                     khôrg;
-       trong YẾu cần được      hõ và giái thIch trong báo cao tài chinh hợp nhẩt giua niên dậhay không
-       Lập báo cáo tài chính hợp nhẩt Biữa níÊên độ trẻn cd sở hoạt dộng líên tục trừ trường hợp
-       thể cho rằng Tổng Còng cy sẽ tiếp tục hoa: đông kinh doanh; và
-         Thiêt kế và thyc hiện hệthũngkiểrT soál nội bộ một cách hữu hiệu cho myc dích lập và trinhb2y
-       bao cao lai chinh hơpnhẩt giũa niên đôhợplý nhẳm hạn chg rủi ro và gian lân.
-     Ban Tẩng Gỉám đốc Tổng Còng ty chju trách nhiệm dám bảo rẳng sổ kế toán đưực ghi chép một cách
-                                                                     ToneCông
-                               'hợp lý tinh hình tài chính hợp nhất cúa      ty ở bất kỳ thoi diem
-    phù hợp để phản ánh một cách                                                                          2p09
-     nao và Jám bấo rằng báo cáo tai chinh hợp nhất gitia niên dộ tuãn thủ chuẩn mực kế toán, chế độ kế
-     toán doanh nghiệp Việt Nam và cac quy dinh phảp lv co liên quan đển việc lập và trinh bày báo cáo tài
-    chính hợp nhất giữa nlên độ. Ban Tẩng Giámn đốc cung chịu trách nhiệm đảm ban an toan cho tài sản
-     cúa Tổng Câng ty và thưc hiện các bién phắp thích hợp để ngăn chặn và phát hiện cảc hành vi gian lán
-
-                                       Công
-     Ban Tóng Giám đổc xác nhận rằng Tõng  ty đã tuân thủ các yêu cầu nêu trên trong việc lập bắo cáo
-     tảí chính hợp nhất gỉữa niên dộ-
-    Thay măt và đạỉ diện cho Ban Tổng Giảm đốc,
-
-      VIỆT NAM
-      coMg
-      CÚ FIIÍN
-      Nguyên Công Luận
-      Phó Tõng Giám đổc
-      (Theo Gỉấy úy quyên 5ổ 26/GUQ-KVN
-      ngày 20 tháng 2 năm 2024)
-      Ngày 12 tháng 8 nẳrn 2025
+Công ty Cổ phần Chứng khoán SSI          BO1-CTCKIHN
+BÁO CÁo TỈNH HINH TẢI CHINH HỢP NHAT QUÝ NĂM 2025 (tiếp theo)
+tai ngày 31 thang 03 nảm 2025
 
 
 
-1 +
+         CHI TIÊU                                   Thuyet                        Sô cuôi kỷ         Só dẩu năm
+Mà so                                               minn                                 VND                VND
+
+ 300        NQ PHẢl TRẢ                                                   56.340.548.607.124 46.680.651.947.954
+ 310        NP phải trà ngản han                                          56.248.437.443.943 46.599,438.522.989
+ 311            Vay và nợ thue tai sàn tai chinh                          55 246,837,451.353 45.501.969.699.137
+                ngan han
+ 312           Vay ngẳn han                                               55.246.837.451.353 45.501.969,699 137
+ 318            Phài trà hoatdonggiao djch
+               chửng khoán                                                   258.375.634.864    227.883,634.106
+ 320            Phải trả ngưởi bán ngán han                                   82.844,177,914    103.075.387.679
+ 321            Nguời mua trả tièn truởc ngán                                  2,497,683,500     26,490,726,300
+
+ 322            han
+                Thué va các khoàn phải nóp                               264,911.520.213        201.293.124,495
+ 323            Nhà nưởc
+                Phải trá       lao đông                                   18,457,972.325        93,761,.808,205
+                       nguoi
+ 324            Cảc khoản trich nỏp phuc lợi                                 753.996.198           884,.019.653
+ 325            nhan vien
+ 327            Chỉ phi phải trả ngn han                                  66.844,438,480         67,847,177,428
+                Doanh thu chua Ihuc hien ngán
+ 328          han                                                            524,419,332          1,299.798,330
+ 329          Nhan ký quỹ, ký cưoc ngắn han                                  364.993.200            362.313.180
+              Các khoản phải trà           nộp ngán
+ 331          han khảc              Phai            25                    21,453.459.862         18.037,472.054
+              Quy khen thuóng phúc lơi                                   284.571.696.702        356.533.362.422
+ 340       Nợ phải trả dài han                                            92.111.163.181        81.213,424.965
+ 351          Doanh thu chua thưc hien dai han                            53.562.883.675         54,562.883.675
+ 356          Thué thu nhap doanh nghièp hoan
+             lai phải trả                                                 38.548.279.506         26.650.541.290
+ 400       VỐN CHỦ SỞ HỮU                                             27.703.353.104.435   26.826,.650.611,.768
+ 410       Von chù sở hữu                                             27.703.353.104.435     26.826.650.611.768
+ 411         Vón dau tư cùa chú sờ hữu                            20.713.065.094.108         20.713.065.094.108
+ 4111         Vôn góp cúa chù sở húu                             195.638.639.180.000        19.638.,639.180.000
+411.1a               Co phiéu phỏ thóng                           19,638,639,180.000         19.638.639.180.000
+411,2      1.2 Thắng dư vốn cỏ phẳn                                1.093.540.920.517            093.540.920.517
+411.          Cổ phiễu quỹ                                    (19.115 006,409)                  (19.115.006 409
+ 412         Chenh lech đanh gia tai sàn theo
+4            già tri hợp lỷ                                       62.076.509.892                 31,690,477,740
+             Chênh lech tỷ giá hổi đoáỉ                           74,188,577.913                 72.177.590.546
+             Quý dự trữ bó sung vốn điều lé                          ooo.ooo 0oo                 3.0oo.ooo, Ooo
+417,1        Lợi nhuan chưa phan phól                            700,405.049.625                856.098.315.938
+417.2     51 Loi nhuân dã thuc hiên                            6.736.963.850.330               6.025186.849 191
+418       5.2 Loi nhuán chua thuc hien                          (36 558.800.705)              (169.088.533.253)
+            Lợi Ích co đông khòng kiém soát                      150.617.872.897                150.619.133,436
+
+440      TONG CONG NỢ PHẢl TRẢ VÀ VON
+         CHU SƠ HUU                                           84.043.901.711.559             73.507.302.559.722 +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM – CÔNG TY CỔ PHẦN  
-Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ  
-xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam  
+# Công ty Cổ phần Chứng khoán SSI  
+B01-CTCK/HN  
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025  
 
-## BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+| Mã số  | CHỈ TIÊU                                           | Thuyết minh | Số cuối kỳ VND     | Số đầu năm VND     |
+| ------ | -------------------------------------------------- | ----------- | ------------------ | ------------------ |
+| 300    | **C. NỢ PHẢI TRẢ**                                 |             | 56.340.548.607.124 | 46.680.651.947.954 |
+| 310    | **I. Nợ phải trả ngắn hạn**                        |             | 56.248.437.443.943 | 46.599.438.522.989 |
+| 311    | 1. Vay và nợ thuê tài sản tài chính ngắn hạn       | 20          | 55.246.837.451.353 | 45.501.969.699.137 |
+| 312    | 1.1. Vay ngắn hạn                                  |             | 55.246.837.451.353 | 45.501.969.699.137 |
+| 318    | 2. Phải trả hoạt động giao dịch chứng khoán        | 21          | 258.375.634.864    | 227.883.634.106    |
+| 320    | 3. Phải trả người bán ngắn hạn                     | 22          | 82.844.177.914     | 103.075.387.679    |
+| 321    | 4. Người mua trả tiền trước ngắn hạn               |             | 2.497.683.500      | 26.490.726.300     |
+| 322    | 5. Thuế và các khoản phải nộp Nhà nước             | 23          | 264.911.520.213    | 201.293.124.495    |
+| 323    | 6. Phải trả người lao động                         |             | 18.457.972.325     | 93.761.808.205     |
+| 324    | 7. Các khoản trích nộp phúc lợi nhân viên          |             | 753.996.198        | 884.019.653        |
+| 325    | 8. Chi phí phải trả ngắn hạn                       | 24          | 66.844.438.480     | 67.847.177.428     |
+| 327    | 9. Doanh thu chưa thực hiện ngắn hạn               |             | 524.419.332        | 1.299.798.330      |
+| 328    | 10. Nhận ký quỹ, ký cược ngắn hạn                  |             | 364.993.200        | 362.313.180        |
+| 329    | 11. Các khoản phải trả, phải nộp ngắn hạn khác     | 26          | 21.453.459.862     | 18.037.472.054     |
+| 331    | 12. Quỹ khen thưởng, phúc lợi                      | 25          | 284.571.696.702    | 356.533.362.422    |
+| 340    | **II. Nợ phải trả dài hạn**                        |             | 92.111.163.181     | 81.213.424.965     |
+| 351    | 1. Doanh thu chưa thực hiện dài hạn                | 27          | 53.562.883.675     | 54.562.883.675     |
+| 356    | 2. Thuế thu nhập doanh nghiệp hoãn lại phải trả    | 17          | 38.548.279.506     | 26.650.541.290     |
+| 400    | **D. VỐN CHỦ SỞ HỮU**                              | 28          | 27.703.353.104.435 | 26.826.650.611.768 |
+| 410    | **I. Vốn chủ sở hữu**                              |             | 27.703.353.104.435 | 26.826.650.611.768 |
+| 411    | 1. Vốn đầu tư của chủ sở hữu                       |             | 20.713.065.094.108 | 20.713.065.094.108 |
+| 411.1  | 1.1. Vốn góp của chủ sở hữu                        |             | 19.638.639.180.000 | 19.638.639.180.000 |
+| 411.1a | - Cổ phiếu phổ thông                               |             | 19.638.639.180.000 | 19.638.639.180.000 |
+| 411.2  | 1.2. Thặng dư vốn cổ phần                          |             | 1.093.540.920.517  | 1.093.540.920.517  |
+| 411.5  | 1.3. Cổ phiếu quỹ                                  |             | (19.115.006.409)   | (19.115.006.409)   |
+| 412    | 2. Chênh lệch đánh giá tài sản theo giá trị hợp lý |             | 62.076.509.892     | 31.690.477.740     |
+| 413    | 3. Chênh lệch tỷ giá hối đoái                      |             | 74.188.577.913     | 72.177.590.546     |
+| 414    | 4. Quỹ dự trữ bổ sung vốn điều lệ                  |             | 3.000.000.000      | 3.000.000.000      |
+| 417    | 5. Lợi nhuận chưa phân phối                        |             | 6.700.405.049.625  | 5.856.098.315.938  |
+| 417.1  | 5.1 Lợi nhuận đã thực hiện                         | 28.1        | 6.736.963.850.330  | 6.025.186.849.191  |
+| 417.2  | 5.2 Lợi nhuận chưa thực hiện                       | 28.1        | (36.558.800.705)   | (169.088.533.253)  |
+| 418    | 6. Lợi ích cổ đông không kiểm soát                 |             | 150.617.872.897    | 150.619.133.436    |
+| 440    | **TỔNG CỘNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU**        |             | 84.043.901.711.559 | 73.507.302.559.722 |
 
-### TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC
 
-Ban Tổng Giám đốc Tổng Công ty có trách nhiệm lập báo cáo tài chính hợp nhất giữa niên độ phản ánh một cách trung thực và hợp lý tình hình tài chính hợp nhất của Tổng Công ty tại ngày 30 tháng 6 năm 2025, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho kỳ hoạt động 6 tháng kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ. Trong việc lập các báo cáo tài chính hợp nhất giữa niên độ này, Ban Tổng Giám đốc được yêu cầu phải:
-
-* Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
-* Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
-* Nếu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất giữa niên độ hay không;
-* Lập báo cáo tài chính hợp nhất giữa niên độ trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Tổng Công ty sẽ tiếp tục hoạt động kinh doanh; và
-* Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất giữa niên độ hợp lý nhằm hạn chế rủi ro và gian lận.
-
-Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm đảm bảo rằng sổ kế toán được ghi chép một cách phù hợp để phản ánh một cách hợp lý tình hình tài chính hợp nhất của Tổng Công ty ở bất kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất giữa niên độ tuân thủ chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Tổng Công ty và thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và sai phạm khác.
-
-Ban Tổng Giám đốc xác nhận rằng Tổng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất giữa niên độ.
-
-Thay mặt và đại diện cho Ban Tổng Giám đốc,
-
-----
-
-**Nguyễn Công Luận**  
-Phó Tổng Giám đốc  
-_(Theo Giấy ủy quyền số 26/GUQ-KVN ngày 20 tháng 2 năm 2024)_  
-
-Ngày 12 tháng 8 năm 2025
  + 
  + [] 
  None

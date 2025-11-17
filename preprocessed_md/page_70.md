@@ -1,92 +1,73 @@
-    PETROVIETMAIV GAS JOINT STOCK CORPORATION                                           FORM B 03a-DN/HN
-    PV GAS Tower, 673 Nguyen Huu Tho Street               Issued under Circular No 202/2014/TT-BTC
-    Nha Be Commune, Ho Chi Ninh City, Vietnam             dated 22 Decemher 2014 of the Ministry of Finance
-             INTERIM CONSOLIDATED CASH FLOW STATEMENT (Continued)
-                                 For the 6-month period ended 30 June 2025
-                                                                                               Unit: VND
+Côngty Cổ phầnChứng khoanSSI
+MINA [8ÁO CAO TẢI CHÍNH
+ngay 31tnhang 03 nắm 2025                  HỢP NHÁT QUÝ      NAM
+                                 vả cho kỷ ké toan kêt       cung 2025 (tiếp theo)                                          Bo5-CTCKIHN
+                                                             thúc  ngay
+Cong ty liên quan                          Giao dich
+                                                                   Só đảu kỷ    Tang  Phẩỉthw (phảỉ tr/)
+                          Phihoa hồng phẩỉ trả                     VND                trong              Giảmntrong .       Doanh Inw
+DantaSecunies             [Doanh thu giao dich va                  2 414 198.129      VND                    VND            "vo  (chi phi)
+va cac công ty   Group    chungkhoen                 dich                             (1.612 368 834}                            VND
+               con        Doanh            Khac                                       051 469 747            2 262 448 463  764,118 500)
+                                 thu hợpdong         van                                                                                (1.612 368834)
+                          Doanh thu tư van đ9u                     360,926822         997 314 519            051469 747)
+                          qun                                      148,486.435                               358.241.341)               955.881.588
+Công TNHH Đau tuNoH Phi Quản lỷ danh muc                                              130 123.432                                       997.314 519
+cong ty con               Doanh thu giao dich wvà                  7475.132                                  1482486-435)    130 123.432
+                                chung khoan khác dich                                 22 425396              (222425 395)    7,475.132  1.130.123.432
 
-    ITEMS                                                 Codes  Current period              Priorperlod
-    IIL:  CASH FLOWS FROM FINANCING ACTIVITIES                   380,771,869,008        1,697,577,258,460
-          Proceeds from borrowings                        34     (611,765,142,445)      (3,269,973,802,302)
-          Recpayment of barrowings                                 (230,993,273,437)    (1,572,396,543,842)
-          Net cosh used in financing activities
-                                                                 {08 267 233 468        1 877,916,249,753
+{Thẳnh viên Hộỉ đồng          Giao dich muachungkhoán                                 609 378 330        (609.378,330)                  22 425396
+Ban TỗngGiam     Quản                                                               [157 128.150 009)    157.128 150 000                609378 330
+Cac ca nhan      đoc va
+              hen quan
 
-          Cash and cash equivalents at the                         5,567,983,431,468    5,668,895,193,049
-          beginning of the pcriod
-          Effects of changes in Foreign exchange rates           895,245,427            8,489,824,254
-          Cash and cash cquivalents at the end of         70     10,377,145,910,363     7,555,301,267,056
-          period(70-50+60+61)
-          the
+         Các giao dịch    Phi quản lýdanhmuc                       932 151            20 125.599
+Thu                   vớỉ các bẻn liên                                                                   [20 349 217)
+     nhập của cac thanh          quan khảc                                                                                   708 533
+                          viên cùa Hộidong Quẩn trị vâ Ban Tong Giám dóc                                                                125 599
 
-
-oko cONo TY
-  VIỆT NAM
-    CQNG
-  GO PHON
-
-    Dang Thi Hong Yen    Nguyen Anh Tuan     Nguyen Cong Luan
-    Preparer             Chief Accountant    Executive Officer
-                                             12 August 2025
-
-
-
-
-
-
-
-
-
-
-    The accompanying notes are on Integrol part of these interim consolidated financial statements +
+Luong, thuởng và phúc lợi
+Thù lao HĐOT                                                                                             Quỷ nám 2025        Quý        Nam 2024
+TONGCONG                                                                                                     VND
+                                                                                                         5.937.500.000                  VND
+                                                                                                         1,014,444,445              099.000.00o
+                                                                                                         6.951 .944.445          1.006.444.445
+                                                                                                                                 105.444.445 +
  
-# PETROVIETNAM GAS JOINT STOCK CORPORATION  
-PV GAS Tower, 673 Nguyen Huu Tho Street  
-Nha Be Commune, Ho Chi Minh City, Vietnam  
+# Công ty Cổ phần Chứng khoán SSI
 
-FORM B 03a-DN/HN  
-Issued under Circular No. 202/2014/TT-BTC  
-dated 22 December 2014 of the Ministry of Finance  
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày  
 
-## INTERIM CONSOLIDATED CASH FLOW STATEMENT (Continued)  
-*For the 6-month period ended 30 June 2025*  
+----
 
-Unit: VND  
+### Công ty liên quan
 
-| ITEMS                                                                | Codes | Current period     | Prior period        |
-| -------------------------------------------------------------------- | ----- | ------------------ | ------------------- |
-| III. CASH FLOWS FROM FINANCING ACTIVITIES                            |       |                    |                     |
-| 1. Proceeds from borrowings                                          | 33    | 380,771,869,008    | 1,697,577,258,460   |
-| 2. Repayment of borrowings                                           | 34    | (611,765,142,445)  | (3,269,973,802,302) |
-| *Net cash used in financing activities*                              | 40    | (230,993,273,437)  | (1,572,396,543,842) |
-| **Net increases in cash (50=20+30+40)**                              | 50    | 4,808,267,233,468  | 1,877,916,249,753   |
-| Cash and cash equivalents at the beginning of the period             | 60    | 5,567,983,431,468  | 5,668,895,193,049   |
-| Effects of changes in foreign exchange rates                         | 61    | 895,245,427        | 8,489,824,254       |
-| **Cash and cash equivalents at the end of the period (70=50+60+61)** | 70    | 10,377,145,910,363 | 7,555,301,267,056   |
+| Công ty liên quan                                                       | Giao dịch                                                             | Số đầu kỳ (VND)<br/>Phải thu/(phải trả) | Số đầu kỳ (VND)<br/>Giảm trong kỳ | Số đầu kỳ (VND) | Tăng (giảm) kỳ (VND)<br/>Phải thu/(phải trả) | Tăng (giảm) kỳ (VND)<br/>Giảm trong kỳ | Tăng (giảm) kỳ (VND) | Số cuối kỳ (VND)<br/>Phải thu/(phải trả) | Số cuối kỳ (VND)<br/>Giảm trong kỳ | Doanh thu (chi phí) (VND) |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------- | --------------------------------- | --------------- | -------------------------------------------- | -------------------------------------- | -------------------- | ---------------------------------------- | ---------------------------------- | ------------------------- |
+| Daiwa Securities Group Inc và các công ty con                           | Phí hoa hồng phải trả Doanh thu giao dịch và dịch vụ chứng khoán khác | (2.414.198.129)                         | (1.612.368.834)                   |                 | 2.414.198.129                                | 1.612.368.834                          |                      | (1.764.118.500)                          | (1.612.368.834)                    |                           |
+|                                                                         | Doanh thu hợp đồng tư vấn Doanh thu tư vấn đầu tư quản lý danh mục    | 360.926.822                             | 997.314.519                       | 1.051.469.747   |                                              |                                        |                      |                                          |                                    | 955.881.588               |
+| Công ty TNHH Đầu tư NDH công ty con                                     | Phí Quản lý danh mục Doanh thu giao dịch và dịch vụ chứng khoán khác  | 1.148.486.435                           | 7.475.132                         |                 | (1.148.486.435)                              |                                        |                      | (1.764.118.500)                          |                                    |                           |
+|                                                                         | Giao dịch mua chứng khoán                                             |                                         |                                   |                 |                                              |                                        |                      |                                          |                                    |                           |
+| Thành viên Hội đồng Quản trị Ban Tổng Giám đốc và các cá nhân liên quan | Giao dịch mua chứng khoán                                             | 609.378.330                             | (609.378.330)                     | 22.425.396      | (157.128.150.000)                            | 157.128.150.000                        | 609.378.330          |                                          |                                    |                           |
+|                                                                         | Phí quản lý danh mục                                                  | 6.932.151                               | 20.125.599                        |                 |                                              | (20.349.217)                           |                      | 6.708.533                                |                                    |                           |
+|                                                                         |                                                                       |                                         |                                   |                 |                                              |                                        |                      | 125.599                                  |                                    |                           |
 
 
 ----
 
-<div>
-<img src="" alt="Red circular stamp with text: TỔNG CÔNG TY KHÍ VIỆT NAM CÔNG TY CỔ PHẦN" />
-</div>
+### Các giao dịch với các bên liên quan khác  
+**Thu nhập của các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc**
 
-----
+- Lương, thưởng và phúc lợi  
+- Thù lao HĐQT  
 
-Dang Thi Hong Yen  
-Preparer  
+|                  | Quý 1 năm 2025 (VND) | Quý 1 năm 2024 (VND) |
+|------------------|-----------------------|----------------------|
+| Lương, thưởng và phúc lợi | 5.937.500.000           | 4.099.000.000          |
+| Thù lao HĐQT      | 1.014.444.445           | 1.006.444.445          |
+| **TỔNG CỘNG**    | **6.951.944.445**       | **5.105.444.445**      |
 
-Nguyen Anh Tuan  
-Chief Accountant  
-
-Nguyen Cong Luan  
-Executive Officer  
-
-*12 August 2025*  
-
-----
-
-> The accompanying notes are an integral part of these interim consolidated financial statements
  + 
  + [] 
  None

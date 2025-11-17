@@ -1,79 +1,85 @@
-TỔNG CÔNG TY IHÍ vIỆT NAMV - CÔNG TY cô PHÂN                         MẪU SÓ B 09a-DN /HN
-THUYỂT MINH BÁO CÁO TÀI CHÍNH HỢP NHÃT GIỮA NlEN ĐỘ (Tỉếp theo)
-     Các khoản mục thuộc Bảo cáo kết quả hoat dộng kinh doanh giữa nièn dộ và Báo cáo lưu
-       chuyển tiền té giua niên độ được quy dổi ra VND theo tỷ giá binh quân trang kỳ. Trưởng
-     hơp tỷ giá cỏ sự thay đấi lớn trong kỳ, tý giá tại ngày  sinh nghiệp vụ sẽ ẩược áp dung
-                                                      phat =
-     Trườnghợp tý giá binh quàn kỳ báo cáo xẩp xỈ tỷ giá giao dich thực tế tạl thci điẻm phdt
-     sinh giao djch (chênh Iệch không  2%), tỷ giá áp dụng là tỷ giá bình quân.Trườnghợp
-                                 qud
-     biên độ gia0 còng của tỶ gỈả giỮa thởi đỉểm uầu kỲ và cuâi kỳ trén 209, tỷ giá ấp dụng là tỷ
-     Gia cuổl kỷ
-Chênh lệch tỷ giá pnat sinh khi chuyển dổi báo cáo tải chính giữa niên độ được lập bang đồng
-ngoại tệ sang VMVD dươc ghi nhận trên chỉ tiêu "Chênh lệch tỷ giả hốí đoải" Mã s9 417 thugc
-      phần Vẽn chủ sở hữu cúa Báng càn tâi kế toán hợp nhẩt glia nỉên dộ hoac vào Báo cáo kết quả
-             động kinh doanh nợp nhất gìữa niên độ trong kỳ Tập doàn không còn nắm giữ quyền kiểm
- hDat                                                             côngty con; công ty liên doanh,
- soẩt và/hcãc ánh hưởng dảng kể dổi với các khoản dau Lư vao
- Ilen ket.
-Tại ngày 30 tháng 6 năm 2025, toàn bộ sổ dư của khoản mục "Chênh Iệch tỷ giá hối đoái" trên
- Bảng cân dố kế toár hợp nhất giữa niên độ phản ánh loản Iãi chênh Iệch tỷ gỉắ phat sinh tù'
-việc chuyển đổị báo cáo tài chính trinh bày bangngoai=
- Chi phi đị vay
-                                                                            sinh, trừ khi
-Chi phí đi vzy được ghi nhận vào chi phí san xuẩt; kinh doann trong         phảt
-                                                                     khi
- duợc vốn hoa theo quy đjnh của Chuẩn mực Kế toán Việt Nam sắ 16 "Chi phíđi vay" . Theo đó,
-  chi phÍ đỉ vay lỉên quan trực tiếp đến việc mua đâu tư xây dựng hoặc sán xuẩt những tai sản
-  cần một thờỉ gian -ưong đối dài để hoàn thành đưa vào sử dyng hoặc kinh doanh được cộng
-  vào nguyên giá / giá gKc Lài sản cho đến khi tài sản do đươc đưa vào sử dụng hoặc kinh doanh.
- Các khoán thu nhập phát sinh tử việc &ầu tư tam thờì các khoản vay được ghi giảm nguyên
- gia /giá gỗc tài sản có liên quan Đố1 với khoản vay riêng phục vụ việc xây dựng lài sẩn có định,
- bất dông sản đầu tư, lãl vay đưcc võn háa kế cá khi thừi giar xầy dựng dưởi 12 tháng.
-  Thuế
- Thuế thu nhập doanh nghiệP thế hiện tống giá trj cúa sỏ thuế phải trả hiện tại và sấ thuể hoãn
-  lại.
-  Sõ thuế phẳi trả hiện tạl được tính dựa trên thu nhập tính thuể trong kỳ. Thu nhập tính thuể
-   khác vởi lợỉ nhuận trựớc thuế được trinh bày trên Bảo cảo kết         hoat đóng kinh doanh hợp
-                                                              quả                    chi phf lính
-   nhất giỮa niên dộ vì thu nhập tính thuế không bao gồm các khoản thu nhậphay
-   thuế hoãc được khấu trừ trong các kỳ khác vàngoài        không bao gồm các chi tiêu không chju
-   thuế hoặc khồng đuợc khấu tru.
-   Thuế thu nhập hoẫn lai dược tính trèn các khoản chênh Iệch gỉữa gỉá trị ghi sẩ và cơ sở tính thuế
-                                       côngnơ trèn béo cáo tàỉ chinh hơp nhẩt         nlên đô
-   thu nhập của các khoán muc tàl sản hoặc                                      glỮa         phái
-     đưạc ghỉ nhận theo phương pháp Báng cân đối kế toán: Thuế thu nhâp hoãn lai phảí trà
-    đươc ghi nhận cho tất cả các khoản chênh lệcn tam thờl còn tài sản thuẽ thu nhập hoãn lai chí
-    đươc ghi nhận khi chắc chẳn co dủ lợi nhuận tính thuể trongLuJnBlaiđể khấu trừ các khoán
-    chênh lệch Eạm thời.
-
-
-
-
-22 +
+Côngty Cổ phần Chứng khoán SSI                                                B05-CTCKIHN
+THUYÉT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUÝ               NAM 2025 (tiếp theo)
+ tai ngay 31 tháng 03 nam 2025 và cho kỷ ké toán kêt thúc cùng ngày
+           CƠ SỞ TRỈNH BÀY
+ 2.1       Chuẩn mực và Ché độ kế toán áp dụng
+           Bao cáo tải chính hợp nhất của Cóng ty được lập và trinh bảy phù hợp với Chế độ kế toán
+           Doanh nghiep Viet Nam các quy đinh vả hưởng dan ke toán áp dung cho công ty chung
+          khoán được quy định tai Thông tu s6 210/2014/TT-BTC ngày 30 tháng 12 nắm 2014 của Bộ
+           Tai chinh, Thông tu số 334/2016/TT-BTC ngảy 27 tháng 12 năm 2016 của Bộ Tài chÍnh sửa
+           đối, bố sung và thay thế Phụ luc 02 và 04 của Thông tư so 210/2014/TT-BTC và các Chuản
+           mực Ké toan Việt Nam khác do Bó Tài chinh ban hành theo:
+            Quyét định s8 149/2001/QĐ-BTC ngày 31 thảng 12 năm 2001 vẻ viec ban hành bốn
+            Chuán muc ké toán Viêt Nam (Đợt 1);
+            Quyết dịnh số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 vẻ viec ban hành sáu
+            Chuẩn mực kế toán Việt Nam (Đợt 2);
+            Quyết đjnh số 234/2003/0Đ-BTC ngày 30 tháng 12 nám 2003 vè việc ban hành sáu
+            Chuán muc ké toan VỉetNam (Đot 3);
+            Quyét định số 12/2005/0Đ-BTC ngày 15 tháng 2 năm 2005 về vỉệc ban hành sáu Chuẩn
+            mực kê toán Viet Nam (Đợt 4); và
+            Quyết đjnh số 100/2005/QĐ-BTC ngày 28 tháng 12 nám 2005 vè việc ban hảnh bốn
+            Chuản muc kế toán Viêt Nam (Đợt 5).
+2.2       Cơ sở hợp nhất
+          Báo cáo tài chính hợp nhẩt bao gôm báo cáo tàl chính cùa Công ty Co phần Chứng khoán
+          SSI (công ty me) và các công ty con tai ngày 31 tháng 03 nám 2025
+          Cóng ty con đượchop nhất toản bộ kể từ ngày mua  Côngty mẹ thực sự nắm
+         kỉém soát công ty con                             là ngày            quyen
+                                    và tiêp tuc đưoc hơp nhat cho đen ngày Công ty me thuc sự cham
+         dút quyèn kiẻm soát đối với công  con.
+          Các báo cáo tài chinh của công ty mẹ và các công ty con sử dụng đế hợp nhất được lập cho
+           cung một kỷ kế toán, và được áp dung các chinh sách ké toán một cách thông nhát cho cảc
+         giao dich tuong tự.
+         Sô dư các tà khoản trên báo cáo tinh hinh tàỉ chính giữacông ty me và công ty con hoac
+                                                       các khoản lãí hoặc lỗ nội bộ chua thuc hiện
+         giữa các công ty con các giao djch nội bô,                             phát
+         sinh tử các giao dich nảy được loa tru hoan toan
+         Lợi Ích có đông không kiém soát là phản Ivi ích trong lai, hoăc lỗ, và trong tài sản thuàn cua
+         công ty con khỏng được nắm giữ bởi Công ty mẹ được trinh bày riêng biệt trên báo cáo kết
+        quả hoat động hợp nhát và được trinh bảy riéng biệt với phán vốn chú sở hữu cúa các có
+        đong cuacôngty me trong phán vốn chu sở hữu trén báo cáo tinh hinh tài chinh hợp nhât
+        Hinh thức sổ kế toán áp dụng
+        Hlnh thửc sỏ ké toán áp dung được đfng ký của Cóng ty lả Nhật ký chung
+2,4     Kỳ ké toán năm
+        Kỳ ké toán năm của Cóng ty bắt đầu từ ngày     tháng và kết thúc ngày 31 tháng 12
+        Công ty cúng lâp báo cáo tải chính giữa niên độ cho kỷ kế toán sáu tháng két thúc ngày 30
+        tháng hàng nảm và báo cáo tàỉ chinh quỷ cho kỳ ke toán ba tháng ket thúc lan lưot tai ngày
+        31 tháng  30 tháng        30 tháng và 31 thang 12 hàng nảm +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+# Công ty Cổ phần Chứng khoán SSI
 
-* Các khoản mục thuộc Báo cáo kết quả hoạt động kinh doanh giữa niên độ và Báo cáo lưu chuyển tiền tệ giữa niên độ được quy đổi ra VND theo tỷ giá bình quân trong kỳ. Trường hợp tỷ giá có sự thay đổi lớn trong kỳ, tỷ giá tại ngày phát sinh nghiệp vụ sẽ được áp dụng.  
-* Trường hợp tỷ giá bình quân kỳ báo cáo xấp xỉ tỷ giá giao dịch thực tế tại thời điểm phát sinh giao dịch (chênh lệch không quá 2%), tỷ giá áp dụng là tỷ giá bình quân. Trường hợp biên độ giao động của tỷ giá giữa thời điểm đầu kỳ và cuối kỳ trên 20%, tỷ giá áp dụng là tỷ giá cuối kỳ.
+## 2. CƠ SỞ TRÌNH BÀY
 
-Chênh lệch tỷ giá phát sinh khi chuyển đổi báo cáo tài chính giữa niên độ được lập bằng đồng ngoại tệ sang VND được ghi nhận trên chỉ tiêu "Chênh lệch tỷ giá hối đoái" - Mã số 417 thuộc phần Vốn chủ sở hữu của Bảng cân đối kế toán hợp nhất giữa niên độ hoặc vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ trong kỳ. Tập đoàn không còn nắm giữ quyền kiểm soát và/hoặc ảnh hưởng đáng kể đối với các khoản đầu tư vào công ty con, công ty liên doanh, liên kết.
+### 2.1 Chuẩn mực và Chế độ kế toán áp dụng
 
-Tại ngày 30 tháng 6 năm 2025, toàn bộ số dư của khoản mục "Chênh lệch tỷ giá hối đoái" trên Bảng cân đối kế toán hợp nhất giữa niên độ phản ánh khoản lãi chênh lệch tỷ giá phát sinh từ việc chuyển đổi báo cáo tài chính trình bày bằng ngoại tệ.
+Báo cáo tài chính hợp nhất của Công ty được lập và trình bày phù hợp với Chế độ kế toán Doanh nghiệp Việt Nam, các quy định và hướng dẫn kế toán áp dụng cho công ty chứng khoán được quy định tại Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 của Bộ Tài chính, Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 của Bộ Tài chính sửa đổi, bổ sung và thay thế Phụ lục 02 và 04 của Thông tư số 210/2014/TT-BTC, và các Chuẩn mực Kế toán Việt Nam khác do Bộ Tài chính ban hành theo:
 
-## Chi phí đi vay
+* Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+* Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+* Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+* Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+* Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
 
-Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong kỳ khi phát sinh, trừ khi được vốn hóa theo quy định của Chuẩn mực Kế toán Việt Nam số 16 "Chi phí đi vay". Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá/giá gốc tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh.  
-Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá/giá gốc tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+### 2.2 Cơ sở hợp nhất
 
-## Thuế
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty Cổ phần Chứng khoán SSI (công ty mẹ) và các công ty con tại ngày 31 tháng 03 năm 2025.
 
-Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+Công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Công ty mẹ thực sự nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Công ty mẹ thực sự chấm dứt quyền kiểm soát đối với công ty con.
 
-Số thuế phải trả hiện tại được tính dựa trên thu nhập tính thuế trong kỳ. Thu nhập tính thuế khác với lợi nhuận trước thuế được trình bày trên Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ vì thu nhập tính thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các kỳ khác và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.
+Các báo cáo tài chính của công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán, và được áp dụng các chính sách kế toán một cách thống nhất cho các giao dịch tương tự.
 
-Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất giữa niên độ và được ghi nhận theo phương pháp Bảng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+Số dư các tài khoản trên báo cáo tình hình tài chính giữa công ty mẹ và công ty con hoặc giữa các công ty con, các giao dịch nội bộ, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+Lợi ích cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Công ty mẹ được trình bày riêng biệt trên báo cáo kết quả hoạt động hợp nhất và được trình bày riêng biệt với phần vốn chủ sở hữu của các cổ đông của công ty mẹ trong phần vốn chủ sở hữu trên báo cáo tình hình tài chính hợp nhất.
+
+### 2.3 Hình thức sổ kế toán áp dụng
+
+Hình thức sổ kế toán áp dụng được đăng ký của Công ty là Nhật ký chung.
+
+### 2.4 Kỳ kế toán năm
+
+Kỳ kế toán năm của Công ty bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+Công ty cũng lập báo cáo tài chính giữa niên độ cho kỳ kế toán sáu tháng kết thúc ngày 30 tháng 6 hàng năm và báo cáo tài chính quý cho kỳ kế toán ba tháng kết thúc lần lượt tại ngày 31 tháng 3, 30 tháng 6, 30 tháng 9 và 31 tháng 12 hàng năm.
  + 
  + [] 
  None

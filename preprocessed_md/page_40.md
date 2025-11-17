@@ -1,56 +1,57 @@
-|  2  {  #  8
-9  8  !  8  ;
-8  9  ệ  8
-1[  {  g  5  5
-;  5
-ẵ  f  2 1   8  {  ẵ  1  6
-1  5  {  8
- g  5  1  8  {
- 3
-1  3  {  ẵ  ẵ
-8  0  ?
-1  ! ;  1  1  8  3
-1  1L  5  f
-9  8  0  1  ẵ
-5 2  8  '  {
-1 1  5 1  1  9  {
-1  1  f  ẵ
-g  8  8  ã  5
-11 4l 1  [ ;  1 [
-1 ; 'g  1  9
-1  2  {  2  2
-{  g  34 g  ;  {
-1  2 ,   2 {  !
-!  {  1  1ẵ {f
-1  5ẵ  ;
-1f { 1  1 g 1  1 8  {
- ẵl  5  2  Ẻ   9  { 5  8  8
- ẳf  2  2 +
+Công ty Cố phần Chứng khoán SSI                                    B05-CTCKHN
+THUYÉT MINH BÁO CÁO TAI CHÍNH HỢP NHAT QUỶ   NĂM 2025 (tiếp theo)
+tại ngảy 31 tháng 03 nảm 2025 và cho kỷ ké toán kết thúc cùng ngày
+ CÁC LOẠl TẢl SẢN TÀI CHÍNH
+ Một số khái niệm vể tài sản tàỉ chinh
+  Giá gốc
+  Giá góc của tài sản tài chinh là số tỉền hoặc tương đương tièn đã trả, đà giài ngân hoặc phả
+ trả cua tài sản tài chinh đó vào thởỉ đỉếm tài sản tài chinh được ghỉ nhan ban đàu. Tùy thuộc
+ vào từng loai tài sản tàỉ chính chi phl giao dịch phát sinh trưc tỉếp từ việc mua các tài sản tài
+ chinh co thể đươc tính vào giá gốc của tài sản tàỉ chinh hoặc khng
+  Giá trị hợp lýlgiá trị thị truờng
+  Giá trị hợp lỷ hay còn gpỉ là gỉá tri thỉ trưởng cua tài sản tàỉ chính là giá trị tài sàn tài chính có
+ thể trao đổi một cảch tư nguyên giữa các bên có đầy đú hiẻu bỉết trong trao đổi ngang gỉá.
+  Gỉả tri hợp lýlthị trưởng cùa chúng khoản được xác đjnh theo phuơng pháp trinh bày ta
+  Thuyet minh 4.6.
+  Gỉá trj phân bổ
+ Giá trị phân bổ cua tài sản tài chinh (là công cu nợ) được xác đjnh bằng giá trị ghi nhận ban
+ dau cùa tài sản tàl chinh trừ đi (-) các khoản hoàn trà góc cong  hoàc trù             cac khoan
+ phản bố lúy kế tinh theo phương phảp lãỉ suat thưc cùa phân chênh Iệch giữa gỉá tri ghi nhân
+ ban đau và gỉả trỉ đao han, trừ đỉ các khoản giàm trừ dự phòng do suy giảm gỉá tri hoác do
+ khóng the thu hói (neu có)
+ Cho mục đich trinh bảy báo cảo tài chinh dự phỏng do suy giảm giá trị hoac do không thế
+ thu hỏl được trinh bày tai khoản muc      Du phòng suy giảm giá trị các tài sàn tài chinh và tai
+sán nhan thé cháp trén báo cáo tinh hinh tài chính hợp nhát.
+ Giá trị ghi sổ
+ Giá tri ghi sỏ của tảỉ sản tài chinh là gỉá trỉ mà tài sản tài chlnh được ghi nhận trên báo cáo
+tinh hinh tàỉ chính hợp nhất; Tùy thuộc vào từng loai tài sản tài chính, giá trị ghi sỗ có thể là
+giá trị hợp lýl giá thịtruong(tai sàn tài chính FVTPL tài sàn tài chinh AFS) hoắc giá trj phàn
+bó (các khoàn đẩu tư HTM, các khoản cho vay). +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+# Công ty Cổ phần Chứng khoán SSI
 
-Tại 30 tháng 6 năm 2025, Tổng Công ty chỉ có các khoản vay ngắn hạn bằng VND với mức đích bổ sung vốn lưu động, chi tiết như sau:
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-| Ngân hàng  | Kỳ hạn gốc                    | Lãi suất                 | Hình thức đảm bảo |
-| ---------- | ----------------------------- | ------------------------ | ----------------- |
-| Vietinbank | Đến ngày 15 tháng 12 năm 2025 | Từ 5,6%/năm đến 5,8%/năm | (i)               |
-| BIDV       | Đến ngày 30 tháng 11 năm 2025 | Từ 6,6%/năm đến 7%/năm   | (ii)              |
-| PVcomBank  | Đến ngày 25 tháng 12 năm 2025 | 7%/năm                   | (iii)             |
-| Agribank   | Đến ngày 26 tháng 12 năm 2025 | 6,8%/năm                 | (iv)              |
-| SeABank    | Đến ngày 16 tháng 11 năm 2025 | 7%/năm                   | (v)               |
-| MSB        | Đến ngày 10 tháng 12 năm 2025 | 5,8%/năm                 | Tín chấp          |
+### 7. CÁC LOẠI TÀI SẢN TÀI CHÍNH
 
+#### Một số khái niệm về tài sản tài chính
 
-(i) Khoản vay ngân hàng TMCP Công thương Việt Nam với tổng hạn mức tín dụng là 250 tỷ VND và tài sản đảm bảo là quyền sử dụng đất, tài sản hữu hình, hợp đồng gửi và quyền tài sản từ các hợp đồng đang thực hiện.
+**Giá gốc**  
+Giá gốc của tài sản tài chính là số tiền hoặc tương đương tiền đã trả, đã giải ngân hoặc phải trả của tài sản tài chính đó vào thời điểm tài sản tài chính được ghi nhận ban đầu. Tùy thuộc vào từng loại tài sản tài chính, chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính có thể được tính vào giá gốc của tài sản tài chính hoặc không.
 
-(ii) Khoản vay ngân hàng TMCP Đầu tư và Phát triển Việt Nam với tổng hạn mức tín dụng là 130 tỷ VND và tài sản đảm bảo là các hợp đồng đồng tiền gửi với tổng giá trị 30 tỷ VND.
+**Giá trị hợp lý/giá trị thị trường**  
+Giá trị hợp lý hay còn gọi là giá trị thị trường của tài sản tài chính là giá trị tài sản tài chính có thể trao đổi một cách tự nguyện giữa các bên có đầy đủ hiểu biết trong trao đổi ngang giá.
 
-(iii) Khoản vay ngân hàng TMCP Đại chúng Việt Nam với tổng hạn mức tín dụng là 200 tỷ VND và tài sản đảm bảo là hợp đồng tiền gửi với tổng giá trị 40 tỷ VND.
+Giá trị hợp lý/thị trường của chứng khoán được xác định theo phương pháp trình bày tại Thuyết minh 4.6.
 
-(iv) Khoản vay ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam với tổng hạn mức tín dụng là 20 tỷ VND và tài sản đảm bảo là hợp đồng đồng tiền gửi giá trị 10 tỷ VND.
+**Giá trị phân bổ**  
+Giá trị phân bổ của tài sản tài chính (là công cụ nợ) được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
 
-(v) Khoản vay ngân hàng TMCP Đông Nam Á với tổng hạn mức tín dụng là 80 tỷ VND và tài sản đảm bảo là quyền tài sản từ các hợp đồng đang thực hiện.
+Cho mục đích trình bày báo cáo tài chính, dự phòng do suy giảm giá trị hoặc do không thể thu hồi được trình bày tại khoản mục "Dự phòng suy giảm giá trị các tài sản tài chính và tài sản nhận thế chấp" trên báo cáo tình hình tài chính hợp nhất.
+
+**Giá trị ghi sổ**  
+Giá trị ghi sổ của tài sản tài chính là giá trị mà tài sản tài chính được ghi nhận trên báo cáo tình hình tài chính hợp nhất. Tùy thuộc vào từng loại tài sản tài chính, giá trị ghi sổ có thể là giá trị hợp lý/giá thị trường (tài sản tài chính FVTPL, tài sản tài chính AFS) hoặc giá trị phân bổ (các khoản đầu tư HTM, các khoản cho vay).
  + 
  + [] 
  None

@@ -1,88 +1,68 @@
- TỎNG CÔNG TY KHÍ VIỆT MAMM - CÔNG TY Cổ PHẦN                           MẪU SỐ B 09a-DN/HN
- THUYÊT MIINH BÁO CÁO TÀI CHÍNH HỢP NHÃT GIỮA NIÊN ĐỘ (Tỉếp theo)
-  Cơ sở hơpnhất báo cáo tài chính giữ'a nỈên độ
-  Bac cao tàỉ chinn hợp rhất giữa niên độ bao gồm báo cáo tài chinhn riêng giữa niên độ của Tong
- Cóng ty và báo Cáo Lài chính giữa niêr đậ cúa các công ty do TóngCong    kiẻm soát (cáccông
-                            động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. Víệc kIểrr soát nằy dat
-  ty con) cho kỳ hoat                                                     động
-  được khi Tẩng Công ty cá khả năng kiểm soát các chính sach tài chỉnh và hoạt         cúa các công
-  ty nhận đầu tư nhằm thu dược lợi ích lừ hoạt động của các công ty nầy.
-         Kẽtquáhoat động kinh aoanh giữa niên độ cỦJ các công ty con được mua lạỈ hoặc bán di trong
-  kỷ được trinh bầy trong Báa cáo kểt           hoat động kinh doanh hợp rhấ : giữa nỈên độ tỉ ngảy
-                                    quá
-   mua hoãc cho đén ngày bán khoản đâu    câng ty con đỏ
-                                         tur ar
-   Trong trường hợp cần thiết, báo cao tài chính của các công ty con        điều chinh để các chinh
-                                    Cóng             công       được
-   sách kể toán được áp dung tại Tổng     ty và các        ty con là giông nhau,
-          Tất cả các nghiêp vụ và sổ dư giỮa car công ty trongcungTổng Công ty được lozi bỏ khí hợp
-    nhất báo cảo tàí chinh giữa niên độ.
-      Lợi ich cúa cổđônBkhông kiẽm soảt bao gồm gỉá tri các Iợi ích củz cổ đông không kiểm soá1 Lạl
-         ngày hợp nhắt kinn doanh ban dầu và phần Iợi Ích của cổ đông không kiểm soát trong sự biến
-       dộng cúa tổng vón chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản Iẵ phắt sinh tại công
-                 ty conphải được phân bố tương ửng với phần sở hữu của cổdôngkhông kiểm soảt, kể cả
-        trường hợp s5 |ỗ đó Iớn hơn phần sở hữu cúa cổ đong khòng kiểm soát trong tài sản thuần của
-     công ty con.
-    Hợp nhất kInh doanh
-                                                                                ;hợp
-    Tài san, công nợva công nợ tiềm tàng của công ty con được xác định theo giá trị     lý tai ngằy
-                                                                           jhợplý cua tài sản thuàn
-       cóng tY con; Bẩt kỳ khoẻn phụ trội nào gỉữa giá mua và tổng giá trị
-     mua
-           được mua được ghi rhận là lựỉ thế thưdng mạl. Bất kỳ khoản thiếu hụt nào Giữa Glá mua và
-     tóng"gìá trj hợp lý của tài sản thuần dược mua dược ghi nhận vào kểt quả hoạt động  doanh
-                                                                                       kinh
-     hdp rhât cùa kỳ kê toán pnảc sinh hoạt động mua công ty con
-         Lợi íchcủa có dông không kiểm soát tạl ngày hợp nhất kinh doanh ban đầu được xác định trên
-        sở tỷ lệ của cổ dWng không kiểm soảt trong tổng glá trj hợp lý cúa tàí sản, công nợ và còng
-     nợ tiềm tàng dươc   nhân.
-                        Ghi
-     Đâu tư vào công ty liên kết
-     Công ty lién kết là một công ty mà Tẩng Công ty có ắnhhưởngđáng kế nhưng khỗng
-                                                                                         phai
-     công ty con       công ty lièn doanh cúa T ng Cõng ty. Ảnh hưởng đang kể thể hiện ở quyền thar
-        hay
-      gia vao việc dưa ra cac quyét djnh về chinh sách tàí chính và hoạt động cúa bên nhận đầu tư
-                                                     dôngkiểm soát những chinh sách nay
-       nhưng không có ảnh hưảng về mặt kiểrn soát hoặc
-       Kết quá hoạt động kinh doanh, tàỈ sẳn và công nợ của các công ty llên kết được hợp nhãt trong
-                  hợp nhẩt glua niên độ của Tổng Công ty sửdunb phựơng pháp vốn chủ sá
-       bao cảo tal chính
-        hữu Các khoản góp vón liên kết đươc trình bầy trong Bảng cân đốì kẽ toán hợp nhất gìữa niên
-        độ theo gié Bõc được điều chỉnh theo những thay dổi trong phần vổn góp của Tổng Công ty vào
-        phân tài sản thuân của công ty liên kẽt sau ngày mua khoản đầu tư. Các khoán lỗ của công ty
-        líên kết vượt quá khoản góp vấn cúa Tổng Công ty tại công ty lỉên kết đỏ (bao gồm bẩt kể các
-         khoảr góp vốn dài hạn mà về thực chất tao thành đầu tư thuần của Tổng Công ty tại công ty
-        lièn kết đó) không dược ghi nhận, trừ khi Tổng Cang ty có nghĩa vụ thực hiện thanh toán thay
-                           TỏngCông ty chỉ được ghi nhận phần sở hữu của mình trong khoản
-       ty llen kết hoạt động có lãi,
-      lai đó sau khi đã bù đẳp được phần lỗ thuân chưa được hach toán trước đây,
+Công ty Cổ phần Chứng khoán SSI                       BO3b-CTCKIHN
+BÁO CÁO LƯU CHUYÉN TIÊN TE HƠP NHAT QUÝ               NAM 2025 (tiep theo)
+cho kỷ kế toán két thúc ngày 31 tháng 03 nắm 2025
 
-1 +
+PHẢN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔl GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+
+                                                      Lũỵ kấ_từ dẩu nắm đén cuói quỷ ndỵ
+                                                      Thuyét        Năm nay     Nám truóc
+       CHI TIÊU                                       minn              VND             VND
+
+         Lưu chuyen tièn hoat động môi
+                                          giói,
+         thác của khách hàng
+         Tièn thu bán chứng khoản môỉ gỉỚỉ cho           99,496.219.051.361     112.213,581,354.619
+         kháchharg
+         Tien chi mua chung khoan mói giới cho        (100.119,555,746.727)     (110.207.277.667.975)
+         khách hang
+         Nhán tiên gửỉ đẻ thanh toẩn giao dịch          190.048,162.872.186     133.202.290.584 445
+         chúng khoán cúa khach hang
+             Tiền gửi kỷ cuy cúa Nhà dau tư ta VSD           34,843.471.790      (147.010.760,171)
+        ((giámVtàng))
+          Chi trả thanh toán giao dịch chửng khoán    (185,101.517.768.454)     (131.661.927,042.359)
+          cúa khách hàng
+          Chi trả phí lưu ký chứng khoán của khách          (8.583 206,463)        (7.733,869.426)
+          hang         cua Tổ chửc phát hảnh chứng
+         Tien thu                                           381.698.115,000        308.569,887 OOO
+         khoán
+              Tien chi trà Tó chuc phat hanh chửng      (1.764.222 115.492)      (799.869.380,056)
+         khoán
+       (Giảm) tăng tien thuan trong kỷ                    2.967.044.673.201      2.900.623.106.077
+         Tièn va các khoản tưong đương tien               4.941,400.793.936      5.274.737.029.714
+         dáu nám cùa kháchhang
+32     Tièn     ngan hang áầu nam;                       4.941,.400.793.936      5.274.737,029.714
+        khoản theo phương thức CTCK quán lỷ               4,919,023.915.622     5,166.309,.968.071
+        Tien gửỉtong hợp giao dich chửng khoan               11,079.681.180            364.816.809
+        cho                                                  11.297,197.134         99.062 244,834
+        Tien         chúc phát hanh +
  
-# Cơ sở hợp nhất báo cáo tài chính giữa niên độ
+# Công ty Cổ phần Chứng khoán SSI  
+B03b-CTCK/HN  
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
 
-Báo cáo tài chính hợp nhất giữa niên độ bao gồm báo cáo tài chính riêng giữa niên độ của Tổng Công ty và báo cáo tài chính giữa niên độ của các công ty do Tổng Công ty kiểm soát (các công ty con) cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. Việc kiểm soát này đạt được khi Tổng Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+## PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
 
-Kết quả hoạt động kinh doanh giữa niên độ của các công ty con được mua lại hoặc bán đi trong kỳ được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
+| Mã số | CHỈ TIÊU                                                       | Thuyết minh                                                                      | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay VND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước VND |                       |
+| ----- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | --------------------- |
+| I.    | **Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng** |                                                                                  |                                                    |                                                      |                       |
+|       | 01                                                             | 1. Tiền thu bán chứng khoán môi giới cho khách hàng                              |                                                    | 99.496.219.051.361                                   | 112.213.581.354.619   |
+|       | 02                                                             | 2. Tiền chi mua chứng khoán môi giới cho khách hàng                              |                                                    | (100.119.555.746.727)                                | (110.207.277.667.975) |
+|       | 07                                                             | 3. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng              |                                                    | 190.048.162.872.186                                  | 133.202.290.584.445   |
+|       | 07.1                                                           | 4. Tiền gửi ký quỹ của Nhà đầu tư tại VSD (giảm/tăng)                            |                                                    | 34.843.471.790                                       | (147.010.760.171)     |
+|       | 08                                                             | 5. Chi trả thanh toán giao dịch chứng khoán của khách hàng                       |                                                    | (185.101.517.768.454)                                | (131.661.927.042.359) |
+|       | 11                                                             | 6. Chi trả phí lưu ký chứng khoán của khách hàng                                 |                                                    | (8.583.206.463)                                      | (7.733.869.426)       |
+|       | 14                                                             | 7. Tiền thu của Tổ chức phát hành chứng khoán                                    |                                                    | 381.698.115.000                                      | 308.569.887.000       |
+| 15    | 8. Tiền chi trả Tổ chức phát hành chứng khoán                  |                                                                                  | (1.764.222.115.492)                                | (799.869.380.056)                                    |                       |
+| 20    | **(Giảm)/ tăng tiền thuần trong kỳ**                           |                                                                                  | **2.967.044.673.201**                              | **2.900.623.106.077**                                |                       |
+| II.   | **Tiền và các khoản tương đương tiền đầu năm của khách hàng**  |                                                                                  |                                                    |                                                      |                       |
+|       | 30                                                             |                                                                                  |                                                    | 4.941.400.793.936                                    | 5.274.737.029.714     |
+|       | 31                                                             | Tiền gửi ngân hàng đầu năm:                                                      |                                                    | 4.941.400.793.936                                    | 5.274.737.029.714     |
+|       | 32                                                             | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |                                                    | 4.919.023.915.622                                    | 5.166.309.968.071     |
+|       | 33                                                             | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                         |                                                    | 11.079.681.180                                       | 9.364.816.809         |
+|       | 35                                                             | - Tiền gửi của Tổ chức phát hành                                                 |                                                    | 11.297.197.134                                       | 99.062.244.834        |
 
-Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Tổng Công ty và các công ty con là giống nhau.
 
-Tất cả các nghiệp vụ và số dư giữa các công ty trong cùng Tổng Công ty được loại bỏ khi hợp nhất báo cáo tài chính giữa niên độ.
-
-Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
-
-## Hợp nhất kinh doanh
-
-Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản thuần được mua được ghi nhận là lợi thế thương mại. Bất kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản thuần được mua được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất của kỳ kế toán phát sinh hoạt động mua công ty con.
-
-Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
-
-## Đầu tư vào công ty liên kết
-
-Công ty liên kết là một công ty mà Tổng Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tổng Công ty. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.
-
-Kết quả hoạt động kinh doanh, tài sản và công nợ của các công ty liên kết được hợp nhất trong báo cáo tài chính hợp nhất giữa niên độ của Tổng Công ty sử dụng phương pháp vốn chủ sở hữu. Các khoản góp vốn liên kết được trình bày trong Bảng cân đối kế toán hợp nhất giữa niên độ theo giá gốc được điều chỉnh theo những thay đổi trong phần vốn góp của Tổng Công ty vào phân tài sản thuần của công ty liên kết sau ngày mua khoản đầu tư. Các khoản lỗ của công ty liên kết vượt quá khoản góp vốn của Tổng Công ty tại công ty liên kết đó (bao gồm bất kể các khoản góp vốn dài hạn mà về thực chất tạo thành đầu tư thuần của Tổng Công ty tại công ty liên kết đó) không được ghi nhận, trừ khi Tổng Công ty có nghĩa vụ thực hiện thanh toán thay cho công ty liên kết các khoản nợ mà Tổng Công ty đã đảm bảo và cam kết trả. Nếu sau đó công ty liên kết hoạt động có lãi, Tổng Công ty chỉ được ghi nhận phần sở hữu của mình trong khoản lợi đó sau khi đã bù đắp được phần lỗ thuần chưa được hạch toán trước đây.
  + 
  + [] 
  None

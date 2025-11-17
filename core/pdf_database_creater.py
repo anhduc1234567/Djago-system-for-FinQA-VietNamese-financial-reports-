@@ -7,7 +7,11 @@ from rank_bm25 import BM25Okapi
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from typing import List
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
+DEVICE = os.getenv("DEVICE")
 # def get_embedding_vector(md_contents: list[dict], embedding_model='all-MiniLM-L6-v2') -> tuple:
 #     model = SentenceTransformer(embedding_model)
 #     embeddings = []
@@ -62,7 +66,7 @@ def semantic_chunking(text: str, chunk_size=1500, chunk_overlap=500):
     return md_chunks
 
 def get_embeddings(chunks: List[dict], embedding_model='all-MiniLM-L6-v2'):
-    model = SentenceTransformer(embedding_model)
+    model = SentenceTransformer(embedding_model, device= DEVICE)
     embeddings = []
     metadatas = []
     for chunk in chunks:

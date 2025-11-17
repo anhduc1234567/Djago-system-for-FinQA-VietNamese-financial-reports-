@@ -1,66 +1,83 @@
-  Deloitte
+Công ty Cổ phần Chứng khoán SSI                                                                   BO1-CTCKIHN
+BÁO CAO TINH HINH TẢI CHÍNH HỢP NHAT QUÝ                     NAM 2025 (tiếptheo)
+tai ngảy 31 thang 03 nám 2025
 
-             BÁO CÁO SOÁT XÉT BÁD CÁD TÀl CHÍNH HỢP NHẨT GIỮA NIÊN ĐỘ (Tỉếp theo)
+CÁC CHỈ TIÉU NGOẢI BẢO CÁO TỈNH HINH TÀI CHÍNH HỢP NHAT (tỉếp theo)
 
-    Kểt luan cúa Kiểm toán vỉên
-                                          khôngthẩY có vẩn dề gi khiển chúng tẩi cho rầng
-    Căn cú trên kểt quả soát xẻt cua chúnG ti, chúng tôi
-     báo cáo tài chínn hợp nhẩt giữa niên dộ kèm theo không phản ánh trung thực và hợp lý, trên các khla
-     canh trọng yếu, tinh hinh tài chính hợp nhẩt của Tẩng Công ty tạỈ ngày 30 théng 6 nẳm 2025, cũng như
-     Icêt       hoat dông kinn doanh hợp nhẩt và tinh hInh Iưu chuyen tiên tệ hợp nhấL cho kỳ hoạt đBng 6
-      qua                      hopvứị chuẩn mực ke toán, chể d; kế toán doanh nghiêp ViêtNam
-     thánp kết thúc cùng ngày , phù
-                                                        Udu Lqu [u
+              CHỈ TIỂU                                       Thuyet                 Só cuói kỳ           Só dảu nám
+ Mã só                                                       minh                          VND                  VND
 
-     Vấn đề khác
-     Sõ liệu s0 sánh trên Bảng cân đối kể toản hợp nhẩt giữạ niên độ và các thuyết minh tương  là só liệu
-                                                                  ửng
-           của bdo cão tàl chÍnhhơpnhât cho năm tài chinh kỂl thúc ngày 31 thang 12 nãm 2024 dã dươc kiểm
-      todn bởi một công ry kiẻm toẩn đõc lập khac, vởi bảo cao kiểm toán đè ngày 20 tháng 02 năm 2025 đưa
-      ra / kiến chấp nhán toàn phần;
-      Số liệu s0 sánh trên Bao cáo kết     hoat dộng kinh doanh hợp nhẩt giữa nỉên độ, Báo cáo Iưu chuyến
-                                    qua
-      tiên tệ hợpnhất giữa nién độ và các thuyết minh tương ứng là sấ liẻu của Báo cáo tài chính hợp nhất
-      giữa niên dộ cho kỳ hoạt dộng 6 tháng kết thúc ngày 30 tháng năm 2024 đã được soát xét bởi công
-      kiêm toán độc lập nêu trên, vớì báo cáo soát xét đề ngày 07 {háng 8 năm 2024 đưa ra ket luan chấp
-      rhận toàn phần.
-
-E.    CON
-
-
-   Vũ Đửc Nguyên
-   ' Tông Giám dõc
-   Pho
-   Giấy chứng nhản dang ký hành nghề
-   kỉểrn tuan só 0764-2023-001-1
-  CÓNG TY TNHH KlỂMV TOẢN DELOITTE VIÊT NAM
-  Ngày 12 tháng 8 năm 2025
-   Hả Nọi , CHXHCN Việt Nam +
+               TAI SẢN VẢ CÁC KHOẢN PHẢl TRẢ
+               VỂ TẢI SẢN QUẢN LÝ CAM KÉT
+               VỚl KHÁCH HANG (tiẻp theo)
+  022         Tài sàn tai chinh đà Iưu kỷ tai Trung tam
+              Lưu kỷ Chúng khoán va chua gla0 djch                             653.377.520.0o0    1.174.396.560.000
+              cúa Nha đau tư
+ 022 1        Tài sàn tài chinh d0 luu kỷ tai Trung tâm
+              Luu ký Chứng khoán và chua giao dich; tư                         628,995 530.000    1.150.014.570.000
+              0o chuyên nhuong
+  0222        Tài sản tàỉ chinh đà luu kỷ tai Trung tâm
+              Luu ký Chứng khoán và chua giao dỉch,                             24.381.0oo.00o       24.381.000.000
+              han che chuyén nhuong
+ 022 4        Tài sản tàỉ chinh đã luu kỷ tai Trung tám
+              Luu kỷ Chứng khoán và chua giao djch                                 990.00o               990.00o
+  023         phong toà, tam giữ                                                                 598.838 030.00O
+              Tai sản tàt chinh     ve cỦa Nha dau tu                      439.959.344.00o
+                             Cho
+  024b        Tài sán tài chính chưa lưu kỷ tai Trung tàm                   30.552.020.000        10.760 540.000
+  025         Luu kỷ Chứng khoan cúa Nhà dau tu
+              Tài sản tải chinh được hưỏng quyen cúa                       260.189.030.0OO       455,522.080.000
+              Nhà đau tu
+  026         Tỉèn gửỉ cúa khách hàng                                      908.445.467.137    4,.941,400.793,936
+      027     Tièn gửi cùa Nhà dằu tư vé giao djch
+              chúng khoán theo phvơng thúc CTCK                          7 531,693,589.340     4.636.518.614.794
+              quàn lý
+ 027.         Tien gùỉ kỷ    cua Nhà đau tu tai VSD                        317.348.772.618       282.505.300,828
+                          quỹ
+      028     Tiền gửỉ tong hơp giao dich chửng khoán
+                      úaà78                                                  8.675.047.545        11,079.681,180
+      030     cúa khách
+              Tièn gửỉ của   chức        hanh chung
+             khoán                  phat                                   50.728,.057,634    11,297,197.134
+      031     Phải trả Nhả đẳu tư vẻ tiền gừi giao dịch
+             chúng khoan theo phương thùc CTCK                         7.849.042.361.958  4.919.023,.915 622
+             quan
+031.1        Phái trá Nhà đảu    trong nuóc vẻ tiẻn gui
+             gia0 dich chung khoan theo phuong thuc                                        4,712.758.821.651
+             CTCK quản lỷ                                                7.683 356.782.248
+031.2        Phđỉ trà Nhà đàu tư nuóc ngodi ve tien gúỉ
+             gia0 dich chung khoan theo phuong thúc                    165.685.579.710       206.265.093.971
+             CTCK
+                 quán +
  
-# Deloitte
+# Công ty Cổ phần Chứng khoán SSI  
+B01-CTCK/HN  
 
-## BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025  
 
-### Kết luận của Kiểm toán viên
+## CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)  
 
-Căn cứ trên kết quả soát xét của chúng tôi, chúng tôi không thấy có vấn đề gì khiến chúng tôi cho rằng báo cáo tài chính hợp nhất giữa niên độ kèm theo không phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Tổng Công ty tại ngày 30 tháng 6 năm 2025, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho kỳ hoạt động 6 tháng kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ.
+| Mã số | CHỈ TIÊU                                                                                         | Thuyết minh                                                                                             | Số cuối kỳ / Số đầu năm<br/>VND | Số cuối kỳ / Số đầu năm<br/>VND |                   |
+| ----- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------- | ----------------- |
+| B.    | **TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG (tiếp theo)**          |                                                                                                         |                                 |                                 |                   |
+|       | 022                                                                                              | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của Nhà đầu tư           |                                 | 653.377.520.000                 | 1.174.396.560.000 |
+|       | 022.1                                                                                            | *Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, tự do chuyển nhượng*   |                                 | 628.995.530.000                 | 1.150.014.570.000 |
+|       | 022.2                                                                                            | *Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, hạn chế chuyển nhượng* |                                 | 24.381.000.000                  | 24.381.000.000    |
+|       | 022.4                                                                                            | *Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch phong tỏa, tạm giữ*     |                                 | 990.000                         | 990.000           |
+|       | 023                                                                                              | Tài sản tài chính chờ về của Nhà đầu tư                                                                 |                                 | 1.439.959.344.000               | 598.838.030.000   |
+|       | 024b                                                                                             | Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư                           |                                 | 30.552.020.000                  | 10.760.540.000    |
+|       | 025                                                                                              | Tài sản tài chính được hưởng quyền của Nhà đầu tư                                                       |                                 | 260.189.030.000                 | 455.522.080.000   |
+|       | 026                                                                                              | Tiền gửi của khách hàng                                                                                 |                                 | 7.908.445.467.137               | 4.941.400.793.936 |
+|       | 027                                                                                              | Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý                          |                                 | 7.531.693.589.340               | 4.636.518.614.794 |
+|       | 027.1                                                                                            | *Tiền gửi ký quỹ của Nhà đầu tư tại VSD*                                                                |                                 | 317.348.772.618                 | 282.505.300.828   |
+|       | 028                                                                                              | Tiền gửi tổng hợp giao dịch chứng khoán của khách hàng                                                  |                                 | 8.675.047.545                   | 11.079.681.180    |
+|       | 030                                                                                              | Tiền gửi của Tổ chức phát hành chứng khoán                                                              |                                 | 50.728.057.634                  | 11.297.197.134    |
+|       | 031                                                                                              | Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý                     |                                 | 7.849.042.361.958               | 4.919.023.915.622 |
+| 031.1 | *Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý* |                                                                                                         | 7.683.356.782.248               | 4.712.758.821.651               |                   |
+| 031.2 | *Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý* |                                                                                                         | 165.685.579.710                 | 206.265.093.971                 |                   |
 
-### Vấn đề khác
 
-- Số liệu so sánh trên Bảng cân đối kế toán hợp nhất giữa niên độ và các thuyết minh tương ứng là số liệu của báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 đã được kiểm toán bởi một công ty kiểm toán độc lập khác, với báo cáo kiểm toán đề ngày 20 tháng 02 năm 2025 đưa ra ý kiến chấp nhận toàn phần.
-
-- Số liệu so sánh trên Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ và các thuyết minh tương ứng là số liệu của Báo cáo tài chính hợp nhất giữa niên độ cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024 đã được soát xét bởi công ty kiểm toán độc lập nêu trên, với báo cáo soát xét đề ngày 07 tháng 8 năm 2024 đưa ra kết luận chấp nhận toàn phần.
-
-----
-
-Vũ Đức Nguyên  
-Phó Tổng Giám đốc  
-Giấy chứng nhận đăng ký hành nghề kiểm toán số 0764-2023-001-1  
-
-**CÔNG TY TNHH KIỂM TOÁN DELOITTE VIỆT NAM**  
-
-Ngày 12 tháng 8 năm 2025  
-Hà Nội, CHXHCN Việt Nam
  + 
  + [] 
  None

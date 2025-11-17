@@ -1,84 +1,182 @@
-PETROVIETNAM GAS JOINT STOCIK CORPORATION                            FORM 09a-DN/HN
-PV GAS Tower, 673 Nguyen Huu Tho Street                 Issued under Circular No.202/2014/TT-BTC
-Nha Be Commune; Ho Chi MinhCity Vietnam                 dated 22 Decemher 2014 ot the Ministry of Finance
-NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS
-These notes ore on Integrol pcrt oj and should be read  conjunction with the accompanying {nterim consolidoted
-finoncial statements
-
-  GENERAL INFORIVATION
-  Structure of ownership
-  PetroVielnan      Gas Joinl Stock Corporation   ("the   Corporation"  formerly known
-       PetroVietnam Gas Corporation One Member Company Limited, is a subsidiary of Vietnam Oil
-     and Gas Group (currently known as Vietnam National Industry _ Energy Group (PVN)| which was
-        established in accordance with Decision No. 2232/QD-DKVN dated 18 July 2007 issued by
-  Vietnamn Nationa  ndustrv   Energy Group and the tirst Enterprise reglstration certificate No.
- 3500102710 dated 13 December 2007 .
-        PetroVietnam Gas Corporation One Member Campary Limited was otficially transformedinto
-              PetroVietnarn Gas Joint Stock Corporation in accordance with Enterprise registration certificate
-      dated 16 May 2011 issued by the Department of Planning and Investment of Ho Chi Minh City,
-     On 10 January 2025, the Department of Planning and Investment of Ho Chi Minh City issued the
-  2lst amended Enter    registration certificate No. 3500102710 to Increase charter capital of
-                    rprise
-  the Corporation from VNU 22,967.4 billion to VND 23,426.7 blllion ,
-      The Corporation's shares were approved for lisring on the Ho Chi Mỉnh City Stock Exchange
-      (HOSE) under Decision No. 60/2012/QD-SGDHCM dated 27 April 2012. The first trading day was
-  on 21 Mlay2012 with the stock code GAS.
- The parent company ofthe Corporation is the Vietnam National Industry  Energy Group:
-                       The total number of employees of the Corporation ds of 30 June 2025 was 2,923 (as of 31
-  December 2024; 2,934),
-  Operating industry and principal activities
-  Under the Business   Regislration Certificate; che operating   industry of the Corporation
-
-    Collecting; transporlingr storinggas and gas products;
-    Producing fuel gas, distributIng gaseous fuel through pipelines, specially processing gas
-    and gas products;
-    Wholesaling solic,   liquid and gaseous fuel  and Other relevant procucts, specially
-    distributing and trading dry gas, LNG, CNG, LPG and Condensate;
-    Importing and exporting dry ga5, LNG, LPG and Condensate;             constructing
-     Performing other relevant construction activities,   specially   investÍngr
-     managing maintaining repairing                     andgas related construction works and projects;
-                                           Bas
-     Real estate business;
-     Investing in infrastructure for distribution systems ofdryand liquid gas at source from
-     supply to whole sale anc retail distribution and;                  services and means of
-     Transporting cargo by road, specially providing  transportation
-     transport using    ga5,  transporting              gas products   {doing business  ga5 product
-     transportation) -
-   The principal activities of the Corporation are to collece, Import, transport; store, process
-   distribute; trage gas ara Bas produll +
+Công
+THUYÉT MINH BÁO CÁO TẢl CHÍNH HỢP NHÁT QUÝ
+tai ngay 31 thang 03 nam 2025 và cho kỷ kế toán két thúc
+40.2
+Lợi nhuán tử
+kinh doanh trước thuê
+2025
+Tổng tàỉ sản
+Tong cóng nợ
+Quỷ
+Số dư tại 31 tháng 03 nam
+Doanh Ihu thuàn hoat
+khoản (1)
+Các chi phi truc tiếp
+Khau hao và cảc chi phỉ
+phán bổ
+Tai sán bó phản
+Tai sản phản bô
+Tài sản khóng phàn bó
+Nợ phảỉ trả bộ phàn
+Nợ phản bó
+Nợ không phán bổ
+dong
+(1): Doanh thu chủ yếu gồm doanh thu nghiệp vụ môi giới, doanh thu cho
+Thong tin báo cảo bộ phận
+Thông tin báo cáo bộ phận theo linh vực kinh doanh
+ty Cổ phần Chứng khoán SSI
+nám 2025
+kinh doanh chúng
+hoat
+động
+27.775.145.907.004
+27 202 042 257.092
+16.633.762.529.449
+16.884.559.441.337
+M8ỉ gỉỚỉ vả dịch vu
+440.192.918.876
+955.364 543.290
+472.195.004.854
+573.103.649 912
+250.796.911.888
+42.976.619.560
+khách hàng (1)
+VND
+48,319.247.382,707
+48.344.103.179.172
+32.633.247.168,534
+32.644,124.358.021
+1,055 116.100.638
+555.451,130,.234
+496.801.052.579
+24.855.796,465
+10,877.189.487
+NĂM 2025 (tiếp theo)
+cung
+863.917.825
+ngay
+Tu doanh
+VND
+Kinh doanh
+7 293.554.373.508
+7.350.367.622.570
+6.330.674.065.087
+6.355.536.212.486
+122.943.326 126
+37.821.648.272
+80.861.294.255
+56.813,249 062
+24.862.147,399
+vay
+260 383 599
+ký quỹ, doanh thu tư vấn đầu tư và doanh thu lưu ký
+nguon
+VND
+voón
+Quản lý danh muc
+103.262.446.771
+45.763,086 131
+17.810.032 724
+25.503.332.837
+70,594.828.560
+32.667.618.211
+14.295.734.754
+20.880.383.292
+2.449.720,570
+584.648.538
+VND
+và Các bô phân khác
+Ngân
+310.977.252.563
+333.702.552,.187
+15.387.302.059
+22.725,299.624
+16.888.857.705
+9,978 121,506
+3.705.027.113
+1.704.153.440
+6,943 998.745
+9 944.858.960
+hang
+Gau lu
+VND
+83.196.416.094.430
+84.043.901.711.559
+55.611.212.410.353
+56.340.548.607.124
+2.194.574.358.244
+1.094.255.937.590
+1.047.063.625.660
+B05-CTCKIHN
+710.165.613.274
+137.320.003.855
+310.776.842.488
+418.559.354.283
+53.254.794.994
+Tổng cộng
+VND +
  
-# NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+# Công ty Cổ phần Chứng khoán SSI
 
-*These notes are an integral part of and should be read in conjunction with the accompanying interim consolidated financial statements*
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025  
+(tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-## 1. GENERAL INFORMATION
+----
 
-### Structure of ownership
+## 40.2 Thông tin báo cáo bộ phận
 
-PetroVietnam Gas Joint Stock Corporation ("the Corporation"), formerly known as PetroVietnam Gas Corporation - One Member Company Limited, is a subsidiary of Vietnam Oil and Gas Group (currently known as Vietnam National Industry – Energy Group (PVN)) which was established in accordance with Decision No. 2232/QD-DKVN dated 18 July 2007 issued by Vietnam National Industry – Energy Group and the first Enterprise registration certificate No. 3500102710 dated 13 December 2007.
+### Thông tin báo cáo bộ phận theo lĩnh vực kinh doanh
 
-PetroVietnam Gas Corporation - One Member Company Limited was officially transformed into PetroVietnam Gas Joint Stock Corporation in accordance with Enterprise registration certificate dated 16 May 2011 issued by the Department of Planning and Investment of Ho Chi Minh City. On 10 January 2025, the Department of Planning and Investment of Ho Chi Minh City issued the 21st amended Enterprise registration certificate No. 3500102710 to increase charter capital of the Corporation from VND 22,967.4 billion to VND 23,426.7 billion.
+|                         | Quý 1 năm 2025 | Số dư tại 31 tháng 03 năm 2025 | Tổng tài sản | Tổng công nợ | | | | |
+|-------------------------|----------------|--------------------------------|--------------|--------------|---|---|---|---|
+|                         | Doanh thu hoạt động (1) | Doanh thu hoạt động kinh doanh chứng khoán | Lợi nhuận từ hoạt động kinh doanh trước thuế | Tài sản phân bổ | Tài sản không phân bổ | Nợ phải trả bộ phận | Nợ phân bổ | Nợ không phân bổ |
+| **Môi giới và dịch vụ khách hàng (1)** | 955.364.543.290 | 1.055.116.100.638 | 440.192.918.876 | 27.202.042.257.092 | 27.775.145.907.004 | 16.633.762.529.449 | 16.884.559.441.337 | 250.796.911.888 |
+| Các chi phí trực tiếp | 472.195.004.854 | 555.451.130.234 | 42.976.619.560 | 573.103.649.912 |  |  |  |  |
+| Khấu hao và các chi phí phân bổ |  |  | 1.863.917.825 |  |  |  |  |  |
+| **Tổng tài sản tại 31 tháng 03 năm 2025** |  |  |  | 48.319.247.382.707 | 48.344.103.179.172 | 32.633.247.168.534 | 32.644.124.358.021 | 10.877.189.487 |
+| **Tổng công nợ** |  |  |  |  |  |  |  |  |
 
-The Corporation’s shares were approved for listing on the Ho Chi Minh City Stock Exchange (HOSE) under Decision No. 60/2012/QD-SGDHCM dated 27 April 2012. The first trading day was on 21 May 2012 with the stock code GAS.
+----
 
-The parent company of the Corporation is the Vietnam National Industry – Energy Group.
+|                         | Quý 1 năm 2025 | Số dư tại 31 tháng 03 năm 2025 | Tổng tài sản | Tổng công nợ | | | | |
+|-------------------------|----------------|--------------------------------|--------------|--------------|---|---|---|---|
+| **Tư doanh, kinh doanh nguồn vốn** | 122.943.326.126 | 45.763.086.131 | 7.293.554.373.508 | 7.350.367.622.570 | 6.330.674.065.087 | 6.355.536.212.486 | 24.862.147.399 | |
+| Các chi phí trực tiếp | 37.821.648.272 | 17.810.032.724 | 56.813.249.062 |  |  |  |  |  |
+| Khấu hao và các chi phí phân bổ |  |  | 260.383.599 |  |  |  |  |  |
+| **Tổng tài sản tại 31 tháng 03 năm 2025** |  |  |  | 103.262.446.771 |  |  |  |  |
+| **Tổng công nợ** |  |  |  |  |  |  |  |  |
 
-The total number of employees of the Corporation as of 30 June 2025 was 2,923 (as of 31 December 2024: 2,934).
+----
 
-### Operating industry and principal activities
+|                         | Quý 1 năm 2025 | Số dư tại 31 tháng 03 năm 2025 | Tổng tài sản | Tổng công nợ | | | | |
+|-------------------------|----------------|--------------------------------|--------------|--------------|---|---|---|---|
+| **Quản lý danh mục và các bộ phận khác** | 15.387.302.059 | 2.194.574.358.244 | 310.977.252.563 | 333.702.552.187 | 55.611.212.410.353 | 56.340.548.607.124 | 418.559.354.283 | |
+| Các chi phí trực tiếp | 9.978.121.506 | 1.094.255.937.590 | 53.254.794.994 |  |  |  |  |  |
+| Khấu hao và các chi phí phân bổ |  |  | 1.704.153.440 |  |  |  |  |  |
+| **Tổng tài sản tại 31 tháng 03 năm 2025** |  |  |  | 84.043.901.711.559 |  |  |  |  |
+| **Tổng công nợ** |  |  |  |  |  |  |  |  |
 
-Under the Business Registration Certificate, the operating industry of the Corporation comprises:
+----
 
-* Collecting, transporting, storing gas and gas products;
-* Producing fuel gas, distributing gaseous fuel through pipelines, specially processing gas and gas products;
-* Wholesaling solid, liquid and gaseous fuel and other relevant products, specially distributing and trading dry gas, LNG, CNG, LPG and Condensate;
-* Importing and exporting dry gas, LNG, LPG and Condensate;
-* Performing other relevant construction activities, specially investing, constructing, managing, maintaining, repairing gas and gas related construction works and projects;
-* Real estate business;
-* Investing in infrastructure for distribution systems of dry and liquid gas at source from supply to wholesale and retail distribution; and
-* Transporting cargo by road, specially providing transportation services and means of transport using gas, transporting gas products (doing business in gas product transportation).
+## Ghi chú
 
-The principal activities of the Corporation are to collect, import, transport, store, process, distribute, trade gas and gas products.
+(1): Doanh thu chủ yếu gồm doanh thu nghiệp vụ môi giới, doanh thu cho vay ký quỹ, doanh thu tư vấn đầu tư và doanh thu lưu ký.
+
+----
+
+## Tổng cộng
+
+|                         | Giá trị (VND)          |
+|-------------------------|-----------------------|
+| Tổng doanh thu hoạt động | 83.196.416.094.430    |
+| Tổng lợi nhuận trước thuế| 2.194.574.358.244     |
+| Tổng tài sản            | 84.043.901.711.559    |
+| Tổng công nợ            | 56.340.548.607.124    |
+
+----
+
+B05-CTCKIHN
  + 
  + [] 
  None

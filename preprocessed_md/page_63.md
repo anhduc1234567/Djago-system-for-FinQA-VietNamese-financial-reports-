@@ -1,80 +1,114 @@
-  PETROVIETNAMI GAS JOINT STOCK CORPORATION
-  PV GAS Tower, 673 Nguyen Huu Tho Street
-  Nha Be Commune Ho Chi Minh City  Vietnam
+  Côngty C phần Chứng khoán SSI                                                                          B05-CTCKHN
+  THUYÉT MINH BÁO CÁO TẢI CHINH HỢP NHÁT QUÝ                             NĂM 2025 (tỉếp theo)
+  tai ngảy 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc củng ngày
+  30.      THU NHẶP HOẠT ĐỘNG KHẢC
 
-                     STATEMENT OF THE BOARD OF MANAGEMENT (Continued)
+                                   Quỷ nãm 2025                          Quỷ                 nẳm 2024                   Lũy kế năm 2025 Lũy kế năm 2024
+                                                                  VND                             VND                            VND                VND
 
-  BOARD OF MANAGEMENT'S STATEMENT OF RESPONSIBILITY
-  The Board of Management of the Corporation is responsible for preparing che interim corsolidated
-  financia statements, which give  true and fair view of the consolidated financial position of the
-  Corporation a5 of 30 June 2025 and its consolidated financíal performance and its consolidated cash
-           flows for the 6 month period then ended, in accordance with Vietnamese Accounting Standards,
-     accounting regime for enterprises and legal regulations relating to interim consolidated financiel
-  reporting In preparing theseInterim consolldated financial statements, the Board of Management is
-  recuired to:
-    Select suitable accounting policies  then apply them consisiently;
-                                   and
-     Make judgments and estimates that are reasonable and prudent;
-     State whether                  ble aCCounting principles have been follawed, subject to any material
-                     applical
-     departures disclosed and explained in the interim cansolidated tinancial statements;
-           Prepare the interim consolidated financial statements on the goirig concern basis unless it is
-     inapproprlate to presume that the Corporation will continue in business; and
-          Design and implement an effective internal control system for the purpose of properly preparíng
-      and presenlinz the interim consolidated financial statements 50 as to minimize errcrs and frauds.
-       The Board of Management is responsible for ensuring that proper accounting records are kept, which
-   disclose, with reasonable accuracy at any time, the consolidated financial position of the Corporation
-   and that the interim consolidated financial statements comply with Vietnarnese Accounting Standards,
-       acccunting regime i0r enzerprises and legal regulations relating to interim consolidated financial
-    reporting; The Board Df Management is also responsible for safeguarding the assets of the Corporation
-   and hence fortaking reasonable steps fcr the prevention and detection of frauds and other
-    Cbuioriui
-  The Board of Management confirms that the Corporation has complied with the above rcquirements in
-   preparing these interim consolidated tinancia statements
-   For and on behalf of the Board of Management,
+   Doanh thu cho thue tài sản                           1.147.655.000                     981.295.000                  1,147.655.000      1.981.295.000
+   Doanh thu từhoarđông
+   quan ly quy và quan lỷ danh                        33.789,.605.959              29,913,218,636                     33.789.605.959     29.913.218.636
+   muc cúa công ty con                                 26.501.062.668               9.371.258.724                     26.501,062,668      9,371.258.724
+   Doanh thu    coc và khác
+   Tóng cong                                       61.438.323.627                  41.265.772.360                     61.438.323.627     41.265.772.360
+                  HOAT
+           CHI PHÍ                          ĐỌNG CUNG CÁP DỊCH VỤ
+                                   Quỷ nàm 2025                          Quý         nám 2024            Lúy ké năm 2025                Lũy ké năm 2024
+                                                          VND                             VND                                VND        VND
 
-     Tuvo CONG
-     VIỆT nam
-           CONG
-           Co FMan
+  Chi phí nghiep vụ môi giới
+  chung khoan (chi phi
+                    giao
+  djch phải trả cho Sở chi phf
+  Iương, chi phí theo lương                   248,107,220.080             347,652.594.138                        248,107.220.080        347,652.594,138
+  chi phl khac)
+  Chi phi nghiệp vu bào lanh
+  dai lỷ phát hành chúng
+  khoán                                           202.982.864                                                       202,982.,864
+  Chi phí hoat động tư ván tài                                                                                     4.397,783.295
+  chinh                                           397.783.295              6,966, 120.688                                               6.966.120.688
+  Chi phÍ nghiệp vụ tư vấn đẳu                                                                                                          6.184.722.141
+ tu chửng khoán                                 3.931,548,707           6.184,722.141                              3.931.548.707
+  Chi phí
+           nghiepvu luu kỷ
+ chửng khoán                               10.933.336.499              10.236.232.545                         10.933.336.499           10.236.232.545
+ Chi phí hoat động khác (Thuyết            36.976.737.276              35.353,423,703                         36.976.737.276           35.353,423.703
+ minh s6 32)
+ Tong cộng                                304.549.608.721             406.393.093.215                        304.549.608.721          406.393.093.215
 
-    Nguyen Cong Luan
-    Executive Officer
-    (As per Power of Attorney No 26/GUQ-KVN
-    dated 2C February 2024)
-    12 August 2025
-
-1 +
+           CHI TIỂT CHI PHÍ HOẠT ĐỘNG CUNG CẢP DỊCH VỤ THEO KHOẢN MUC CHI PHÍ
+                                   Quj           nám 2025                Quỷ năm 2024                    Lũy kế năm 2025 Lũy kế năm 2024
+                                                      VND                         VND                                    VND            VND
+ Chi phi môi giới chứng khoán      71.336.102                  83.430.855.303                            71.336.102                     83.430.855.303
+Chi phihoaldong lưu ký                 10.933.336.499          10.236.232.545                                 10.933.336.499           10.236.232.545
+Chi phi luong và các khoản                                                                               125.961.676.561
+khác theo lưong                       125.961.676.561         191.714.863.218                                                         191.714.863.218
+Chi phí BHXH BHYT KPCĐ                  9.346.870.752                                                      9.346.870.752
+BHTN                                                           11.407.322.758                            181.841.767                   11.407.322.758
+Chi phi vàt tu van phòng           181.841.767                    424.257.099                                                             424.257.099
+Chi phi còng cu, dung cu                  143.579.166             839.612.752                                143.579.166                  839.612.752
+Chi Pni    kháu hao TSCĐ,
+BĐSĐT                                  12.501.908.975          15,985.320.660                             12.501.908.975               15.985,320,660
+Chỉ phí dự phỏng                       16.420.391                                                        16,420.391
+Chi phí dich vu muangoai               65.802.697.778          79.005.060.453                             65.802.697.778               79.005.060.453
+Chi phl ve vón                     834.250.361                  3.937.785.155                            1.834.250.361                  3.937.785.155
+Chi phí khac                            6.490.924.316           9.411.783.272                            6.490.924.316                  9.411.783.272
+Tổng cộng                          304.549.608.721            406.393.093.215                            304.549.608.721              406.393.093.215 +
  
-# PETROVIETNAM GAS JOINT STOCK CORPORATION  
-PV GAS Tower, 673 Nguyen Huu Tho Street  
-Nha Be Commune, Ho Chi Minh City, Vietnam  
+# Công ty Cổ phần Chứng khoán SSI  
+B05-CTCK/HN
 
-## STATEMENT OF THE BOARD OF MANAGEMENT (Continued)
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
 
-### BOARD OF MANAGEMENT'S STATEMENT OF RESPONSIBILITY
+----
 
-The Board of Management of the Corporation is responsible for preparing the interim consolidated financial statements, which give a true and fair view of the consolidated financial position of the Corporation as of 30 June 2025 and its consolidated financial performance and its consolidated cash flows for the 6-month period then ended, in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to interim consolidated financial reporting. In preparing these interim consolidated financial statements, the Board of Management is required to:
+### 30. THU NHẬP HOẠT ĐỘNG KHÁC
 
-* Select suitable accounting policies and then apply them consistently;
-* Make judgments and estimates that are reasonable and prudent;
-* State whether applicable accounting principles have been followed, subject to any material departures disclosed and explained in the interim consolidated financial statements;
-* Prepare the interim consolidated financial statements on the going concern basis unless it is inappropriate to presume that the Corporation will continue in business; and
-* Design and implement an effective internal control system for the purpose of properly preparing and presenting the interim consolidated financial statements so as to minimize errors and frauds.
+|                                                                        | Quý 1 năm 2025VND  | Quý 1 năm 2024VND  | Lũy kế năm 2025VND | Lũy kế năm 2024VND |
+| ---------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ |
+| Doanh thu cho thuê tài sản                                             | 1.147.655.000      | 1.981.295.000      | 1.147.655.000      | 1.981.295.000      |
+| Doanh thu từ hoạt động quản lý quỹ và quản lý danh mục của công ty con | 33.789.605.959     | 29.913.218.636     | 33.789.605.959     | 29.913.218.636     |
+| Doanh thu lãi cọc và khác                                              | 26.501.062.668     | 9.371.258.724      | 26.501.062.668     | 9.371.258.724      |
+| **Tổng cộng**                                                          | **61.438.323.627** | **41.265.772.360** | **61.438.323.627** | **41.265.772.360** |
 
-The Board of Management is responsible for ensuring that proper accounting records are kept, which disclose, with reasonable accuracy at any time, the consolidated financial position of the Corporation and that the interim consolidated financial statements comply with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to interim consolidated financial reporting. The Board of Management is also responsible for safeguarding the assets of the Corporation and hence for taking reasonable steps for the prevention and detection of frauds and other irregularities.
 
-The Board of Management confirms that the Corporation has complied with the above requirements in preparing these interim consolidated financial statements.
+----
 
-For and on behalf of the Board of Management,
+### 31. CHI PHÍ HOẠT ĐỘNG CUNG CẤP DỊCH VỤ
 
-VIỆT NAM
+|                                                                                                                             | Quý 1 năm 2025VND   | Quý 1 năm 2024VND   | Lũy kế năm 2025VND  | Lũy kế năm 2024VND  |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Chi phí nghiệp vụ môi giới chứng khoán (chi phí giao dịch phải trả cho Sở, chi phí lương, chi phí theo lương, chi phí khác) | 248.107.220.080     | 347.652.594.138     | 248.107.220.080     | 347.652.594.138     |
+| Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán                                                                    | 202.982.864         | -                   | 202.982.864         | -                   |
+| Chi phí hoạt động tư vấn tài chính                                                                                          | 4.397.783.295       | 6.966.120.688       | 4.397.783.295       | 6.966.120.688       |
+| Chi phí nghiệp vụ tư vấn đầu tư chứng khoán                                                                                 | 3.931.548.707       | 6.184.722.141       | 3.931.548.707       | 6.184.722.141       |
+| Chi phí nghiệp vụ lưu ký chứng khoán                                                                                        | 10.933.336.499      | 10.236.232.545      | 10.933.336.499      | 10.236.232.545      |
+| Chi phí hoạt động khác (Thuyết minh số 32)                                                                                  | 36.976.737.276      | 35.353.423.703      | 36.976.737.276      | 35.353.423.703      |
+| **Tổng cộng**                                                                                                               | **304.549.608.721** | **406.393.093.215** | **304.549.608.721** | **406.393.093.215** |
 
-Nguyen Cong Luan  
-Executive Officer  
-(As per Power of Attorney No. 26/GUQ-KVN dated 20 February 2024)  
 
-12 August 2025
+----
+
+### CHI TIẾT CHI PHÍ HOẠT ĐỘNG CUNG CẤP DỊCH VỤ THEO KHOẢN MỤC CHI PHÍ
+
+|                                            | Quý 1 năm 2025VND   | Quý 1 năm 2024VND   | Lũy kế năm 2025VND  | Lũy kế năm 2024VND  |
+| ------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- |
+| Chi phí môi giới chứng khoán               | 71.336.102.155      | 83.430.855.303      | 71.336.102.155      | 83.430.855.303      |
+| Chi phí hoạt động lưu ký                   | 10.933.336.499      | 10.236.232.545      | 10.933.336.499      | 10.236.232.545      |
+| Chi phí lương và các khoản khác theo lương | 125.961.676.561     | 191.714.863.218     | 125.961.676.561     | 191.714.863.218     |
+| Chi phí BHXH, BHYT, KPCĐ, BHTN             | 9.346.870.752       | 11.407.322.758      | 9.346.870.752       | 11.407.322.758      |
+| Chi phí vật tư văn phòng                   | 181.841.767         | 424.257.099         | 181.841.767         | 424.257.099         |
+| Chi phí công cụ, dụng cụ                   | 143.579.166         | 839.612.752         | 143.579.166         | 839.612.752         |
+| Chi phí khấu hao TSCĐ, BĐSĐT               | 12.501.908.975      | 15.985.320.660      | 12.501.908.975      | 15.985.320.660      |
+| Chi phí dự phòng                           | 16.420.391          | -                   | 16.420.391          | -                   |
+| Chi phí dịch vụ mua ngoài                  | 65.802.697.778      | 79.005.060.453      | 65.802.697.778      | 79.005.060.453      |
+| Chi phí về vốn                             | 1.834.250.361       | 3.937.785.155       | 1.834.250.361       | 3.937.785.155       |
+| Chi phí khác                               | 6.490.924.316       | 9.411.783.272       | 6.490.924.316       | 9.411.783.272       |
+| **Tổng cộng**                              | **304.549.608.721** | **406.393.093.215** | **304.549.608.721** | **406.393.093.215** |
+
+
  + 
  + [] 
  None

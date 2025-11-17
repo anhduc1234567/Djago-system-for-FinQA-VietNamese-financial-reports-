@@ -1,85 +1,82 @@
-Deloitte                                                               Cúng ty TNHH Kiém toin
-                                                   MAAKING AN          Deloltte Vigt Nam
-                                                   IMPACT That         Tang      Tua nh Vindconer
-                                                   MATTERS             34 Lank He, Phuong Lảng Ha
-                                                                       Quen      484 74 {105 Onng
-                                                                           thrai +84 24 6288 5670
-                                                                                  deloitte _comvn
-  0/88 /VNIA-HN-BC
-S6:
+Công ty Cổ phầnChứngkhoán SSI                                                          B01-CTCKIHN
+BÁO CÁO TỈNH HINH TẢI CHỈNH HỢP NHÁT QUÝ               NĂM 2025 (tiếp theo)
+tai ngày 31thang 03 nám 2025
+CÁC CHỈ TIÉU NGOÀI BÁO CÁO TINH HỈNH TÀl CHÍNH HỢP NHAT
 
-             BÁO CÁO SOÁT XÉT BÁO CẢO TÀI CHÍNH HỢP NHẨT GlỮA NIÊN Độ
+Mã só         CHỈ TIÉU                                 Thuyet            S0 cuói kỳ            Só dảu năm
+                                                       minh
 
-Kính gứi:    Các cổ đông
-             Hội đồng Quản trị và Ban Tổng Giám đốc
-             Tổng Công ty Khí Việt Nam - Cổng ty Cổ phần
-
- Chúng tôi dã thực hiện công việc soát xét báo cao tài chính hợp nhất giữa niên độ kèm thco cúa Tông
-   ty Khí Viêt Nam - Công ty Cô        (goi tẳt là "Tông Công ty" dược lập ngày 12 tháng 8 nắm 2025,
-Công                     phần
-tử trang 05 đến trang 58 baogôm Bảng cân đổi kế toán hợp nhất giữa niên độ tại ngảy 30 1hảng 6 nẳm
-      2025, Báo cão kếtquahoạt động kinh doanh hợp nhẩt giữa niên độ, Báo cáo lru chuyến tiẻn tệ hợp
-nhất gỉữa niên dộ cho ky hoạt dộng kết thúc cùng ngày và Bán thuyêt minh báo cáo tai chinh hơp nhất
-giữa niên độ.
-
-Trách nhỉệm cùa Ban Tổng Giảm đốc
- Gan Tông Giám đổc TấngCóngty chju trách nhiệm lập và trình bay trung thực và hơp lý bdo cáo tài
- chinh hợp nhất giữa nỉèn đô theo chuẩn mực Ìế toán; chế độ kể toán doanh nghiệp Việt Nam và các
- quy định pháp lý có liên quan dến việc lập và trình bày báo cáo lài chính hợp nhât giữa niền độ và chịu
- trach nhiem về kiêm soat nòi bộ mà Ban Tổng Gián đốc xác đjnh là cần thiết dể dảm bảo vỉệc lập và
-                                       khôngcó 5a1 sÓt trong Yếụ do gian lân hoặc nhầm lân,
-trình bày bdo cáo lài chính hợp nhẩt giữa nỈên độ
-
- Trách nhỉệm của Klểm toán viên
- Trách nhiệm cúa chúng tôi là đưa ra kết luân về bao cão tài chính hợp nhất gỉữa niên độ kèm theo dựa
- rên kết   sOát xét cùa chung tòí Chung tòỈ đã thực hiện công việc soát xẻt theo Chuẩn mực Việt Nam
-        quá                            thông                      niên đó do kiểm toán viên doc
-  về hợp đồng dịch vu sOảt xét số 2410 Soát xét                   gỉíra
-                                                   tin tai chinh
-  lap cua dơn vỊthựchiên.
-  Công việc soảt xet báo cao rài chinh hợp nhẩt giữa nỈên độ bao gồm vỉệc thực hiện các cuộc phỏng vấn
-     chú yếu là phỏng vấn những người chỊu crách nhỉệm về các vấn dề lài chinh kế toản, và thực hiện thủ
-      tuc phân tích và cắc thúᵗᵘᶜ soát xet khác. Một cuôc soát xét về cơ ban có phạm ví hẹp hơn một cuộc
-       kiểm toắn đuợc thực hiện theo các chuẩn mực kiểm toán VIệt Nam và do vậy không cho phép chúng tôi
-       dat duơc sư dám bảo rằng chúrg tòi sẼ nhận blết được tẩt cá các vấn đề trọng vếu co thể được phảt
-  hiện trang một cuộc kỉẩm toán. Theo đó, chúng tâi không dưa ra ý kiến kiểm toản.
-
-
-
-
-
-
-
-Tcn Dc oitte Dugc                                     ene
-                                                      mct phsp nhin  blel va CocIdp
-khong b ran; buộc l  nhau đòi vól C3cben lhứ bạ       hang
-khbng pnải chlu trach nhlỆrn lẵr1 nhiau. DTTL khòne cune  dleh vu cho cic khách
-chu                                                tnons
-Vuỉ long xem tđỈ www deloitte cam{about de bỉẽl thcm      tn chi leL +
+                TÀl SẢN CÚA CONG TY CHÚNG
+                KHOÁN (CTCK) VÀ TẢl SẢN
+                QUẢN LÝ THEO CAM KÉT
+     004      Nợ khó đồi đa xPlý (VND)                               44 493.311.901        44,493 312,525
+     005      Ngoai tệ các loai
+               USD                                                       268.514,47    336.561 ,
+               EUR                                                           101,88                101,80
+               GBP                                                           107,64                107,64
+     006      Co phiéu dang luu hành (só lưong)                         961.872.450         1.961.872 450
+     007      phiéuquý (số Iuợng)                                           991.468               991,468
+     008      Tài sản tai chinh niẻm yéưđfng ký giao
+              djch tai Trung tám Lưu kỷ Chúng khoán               6.625.130.950.000    7,187,.812 570,000
+              cúa CTCK (VND)
+009           Tài sản tải chinh úà Iưu kỷ tai Trung tam
+             Lưu kỷ Chúng khoán và chua giao dich
+              cúa CTCK (VND)                                         85.888.230.000       525 880.220 00o
+010          Tai sán tai chinh chở ve cúa CTCK
+012           {VND)                                              45.357,000.0o0            23.542-100.00o
+             Tài sản      chính chưa Iưu kỷ tal Trung
+             tam Lưu ký Chung khoan của CTCK
+             (VND)                                           11,682,809,677.300         9,646.573.797.300
+013          Tài sản tảỉ chinh đưpc hưởng quyền
+             cúa CTCK (VND)                                                                 2.768.230.000
+014          Chửng quyen (s8 Iượng)                                 688.873.800      1.033.885.200
+             B. TẢl SẢN VÀ CÁC KHOẢN PHẢI
+             TRA VÉ TAI SAN QUAN LÝ CAM KÉT
+             VỞl KHÁCH HÀNG
+021         Tai sản tà          yếtđăng ký giao
+                          chinh niem
+            dich tại Trung tám Lưu kỷ Chứng khoán
+    0211    cua Nhà ẩau lu (VND)                        120.500.723,347,400    119,604-922,696,400
+            Taỉ sản tài chinh gia0 dich   do chuyen
+            nhuong                                      103.727.374.968,400    102.694.055.926,400
+   021.2    Tai sản taỉ chinh han ché chuyén
+   021.3    nhuong                                          887.796.680.000      982 805.830,.000
+   021,4    Tài sản tàỉ chinh giao dich càm có           10 580.495.100.000    11.310.605.310.000
+021.        Tài sán tài chlnh phong lỎa, tam gỉữ            118,546.270.000        20.725.970.000
+            Tàỉ sàn tài chinh chờ thanh toán              1.186.510.329.000       596.729.660.000 +
  
-# BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ
+# Công ty Cổ phần Chứng khoán SSI  
+B01-CTCK/HN
 
-**Kính gửi:**  
-Các cổ đông  
-Hội đồng Quản trị và Ban Tổng Giám đốc  
-Tổng Công ty Khí Việt Nam - Công ty Cổ phần
+## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025
 
-Chúng tôi đã thực hiện công việc soát xét báo cáo tài chính hợp nhất giữa niên độ kèm theo của Tổng Công ty Khí Việt Nam - Công ty Cổ phần (gọi tắt là "Tổng Công ty"), được lập ngày 12 tháng 8 năm 2025, từ trang 05 đến trang 58, bao gồm Bảng cân đối kế toán hợp nhất giữa niên độ tại ngày 30 tháng 6 năm 2025, Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ cho kỳ hoạt động kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất giữa niên độ.
+### CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
 
-## Trách nhiệm của Ban Tổng Giám đốc
+| Mã số | CHỈ TIÊU                                                                       | Thuyết minh                                                                                        | Số cuối kỳ | Số đầu năm          |                     |
+| ----- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------- | ------------------- | ------------------- |
+|       | **A. TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (CTCK) VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT**  |                                                                                                    |            |                     |                     |
+|       | 004                                                                            | Nợ khó đòi đã xử lý (VND)                                                                          |            | 44.493.311.901      | 44.493.312.525      |
+|       | 005                                                                            | Ngoại tệ các loại                                                                                  |            |                     |                     |
+|       |                                                                                | USD                                                                                                |            | 268.514,47          | 336.561,71          |
+|       |                                                                                | EUR                                                                                                |            | 101,88              | 101,80              |
+|       |                                                                                | GBP                                                                                                |            | 107,64              | 107,64              |
+|       | 006                                                                            | Cổ phiếu đang lưu hành (số lượng)                                                                  |            | 1.961.872.450       | 1.961.872.450       |
+|       | 007                                                                            | Cổ phiếu quỹ (số lượng)                                                                            |            | 1.991.468           | 1.991.468           |
+|       | 008                                                                            | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của CTCK (VND)       |            | 6.625.130.950.000   | 7.187.812.570.000   |
+|       | 009                                                                            | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của CTCK (VND)      |            | 85.888.230.000      | 525.880.220.000     |
+|       | 010                                                                            | Tài sản tài chính chờ về của CTCK (VND)                                                            |            | 45.357.000.000      | 23.542.100.000      |
+|       | 012                                                                            | Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của CTCK (VND)                      |            | 11.682.809.677.300  | 9.646.573.797.300   |
+|       | 013                                                                            | Tài sản tài chính được hưởng quyền của CTCK (VND)                                                  |            | -                   | 2.768.230.000       |
+|       | 014                                                                            | Chứng quyền (số lượng)                                                                             |            | 688.873.800         | 1.033.885.200       |
+|       | **B. TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG** |                                                                                                    |            |                     |                     |
+|       | 021                                                                            | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư (VND) |            | 120.500.723.347.400 | 119.604.922.696.400 |
+|       | 021.1                                                                          | *Tài sản tài chính giao dịch tự do chuyển nhượng*                                                  |            | 103.727.374.968.400 | 102.694.055.926.400 |
+|       | 021.2                                                                          | *Tài sản tài chính hạn chế chuyển nhượng*                                                          |            | 4.887.796.680.000   | 4.982.805.830.000   |
+|       | 021.3                                                                          | Tài sản tài chính giao dịch cầm cố                                                                 |            | 10.580.495.100.000  | 11.310.605.310.000  |
+|       | 021.4                                                                          | Tài sản tài chính phong tỏa, tạm giữ                                                               |            | 118.546.270.000     | 20.725.970.000      |
+|       | 021.5                                                                          | Tài sản tài chính chờ thanh toán                                                                   |            | 1.186.510.329.000   | 596.729.660.000     |
 
-Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất giữa niên độ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
-
-## Trách nhiệm của Kiểm toán viên
-
-Trách nhiệm của chúng tôi là đưa ra kết luận về báo cáo tài chính hợp nhất giữa niên độ kèm theo dựa trên kết quả soát xét của chúng tôi. Chúng tôi đã thực hiện công việc soát xét theo Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2410 - Soát xét thông tin tài chính giữa niên độ do kiểm toán viên độc lập của đơn vị thực hiện.
-
-Công việc soát xét báo cáo tài chính hợp nhất giữa niên độ bao gồm việc thực hiện các cuộc phỏng vấn, chủ yếu là phỏng vấn những người chịu trách nhiệm về các vấn đề tài chính kế toán, và thực hiện thủ tục phân tích và các thủ tục soát xét khác. Một cuộc soát xét về cơ bản có phạm vi hẹp hơn một cuộc kiểm toán được thực hiện theo các chuẩn mực kiểm toán Việt Nam và do vậy không cho phép chúng tôi đạt được sự đảm bảo rằng chúng tôi sẽ nhận biết được tất cả các vấn đề trọng yếu có thể được phát hiện trong một cuộc kiểm toán. Theo đó, chúng tôi không đưa ra ý kiến kiểm toán.
-
-----
-
-Deloitte được dùng để chỉ một hoặc nhiều thành viên của Deloitte Touche Tohmatsu Limited ("DTTL" hay "Deloitte Toàn cầu"), và mạng lưới các hãng thành viên trên toàn cầu (gọi chung là Tổ chức Deloitte). DTTL và mỗi thành viên trực thuộc là một pháp nhân riêng biệt và độc lập về mặt pháp lý, không bị ràng buộc hoặc đại diện bởi các bên thứ ba. DTTL và mỗi thành viên trực thuộc chỉ chịu trách nhiệm cho hành vi và thiếu sót của mình, chứ không phải chịu trách nhiệm lẫn nhau. DTTL không cung cấp dịch vụ cho các khách hàng.  
-Vui lòng xem tại www.deloitte.com/about để biết thêm thông tin chi tiết.
 
  + 
  + [] 

@@ -1,83 +1,75 @@
-TỎNG CỒNG TY KHÍ VIỆT NAMM - CÔNG TY Cổ PHẦN
-Tòa nhà PV GAS Tower; Số 673đườngNguyễn Hữu Thọ
-kã Nhà B2, Thanh     Hò Chí Minh, Việt Nam
-                   phổ
+Công ty Cổ phần Chứng khoán SSI          BO1-CTCKHN
+BÁO CÁO TỈNH HINH TAI CHÍNH HỢP NHÁT QUÝ NẢM 2025 (tiép theo)
+tại ngảy 31 thảng 03 nám 2025
 
-                              BÁO CÁO CỦA BAN TỔNG GlÁM Đõc
-   Tẩng Giám đẽc Tổng Công ty Khí Vìệt Nam - Công ty Cổ phần (goi tắt là "Tẩng Câng ty") đệ trình báo
-Ban                                                                                    tháng
-cáo này cùng vởi báo caa làỈ chinh hợp nhất giữa niên độ của Tẩng Công ty cho kỳ hoạt động 6
-kẽt thuc ngày 30 tháng 6 nám 2025.
 
-HỘl ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐc
-Cẳc thành vièn của Hội đầng Quản trịvà Ban Tẩng Giảm đẩc Tẩng Công ty trong kỳ và đển ngày lập báo
-cho nav gôm:
-Hộl_đồng Quản uỊ
-ông      Thanh Bình           Chủ tịch
-       Nguvễn
-Órg Phạm VanPhong             Thành viên
- ông                          Thành viên
-       Triệu Quóc Tuẩn        Thành viên (bổ nhiệm ngày 30 tháng 5 năm 2025)
-Óng Trân NhậL Huy             Thành viên (bỏ nhiệm ngảy 30 tháng 5 năm 2025}
-Ông Trịnh Vár Khiêm           Thảnh viên độc lập
-       ,Đỗ Đông Nguyên
- Ồng
-ông Nguyển Thanh Hào          Thảnh viên độc lập
- Bà Vũ ThỊ Thanh Ngọc         Thành viên (miễn nhỉệm ngày 30 thang 5 nẳm 2025)
-         Hồng                 Thành viên (miẽn nhiệm ngày 30 tháng 5 năm 2025)
- Ông Trương            Sơn
- Ban Iổng Glám đẩc
-  Ông Pham Vắr Phong          Tẩng Giám đẩc
-  Ông Huynh Quang Hải         Phó Tổng Giám dốc
-      Ong Nguyen PhuC ( Qe            lan
-        Nguyễn Công Luán      Phó Tống Giam đóc
-  ông              Dũn6           TongGiám dốc
-  ôngHoàng Trong              Phó
-        Nguyến Minh Tuấn       Phó Tổng Giám dốc (bổ nhỉệm ngày 02 tháng 6 năm 2025)
-  png                          PháTỗngGiám đõc (miễn nhlệm ngày 30 tháng 5 nẳm 2025)
-  Ông Trần Nhật Huy
-  Ban KiỂm soát                Trưởng Ban Kỉểm soát (bổ nhiệm ngày 30 tháng 5 nẳm 2025)
-  Ông Trịnh Vẳn Minh           Thành viên Ban Kiểm soát
-        'Nguyễn Còng Minh
-  Òng                          Thành viển Ban Kiểm soat
-  Bà Nguyễn Thị Kimn Yến       Trưởng Ban Kiểm soát (miễn nhiệm ngày 30 tháng 5 năm 2025}
-  Bà Trần Thi Huang Anh +
+Mã só  CHỈ TIÉU                                 Thuyét    Só cuci kỳ           S8 đàu nám
+                                                minn             VND                  VND
+
+ 200      TÀl SẢN DẢl HẠN                          2.749.939.025.896    2.574.910.647.355
+ 210      Tài sản tàỉ chinh dàỉ han                1.827.068.578,505    1.625.606.669.387
+ 212        Các khoản đau tư                       1,827 068.578.505    1.625.606.669.387
+ 2121        Các khoán đảu tư nấm giữ dến          1.125.341.869.450      938,116.263.256
+            ngày dáo han
+212 3     1.2 Đàu tự vảo công ty liên doanh;    701.726 709.055           687.490.406.131
+            lien ket
+
+ 220      Tàl sản có dinh                       211.502.819.388           231.350.675.694
+ 221        Tàỉ sản có       hữu hinh           107,.559.983.120      118.506.719,899
+ 222                Oinn                        400. 216.894.271          408.360.121.790
+            Nguyên giá
+ 2230     2 Giá tri hao mon lũy ké       (292,656.911.151)          (289.853.401.891)
+227         Tải sản cổ dpnh vô hinh             103.942.836.268       112,843.955.795
+ 228      21. Nguyèn giá                        299.143.171.786       313 999.554.731
+ 229a     2.2 Giá tri hao mòn lúy kẻ               (195.200.335,518)    (201.155.598.936)
+
+ 230      Bát động sản đằu tư                   199,470.919.479           200.196.436.698
+ 231         Nguyen gỉá                         289.125.816.941      287.459,.600.028
+ 232a        Giá trị hao mỏn luy ké             (89.654.897,462)     (87.263.163.330)
+
+ 240      Chi phi xảy dựng cơ bản dở dang       388.872.206.893           387.623.333.376
+ 250      Tài sản dài han khác                  123.024.501.631       130.133.532.200
+251        Cầm có, thế chấp, ký quỹ, kỷ
+           cuoc dai han                          31.230,273,582        31.205.273.582
+252        Chi phf trả truởc dai han             15.136.486.160        21.614,788 489
+253        Tài sản thué thu nhập hoán lai        23.345,377,641         24 001.105.88
+254        Tien nóp Quý hó trợ thanh toan       20.000,00O, 0OO        20.ooo.0oo.00o
+255        Tai sản dai han khác                  33,312.364.248        33.312.364.248
+
+270    TONG CỘNG TẢl SẢN                84.043.901.711.559         73.507.302.559.722 +
  
-# TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN  
-Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ  
-Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam  
+# Công ty Cổ phần Chứng khoán SSI  
+B01-CTCK/HN  
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
+tại ngày 31 tháng 03 năm 2025  
 
-## BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC  
-Ban Tổng Giám đốc Tổng Công ty Khí Việt Nam - Công ty Cổ phần (gọi tắt là "Tổng Công ty") đề trình báo cáo này cùng với báo cáo tài chính hợp nhất giữa niên độ của Tổng Công ty cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025.  
+| Mã số | CHỈ TIÊU                                       | Thuyết minh | Số cuối kỳVND          | Số đầu nămVND          |
+| ----- | ---------------------------------------------- | ----------- | ---------------------- | ---------------------- |
+| 200   | **B. TÀI SẢN DÀI HẠN**                         |             | 2.749.939.025.896      | 2.574.910.647.355      |
+| 210   | *I. Tài sản tài chính dài hạn*                 |             | **1.827.068.578.505**  | **1.625.606.669.387**  |
+| 212   | 1. Các khoản đầu tư                            | 11          | 1.827.068.578.505      | 1.625.606.669.387      |
+| 212.1 | 1.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn |             | 1.125.341.869.450      | 938.116.263.256        |
+| 212.3 | 1.2. Đầu tư vào công ty liên doanh, liên kết   |             | 701.726.709.055        | 687.490.406.131        |
+| 220   | *II. Tài sản cố định*                          |             | 211.502.819.388        | 231.350.675.694        |
+| 221   | 1. Tài sản cố định hữu hình                    | 12          | 107.559.983.120        | 118.506.719.899        |
+| 222   | 1.1. Nguyên giá                                |             | 400.216.894.271        | 408.360.121.790        |
+| 223a  | 1.2. Giá trị hao mòn lũy kế                    |             | (292.656.911.151)      | (289.853.401.891)      |
+| 227   | 2. Tài sản cố định vô hình                     | 13          | 103.942.836.268        | 112.843.955.795        |
+| 228   | 2.1. Nguyên giá                                |             | 299.143.171.786        | 313.999.554.731        |
+| 229a  | 2.2. Giá trị hao mòn lũy kế                    |             | (195.200.335.518)      | (201.155.598.936)      |
+| 230   | *III. Bất động sản đầu tư*                     | 14          | 199.470.919.479        | 200.196.436.698        |
+| 231   | 1. Nguyên giá                                  |             | 289.125.816.941        | 287.459.600.028        |
+| 232a  | 2. Giá trị hao mòn lũy kế                      |             | (89.654.897.462)       | (87.263.163.330)       |
+| 240   | *IV. Chi phí xây dựng cơ bản dở dang*          | 15          | 388.872.206.893        | 387.623.333.376        |
+| 250   | *V. Tài sản dài hạn khác*                      |             | 123.024.501.631        | 130.133.532.200        |
+| 251   | 1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn   |             | 31.230.273.582         | 31.205.273.582         |
+| 252   | 2. Chi phí trả trước dài hạn                   | 16          | 15.136.486.160         | 21.614.788.489         |
+| 253   | 3. Tài sản thuế thu nhập hoãn lại              | 17          | 23.345.377.641         | 24.001.105.881         |
+| 254   | 4. Tiền nộp Quỹ hỗ trợ thanh toán              | 18          | 20.000.000.000         | 20.000.000.000         |
+| 255   | 5. Tài sản dài hạn khác                        |             | 33.312.364.248         | 33.312.364.248         |
+| 270   | **TỔNG CỘNG TÀI SẢN**                          |             | **84.043.901.711.559** | **73.507.302.559.722** |
 
-## HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC  
-Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc Tổng Công ty trong kỳ và đến ngày lập báo cáo này gồm:  
 
-### Hội đồng Quản trị  
-* Ông Nguyễn Thanh Bình - Chủ tịch  
-* Ông Phạm Văn Phong - Thành viên  
-* Ông Triệu Quốc Tuấn - Thành viên (bổ nhiệm ngày 30 tháng 5 năm 2025)  
-* Ông Trần Nhật Huy - Thành viên (bổ nhiệm ngày 30 tháng 5 năm 2025)  
-* Ông Trịnh Văn Khiêm - Thành viên độc lập  
-* Ông Đỗ Đông Nguyên - Thành viên độc lập  
-* Ông Nguyễn Thanh Hào - Thành viên độc lập  
-* Bà Võ Thị Thanh Ngọc - Thành viên (miễn nhiệm ngày 30 tháng 5 năm 2025)  
-* Ông Trương Hồng Sơn - Thành viên (miễn nhiệm ngày 30 tháng 5 năm 2025)  
-
-### Ban Tổng Giám đốc  
-* Ông Phạm Văn Phong - Tổng Giám đốc  
-* Ông Huỳnh Quang Hải - Phó Tổng Giám đốc  
-* Ông Nguyễn Phúc Tuệ - Phó Tổng Giám đốc  
-* Ông Nguyễn Công Luận - Phó Tổng Giám đốc  
-* Ông Hoàng Trọng Dũng - Phó Tổng Giám đốc  
-* Ông Nguyễn Minh Tuấn - Phó Tổng Giám đốc (bổ nhiệm ngày 02 tháng 6 năm 2025)  
-* Ông Trần Nhật Huy - Phó Tổng Giám đốc (miễn nhiệm ngày 30 tháng 5 năm 2025)  
-
-### Ban Kiểm soát  
-* Ông Trịnh Văn Minh - Trưởng Ban Kiểm soát (bổ nhiệm ngày 30 tháng 5 năm 2025)  
-* Ông Nguyễn Công Minh - Thành viên Ban Kiểm soát  
-* Bà Nguyễn Thị Kim Yến - Thành viên Ban Kiểm soát  
-* Bà Trần Thị Hoàng Anh - Trưởng Ban Kiểm soát (miễn nhiệm ngày 30 tháng 5 năm 2025)  
  + 
  + [] 
  None
