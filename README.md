@@ -1,4 +1,4 @@
-# Financial Report Chatbot with Graph RAG
+
 
 ## Giới thiệu
 Dự án này xây dựng **hệ thống chatbot đọc hiểu và phân tích báo cáo tài chính**, cho phép người dùng đặt câu hỏi và báo cáo tài chính hệ thống sẽ đọc hiểu báo cáo đó và trả lời câu hỏi cảu người dùng dựa trên thông tin từ báo cáo tài chính.  
