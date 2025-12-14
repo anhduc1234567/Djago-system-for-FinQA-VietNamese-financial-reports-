@@ -1,4 +1,4 @@
-# Financial Report Chatbot with Graph RAG
+
 
 ## Giới thiệu
 Dự án này xây dựng **hệ thống chatbot đọc hiểu và phân tích báo cáo tài chính**, cho phép người dùng đặt câu hỏi và báo cáo tài chính hệ thống sẽ đọc hiểu báo cáo đó và trả lời câu hỏi cảu người dùng dựa trên thông tin từ báo cáo tài chính.  
@@ -18,17 +18,17 @@ Dự án được thực hiện trong khuôn khổ **khóa luận tốt nghiệp
 ---
 
 ##  Luồng xử lý chính của hệ thống
-![Knowledge Graph Visualization](images/financial_knowledge_graph.png)
+![Knowledge Graph Visualization](images/graph_pipleline.drawio.png)
 ##  Biểu diễn đồ thị tri thức
 Dưới đây là ví dụ minh họa **đồ thị tri thức báo cáo tài chính**, trong đó các nút biểu diễn thực thể tài chính và các cạnh biểu diễn mối quan hệ ngữ nghĩa:
 
-![Knowledge Graph Visualization](images/financial_knowledge_graph.png)
+![Knowledge Graph Visualization](images/Screenshot_97.png)
 
 >  Việc biểu diễn báo cáo tài chính dưới dạng đồ thị giúp mô hình khai thác tốt hơn mối quan hệ giữa các chỉ tiêu và hỗ trợ suy luận đa bước.
 
 ---
 
-##  Đánh giá mô hình
+##  Đánh giá 
 Hệ thống được đánh giá trên tập câu hỏi về báo cáo tài chính bằng các chỉ số phổ biến trong bài toán **Retrieval-Augmented Generation (RAG)**, bao gồm:
 
 - **Faithfulness**: mức độ trung thực của câu trả lời so với ngữ cảnh
