@@ -1,118 +1,94 @@
-BÁO CÁO KÉT QUẢ HOẠT ĐONG HỢP NHÁT QUỶ
-Công
-cho kỷ kế toán kết thúc ngày 31 tháng 03 năm 2025
-ty Cổ phần Chứng khoán SSI
-Mã só
-100.
-100.
-100
-200
-201
-203
-Lợi nhuan đà thưc hien
-Lợi nhuan chua thuc hien
-Chỉ phi thué TNDN hiẻn hành
-Chi phil (thu nhập) thuế TNDN hoan lai
-húu
-co dông không kỉém soát
-CHỈ TIÉU
-VII. THU NHAP KHÁC VÀ CHI PHÍ KHẢC
-Thu nháp khác
-Chi phi khác
-Cong két quả hoat động khác
-VIII. TONG LQI NHUẠN KÉ TOẢN TRƯỚC
-Lợi nhuận sau thuể phân bổ cho chủ sở
-Loi nhuan thuan phán bo cho lơi ich của
-THUE
-CHI PHI THUÉ THU NHẠP DOANH
-NGHIEP (TNDN)
-LỢI NHUAN KÉ TOẢN SAU THUÉ
-TNDN
-NĂM 2025 (tiếp theo)
-Thuyét
-minh
-1.047.063.625.660
-915.247,001.160
-131.816,624.500
-203.070.361.304
-198.113,402,886
-843.993.264.356
-843.994,524.895
-1.713.103.220
-947,470.527
-234.367,307
-956,958.418
-(1,.260.539)
-Nam nay
-VND
-Quỷ
-942.652.063.843
-957.068 239.752
-(14 416.175.909)
-178,351.782.536
-193,324,352.833
-(14.972.570.297)
-764.251.330.193
-764 5
-528.406,490
-475.464.252
-300.281.307
-52.942.238
-48.951.114
-Nam truớc
-VND
-1.047.063.625.660
-Lũy ké từ dẳu nám đến cuói quj này
-915 247.001.160
-843.993.264.356
-131.816.624.500
-203.070.361.304
-198,113 402.886
-843.994.524.895
-1.947.470.527
-1.713.103.220
-234.367,307
-956.958.418
-(1.260.539)
-Nam nay
-B01-CTCKIHN
-VND
-(14 416.175.909)
-(14.972.570.297)
-942.652.063.843
-957.068.239.752
-178.351.782.536
-193,324,352.833
-764.300.281.307
-764 251.330.193
-528.406,490
-475.464.252
-52.942 238
-48.951.114
-Nam truoc
-VND +
+Công ty Cô phân Giao nhn Kho vn Ngoai thuong Vit Nam                    Báo cáo tài chính hop nhát
+Só 406 Nguyên Tát Thanh, Phuòng 18, Qun 4                cho nm tài chính két thúc ngay 31/12/2024
+Thanh phó Hò Chí Minh
+                                                                                        h hi ht n
+                                                                                               Thn
+     diu chinh dé dam bao tinh nhát quán trong cac chinh sach ké toan duc ap dung tai Cng ty va
+     công ty con.
+
+     giao dich ni b duc loai tru khi hop nhát báo cáo tài chinh.
+     Li ích cúa có dông không kiém soát
+     L  k c  h
+     kim soat trong lai, hoc l, v trong tài san thun cua công ty con.
+2.4  Uóc tinh ké toán
+      h t am
+     doahiVit a a uyih ha  in uan u Bn
+     ph c nhung uóc tinh v dinh h hung dén  liu  còng , t san va c trinh by
+     nnggamtangiayhcmhi cghu  l
+     doanh thu va chi phí trong suót nm tài chinh.
+      ht
+        Du phòng phái thu khó dòi;
+         Dur phòng giam gia hàng ton kho;
+         U'óc tính phan bo các loai chi phí tra truóc
+         Ti gan hu nguctinh a n h
+         Phan loai va du phòng các khon dàu tu tai chinh;
+         Uóc tính thué thu nhp doanh nghiêp.
+      Ccuóc tinh v g dinh thuòg xuyen du danh g da trèn kinh ghim trong qu khú v các
+      hac,ao gm cainhrongtongaihungrongutitaih
+      ho nhat  Cngy u Ban Tg Gim  Congy anh h ly.
+2.5   Các nghip vy bng ngoai t
+      h o  am
+      tai ngay giao dich.
+       ch thanoi
+      cao tài chính hop nhát dugc xác dinh theo nguyén tac:
+             m han gmagognh
+         noi Công ty thuòng xuyèn có giao djch;
+                                                              itiuingi tungua a hih ganhngiCngyi n
+         ngoai t;
+         n m hnla h gng agnngh
+         mai noi Công ty thuòng xuyen co giao dich.
+                                                              hohenh lchhht ih tong mhh lech oanh
+       du cac khon muc tién t c goc ngoai t tai thòi diém lap bao cao ti chinh duc hach toan våo
+       két qua hoat dng kinh doanh cua näm tai chinh.
+2.6    Tièn và các khoân tuong duong tièn
+        Tièn bao gòm tièn mt tai quy, tièn guri ngån hang không ky han.
+                                                                Choog hon n han thòi anthu òg qa 3
+                                        hang ké tu ngaydu tuctinhthanh khoan aoc khng chun dnghn c
+        luong tn xác dinh và khong có nhiu ri ro trong chuyn di thanh tèn.
+                                               12 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
-
-| Mã số | CHỈ TIÊU                                                           | Quý 1<br/>Năm nayVND | Quý 1<br/>Năm trướcVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |
-| ----- | ------------------------------------------------------------------ | -------------------- | ---------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| 71    | Thu nhập khác                                                      | 1.947.470.527        | 528.406.490            | 1.947.470.527                                     | 528.406.490                                         |
-| 72    | Chi phí khác                                                       | 234.367.307          | 52.942.238             | 234.367.307                                       | 52.942.238                                          |
-| 80    | Cộng kết quả hoạt động khác                                        | 1.713.103.220        | 475.464.252            | 1.713.103.220                                     | 475.464.252                                         |
-| 90    | VIII. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ                            | 1.047.063.625.660    | 942.652.063.843        | 1.047.063.625.660                                 | 942.652.063.843                                     |
-| 91    | Lợi nhuận đã thực hiện                                             | 915.247.001.160      | 957.068.239.752        | 915.247.001.160                                   | 957.068.239.752                                     |
-| 92    | Lợi nhuận chưa thực hiện                                           | 131.816.624.500      | (14.416.175.909)       | 131.816.624.500                                   | (14.416.175.909)                                    |
-| 100   | IX. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP (TNDN)                      | 203.070.361.304      | 178.351.782.536        | 203.070.361.304                                   | 178.351.782.536                                     |
-| 100.1 | Chi phí thuế TNDN hiện hành                                        | 198.113.402.886      | 193.324.352.833        | 198.113.402.886                                   | 193.324.352.833                                     |
-| 100.2 | Chi phí (thu nhập) thuế TNDN hoàn lại                              | 4.956.958.418        | (14.972.570.297)       | 4.956.958.418                                     | (14.972.570.297)                                    |
-| 200   | **LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN**                                | 843.993.264.356      | 764.300.281.307        | 843.993.264.356                                   | 764.300.281.307                                     |
-| 201   | 1. Lợi nhuận sau thuế phân bổ cho chủ sở hữu                       | 843.994.524.895      | 764.251.330.193        | 843.994.524.895                                   | 764.251.330.193                                     |
-| 203   | 2. Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát | (1.260.539)          | 48.951.114             | (1.260.539)                                       | 48.951.114                                          |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4<br/>Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
+sách kế toán của Công ty con được áp dụng các chính sách kế toán nhất quán với các chính sách kế toán của Công ty. Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để đảm bảo tính nhất quán trong các chính sách kế toán được áp dụng tại Công ty và công ty con.
+
+Các số dư, thu nhập và chi phí chủ yếu, kể cả các khoản lãi hay lỗ chưa thực hiện phát sinh từ các giao dịch nội bộ được loại trừ khi hợp nhất báo cáo tài chính.
+
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích của những chủ sở hữu không nắm quyền kiểm soát trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con.
+
+## 2.4 Uớc tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các chuẩn mực kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
+- Dự phòng phải thu khó đòi;
+- Dự phòng giảm giá hàng tồn kho;
+- Uớc tính phân bổ các loại chi phí trả trước;
+- Thời gian hữu dụng ước tính của tài sản cố định;
+- Phân loại và dự phòng các khoản đầu tư tài chính;
+- Uớc tính thuế thu nhập doanh nghiệp.
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm cả những dự định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Công ty và được Ban Tổng Giám đốc Công ty đánh giá là hợp lý.
+
+## 2.5 Các nghiệp vụ bằng ngoại tệ
+
+Các giao dịch bằng ngoại tệ trong năm tài chính được quy đổi ra đồng Việt Nam theo tỷ giá thực tế tại ngày giao dịch.
+
+Tỷ giá giao dịch thực tế tại ngày giao dịch được xác định theo nguyên tắc:
+- Đối với các khoản mục tài sản là tài sản áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch;
+- Đối với các khoản mục phân loại là nợ phải trả áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập báo cáo tài chính được hạch toán vào kết quả hoạt động kinh doanh của năm tài chính.
+
+## 2.6 Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+12
  + 
  + [] 
  None

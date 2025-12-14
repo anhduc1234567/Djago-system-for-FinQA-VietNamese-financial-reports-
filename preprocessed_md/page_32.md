@@ -1,81 +1,115 @@
-Công ty Cổ phần Chứng khoán SSI                                   B05-CTCKIHN
-THUYET MINH BẢO CÁO TẢl CHÍNH HỢP NHÁT QUÝ           NĂM 2025 (tiêp theo)
-tai ngảy 31 tháng 03 nam 2025 và cho kỷ kế toán kết thúc cùng ngày
-          Đỗi với cảc khoản nợ phải thu chưa đến hạn thanh toán nhưng không có khảnangthu hồí thiCông
-          dự kiến mức tổn thẩt không thu hồỉ được (tổi đa bảnB giả trị khoản nợ đang theo dõí trên sõ kế toán)
-4.12      đé trich lập dự phòng
-          Tàỉ sản co định hữu hinh
-          Tài sản cố định hữu hinh được thẻ hỉện theo nguyen gỈá trử đi giá trị hao mỏn lũy kế.
-          Nguyên giá tài sản cố định bao gồm gỈá mua vả những chi phí có liên quan trực tiép đến việc
-          đua tài sản vào hoạt động như dự kién.
-          Cảc chi phỉ mua sắm, nâng cáp và đổí mới tài sản cố định được ghỉ tăng nguyên giá của tà
-          sán Các chi phí báo tri sửa chua đưpc hach toán vào bảo cảo kêt quà hoat đong khi phát
-          sinh
-          Khi tai sản có định hữu hinh được bánhaythanh lý , cac khoản lãi hoac lỗ phát sinh do thanh
-          lý tai sàn (là phẩn chênh lệch giữa tiền thu thuần từ vỉệc bán tài sàn với giá trị còn laỉ của tài
-         sản) dược hach toán vào bao cáo két    hoat đóng
-                                           qua
+Công ty Cô phàn Giao nhn Kho vn Ngoai thuong Vit Nam                 Báo cáo tài chính hop nhát
+S 406 Nguyn Tát Thanh, Phuòng 18, Qun 4                    cho nm tài chính két thúc ngày 31/12/2024
+Thanh phô Hò Chí Minh
+30 CHI PHI SÁN XUÁT KINH DOANH THEO YÉU TÓ
+                                                                    Nm 2024            Nm 2023
+                                                                        VND            VND
+    Chi phí nguyên liu, vt liu                              7.082.941.287          7.356.706.919
+    Chi phí nhân công                                       29.443.774.401         33.071.957.557
+    Chi phi công cu, dung cy, dò dung                       975.300.855            664.412.439
+    Chi phí kháu hao tài san có dinh                        1.570.926.239          873.095.758
+    Thué, phí và l phí                                      7.027.422.016          7.918.997.356
+    Chi phí du phòng                                        763.583.181            673.622.322
+    Chi phí djch vu mua ngoài                               86.380.622.578         90.457.859.025
+     Chi phí khác bang tièn                                 8.443.417.393          11.824.623.901
+                                                            141.687.987.950        152.841.275.277
 
-4.13      Tài sản có định vỏ hinh
-          Tàỉ sản cố định vô hinh được ghi nhận theo nguyen giá trừ đi giá trị hao mòn lũy kế
-         Nguyên gỉá tàỉ sản có định vô hình bao gom giá mua và những chi phí có lỉên quan truc tiép
-         đen viec dua tài sàn vào sù dung nhu dự kién
-         Các chi phí nâng cấp và đẩi mới tàỉ sản cố định vô hinh được ghi tăng nguyen giá cua tài sản
-         và cảc chi phi khác được hach toán vào bảo cáo két quà hoat động khi phát sinh.
-         Khi tai sản có đinh vó hinh được bản hay thanh lỷ các khoản lai hoac lỗ phát sinh do thanh
-         lý tải sản (là phản chenh lêch gỉữa tỉẻn thu thuàn từ viec bán tài sàn với giá trị còn lại cua tài
-         sản) đưoc hach toan vào bão cáo két quả hoat động
-4.14     Khau hao và hao mòn
+31  NHÜNG SU KIEN PHÁT SINH SAU NGAY KÉT THúC NÄM TAI CHINH
+    Kg o    y hú mhi u
+     chinh hay cong bó trèn bao cáo tai chinh hop nhát ny.
+32  NGHIEP VU VA SÓ DU VÓI CÁC BÉN LIÉN QUAN
+    Danh sách và mói quan h giúa các bên lién quan và Công ty nhu sau:                                a
+    Bén liên quan                                          Mói quan h
+    Tng Công ty Thép Vit Nam - CTCP                        Công ty me
+     Công ty TNHH Vn ti ô tô Vina Vinatrans                Công ty con                              RAC
+     Công ty TNHH Vn ti Vit Nht                             Công ty lièn két                         AN
+     Công ty TNHH Nissin Logistics (Vit Nam)                Công ty lièn két
+     Công ty TNHH Agility                                   Công ty lièn két
+     Công ty TNHH Lotte Vinatrans Global Logistics (Vit     Cong ty lièn két                          N
+     Nam)
+     Công ty TNHH Nasteelvina                                Cung Tâp doàn
+     Công ty CP Ma kém Công nghip VINGAL-VNSteel             Cung Tap doàn
+     Công ty CP Gang thép Thái Nguyén                        Cung Tap doàn
+     Cng ty CP Kim hi Thanh ph H Ch Mih-VNSteelCung Tp don
+     Công ty CP Tôn ma VNSteel Thng Long                     Cung Tap doan
+      Công ty CP Co Khí Luyn kim                             Cung Tap doàn
+      Công ty Tôn Phuong Nam                                 Cung Tap doàn
+      Công ty CP Thép Vicasa - VNSteel                       Cung Tap doàn
+      Công ty CP Luói thép Binh Tay                          Cung Tap doàn
+      Công ty CP Thép Nhà Bè- VNSteel                        Cung Tâp doàn
+      Công ty CP Thép Thú Dúc - VNSteel                      Cung Tâp doàn
+      Cong ty TNHH MTV Thép Mièn Nam - VNStee                Cung Tâp doàn
+      Công ty TNHH Thép Tám lá Phú My - VNSteel              Cung Tap doàn                          2
+      Công ty TNHH Nippovina                                  Cung Tp doàn
+      Công ty CP Vinafreight                                Cung nguòi quån ly chu cht
+      Công ty CP Giao nhn Van tai Ngoai thuong              Cung nguòi quan ly chù chót
+      Công ty CP Giao nhn Vn ti Mièn Trung                  Cung nguòi quan ly chu chót
+      Cng ty TNHH Dich v Hang khng Véc to Quóc té           Cung nguòi quan ly chú chót
+      Cng ty TNHH Du tu Phat trién TM Con duòng Vit         Cong ty dàu tu khác                     VIE
+      Các thành vièn Hi dòng quan tri, Ban Tng Giám         Thanh vièn quân ly ch chót cúa Công ty
+      dóc, Ban Kiêm soát, nhúng nguòi quán ly khác cua
 
-         Khau hao vả hao mon tai sản có dịnh hữu hinh va ta sản có đpnh vó hinh được trich theo
-         phương phap khau hao đườngthẩng 'trong suót thởỉ gian hữu dung ước tính của các tài sàn
-         như sau:
-           Máy móc thiét bị                          nam
-           Phương tiện vận chuyen                    10 nám
-           Thiét bị văn phòng                        5 nam
-           Phan mêm                                  10 nám
-           Tài sản có định vô hinh khac              nám +
+
+
+32 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
-
-> Đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng không có khả năng thu hồi thì Công ty dự kiến mức tổn thất không thu hồi được (tối đa bằng giá trị khoản nợ đang theo dõi trên sổ kế toán) để trích lập dự phòng.
-
-### 4.12 Tài sản cố định hữu hình
-
-Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.
-
-Nguyên giá tài sản cố định bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.
-
-Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản. Các chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động khi phát sinh.
-
-Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động.
-
-### 4.13 Tài sản cố định vô hình
-
-Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
-
-Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
-
-Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động khi phát sinh.
-
-Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động.
-
-### 4.14 Khấu hao và hao mòn
-
-Khấu hao và hao mòn tài sản cố định hữu hình và tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
-
-| Tài sản                      | Thời gian ước tính |
-| ---------------------------- | ------------------ |
-| Máy móc thiết bị             | 3 - 5 năm          |
-| Phương tiện vận chuyển       | 6 - 10 năm         |
-| Thiết bị văn phòng           | 3 - 5 năm          |
-| Phần mềm                     | 3 - 10 năm         |
-| Tài sản cố định vô hình khác | 2 - 5 năm          |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4<br/>Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
+# 30 CHI PHÍ SẢN XUẤT KINH DOANH THEO YẾU TỐ
+
+|                                   | Năm 2024VND         | Năm 2023VND         |
+| --------------------------------- | ------------------- | ------------------- |
+| Chi phí nguyên liệu, vật liệu     | 7.082.941.287       | 7.356.706.919       |
+| Chi phí nhân công                 | 29.443.774.401      | 33.071.957.557      |
+| Chi phí công cụ, dụng cụ, đồ dùng | 975.300.855         | 664.412.439         |
+| Chi phí khấu hao tài sản cố định  | 1.570.926.239       | 873.095.758         |
+| Thuế, phí và lệ phí               | 7.027.422.016       | 7.918.997.356       |
+| Chi phí dự phòng                  | 763.583.181         | 673.622.322         |
+| Chi phí dịch vụ mua ngoài         | 86.380.622.578      | 90.457.859.025      |
+| Chi phí khác bằng tiền            | 8.443.417.393       | 11.824.623.901      |
+|                                   | **141.687.987.950** | **152.841.275.277** |
+
+
+# 31 NHỮNG SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC NĂM TÀI CHÍNH
+Không có sự kiện trọng yếu nào xảy ra sau ngày kết thúc năm tài chính đòi hỏi phải được điều chỉnh hay công bố trên báo cáo tài chính hợp nhất này.
+
+# 32 NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
+Danh sách và mối quan hệ giữa các bên liên quan và Công ty như sau:
+
+| Bên liên quan                                                                                    | Mối quan hệ                             |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| Tổng Công ty Thép Việt Nam - CTCP                                                                | Công ty mẹ                              |
+| Công ty TNHH Vận tải ô tô Vina Vinatrans                                                         | Công ty con                             |
+| Công ty TNHH Vận tải Việt Nhật                                                                   | Công ty liên kết                        |
+| Công ty TNHH Nissin Logistics (Việt Nam)                                                         | Công ty liên kết                        |
+| Công ty TNHH Agility                                                                             | Công ty liên kết                        |
+| Công ty TNHH Lotte Vinatrans Global Logistics (Việt Nam)                                         | Công ty liên kết                        |
+| Công ty TNHH Nasteelvina                                                                         | Cùng Tập đoàn                           |
+| Công ty CP Mạ kẽm Công nghiệp VINGAL-VNSteel                                                     | Cùng Tập đoàn                           |
+| Công ty CP Gang thép Thái Nguyên                                                                 | Cùng Tập đoàn                           |
+| Công ty CP Kim khí Thành phố Hồ Chí Minh - VNSteel                                               | Cùng Tập đoàn                           |
+| Công ty CP Tôn mạ VNSteel Thăng Long                                                             | Cùng Tập đoàn                           |
+| Công ty CP Cơ Khí Luyện kim                                                                      | Cùng Tập đoàn                           |
+| Công ty Tôn Phương Nam                                                                           | Cùng Tập đoàn                           |
+| Công ty CP Thép Vicasa - VNSteel                                                                 | Cùng Tập đoàn                           |
+| Công ty CP Lưới thép Bình Tây                                                                    | Cùng Tập đoàn                           |
+| Công ty CP Thép Nhà Bè - VNSteel                                                                 | Cùng Tập đoàn                           |
+| Công ty CP Thép Thủ Đức - VNSteel                                                                | Cùng Tập đoàn                           |
+| Công ty TNHH MTV Thép Miền Nam - VNSteel                                                         | Cùng Tập đoàn                           |
+| Công ty TNHH Thép Tấm lá Phú Mỹ - VNSteel                                                        | Cùng Tập đoàn                           |
+| Công ty TNHH Nippovina                                                                           | Cùng Tập đoàn                           |
+| Công ty CP Vinafreight                                                                           | Cùng người quản lý chủ chốt             |
+| Công ty CP Giao nhận Vận tải Ngoại thương                                                        | Cùng người quản lý chủ chốt             |
+| Công ty CP Giao nhận Vận tải Miền Trung                                                          | Cùng người quản lý chủ chốt             |
+| Công ty TNHH Dịch vụ Hàng không Véc tơ Quốc tế                                                   | Cùng người quản lý chủ chốt             |
+| Công ty TNHH Đầu tư Phát triển TM Con đường Việt                                                 | Công ty đầu tư khác                     |
+| Các thành viên Hội đồng quản trị, Ban Tổng Giám đốc, Ban Kiểm soát, những người quản lý khác của | Thành viên quản lý chủ chốt của Công ty |
+
+
+32
  + 
  + [] 
  None

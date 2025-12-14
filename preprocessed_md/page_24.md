@@ -1,97 +1,106 @@
-Công ty Cổ phẩn Chứng khoán SSI
-THUYÊT MINH BÁO CẢO TẢl CHÍNH HƠP NHAT QUÝ
-tai ngày 31 tháng 03 nẳm 2025 và cho kỷ kế toán kết thúc
-Tai ngày 31 tháng 03 năm 2025,
-Tên
-Công ty Co phản
-Tap doàn PAN
-(PAN)
-Quy Đau tư
-nghệ sô và
-Viêt Nam
-Công ty lỉên kết
-cong
-công
-tháng 05 nám 2023
-Giấy Chứng nhẳn Đăng ký Doanh nghiệp Công
-Đupoc thành lâp theo
-ty có phân do Sở Kế hoạch và Đẳu tư tinh Long
-An càp (và các
-đau, Công ty
-Đang
-tháng
-Giấy Chứng nhận Đãng ký lâp quỹ thành vỉên số
-38/GCN-UBCK do Chủ tịch Úy ban chứng khoán
-nhà nước cấp ngảy 29 tháng
-phép
-điêu
-ky Kinh doanh so 4103003790 ngày 31
-nàm 2005
-Công
-chinh
-hoat
-dang
-ty có hai (02) công ty lien két được phản ánh trên báo cáo tàl
-động theo Giấy Chửng nhân
-s6 53IGCN-UBCK ngày
-thay
-NĂM 2025 (tỉép
-cung
-đôỉ tỉep theo)
-nắm 2021 và giấy
-ngày
-Ban
-theo)
-luat);
-Ngành
-Trong trọt,
-Hoat dông dịch vu chăn nuôi; Dịch
-vu sau thu hoach;
-dich vu trong trot; Dịch vu
-nha cửa
-tài chính); Dịch vu tư ván quản lý
-(trừ tư vẩn Tài chinh
-truong
-Đau tư vao
-dạng tài sản đẩu tư khác
-Dich
-hoars
-Tu van dau tư (trứ tu van
-chung
-chán
-dong
-nghien
-nuôi   hỗn
-khoán hoâc các
-kinh tế , phảp
-hoat động
-cứu
-vê sinh
-chinh hợp nhat như sau:
-hợp;
-2.162.945.800.000
-Von_điẻu_lê_ (VND)
-50.0oo.00o.00o
-B05-CTCKHN
-Trực tiếp
-Truc
-Hinh thúc sở
-tiep
-hữu +
+Công ty C phân Giao nhn Kho vn Ngoai thuong Vit Nam                       Báo cáo tài chính hop nhát
+Só 406 Nguyén Tát Thânh, Phuòng 18, Qun 4         cho nm tai chính két thúc ngày 31/12/2024
+Thành phó Hò Chí Minh
+
+12 TÀI SÁN CÓ DINH VO HINH                            Quyèn su            Phàn mèm         Cng
+                                                  dung dát (i)            quan ly
+   Nguyèn giá                                              VND            VND              VND
+    Só du dàu nm                                 9.623.759.000            395.219.000      10.018.978.000
+    Só du cuói nm                                9.623.759.000            395.219.000      10.018.978.000
+   Giá tri hao mòn luy ké                                                 314.969.004      314.969.004
+    Só du dàu nm                                                          26.750.004       26.750.004
+    - Kháu hao trong nm                                                   341.719.008         341.719.008
+    Só du cuói nm
+    Giá tri còn lai                              9.623.759.000
+   Tai ngày dàu nm                                                    80.249.996            9.704.008.996
+   Tai ngày cuói nm                              9.623.759.000        53.499.992            9.677.258.992
+   y ua i
+      Son, qun Tan Binh, thanh phó Hò Chi Minh.
+    gué snh hih  khu hao ét hug n còn ung tai y
+    2 nm 2024 a 288.219.000 VND ai ngay 01 thang 01 m2024 a 288.19.000 VND).
+13  CHI PHí XY DUNG CO BÁN D DANG                                            31/12/2024    01/01/2024      1
+                                                                                    VND    VND           SN
+    Mua sâm tài sån có dinh                                                 938.900.000    714.900.000
+                                                                          938.900.000      714.900.000    KI
+
+14  PHÁI TRÁ NGUÓI BÁN NGÁN HAN                                           01/01/2024                     . P
+                               31/12/2024                    Só có kha    Giá tri               Só có khâ
+                                      Giá tri     nng trà no                                   nng tra no
+                               VND                                 VND    VND                         VND
+    Bén lién quan              37.153.880         37.153.880              1.837.667.988    1.837.667.988
+     Công ty CP Giao nhn           36.263.880     36.263.880              1.837.667.988    1.837.667.988
+     Vn tái Mièn Trung                890.000                  890.000
+     Công ty TNHH Lotte
+     Vinatrans Global
+    Logistics (Vit Nam)
+      Bén khác                 10.173.439.929       10.173.439.929        10.764.534.516   10.764.534.516
+      Công ty TNHH MTV            641.202.556          641.202.556        439.893.675      439.893.675
+     Hoa Tièu Tan Cang            507.913.840     507.913.840
+     Công ty TNHH Phuong                                                  467.537.742      467.537.742
+      Minh Auto                                   1.292.589.677           25.272.000           25.272.000
+     Công ty TNHH Vn tái        1.292.589.677
+      Phuong Thinh              1.958.856.283     1.958.856.283
+      Công ty TNHH Unitex
+      International             5.772.877.573     5.772.877.573                             9.831.831.099
+      Các nguòi bán khác                                                  9.831.831.099
+                               10.210.593.809    10.210.593.809           12.602.202.504   12.602.202.504
+
+
+
+
+
+24 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
-
-Tại ngày 31 tháng 03 năm 2025, Công ty có hai (02) công ty liên kết được phản ánh trên báo cáo tài chính hợp nhất như sau:
-
-| Tên công ty                              | Được thành lập theo                                                                                                                                                                                                            | Ngành hoạt động                                                                                                                                                                                                                                                                     | Vốn điều lệ (VND) | Hình thức sở hữu |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- |
-| Công ty Cổ phần Tập đoàn PAN (PAN)       | Giấy Chứng nhận Đăng ký Doanh nghiệp Công ty cổ phần do Sở Kế hoạch và Đầu tư tỉnh Long An cấp (và các giấy tờ đăng ký thay đổi tiếp theo). Đăng ký kinh doanh số 4103003790 ngày 31 tháng 8 năm 2005.                         | Trồng trọt, chăn nuôi, hỗn hợp; Hoạt động dịch vụ chăn nuôi; Dịch vụ sau thu hoạch; và hoạt động dịch vụ trong trồng trọt; Dịch vụ nhà cửa; Tư vấn đầu tư (trừ tư vấn tài chính); Dịch vụ tư vấn quản lý (trừ tư vấn tài chính); kinh tế, pháp luật; Dịch vụ nghiên cứu thị trường. | 2.162.945.800.000 | Trực tiếp        |
-| Quỹ Đầu tư công nghệ số và Y tế Việt Nam | Giấy Chứng nhận Đăng ký lập quỹ thành viên số 38/GCN-UBCK do Chủ tịch Ủy ban chứng khoán nhà nước cấp ngày 29 tháng 05 năm 2023. Giấy chứng nhận thay đổi ngày 31 tháng 05 năm 2023, số 53/GCN-UBCK ngày 15 tháng 05 năm 2023. | Đầu tư vào chứng khoán hoặc các dạng tài sản đầu tư khác.                                                                                                                                                                                                                           | 50.000.000.000    | Trực tiếp        |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4<br/>Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
+**12 TÀI SẢN CỐ ĐỊNH VÔ HÌNH**
+
+|                            | Quyền sử dụng đất (i)<br/>VND | Phần mềm quản lý<br/>VND | Cộng<br/>VND       |
+| -------------------------- | ----------------------------- | ------------------------ | ------------------ |
+| **Nguyên giá**             |                               |                          |                    |
+| Số dư đầu năm              | 9.623.759.000                 | 395.219.000              | 10.018.978.000     |
+| **Số dư cuối năm**         | **9.623.759.000**             | **395.219.000**          | **10.018.978.000** |
+| **Giá trị hao mòn luỹ kế** |                               |                          |                    |
+| Số dư đầu năm              |                               | 314.969.004              | 314.969.004        |
+| - Khấu hao trong năm       |                               | 26.750.004               | 26.750.004         |
+| **Số dư cuối năm**         |                               | **341.719.008**          | **341.719.008**    |
+| **Giá trị còn lại**        |                               |                          |                    |
+| Tại ngày đầu năm           | 9.623.759.000                 | 80.249.996               | 9.704.008.996      |
+| **Tại ngày cuối năm**      | **9.623.759.000**             | **53.499.992**           | **9.677.258.992**  |
+
+
+(i) Đây là Quyền sử dụng đất không xác định thời hạn của Công ty tại lô đất số A8, đường Trường Sơn, quận Tân Bình, thành phố Hồ Chí Minh.
+
+Nguyên giá của tài sản cố định vô hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2024 là 288.219.000 VND (tại ngày 01 tháng 01 năm 2024 là 288.219.000 VND).
+
+**13 CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG**
+
+|                         | 31/12/2024<br/>VND | 01/01/2024<br/>VND |
+| ----------------------- | ------------------ | ------------------ |
+| Mua sắm tài sản cố định | 938.900.000        | 714.900.000        |
+|                         | **938.900.000**    | **714.900.000**    |
+
+
+**14 PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN**
+
+|                                                          | 31/12/2024<br/>Giá trị<br/>VND | 31/12/2024<br/>Số có khả năng trả nợ<br/>VND | 01/01/2024<br/>Giá trị<br/>VND | 01/01/2024<br/>Số có khả năng trả nợ<br/>VND |
+| -------------------------------------------------------- | ------------------------------ | -------------------------------------------- | ------------------------------ | -------------------------------------------- |
+| **Bên liên quan**                                        | **37.153.880**                 | **37.153.880**                               | **1.837.667.988**              | **1.837.667.988**                            |
+| Công ty CP Giao nhận Vận tải Miền Trung                  | 36.263.880                     | 36.263.880                                   | 1.837.667.988                  | 1.837.667.988                                |
+| Công ty TNHH Lotte Vinatrans Global Logistics (Việt Nam) | 890.000                        | 890.000                                      | -                              | -                                            |
+| **Bên khác**                                             | **10.173.439.929**             | **10.173.439.929**                           | **10.764.534.516**             | **10.764.534.516**                           |
+| Công ty TNHH MTV Hoa Tiêu Tân Cảng                       | 641.202.556                    | 641.202.556                                  | 439.893.675                    | 439.893.675                                  |
+| Công ty TNHH Phương Minh Auto                            | 507.913.840                    | 507.913.840                                  | 467.537.742                    | 467.537.742                                  |
+| Công ty TNHH Vận tải Phương Thịnh                        | 1.292.589.677                  | 1.292.589.677                                | 25.272.000                     | 25.272.000                                   |
+| Công ty TNHH Unitex International                        | 1.958.856.283                  | 1.958.856.283                                | -                              | -                                            |
+| Các người bán khác                                       | 5.772.877.573                  | 5.772.877.573                                | 9.831.831.099                  | 9.831.831.099                                |
+|                                                          | **10.210.593.809**             | **10.210.593.809**                           | **12.602.202.504**             | **12.602.202.504**                           |
+
+
+24
  + 
  + [] 
  None

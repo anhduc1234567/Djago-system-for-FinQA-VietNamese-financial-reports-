@@ -1,74 +1,64 @@
-Côngty Cổ phần Chứng khoán SSI                                           B05-CTCKHN
-THUYÉT MINH BÁO CÁO TẢI CHINH HỢP NHÁT QUỶ           NĂM 2025 (tỉếp theo)
-tại ngảy 31 tháng 03 nfm 2025 và cho kỳ kế toản két thúc cùng ngày
+Cong ty Cò phàn Giao nhan Kho vn Ngoai thuong Viet Nam                                                                           Báo cáo tài chính hop nhát
+406 Nguyn Tt Thanh, Phuòng 18. Qun 4, Thanh phó Hò Chi Minh                                              cho näm tài chính két thúc ngày 31/12/2024
 
-    Công ty con
-    Tại ngày 31 tháng 03 nfm 2025, Cóng ty có hai (02) công ty con sở hữu trực tiếp như sau:
-    Tên công ty       Đupc thanh láp theo          Ngành hoat dong     Vón điẻu lệ        % sỞ hou
-    Công ty TNHH      Giấy phép Thành lap          Quản lỷ quỹ dẩu tư    75 tỷ VND         1009
-    Quàn lỷ Quy      và Hoat đóng só              chúng khoán và
-   SSI (SSIAM)        19/UBCK-GP ngày             quan lỷ danh muc
-                     tháng  nám 2007 và           đau tư chứng khoan
-                     giáyphép đỉèu chinh
-                     gản nhất só
-                      122IGPĐC-UBCK
-                     ngảy 19 tháng 12 nắm
-                     2022
-   Quỹ Đàu tư        Thông báo v việc xảc         Đau tư vào chứng    530,5 tỷ             76,15%
-   Thành viên        nhan thanh lâpquy            khoán hoảc các dang      VND
-   SSI (SSI IMF)     thanh vỉén só     3O/TB-     tài sản đau tư khác,
-                     UBCK ngày 27 tháng           ke cả bat động san
-                     nam 2010 và giay
-                     phép dièu chinh gẩn
-                     nhat s6
-                     12IGCN_UBCK ngày
-                     15 tháng 04 nảm 2022
-  Ngoai ra tai ngày 31 tháng 03 năm 2025, Công ty có hai (02) công ty con sở hữu gỉán tiép
-  qua Quỹ Đâu tư Thành viên SSI nhu sau:
-   Tên cóng ty      Đupc thanh lâp theo      Ngành hoat đóng             Vôn điẻu lệ      % sở hữu
-  Công              Thanh lập tai Hoa Kỷ     Kinh doanh bát         18,.499.870,31 USD     76,15%
-  Quóc te           theo Đảng kỷ Kinh        động sản
-  SSI               doanh só 090813396
-                    4724807 ngày 27
-                    thang nám 2009
+11 TAI SÁN CO DINH HUU HiNH
+                                      Nhà cura,           Máy móc, thiét bi      Phuong tin vn          Thiét bi, dung cu        Tai sàn có    Cng
+                                      våt kién trúc                              tai, truyèn dn                       quan ly    dinh khác               VND
+   Nguyên giá                         VND                      VND               VND                                      VND    VND
+   So du dàu nam                      11.761.282.711      1.786.648.545          21.652.999.020         376.580.256              108.000.000  35.685.510.532
+   - Mua trong nâm                                                               13.681.291.852                                               13.681.291.852
+   - Thanh ly, nhuong bán                                                        (3.837.247.285)        376.580.256                          (3.837.247.285)
+   Só du cuói nm              11.761.282.711                    1.786.648.545    31.497.043.587                                  108.000.000  45.529.555.099
+   Giá tri hao mòn luy ké             7.792.756.917               910.451.192    20.060.083.134          180.295.451             108.000.000  29.051.586.694
+    Só du dàu nm                                          87.699.924             1.095.731.543           53.402.496                            1.544.176.235
+    - Kháu hao trong nm               307.342.272                                (3.837.247.285)                                               (3.837.247.285)
+    - Thanh ly, nhuong bán            8.100.099.189               998.151.116         17.318.567.392     233.697.947             108.000.000   26.758.515.644
+    Só du cuói nm
 
-  Công ,ty Có       Giấy chửng nhận          Nghien cứukhoa                 200 tỷ VND     68,54%
- phan Cóng          Đảng kỷ Doanh           hoc và phát trién
- nghè só            nghiệp Cóng ty Cỏ       còng nghệ
- SSI               Phando Sở Ké hoach        Tư van quản lý ,
-                   và Đu tư Hà NBi          lập trInh
-                   cap. Ban dau, Công
-                    ty hoat đọng theo
-                    Giáy Chúng nhân
-                   Đăng ký Kinh doanh
-                   sò 0109944126 ngày
-                   25 tháng nam 2022 +
+    Giá tri còn lai                                                                                                                              6.633.923.838
+   Tai ngay dau nm                    3.968.525.794               876.197.353    1.592.915.886           196.284.805                            18.771.039.455
+   Tai ngay cuói nm                   3.661.183.522               788.497.429         14.178.476.195     142,882.309
+   o02.56.579V
+    01 nm 2024 la 16.275.869.534 VND).
+
+
+
+
+
+
+
+
+
+
+23 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-B05-CTCK/HN
-
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
-
-## Công ty con
-
-Tại ngày 31 tháng 03 năm 2025, Công ty có hai (02) công ty con sở hữu trực tiếp như sau:
-
-| Tên công ty                          | Được thành lập theo                                                                                                                                                    | Ngành hoạt động                                                              | Vốn điều lệ  | % sở hữu |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------ | -------- |
-| Công ty TNHH Quản lý Quỹ SSI (SSIAM) | Giấy phép Thành lập và Hoạt động số 19/UBCK-GP ngày 3 tháng 8 năm 2007 và giấy phép điều chỉnh gần nhất số 122/GPĐC-UBCK ngày 19 tháng 12 năm 2022                     | Quản lý quỹ đầu tư chứng khoán và quản lý danh mục đầu tư chứng khoán        | 75 tỷ VND    | 100%     |
-| Quỹ Đầu tư Thành viên SSI (SSI IMF)  | Thông báo về việc xác nhận thành lập quỹ thành viên số 130/TB-UBCK ngày 27 tháng 7 năm 2010 và giấy phép điều chỉnh gần nhất số 12/GCN\_UBCK ngày 15 tháng 04 năm 2022 | Đầu tư vào chứng khoán hoặc các dạng tài sản đầu tư khác, kể cả bất động sản | 530,5 tỷ VND | 76,15%   |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4, Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
-Ngoài ra, tại ngày 31 tháng 03 năm 2025, Công ty có hai (02) công ty con sở hữu gián tiếp qua Quỹ Đầu tư Thành viên SSI như sau:
+## 11 TÀI SẢN CỐ ĐỊNH HỮU HÌNH
 
-| Tên công ty                      | Được thành lập theo                                                                                                                                                                                 | Ngành hoạt động                                                          | Vốn điều lệ       | % sở hữu |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------- | -------- |
-| Công ty Quốc tế SSI              | Thành lập tại Hoa Kỳ theo Đăng ký Kinh doanh số 090813396 - 4724807 ngày 27 tháng 8 năm 2009                                                                                                        | Kinh doanh bất động sản                                                  | 18.499.870,31 USD | 76,15%   |
-| Công ty Cổ phần Công nghệ số SSI | Giấy chứng nhận Đăng ký Doanh nghiệp Công ty Cổ phần do Sở Kế hoạch và Đầu tư Hà Nội cấp. Ban đầu, Công ty hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh số 0109944126 ngày 25 tháng 3 năm 2022 | Nghiên cứu khoa học và phát triển công nghệ Tư vấn quản lý, lập trình... | 200 tỷ VND        | 68,54%   |
+|                            | Nhà cửa, vật kiến trúcVND | Máy móc, thiết bịVND | Phương tiện vận tải, truyền dẫnVND | Thiết bị, dụng cụ quản lýVND | Tài sản cố định khácVND | CộngVND            |
+| -------------------------- | ------------------------- | -------------------- | ---------------------------------- | ---------------------------- | ----------------------- | ------------------ |
+| **Nguyên giá**             |                           |                      |                                    |                              |                         |                    |
+| Số dư đầu năm              | 11.761.282.711            | 1.786.648.545        | 21.652.999.020                     | 376.580.256                  | 108.000.000             | 35.685.510.532     |
+| - Mua trong năm            | -                         | -                    | 13.681.291.852                     | -                            | -                       | 13.681.291.852     |
+| - Thanh lý, nhượng bán     | -                         | -                    | (3.837.247.285)                    | -                            | -                       | (3.837.247.285)    |
+| **Số dư cuối năm**         | **11.761.282.711**        | **1.786.648.545**    | **31.497.043.587**                 | **376.580.256**              | **108.000.000**         | **45.529.555.099** |
+| **Giá trị hao mòn luỹ kế** |                           |                      |                                    |                              |                         |                    |
+| Số dư đầu năm              | 7.792.756.917             | 910.451.192          | 20.060.083.134                     | 180.295.451                  | 108.000.000             | 29.051.586.694     |
+| - Khấu hao trong năm       | 307.342.272               | 87.699.924           | 1.095.731.543                      | 53.402.496                   | -                       | 1.544.176.235      |
+| - Thanh lý, nhượng bán     | -                         | -                    | (3.837.247.285)                    | -                            | -                       | (3.837.247.285)    |
+| **Số dư cuối năm**         | **8.100.099.189**         | **998.151.116**      | **17.318.567.392**                 | **233.697.947**              | **108.000.000**         | **26.758.515.644** |
+| **Giá trị còn lại**        |                           |                      |                                    |                              |                         |                    |
+| Tại ngày đầu năm           | 3.968.525.794             | 876.197.353          | 1.592.915.886                      | 196.284.805                  | -                       | 6.633.923.838      |
+| **Tại ngày cuối năm**      | **3.661.183.522**         | **788.497.429**      | **14.178.476.195**                 | **142.882.309**              | **-**                   | **18.771.039.455** |
 
 
+Nguyên giá của tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2024 là 15.756.957.991 VND (tại ngày 01 tháng 01 năm 2024 là 16.275.869.534 VND).
+
+23
  + 
  + [] 
  None

@@ -1,53 +1,94 @@
-Côngty Cổ phầnChứngkhoán SSI
-B1O CÁO KÊT QUẢ HOAT ĐONG HỢPNHAT QUÝ             BO1-CTCKHN
-cho kỷ kế toán két thủc ngày 31thang 03 nám 2025  NẴM 2025 (tỉép theo)
+Công ty Cô phân Giao nhn Kho vn Ngoai thuong Vit Nam                        Báo cáo tài chính hop nhát
+Só 406 Nguyên Tát Thành, Phuòng 18, Qun 4                cho nm tài chính két thúc ngày 31/12/2024
+Thành phó Hò Chí Minh
+    Cáu trúc tap doàn
+     Công ty có 01 công ty con duc hp nhát báo cáo tài chính tai thòi dièm 31 tháng 12 näm 2024
+     bao gòm:
+     Tén công ty               Tru s chính     Ty l loi       Ty le         Hoat dng kinh doanh
+                                                         ich  quyn          chính
+                                                              biéu quyét
+    Công ty TNHH Vn ti Ó tô Thành phó Hò 92,51% 92,51%                      Kinh doanh vån tái da
+     Vina Vinatrans            Chí Minh                                     phuong thúrc
+    Cy c g y léét du étn theo hu hpn  h i t
+     tháng 12 nm 2024 trong báo cáo tài chinh hop nhát là:
+     Tèn công ty              Dia chi         Ty le lqi   Ty le quyèn        Hoat dng kinh doanh
+                                               ich            biéu quyet     chinh
+     Công ty TNHH Vn ti        Thành ph        21,70%         21,70%         Kinh doanh vn tâi da
+     Viet Nhat                 Hò Chí Minh    29,00%          29,00%         phuong thúrc
+    Công ty TNHH Nissin        Thànhphó                                      Kinh doanh vn tâi da
+     Logistics (Vit Nam)       Hà Ni           29,00%         29,00%         phuong thúrc
+      Công ty TNHH Agility     Thanh phó                                     Kinh doanh vn tai da
+                               Hò Chí Minh     49,00%                         phuong thúc
+      Công ty TNHH Lotte       Thanh phó                      49,00%          Kinh doanh vn tâi da
+     Vinatrans Global          Hò Chí Minh                                    phuong thúc
+     Logistics (Vit Nam)
+2    CHÉ DO VÁ CHíNH SÁCH KÉ TOÁN ÁP DUNG TAI CÔNG TY
+2.1  Ky ké toán, don vi tièn t su dung trong ké toán
+     Ky ké toán nm cúa Cóng ty theo nm duong lich bt dàu tu ngày 01/01 và két thúc våo ngày
+      31/12 hàng nm.
+     Don vi tièn t s dung trong ghi chép ké toán là Dòng Vit Nam (VND).
+2.2   Chun muc và ché d ké toán áp dung
+       Ché do ké toán áp dung
+     Công ty áp dung ché d ké toán doanh nghiep ban hånh theo Thông tu só 200/2014/TT-BTC ngày
+     22/12/2014 cúa Bo Tài chính, Thóng tu só 53/2016/TT-BTC ngy 21/03/2016 cua B Tai chính vè
+     vic sura dôi, b sung mt so dièu cua Thông tu s 200/2014/TT-BTC va Thòng tu só
+     02/2014/T-BTCun hu phap apti by o hho .
+       Tuyén bó vé vic tuån thù chun muc ké toán và ché do ké toán
+     Cg tya ap dng cchun mc é toán Vit Nam cn n huóg nchun mcdo
+      Nhà nuóc da ban hanh. Cac báo cáo tai chính duc lap và trinh bay theo dung moi quy dinh cua
+      tung chuán muc, thông tu huóng dån thuc hien chuân muc và ché d ké toán doanh nghip hien
+       hành dang áp dung
+2.3   Co só lp báo cáo tài chính hp nhát
+      Bao co ti chi hp át c Cng y du ap tn  s hp nhát báo o tai chi èg ca
+       Cong ty và bao cao tai chinh cua cong ty con do Cong ty kiém soat dugc lap cho nm tai chinh két
+       thuc ngay 31 thang 12 hang näm. Viec kiém soat dat duc khi Cong ty có kha nng kiém soat các
+       chính sách tai chinh và hoat dong cua công ty nhn dàu tu nhäm thu duc li ich tu hoat dng
+       cua công ty này.
 
-
-
-
-
-Ma s6 CHỈ TIEU    Thuyet                                              Qư}                      Lũy ké từ đầu nẵm đến cuối quý nằy
-                   minn                                        Nam nay       Nam Iruóc         Namn nay
-       DOANH THUHoatDONG TAICHINH                                  VND       VND               VND                    Nám truoc
-                                                                                                                      VNO
-       Ghênh Iệch Iâi tỷ giá hẩi đoái đẳ vảchua
-       thuc hién
-      Doanh chu du thu cổ tửc; lhỉ tiền gửỉ         6.677.185 010            10.971 819
-       khóng có dỊnh                                                         007               6.677,185010           10.971.819.007
-       Doanh thu khác về đẳu tư (phàn lãi trong     652 500 804              6 397,773 337
-      công ty lien ket .                            22.024489 910            22 323 740 683            652.500.804    6,397,773,337
-      Cộng doanh thu hoatdộng   chinh               J3.354.175.724           39.693.J33.027         22.024 489.910    22-323740683
-      CHI PHÍ TÀI CHÍNH                                                                        J3.354.,175.724        39.693.333.027
-
-      (nurc hen                 chua
-      Chi phi Iaí vay                               136 465 230           383,075 856 083
-      Chi phl tàl chinh khác                       465.588.292 122           075 951 019       465136.465 230             139,886 187
-Cộng chiphí tai chinh                               009,713 519              719 492.679       588 292 122            383 075 951.019
-      CHI PHÍ QUẢN LỶ                              468.734,470,871          390,935.329,886    2,009.713.519              719 492 679
-                                                                                               468.734 ,
-VL Ket QUAHOAT ĐONG                                 254.794.994             83,.235,460.062    470,871                390.935.329.885
-                                                   1.045.350,522,440      942.176.599.591      53.254.794.994         83.235,460.062
-                                                                                               1.045.350.522.440      942.176.599.591 +
+                                               11 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
-
-| Mã số              | CHỈ TIÊU                      | Thuyết minh                                                      | Quý 1<br/>Năm nayVND | Quý 1<br/>Năm trướcVND     | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |                 |                 |
-| ------------------ | ----------------------------- | ---------------------------------------------------------------- | -------------------- | -------------------------- | ------------------------------------------------- | --------------------------------------------------- | --------------- | --------------- |
-| III.               | DOANH THU HOẠT ĐỘNG TÀI CHÍNH | 1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện           | 6.677.185.010        | 10.971.819.007             | 6.677.185.010                                     | 10.971.819.007                                      |                 |                 |
-|                    |                               | 2. Doanh thu dự thu cổ tức, lãi tiền gửi không có định           | 652.500.804          | 6.397.773.337              | 652.500.804                                       | 6.397.773.337                                       |                 |                 |
-|                    |                               | 3. Doanh thu khác về đầu tư (phần lãi trong công ty liên kết...) | 22.024.489.910       | 22.323.740.683             | 22.024.489.910                                    | 22.323.740.683                                      |                 |                 |
-|                    |                               | **Cộng doanh thu hoạt động tài chính**                           | 33.354.175.724       | 39.693.333.027             | 33.354.175.724                                    | 39.693.333.027                                      |                 |                 |
-|                    |                               | IV.                                                              | CHI PHÍ TÀI CHÍNH    | 1. Chi phí lãi vay         | 1.136.465.230                                     | 6.139.886.187                                       | 1.136.465.230   | 6.139.886.187   |
-|                    |                               |                                                                  |                      | 2. Chi phí tài chính khác  | 465.588.292.122                                   | 383.075.951.019                                     | 465.588.292.122 | 383.075.951.019 |
-|                    |                               |                                                                  |                      | **Cộng chi phí tài chính** | 2.009.713.519                                     | 1.719.492.679                                       | 2.009.713.519   | 1.719.492.679   |
-| V. CHI PHÍ QUẢN LÝ | 468.734.470.871               |                                                                  |                      | 390.935.329.886            | 468.734.470.871                                   | 390.935.329.886                                     |                 |                 |
-| VI.                | **KẾT QUẢ HOẠT ĐỘNG**         |                                                                  | 53.254.794.994       | 83.235.460.062             | 53.254.794.994                                    | 83.235.460.062                                      |                 |                 |
-|                    |                               |                                                                  | 1.045.350.522.440    | 942.176.599.591            | 1.045.350.522.440                                 | 942.176.599.591                                     |                 |                 |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4<br/>Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
+### Cấu trúc tập đoàn
+Công ty có 01 công ty con được hợp nhất báo cáo tài chính tại thời điểm 31 tháng 12 năm 2024 bao gồm:
+
+| Tên công ty                              | Trụ sở chính          | Tỷ lệ lợi ích | Tỷ lệ quyền biểu quyết | Hoạt động kinh doanh chính        |
+| ---------------------------------------- | --------------------- | ------------- | ---------------------- | --------------------------------- |
+| Công ty TNHH Vận tải Ô tô Vina Vinatrans | Thành phố Hồ Chí Minh | 92,51%        | 92,51%                 | Kinh doanh vận tải đa phương thức |
+
+
+Công ty có các công ty liên kết được kế toán theo phương pháp vốn chủ sở hữu tại thời điểm 31 tháng 12 năm 2024 trong báo cáo tài chính hợp nhất là:
+
+| Tên công ty                                              | Địa chỉ               | Tỷ lệ lợi ích | Tỷ lệ quyền biểu quyết | Hoạt động kinh doanh chính        |
+| -------------------------------------------------------- | --------------------- | ------------- | ---------------------- | --------------------------------- |
+| Công ty TNHH Vận tải Việt Nhật                           | Thành phố Hồ Chí Minh | 21,70%        | 21,70%                 | Kinh doanh vận tải đa phương thức |
+| Công ty TNHH Nissin Logistics (Việt Nam)                 | Thành phố Hà Nội      | 29,00%        | 29,00%                 | Kinh doanh vận tải đa phương thức |
+| Công ty TNHH Agility                                     | Thành phố Hồ Chí Minh | 29,00%        | 29,00%                 | Kinh doanh vận tải đa phương thức |
+| Công ty TNHH Lotte Vinatrans Global Logistics (Việt Nam) | Thành phố Hồ Chí Minh | 49,00%        | 49,00%                 | Kinh doanh vận tải đa phương thức |
+
+
+## 2 CHẾ ĐỘ VÀ CHÍNH SÁCH KẾ TOÁN ÁP DỤNG TẠI CÔNG TY
+### 2.1 Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán
+Kỳ kế toán năm của Công ty theo năm dương lịch bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm.
+
+Đơn vị tiền tệ sử dụng trong ghi chép kế toán là Đồng Việt Nam (VND).
+
+### 2.2 Chuẩn mực và chế độ kế toán áp dụng
+**Chế độ kế toán áp dụng**
+
+Công ty áp dụng chế độ kế toán doanh nghiệp ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC và Thông tư số 202/2014/TT-BTC hướng dẫn phương pháp lập và trình bày báo cáo tài chính hợp nhất.
+
+**Tuyên bố về việc tuân thủ chuẩn mực kế toán và chế độ kế toán**
+
+Công ty đã áp dụng các chuẩn mực kế toán Việt Nam và các văn bản hướng dẫn chuẩn mực do Nhà nước đã ban hành. Các báo cáo tài chính được lập và trình bày theo đúng mọi quy định của từng chuẩn mực, thông tư hướng dẫn thực hiện chuẩn mực và chế độ kế toán doanh nghiệp hiện hành đang áp dụng.
+
+### 2.3 Cơ sở lập báo cáo tài chính hợp nhất
+Báo cáo tài chính hợp nhất của Công ty được lập trên cơ sở hợp nhất báo cáo tài chính riêng của Công ty và báo cáo tài chính của công ty con do Công ty kiểm soát được lập cho năm tài chính kết thúc ngày 31 tháng 12 hàng năm. Việc kiểm soát đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của công ty này.
+
+11
  + 
  + [] 
  None

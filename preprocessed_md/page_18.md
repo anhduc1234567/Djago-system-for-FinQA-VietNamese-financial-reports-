@@ -1,69 +1,74 @@
-Côngty Cổ phần Chứng khoán SSI                        BO3b-CTCKIHN
- BÁO CÁO LUU CHUYẾN TIÊN TE HƠP NHAT QUÝ              NÁM 2025 (tiép theo)
- cho kỷ ké toán két thúc ngảy 31 tháng 03 năm 2025
+Cong ty Cò phn Giao nhan Kho van Ngoai thuong Viet Nam                                                                            Báo cáo tài chính hop nhát
+ 406 Nguyen Tt Thanh, Phuòng 18 Quan Thanh ph HòCh Minh                                                                cho nm tài chinh két thúc ngày 31/12/2024
 
- PHẢN LƯU CHUYÉN TIỀN TÉ HOẠT ĐỌNG MÔl GIỚI, ỦY THÁC CỦA KHÁCH HÀNG (tỉép theo)
+Du tu vào công ty lièn két                                                              31/12/2024                            01/01/2024 (da dièu chinh)
+                                                              Ty lé loi                 Ty le  Giá tri ghi so theo     Ty lé loi  Ty l              Gia tri ghi so theo
+                                                                  ich           quyèn          phuong pháp vón         ich        quyen             phuong pháp vón
+                                                                                        biéu                ch s hu               bièu                         ch sò hu
+                                                                                                                VND                                                 VND
 
-                                                      Lúỵ ké từ đàu nam đến
-                                                                              cuól_
-                                                                               quý_nex
-                             Thuyét                   Namnay                       Nam truxc
- Ma s6  CHÍ TIỂU              minh                                     VND            VND
+   Công ty TNHH Vn ti Vit Nht                                    21,70%         21,70%          41.945.150.041         21,70%     21,70%             37.591.908.105
+   Công ty TNHH Nissin Logistics (Viet Nam)                      29,00%         29,00%              142.152.699.273    29,00%     29,00%            139.625.747.772
+   -Công ty TNHH Agility                                         29,00%         29,00%          87.451.281.365         29,00%     29,00%             86.884.497.359
+    Công ty TNHH Lotte Vinatrans Global Logistics (Viet Nam)     49,00%         49,00%               44.695.752.626    49,00%     49,00%             39.709.033.646
+                                                                                                316.244.883.305                                     303.811.186.882
 
-         Tlen và các khoàn tưong đương tien              7.908.445.467.137     8.175.360.135.791
-         cuoi kỳ của khách hàng (40                      7.908,445,467.137     8.175.360.135,791
-        Tiên      ngan hang
-                         cuór
-         chung khoán theo phưong thức CTCK               7 849.042.361.958     7,.955,384.821.926
-         quan lỷ tổng
-         Tien gừi        hơp giao dich chửng khoán          8,.675.047.545     93,951.676.650
-                    ủaàng chức phát hành
-         cho khach                                                             126.023.637,.215
-         Tièn gửi của                                       50.728.057,634
+c) Dàu tu góp vón vào don vi khác                                 31/12/2024                                                      01/01/2024
+                                   Ma CK               Giá góc        Giá tri hop ly            Du phong    Giá góc               Giá tri hop ly               Du phòng
+                                                           VND                   VND            VND                    VND                VND                       VND
+    Công ty CP Vinafreight (i)     VNF      31.213.204.819        59.984.064.000                            31.213.204.819       28.957.824.000      (2.255.380.819)
+    Công ty CP Giao nhân Van       VNT      18.559.200.000        35.218.449.000                            18.559.200.000       42.413.616.000
+     ti Ngoai thuong (ii)                    3.566.383.568             5.181.600.000                        3.566.383.568         7.894.320.000
+     Công ty CP Giao nhan Van      VMT
+      ti Mièn Trung (ii)                                                                                    5.058.631.771
+     Cong ty TNHH Dich vu Hang               5.058.631.771
+     không Véc to Quóc té (i)                  102.000.000                                                  102.000.000
+     Cong ty TNHH Dâu tu Phat
+      triên Thuong mai Con duòng
+      Viet (i)                            58.499.420.158          100.384.113.000                           58.499.420.158        79.265.760.000     (2.255.380.819)
 
-                                                      CONG
-                                                      Cổ PHẨN
-                                                      CHÚNG KHd
-                                                      SSI
+                                                                         tauynVit Naméhitam
+      huóng dan cu thé ve viec xac dinh gia tri hop ly.
+                                                                       aypgnaahn HNXn Hy2/2/.
 
-Bà Bùí Thị Quanh             Bà Nguyén Thi Hải Anh    Ong Nguyen Hong Nam
-Ngưòi Iập bieu               Ke toán Trưởng           Tóng Giám đoc
 
-Thanh phố Hồ Chi Minh; Việt Nam
-Ngảy 29 tháng 04 năm 2025 +
+
+18
+
+  isil +
  
-# Công ty Cổ phần Chứng khoán SSI  
-B03b-CTCK/HN  
 
-## BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
-
-### PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG (tiếp theo)  
-
-| Mã số | CHỈ TIÊU                                                                          | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |
-| ----- | --------------------------------------------------------------------------------- | ----------- | ------------------------------------------------- | --------------------------------------------------- |
-| 40    | **III. Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30)** |             | 7.908.445.467.137                                 | 8.175.360.135.791                                   |
-| 41    | Tiền gửi ngân hàng cuối kỳ:                                                       |             | 7.908.445.467.137                                 | 8.175.360.135.791                                   |
-| 42    | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý  |             | 7.849.042.361.958                                 | 7.955.384.821.926                                   |
-| 43    | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                          |             | 8.675.047.545                                     | 93.951.676.650                                      |
-| 45    | Tiền gửi của Tổ chức phát hành                                                    |             | 50.728.057.634                                    | 126.023.637.215                                     |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4, Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 
-> CÔNG TY CỔ PHẦN CHỨNG KHOÁN SSI
+**b) Đầu tư vào công ty liên kết**
 
-----
+|                                                            | 31/12/2024<br/>Tỷ lệ lợi ích | 31/12/2024<br/>Tỷ lệ quyền biểu quyết | 31/12/2024<br/>Giá trị ghi sổ theo phương pháp vốn chủ sở hữuVND | 01/01/2024 (đã điều chỉnh)<br/>Tỷ lệ lợi ích | 01/01/2024 (đã điều chỉnh)<br/>Tỷ lệ quyền biểu quyết | 01/01/2024 (đã điều chỉnh)<br/>Giá trị ghi sổ theo phương pháp vốn chủ sở hữuVND |
+| ---------------------------------------------------------- | ---------------------------- | ------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------- |
+| - Công ty TNHH Vận tải Việt Nhật                           | 21,70%                       | 21,70%                                | 41.945.150.041                                                   | 21,70%                                       | 21,70%                                                | 37.591.908.105                                                                   |
+| - Công ty TNHH Nissin Logistics (Việt Nam)                 | 29,00%                       | 29,00%                                | 142.152.699.273                                                  | 29,00%                                       | 29,00%                                                | 139.625.747.772                                                                  |
+| - Công ty TNHH Agility                                     | 29,00%                       | 29,00%                                | 87.451.281.365                                                   | 29,00%                                       | 29,00%                                                | 86.884.497.359                                                                   |
+| - Công ty TNHH Lotte Vinatrans Global Logistics (Việt Nam) | 49,00%                       | 49,00%                                | 44.695.752.626                                                   | 49,00%                                       | 49,00%                                                | 39.709.033.646                                                                   |
+|                                                            |                              |                                       | **316.244.883.305**                                              |                                              |                                                       | **303.811.186.882**                                                              |
 
-Bà Bùi Thị Quanh  
-Người lập biểu  
 
-Bà Nguyễn Thị Hải Anh  
-Kế toán Trưởng  
+**c) Đầu tư góp vốn vào đơn vị khác**
 
-Ông Nguyễn Hồng Nam  
-Tổng Giám đốc  
+|                                                                | Mã CK | 31/12/2024<br/>Giá gốcVND | 31/12/2024<br/>Giá trị hợp lýVND | 31/12/2024<br/>Dự phòngVND | 01/01/2024<br/>Giá gốcVND | 01/01/2024<br/>Giá trị hợp lýVND | 01/01/2024<br/>Dự phòngVND |
+| -------------------------------------------------------------- | ----- | ------------------------- | -------------------------------- | -------------------------- | ------------------------- | -------------------------------- | -------------------------- |
+| - Công ty CP Vinafreight (i)                                   | VNF   | 31.213.204.819            | 59.984.064.000                   | -                          | 31.213.204.819            | 28.957.824.000                   | (2.255.380.819)            |
+| - Công ty CP Giao nhận Vận tải Ngoại thương (ii)               | VNT   | 18.559.200.000            | 35.218.449.000                   | -                          | 18.559.200.000            | 42.413.616.000                   | -                          |
+| - Công ty CP Giao nhận Vận tải Miền Trung (ii)                 | VMT   | 3.566.383.568             | 5.181.600.000                    | -                          | 3.566.383.568             | 7.894.320.000                    | -                          |
+| - Công ty TNHH Dịch vụ Hàng không Véc tơ Quốc tế (i)           |       | 5.058.631.771             | -                                | -                          | 5.058.631.771             | -                                | -                          |
+| - Công ty TNHH Đầu tư Phát triển Thương mại Con đường Việt (i) |       | 102.000.000               | -                                | -                          | 102.000.000               | -                                | -                          |
+|                                                                |       | **58.499.420.158**        | **100.384.113.000**              | **-**                      | **58.499.420.158**        | **79.265.760.000**               | **(2.255.380.819)**        |
 
-Thành phố Hồ Chí Minh, Việt Nam  
-Ngày 29 tháng 04 năm 2025  
+
+(i) Công ty chưa xác định giá trị hợp lý của các khoản đầu tư tài chính này do chuẩn mực kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý.
+(ii) Giá trị hợp lý của các khoản đầu tư này được xác định bằng giá đóng cửa của cổ phiếu trên sàn HNX và sàn HOSE tại ngày 29/12/2023 và 31/12/2024.
+
+18
  + 
  + [] 
  None

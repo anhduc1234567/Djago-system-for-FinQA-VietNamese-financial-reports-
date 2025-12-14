@@ -23,7 +23,7 @@
 # from call_api_llm import call_api_gemi
 # from receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word
 
-from core.graph_query_graph import query_company_raw_text, query_thuyet_minh_raw_text
+from core.query_graphDB import query_company_raw_text, query_thuyet_minh_raw_text
 from core.call_api_llm import call_api_gemi
 from core.receiver import find_information, retrieve, remove_same_content, get_database, get_doc_from_notes_by_key_word, normalize_for_prompt
 import os
@@ -60,13 +60,13 @@ def summary_finacial_statement(subsection, temp_path, infor, key_words, isBank =
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes_infor = get_doc_from_notes_by_key_word(key_word= key_words, infor= infor, temp_path= temp_path)  
+    # notes_infor = get_doc_from_notes_by_key_word(key_word= key_words, infor= infor, temp_path= temp_path)  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
         Nhiệm vụ lần này của bạn là:
-        Dựa vào thông tin về Bảng cân đối kế toán và thuyết minh báo cáo tương ứng. Hãy sinh ra 1 đoạn phân tích dựa trên các thông tin đó để tạo ra 1 file summary tóm tắt 
-        hết sức NGẮN GỌN lại những điểm nổi bật có trong Bảng cân đối kế toán của công ty đó, dựa trên hướng dẫn sau:
+        Dựa vào thông tin về Bảng cân đối kế toán và thuyết minh báo cáo tương ứng. Hãy sinh ra 1 đoạn phân tích ngắn gọn dựa trên các thông tin đó để tạo ra 1 file summary tóm tắt 
+        dựa trên hướng dẫn. Tập chung vào sự thay đổi giữa các kỳ năm của các khoản mục tài chính, tính toán sự thanh đổi, tỷ trọng,... sự thay đổi đó phản ánh điều gì ?, cho thấy điều gì ?...  và đưa ra phân tích nhận định ngắn gọn:
         Cách đọc Bảng cân đối kế toán 
         LƯU Ý: Các thông tin đề cập trong cách đọc có thể tinh chỉnh cho phù hợp với lĩnh vực của công ty ví dụ Ngân hàng, chứng khoán, ... không bó buộc phải tuân theo hoàn toàn.
             Mục tiêu: Đọc báo cáo này để hiểu rõ tài sản và nguồn vốn của doanh nghiệp đến từ đâu và tập trung vào lĩnh vực nào.
@@ -97,9 +97,9 @@ def summary_finacial_statement(subsection, temp_path, infor, key_words, isBank =
     Trả về kết quả trước tiếp mà không cần lời giới thiệu giải thích theo mẫu sau:
         ## 2. Phân tích bảng cân đối kế toán.
             [Nội dung ]
-    Dưới đây là thông tin về Bảng cân đối kế toán: {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về Bảng cân đối kế toán: {result} đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
-    response = call_api_gemi(prompt_gen_summary, model='2.0-flash')
+    response = call_api_gemi(prompt_gen_summary, model='gemini-2.5-flash')
     
     return response
 
@@ -236,7 +236,7 @@ def cal_financial_radio(infor,isBank = None, isIndex = None):
                     
             Tài liệu được cung cấp: {result}, Doanh nghiệp {isBank} là ngân hàng, Doanh nghiêp {isBank} là công ty tài chính.
     '''
-    response = call_api_gemi(prompt=prompt_cal_radio)
+    response = call_api_gemi(prompt=prompt_cal_radio,model='gemini-2.5-flash')
     print(result)
     # print(response)
     return response
@@ -252,23 +252,23 @@ def summary_income_statement(subsection, temp_path, infor, key_words, isBank = '
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
-    for data in notes:
-        notes_raw_text += data['raw_text'] + '\n'
-    notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
+    # notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
+    # for data in notes:
+    #     notes_raw_text += data['raw_text'] + '\n'
+    # notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
     
-    for i in range(len(key_words)):
-        similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
-    similar_k = remove_same_content(similar_k)
-    for i, k in enumerate(similar_k):
-        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
+    # for i in range(len(key_words)):
+    #     similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
+    # similar_k = remove_same_content(similar_k)
+    # for i, k in enumerate(similar_k):
+    #     notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
         Nhiệm vụ lần này của bạn là:
-        Dựa vào thông tin về Báo cáo kết quả hoạt động kinh doanh hay báo cáo kết quả hoạt động (nếu doanh nghiệp là ngân hàng) và thuyết minh báo cáo tương ứng. 
-        Hãy sinh ra 1 đoạn phân tích dựa trên các thông tin đó để tạo ra 1 file summary hết sức NGẮN GỌN tóm tắt lại những điểm nổi bật có trong Báo cáo kết quả hoạt động kinh doanh 
-        hay báo cáo kết quả hoạt động (nếu doanh nghiệp là ngân hàng) của doanh nghiệp đó, dựa trên hướng dẫn sau:
+        Dựa vào thông tin về Báo cáo kết quả hoạt động kinh doanh hay báo cáo kết quả hoạt động (nếu doanh nghiệp là ngân hàng). 
+        Hãy sinh ra 1 đoạn phân tích ngắn gọn dựa trên các thông tin đó để tạo ra 1 file summary tóm tắt 
+        dựa trên hướng dẫn. Tập chung vào sự thay đổi giữa các kỳ, quý hoặc năm của các khoản mục tài chính, tính toán sự thanh đổi, tỷ trọng,... sự thay đổi đó phản ánh điều gì ?, cho thấy điều gì ?...  và đưa ra phân tích nhận định ngắn gọn: dựa trên hướng dẫn sau:
          Cách đọc báo cáo kết quả hoạt động kinh doanh
         LƯU Ý: Các thông tin đề cập trong cách đọc có thể tinh chỉnh cho phù hợp với lĩnh vực của công ty ví dụ Ngân hàng, chứng khoán, ... không bó buộc phải tuân theo hoàn toàn.
             Việc đọc báo cáo kết quả hoạt động kinh doanh giúp bạn hiểu rõ tình hình kinh doanh của doanh nghiệp, 
@@ -295,9 +295,9 @@ def summary_income_statement(subsection, temp_path, infor, key_words, isBank = '
         ## 3. Báo cáo kết quả hoạt động kinh doanh:
         [Nội dung]
 
-    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
-    response = call_api_gemi(prompt_gen_summary,model = '2.0-flash', temperture= 0)
+    response = call_api_gemi(prompt_gen_summary,model = 'gemini-2.5-flash', temperture= 0)
     return response
 
 def summary_cash_flow(subsection, temp_path, infor, key_words, isBank = 'Không', isIndex = 'Có'):
@@ -311,23 +311,23 @@ def summary_cash_flow(subsection, temp_path, infor, key_words, isBank = 'Không'
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
-    for data in notes:
-        notes_raw_text += data['raw_text'] + '\n'
-    notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
+    # notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
+    # for data in notes:
+    #     notes_raw_text += data['raw_text'] + '\n'
+    # notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
     
-    for i in range(len(key_words)):
-        similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
-    similar_k = remove_same_content(similar_k)
-    for i, k in enumerate(similar_k):
-        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
+    # for i in range(len(key_words)):
+    #     similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
+    # similar_k = remove_same_content(similar_k)
+    # for i, k in enumerate(similar_k):
+    #     notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
         Nhiệm vụ lần này của bạn là:
         Dựa vào thông tin về BÁO CÁO LƯU CHUYỂN TIỀN TỆ và thuyết minh báo cáo tương ứng. 
-        Hãy sinh ra 1 đoạn phân tích dựa trên các thông tin đó để tạo ra 1 file summary hết sức NGẮN GỌN logic tóm tắt lại những điểm nổi bật có trong BÁO CÁO LƯU CHUYỂN TIỀN TỆ 
-        của doanh nghiệp đó, dựa trên hướng dẫn sau:
+        Hãy sinh ra 1 đoạn phân tích ngắn gọn dựa trên các thông tin đó để tạo ra 1 file summary tóm tắt 
+        dựa trên hướng dẫn. Tập chung vào sự thay đổi giữa các kỳ, quý hoặc năm của các khoản mục tài chính, tính toán sự thanh đổi, tỷ trọng,... sự thay đổi đó phản ánh điều gì ?, cho thấy điều gì ?...  và đưa ra phân tích nhận định ngắn gọn: dựa trên hướng dẫn sau:
          Cách đọc BÁO CÁO LƯU CHUYỂN TIỀN TỆ
         LƯU Ý: Các thông tin đề cập trong cách đọc có thể tinh chỉnh cho phù hợp với lĩnh vực của công ty ví dụ Ngân hàng, chứng khoán, ... không bó buộc phải tuân theo hoàn toàn.
             Việc đọc báo cáo lưu chuyển tiền tệ giúp nắm bắt tình hình thu chi và biến động dòng tiền của doanh nghiệp, được chia thành ba hoạt động chính: kinh doanh, đầu tư và tài chính. Dòng tiền ra được thể hiện bằng số âm, trong khi dòng tiền vào là số dương.
@@ -351,9 +351,9 @@ def summary_cash_flow(subsection, temp_path, infor, key_words, isBank = 'Không'
     Trả về kết quả trực tiếp mà không cần lời giới thiệu giải thích, comment theo mẫu sau.
         ## 4. Báo cáo lưu chuyển tiền tệ .
         [Nội dung]
-    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
-    response = call_api_gemi(prompt_gen_summary, temperture= 0)
+    response = call_api_gemi(prompt_gen_summary, temperture= 0,model='gemini-2.5-flash')
     return response
 
 def summary_info_company(infor):
@@ -369,7 +369,7 @@ def summary_info_company(infor):
         [Nội dung]
         {infor_raw}
     '''
-    response = call_api_gemi(prompt_infor, temperture = 0)
+    response = call_api_gemi(prompt_infor, temperture = 0,model='gemini-2.5-flash')
     return response
 
 def analysis_ratio(ratio, isBank = 'Không', isIndex = 'Không'):
@@ -479,12 +479,12 @@ def analysis_ratio(ratio, isBank = 'Không', isIndex = 'Không'):
                 So sánh với kỳ đánh giá trước để xem xu hướng phát triển theo chiều ngang của doanh nghiệp.
                 So sánh với đánh giá của các doanh nghiệp cùng ngành hoặc với trung bình của ngành để nhận định được điểm mạnh, điểm yếu của doanh nghiệp.
                 Khi tính toán và phân tích các chỉ số, chúng ta cần quan tâm xem con số đó thể hiện tính chất thời điểm hay thời kỳ để từ đó có thể nhận xét đúng nhất về tình hình của doanh nghiệp. Ví du: Các chỉ số tài chính thuộc “Bảng Cân Đối Kế Toán” sẽ là các con số mang tính thời điểm; còn ở “Báo Cáo Kết Quả Kinh Doanh” sẽ mang tính thời kỳ.
-            Trả về bản phân tích NGẮN GỌN trực tiếp không giải thích và comment, mở đầu câu trả lời dưới dạng như sau:
+            Trả về bản phân tích trực tiếp không giải thích và comment, mở đầu câu trả lời dưới dạng như sau:
                 ## 6. Phân tích các chỉ số cơ bản.
                         [Nội dung]
             
                 '''
-    respose = call_api_gemi(prompt= prompt_instruction)
+    respose = call_api_gemi(prompt= prompt_instruction, model='gemini-2.5-flash')
     return respose
 
 def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
@@ -617,9 +617,9 @@ def check_valid_reports(infor, isBank = 'Không', isIndex = 'Không'):
     print ("ĐỘ DÀI PROMPT: ", len(prompt_check))
     response = ''
     if isBank == 'CÓ':
-        response = call_api_gemi(prompt = prompt_check_for_bank, temperture= 0)
+        response = call_api_gemi(prompt = prompt_check_for_bank, temperture= 0, model='gemini-2.5-flash')
     else:
-        response = call_api_gemi(prompt= prompt_check, temperture= 0)
+        response = call_api_gemi(prompt= prompt_check, temperture= 0,model='gemini-2.5-flash')
     return response
 
 def check_valid_cash_flow(infor, isBank = 'Không', isIndex = 'Không'):
@@ -780,11 +780,11 @@ def check_valid_cash_flow(infor, isBank = 'Không', isIndex = 'Không'):
     Hãy nhận xét ngắn gọn xem báo cáo đó có đúng theo một mẫu nào đó không, thừa thiếu phần nào. Trả về thẳng trực tiếp không giải thích.
     
     '''
-    response = call_api_gemi(prompt= prompt_check, temperture= 0)
+    response = call_api_gemi(prompt= prompt_check, temperture= 0, model='gemini-2.5-flash')
     return response
 
 
-def summary_section(temp_path):
+def summary_report(temp_path):
     path_to_md, infor = get_database(input_model='all-MiniLM-L6-v2',temp_path = temp_path, is_graph = True)
     isBank = "KHÔNG"
     isIndex = "KHÔNG"
@@ -792,34 +792,37 @@ def summary_section(temp_path):
         isBank = "CÓ"
     if infor[3] == 'Chứng khoán':
         isIndex = "CÓ"
-    prompt_find_note = f"""
-        Hãy giúp tôi những key_word để tìm các đoạn tài liệu trong bản thuyết minh báo cáo tài chính của một doanh nghiệp liên quan đến
-        bảng cẩn đối kế toán, báo cáo kết quả hoạt động kinh doanh,
-        và báo cáo lưu chuyển tiền tệ.
-        Để phục vụ cho việc tìm kiếm thông tin trong 1 bản thuyết minh báo cáo tài chính cả trăm trang dễ dàng hơn chính xác hơn,
-        những key_word đó sẽ phù hợp với từ bản tương ứng nhắm mục đích lấy thêm thông tin để phục vụ việc phân tích 1 trong 3 bản báo cáo kia, dựa trên hướng dẫn sau:
-        Hướng dẫn cách đọc thuyết minh báo cáo tài chính
-                - Mục đích của việc đọc thuyết minh báo cáo tài chính là để hiểu rõ thông tin về ngành nghề,
-                hoạt động của doanh nghiệp, kỳ kế toán, đơn vị tiền tệ, chuẩn mực kế toán được áp dụng, cũng như chi tiết các số liệu liên quan đến các báo cáo tài chính khác.
-                - Thuyết minh còn cung cấp thêm các thông tin quan trọng như nợ tiềm tàng, các cam kết, sự kiện sau ngày kết thúc kỳ kế toán,
-                và thông tin về các bên liên quan. Những thông tin này rất quan trọng và cần được các nhà quản trị và nhà đầu tư xem xét kỹ lưỡng.
-                - Sau khi đọc thuyết minh, nhà quản trị cần có phân tích chi tiết hơn về các số liệu kế toán trong năm, so sánh với các năm trước
-                và đối thủ cạnh tranh, hoặc với các chỉ số trung bình ngành để có cái nhìn rõ ràng hơn về tình hình tài chính của doanh nghiệp.
-        trả về dưới dạng sau:
-            BẢNG CÂN ĐỐI KẾ TOÁN: key_word1, key_word2, ... ; BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH: key_word1, key_word2, ...; BÁO CÁO LƯU CHUYỂN TIỀN TỆ: key_word1, key_word2, ...
-        Lưu ý không giải thích gì thêm chỉ trả về đúng định dạng như yêu cầu và số lượng keyword tối đa cho mỗi bảng là 10 vì vậy hãy sử dụng những key word có liên quan nhất.
-        Lĩnh vực của doanh nghiệp {isBank} là Ngân hàng
-        Lĩnh vực của doanh nghiệp {isIndex} là Chứng khoán
-    """
-    anwser_llm = call_api_gemi(prompt_find_note)
-    features = [x.strip() for x in anwser_llm.split(";") if x.strip()]
+    # prompt_find_note = f"""
+    #     Hãy giúp tôi những key_word để tìm các đoạn tài liệu trong bản thuyết minh báo cáo tài chính của một doanh nghiệp liên quan đến
+    #     bảng cẩn đối kế toán, báo cáo kết quả hoạt động kinh doanh,
+    #     và báo cáo lưu chuyển tiền tệ.
+    #     Để phục vụ cho việc tìm kiếm thông tin trong 1 bản thuyết minh báo cáo tài chính cả trăm trang dễ dàng hơn chính xác hơn,
+    #     những key_word đó sẽ phù hợp với từ bản tương ứng nhắm mục đích lấy thêm thông tin để phục vụ việc phân tích 1 trong 3 bản báo cáo kia, dựa trên hướng dẫn sau:
+    #     Hướng dẫn cách đọc thuyết minh báo cáo tài chính
+    #             - Mục đích của việc đọc thuyết minh báo cáo tài chính là để hiểu rõ thông tin về ngành nghề,
+    #             hoạt động của doanh nghiệp, kỳ kế toán, đơn vị tiền tệ, chuẩn mực kế toán được áp dụng, cũng như chi tiết các số liệu liên quan đến các báo cáo tài chính khác.
+    #             - Thuyết minh còn cung cấp thêm các thông tin quan trọng như nợ tiềm tàng, các cam kết, sự kiện sau ngày kết thúc kỳ kế toán,
+    #             và thông tin về các bên liên quan. Những thông tin này rất quan trọng và cần được các nhà quản trị và nhà đầu tư xem xét kỹ lưỡng.
+    #             - Sau khi đọc thuyết minh, nhà quản trị cần có phân tích chi tiết hơn về các số liệu kế toán trong năm, so sánh với các năm trước
+    #             và đối thủ cạnh tranh, hoặc với các chỉ số trung bình ngành để có cái nhìn rõ ràng hơn về tình hình tài chính của doanh nghiệp.
+    #     trả về dưới dạng sau:
+    #         BẢNG CÂN ĐỐI KẾ TOÁN: key_word1, key_word2, ... ; BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH: key_word1, key_word2, ...; BÁO CÁO LƯU CHUYỂN TIỀN TỆ: key_word1, key_word2, ...
+    #     Lưu ý không giải thích gì thêm chỉ trả về đúng định dạng như yêu cầu và số lượng keyword tối đa cho mỗi bảng là 10 vì vậy hãy sử dụng những key word có liên quan nhất.
+    #     Lĩnh vực của doanh nghiệp {isBank} là Ngân hàng
+    #     Lĩnh vực của doanh nghiệp {isIndex} là Chứng khoán
+    # """
+    # anwser_llm = ['key1']
+    # features = [x.strip() for x in anwser_llm.split(";") if x.strip()]
     
-    f = features[0]
-    f2 = features[1]
-    f3 = features[2]
-    key_words = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
-    key_words_income_statement = [sub.strip() for sub in  f2[f2.find(':') + 1 : ].split(',') if sub.strip()]
-    key_words_cash_flow = [sub.strip() for sub in  f3[f3.find(':') + 1 : ].split(',') if sub.strip()]
+    # f = features[0]
+    # f2 = features[1]
+    # f3 = features[2]
+    # key_words = [sub.strip() for sub in  f[f.find(':') + 1 : ].split(',') if sub.strip()]
+    # key_words_income_statement = [sub.strip() for sub in  f2[f2.find(':') + 1 : ].split(',') if sub.strip()]
+    # key_words_cash_flow = [sub.strip() for sub in  f3[f3.find(':') + 1 : ].split(',') if sub.strip()]
+    key_words = None
+    key_words_income_statement = None
+    key_words_cash_flow = None
     summary_fs = ''
     summary_is = ''
     summary_cf = ''

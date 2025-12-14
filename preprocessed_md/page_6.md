@@ -1,83 +1,107 @@
-Công ty Cổ phầnChứngkhoán SSI                                                          B01-CTCKIHN
-BÁO CÁO TỈNH HINH TẢI CHỈNH HỢP NHÁT QUÝ               NĂM 2025 (tiếp theo)
-tai ngày 31thang 03 nám 2025
-CÁC CHỈ TIÉU NGOÀI BÁO CÁO TINH HỈNH TÀl CHÍNH HỢP NHAT
-
-Mã só         CHỈ TIÉU                                 Thuyet            S0 cuói kỳ            Só dảu năm
-                                                       minh
-
-                TÀl SẢN CÚA CONG TY CHÚNG
-                KHOÁN (CTCK) VÀ TẢl SẢN
-                QUẢN LÝ THEO CAM KÉT
-     004      Nợ khó đồi đa xPlý (VND)                               44 493.311.901        44,493 312,525
-     005      Ngoai tệ các loai
-               USD                                                       268.514,47    336.561 ,
-               EUR                                                           101,88                101,80
-               GBP                                                           107,64                107,64
-     006      Co phiéu dang luu hành (só lưong)                         961.872.450         1.961.872 450
-     007      phiéuquý (số Iuợng)                                           991.468               991,468
-     008      Tài sản tai chinh niẻm yéưđfng ký giao
-              djch tai Trung tám Lưu kỷ Chúng khoán               6.625.130.950.000    7,187,.812 570,000
-              cúa CTCK (VND)
-009           Tài sản tải chinh úà Iưu kỷ tai Trung tam
-             Lưu kỷ Chúng khoán và chua giao dich
-              cúa CTCK (VND)                                         85.888.230.000       525 880.220 00o
-010          Tai sán tai chinh chở ve cúa CTCK
-012           {VND)                                              45.357,000.0o0            23.542-100.00o
-             Tài sản      chính chưa Iưu kỷ tal Trung
-             tam Lưu ký Chung khoan của CTCK
-             (VND)                                           11,682,809,677.300         9,646.573.797.300
-013          Tài sản tảỉ chinh đưpc hưởng quyền
-             cúa CTCK (VND)                                                                 2.768.230.000
-014          Chửng quyen (s8 Iượng)                                 688.873.800      1.033.885.200
-             B. TẢl SẢN VÀ CÁC KHOẢN PHẢI
-             TRA VÉ TAI SAN QUAN LÝ CAM KÉT
-             VỞl KHÁCH HÀNG
-021         Tai sản tà          yếtđăng ký giao
-                          chinh niem
-            dich tại Trung tám Lưu kỷ Chứng khoán
-    0211    cua Nhà ẩau lu (VND)                        120.500.723,347,400    119,604-922,696,400
-            Taỉ sản tài chinh gia0 dich   do chuyen
-            nhuong                                      103.727.374.968,400    102.694.055.926,400
-   021.2    Tai sản taỉ chinh han ché chuyén
-   021.3    nhuong                                          887.796.680.000      982 805.830,.000
-   021,4    Tài sản tàỉ chinh giao dich càm có           10 580.495.100.000    11.310.605.310.000
-021.        Tài sán tài chlnh phong lỎa, tam gỉữ            118,546.270.000        20.725.970.000
-            Tàỉ sàn tài chinh chờ thanh toán              1.186.510.329.000       596.729.660.000 +
- 
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN
-
-## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025
-
-### CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
-
-| Mã số | CHỈ TIÊU                                                                       | Thuyết minh                                                                                        | Số cuối kỳ | Số đầu năm          |                     |
-| ----- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------- | ------------------- | ------------------- |
-|       | **A. TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (CTCK) VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT**  |                                                                                                    |            |                     |                     |
-|       | 004                                                                            | Nợ khó đòi đã xử lý (VND)                                                                          |            | 44.493.311.901      | 44.493.312.525      |
-|       | 005                                                                            | Ngoại tệ các loại                                                                                  |            |                     |                     |
-|       |                                                                                | USD                                                                                                |            | 268.514,47          | 336.561,71          |
-|       |                                                                                | EUR                                                                                                |            | 101,88              | 101,80              |
-|       |                                                                                | GBP                                                                                                |            | 107,64              | 107,64              |
-|       | 006                                                                            | Cổ phiếu đang lưu hành (số lượng)                                                                  |            | 1.961.872.450       | 1.961.872.450       |
-|       | 007                                                                            | Cổ phiếu quỹ (số lượng)                                                                            |            | 1.991.468           | 1.991.468           |
-|       | 008                                                                            | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của CTCK (VND)       |            | 6.625.130.950.000   | 7.187.812.570.000   |
-|       | 009                                                                            | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của CTCK (VND)      |            | 85.888.230.000      | 525.880.220.000     |
-|       | 010                                                                            | Tài sản tài chính chờ về của CTCK (VND)                                                            |            | 45.357.000.000      | 23.542.100.000      |
-|       | 012                                                                            | Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của CTCK (VND)                      |            | 11.682.809.677.300  | 9.646.573.797.300   |
-|       | 013                                                                            | Tài sản tài chính được hưởng quyền của CTCK (VND)                                                  |            | -                   | 2.768.230.000       |
-|       | 014                                                                            | Chứng quyền (số lượng)                                                                             |            | 688.873.800         | 1.033.885.200       |
-|       | **B. TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG** |                                                                                                    |            |                     |                     |
-|       | 021                                                                            | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư (VND) |            | 120.500.723.347.400 | 119.604.922.696.400 |
-|       | 021.1                                                                          | *Tài sản tài chính giao dịch tự do chuyển nhượng*                                                  |            | 103.727.374.968.400 | 102.694.055.926.400 |
-|       | 021.2                                                                          | *Tài sản tài chính hạn chế chuyển nhượng*                                                          |            | 4.887.796.680.000   | 4.982.805.830.000   |
-|       | 021.3                                                                          | Tài sản tài chính giao dịch cầm cố                                                                 |            | 10.580.495.100.000  | 11.310.605.310.000  |
-|       | 021.4                                                                          | Tài sản tài chính phong tỏa, tạm giữ                                                               |            | 118.546.270.000     | 20.725.970.000      |
-|       | 021.5                                                                          | Tài sản tài chính chờ thanh toán                                                                   |            | 1.186.510.329.000   | 596.729.660.000     |
+Công ty Cò phàn Giao nhn Kho vn Ngoai thuong Vit Nam            Báo cáo tài chính hop nhát
+Só 406 Nguyn Tát Thanh, Phuòng 18, Quan 4                    cho nm tài chính két thúc ngày 31/12/2024
+Thanh phó Hò Chí Minh
+           BÁNG CÁN DÓI KÉ TOÁN HQP NHÁT
+            Tai ngày 31 tháng 12 nm 2024
+ M TAI SAN                                           Thuyét     31/12/2024         01/01/2024
+ só                                                  minh                         (då dièu chinh)
+         A. TÁI SÁN NGÁN HAN                                    VND                VND
+  100                                                        190.178.552.025     215.916.432.109
+  110 I. Tièn và các khoân tuong duong tièn          3       14.610.115.581       40.201.294.617
+  111    1. Tièn                                              6.610.115.581       19.201.294.617
+  112 Các khoãn tuong duong tièn                              8.000.000.000       21.000.000.000
+  120    II. Dàu tu tài chính ngan han               4       51.000.000.000      132.000.000.000
+  123    1. Dàu tu nam giú dén ngày dáo han                  51.000.000.000      132.000.000.000
+  130 III. Các khoân phâi thu ngan han                       118.916.184.371      40.225.124.537
+  131    1. Phái thu ngan han cua khách hàng          5      67,948.331.141       27.017.792.560
+  132    Trå truóc cho nguòi bán ngán han             6      39.900.076.353       814.628.564
+  136    Phái thu ngan han khác                       7      13.247.441.985       13.808.785.340
+  137    Du phòng phai thu ngan han kho doi                  (2.179.665.108)      (1.416.081.927)
+  140    IV. Hàng tôn kho                             9       3.829.415.046       2.556.376.289
+  141     Hang tòn kho                                        3.829.415.046       2.556.376.289
+  150 V. Tai sån ngân han khác                                1.822.837.027       933.636.666
+  151    Chi phí tra truóc ngán han                  10        899.668.792                 357.927.906
+  152 Thué GTGT duc kháu tru                                   648.647.346                 575.708.760
+  153    3. Thué và các khoan khác phái thu          15        274.520.889
+         Nhà nuóc
+  200    B. TAI SÁN DAI HAN                                  406.138.825.867     378.203.013.602
+  210    I. Các khoân phái thu dài han                         720.000.000                 675.000.000
+  216     1. Phâi thu dài han khác                    7         720.000.000                675.000.000
+  220 lI. Tài sn có dnh                                       28.448.298.447            16.337.932.834
+  221     1. Tài sân có dinh hüu hinh                 11      18.771.039.455             6.633.923.838
+  222     - Nguyên giá                                        45.529.555.099      35.685.510.532
+  223     - Giá tri hao mòn luy ké                           (26.758.515.644)    (29.051.586.694)
+  227 2. Tài sán có dinh vò hinh                      12      9.677.258.992       9.704.008.996
+  228      - Nguyên giá                                      10.018.978.000       10.018.978.000
+  229      - Giá tri hao mòn luy ké                           (341.719.008)       (314.969.004)
+  240         III. Tài sân dó dang dài han            13        938.900.000        714.900.000
+           242 Chi phí xáy dung co ban d dang                   938.900,000        714.900.000
+  250         IV. Dàu tu tài chính dài han            4      374.744.303.463      360.055.226.221
+  252     Dâu tu vào công ty lièn doanh, lien két            316.244.883.305      303.811.186.882
+  253     2. Dàu tu góp vón vâo don vi khác                   58.499.420.158      58.499.420.158
+  254     3. Du phòng dàu tu tài chính dài han                                    (2.255.380.819)
+  260     V. Tài sân dài han khác                             1.287.323.957        419.954.547
+  261     1. Chi phí trà truóc dài han                10      1.287.323.957        419.954.547
+  270     TÔNG CQNG TÀI SÁN                                  596.317.377.892      594.119.445.711
 
 
+6 +
+ Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam
+<br>
+Số 406 Nguyễn Tất Thành, Phường 18, Quận 4
+<br>
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính hợp nhất
+<br>
+cho năm tài chính kết thúc ngày 31/12/2024
+
+<br>
+
+# BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+*Tại ngày 31 tháng 12 năm 2024*
+
+| Mã số   | TÀI SẢN                                     | Thuyết minh | 31/12/2024VND       | 01/01/2024(đã điều chỉnh)VND |
+| ------- | ------------------------------------------- | ----------- | ------------------- | ---------------------------- |
+| **100** | **A. TÀI SẢN NGẮN HẠN**                     |             | **190.178.552.025** | **215.916.432.109**          |
+| **110** | **I. Tiền và các khoản tương đương tiền**   | 3           | **14.610.115.581**  | **40.201.294.617**           |
+| 111     | 1. Tiền                                     |             | 6.610.115.581       | 19.201.294.617               |
+| 112     | 2. Các khoản tương đương tiền               |             | 8.000.000.000       | 21.000.000.000               |
+| **120** | **II. Đầu tư tài chính ngắn hạn**           | 4           | **51.000.000.000**  | **132.000.000.000**          |
+| 123     | 1. Đầu tư nắm giữ đến ngày đáo hạn          |             | 51.000.000.000      | 132.000.000.000              |
+| **130** | **III. Các khoản phải thu ngắn hạn**        |             | **118.916.184.371** | **40.225.124.537**           |
+| 131     | 1. Phải thu ngắn hạn của khách hàng         | 5           | 67.948.331.141      | 27.017.792.560               |
+| 132     | 2. Trả trước cho người bán ngắn hạn         | 6           | 39.900.076.353      | 814.628.564                  |
+| 136     | 3. Phải thu ngắn hạn khác                   | 7           | 13.247.441.985      | 13.808.785.340               |
+| 137     | 4. Dự phòng phải thu ngắn hạn khó đòi       |             | (2.179.665.108)     | (1.416.081.927)              |
+| **140** | **IV. Hàng tồn kho**                        | 9           | **3.829.415.046**   | **2.556.376.289**            |
+| 141     | 1. Hàng tồn kho                             |             | 3.829.415.046       | 2.556.376.289                |
+| **150** | **V. Tài sản ngắn hạn khác**                |             | **1.822.837.027**   | **933.636.666**              |
+| 151     | 1. Chi phí trả trước ngắn hạn               | 10          | 899.668.792         | 357.927.906                  |
+| 152     | 2. Thuế GTGT được khấu trừ                  |             | 648.647.346         | 575.708.760                  |
+| 153     | 3. Thuế và các khoản khác phải thu Nhà nước | 15          | 274.520.889         |                              |
+| **200** | **B. TÀI SẢN DÀI HẠN**                      |             | **406.138.825.867** | **378.203.013.602**          |
+| **210** | **I. Các khoản phải thu dài hạn**           |             | **720.000.000**     | **675.000.000**              |
+| 216     | 1. Phải thu dài hạn khác                    | 7           | 720.000.000         | 675.000.000                  |
+| **220** | **II. Tài sản cố định**                     |             | **28.448.298.447**  | **16.337.932.834**           |
+| 221     | 1. Tài sản cố định hữu hình                 | 11          | 18.771.039.455      | 6.633.923.838                |
+| 222     | - Nguyên giá                                |             | 45.529.555.099      | 35.685.510.532               |
+| 223     | - Giá trị hao mòn luỹ kế                    |             | (26.758.515.644)    | (29.051.586.694)             |
+| 227     | 2. Tài sản cố định vô hình                  | 12          | 9.677.258.992       | 9.704.008.996                |
+| 228     | - Nguyên giá                                |             | 10.018.978.000      | 10.018.978.000               |
+| 229     | - Giá trị hao mòn luỹ kế                    |             | (341.719.008)       | (314.969.004)                |
+| **240** | **III. Tài sản dở dang dài hạn**            | 13          | **938.900.000**     | **714.900.000**              |
+| 242     | 1. Chi phí xây dựng cơ bản dở dang          |             | 938.900.000         | 714.900.000                  |
+| **250** | **IV. Đầu tư tài chính dài hạn**            | 4           | **374.744.303.463** | **360.055.226.221**          |
+| 252     | 1. Đầu tư vào công ty liên doanh, liên kết  |             | 316.244.883.305     | 303.811.186.882              |
+| 253     | 2. Đầu tư góp vốn vào đơn vị khác           |             | 58.499.420.158      | 58.499.420.158               |
+| 254     | 3. Dự phòng đầu tư tài chính dài hạn        |             |                     | (2.255.380.819)              |
+| **260** | **V. Tài sản dài hạn khác**                 |             | **1.287.323.957**   | **419.954.547**              |
+| 261     | 1. Chi phí trả trước dài hạn                | 10          | 1.287.323.957       | 419.954.547                  |
+| **270** | **TỔNG CỘNG TÀI SẢN**                       |             | **596.317.377.892** | **594.119.445.711**          |
+
+
+6
  + 
  + [] 
  None

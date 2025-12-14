@@ -1,165 +1,106 @@
-ChỈ TIEU
-11 Co pheu Phó
-1 2 Tháng du vón
-13 Có phiẻu quy
-5 ? Loi nhuan
-TONG CONG
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
-Công
-BÁO CÁO TỈNH HINH BIẾN ĐONG VỐN CHỦ SỞ HỮU HỢP NHẨT QUÝ
-HUU
-Von dau
-chù sở hữu
-cÓ phán
-Quỹ du trữ bó
-sung vón dieu
-Chénh lech
-danh giá lai tải
-hợp
-Chênh lech lỳ
-giá hôi doái
-Loi nhuan
-chua phan
-phól
-Lo' nhvan d
-thuc hien
-Lợi ich co đóng
-thong
-khong
-cnuaiuc
-BIEN ĐỌNG
-VON CHU S@
-Iheo già Iri
-kiem
-ty Cổ phần Chứng khoán SSI
-hen
-cúa
-Thuyer]
-28.2
-28 1
-28,1
-Munin
-18.291.394,836 235
-15011.301.370 00o
-23,240.892.110.813
-3,299 208 472.644
-Ngay 01/01/2024
-(68 711.431.030)
-696.261.511,253
-764.972942.283
-140.533.221.129
-(3.793.033.106}
-61,252.419.507
-55 243.155.795
-3115
-VND
-006 409)
-58 dẳu nám
-20.713.065.094.108
-26.826,650.611.768
-19,638.639.180.000
-Ngay 01/012025
-6,025
-1.093 540 920.517
-(169,088 533.253)
-(19 115,006 409)
-856.098.315.938
-150.619,133,.436
-31.690.477,740
-72.177,590 546
-'O00.0oo.0oo
-VND
-86 849.191
-839.993.316,458
-769.660.975.612
-856.760.954.846
-70 332.340.846
-856.781.886
-861.905.388
-VNND
-48.951.114
-Tang
-Kytnoc
-NÁM 2025
-(76.748.430.711)
-(75741.986.266)
-(76.748,430.711)
-(1.006.444.445)
-VND
-S0 targ glarn
-Giám
-1.022.527.488.352
-990 130,468,833
-277.248 351 388
-712.882 107, 445
-30,386 032.152
-2.010.987.367
-VIvD
-nav
-(145.823.735,146)
-(144.718.628.840)
-(145.824.995.685)
-(1.105.106.306)
-VND
-260.539)
-Giárn
-18.291.394.836.235
-15011 301.370,.000
-24.020.904.634.948
-Ngay 31/32024
-3.299 208.472.644
-5 533 627 473 450
-(15.115.006 409)
-459,506,397,.00o
-(74 121,076 450)
-140.582.172 243
-61.252,419,507
-63.105.061.183
-5 063,748,780
-VnD
-S8 cuói kỷ
-BO4-CTCKIHN
-20.713.065.024-108
-19,.638.639180 000
-27.703.353.104,435
-Ngây 31/032025
-093 540.920 517
-(19115006,.409)
-700,405.049.625
-736 963 850 330
-(35 558 Boo 705)
-150.617.872.897
-62,.076,509 892
-74.188.577.913
-VnD
-0oo Ooo.00o +
+Công ty Cô phân Giao nhân Kho vn Ngoai thuong Vit Nam              Báo cáo tài chính hop nhát
+Só 406 Nguyn Tát Thânh, Phuòng 18, Qun 4              cho nm tài chính két thúc ngày 31/12/2024
+Thành phó Hò Chí Minh
+
+    Dàu tu vào don vi khác
+    Thông tin chi tiét vè các công ty dàu tu dåi han khác cúa Công ty vào ngày 31/12/2024 nhu sau:
+    Tên công ty nhn dàu tu     Noi thành lap    Ty l lqi      T l biu  Hoat dông kinh doanh
+                               và hoat dông       ich          quyét     chinh
+   Công ty CP Vinafreight      Thành phó Ho     10,881%       10,881%    Giao nhân vn tai quóc té
+                               Chí Minh
+   Công ty CP Giao nhn Vn Thành phó Ha           7,56%         7,56%     Giao nhn vn ti ngoai
+   tái Ngoai thuong            Ni                                      thuong
+    Công ty CP Giao nhn Vn Thanh phó Da          9,68%         9,68%     Giao nhn vn tâi ngoai
+    tai Mièn Trung             Nang                            10,00%  thuong
+    Công ty TNHH Dich vu       Thanh phó Hò         10,00%               Van ti hàng không
+    Hang không Véc to Quóc té  Chí Minh
+                              Thanh phó Hò          5,10%      5,10%     Dich vu vân tái duòng b
+    Công ty TNHH Dâu tu Phát   Chí Minh
+    triên Thuong mai Con
+    duòng Vit
+
+5  PHI THU NGÁN HAN CúA KHÁCH HÁNG
+                               31/12/2024                                01/01/2024
+                               Giá tri                Du phòng           Giá tri   Du phòng
+                                             VND              VND        VND              VND
+     Bén lién quan            10.598.425.536                       8.777.621.789
+    Công ty TNHH Vn ti             5.931.339.585                   6.387.021.614
+    Vit Nht                                                        1.132.443.180
+    Chi nhánh Cöng ty CP      1.132.443.180
+    Giao nhan Van tai
+     Ngoai thuong tai Hái
+   Phòng                             340.163.069                   97.732.947
+   Công ty CP Thép Nhà
+     Bè - VNSteel                  2.468.392.556                   656.936.602
+     Công ty Tôn Phuong
+    Nam                                                            402.248.808
+     Công ty CP Thép Thu             202.476.326              -
+    Dúc - VNSteel
+   Công ty TNHH                       57.888.864              -
+     Nippovina
+    Công ty TNHH MTV                   4.430.000              -
+     Thép Mièn Nam -
+     VNSteel
+     Công ty CP Thép                 113.199.660              -
+     Vicasa - Vnsteel                 10.536.000
+     Công ty TNHH Lotte
+     Vinatrans Global
+     Logistics (Vit Nam)
+     Công ty TNHH Thép         337.556.296
+     Tám lá Phú My -
+     VNSteel                                                       3.046.400
+     Công ty TNHH Nissin
+     Logistics (Vit Nam)                                                 981.800
+     Công ty CP Giao nhn
+     Vn tái Mièn Trung
+     Công ty CP Kim Khí                                            76.210.438
+     TPHCM - Vnsteel
+     Công ty CP Luói Thép                                          21.000.000
+     Binh Tay
+
+                                                    19 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU HỢP NHẤT QUÝ 1 NĂM 2025  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
-
-| Chỉ tiêu                                               | Thuyết minh<br/>A | Thuyết minh<br/>B | Số đầu năm<br/>Ngày 01/01/2024 | Số đầu năm<br/>VND | Số tăng/giảm<br/>Ngày 01/01/2025 | Số tăng/giảm<br/>VND | Số cuối kỳ<br/>Ngày 31/03/2024 | Số cuối kỳ<br/>VND | Ngày 31/03/2025 | VND |
-| ------------------------------------------------------ | ----------------- | ----------------- | ------------------------------ | ------------------ | -------------------------------- | -------------------- | ------------------------------ | ------------------ | --------------- | --- |
-| 1. Vốn đầu tư của chủ sở hữu                           | 28.2              |                   | 18.291.394.836.235             | 18.291.394.836.235 |                                  |                      | 18.291.394.836.235             | 18.291.394.836.235 |                 |     |
-| 1.1 Chủ sở hữu                                         | 28.1              |                   | 15.011.301.370.000             | 15.011.301.370.000 |                                  |                      | 15.011.301.370.000             | 15.011.301.370.000 |                 |     |
-| 1.2 Quỹ dự trữ bổ sung vốn điều lệ                     |                   |                   | 3.299.208.472.644              | 3.299.208.472.644  |                                  |                      | 3.299.208.472.644              | 3.299.208.472.644  |                 |     |
-| 1.3 Quỹ khác                                           |                   |                   | (19.115.006.409)               | (19.115.006.409)   |                                  |                      | (19.115.006.409)               | (19.115.006.409)   |                 |     |
-| 2. Lợi nhuận chưa phân phối                            | 28.1              |                   | 6.962.615.511.253              | 6.025.186.849.191  | (937.428.662.062)                |                      | 5.533.627.473.450              | 6.700.405.049.625  |                 |     |
-| 3. Chênh lệch đánh giá lại tài sản theo giá thị trường |                   |                   | 61.252.419.507                 | 61.252.419.507     |                                  |                      | 61.252.419.507                 | 62.076.509.892     |                 |     |
-| 4. Chênh lệch tỷ giá hối đoái                          |                   |                   | (3.793.033.106)                |                    |                                  |                      |                                |                    |                 |     |
-| 5. Lợi ích cổ đông không kiểm soát                     |                   |                   | 140.533.221.129                | 150.619.133.436    | 10.085.912.307                   |                      | 150.617.872.897                | 150.617.872.897    |                 |     |
-| 6. Tổng cộng                                           |                   |                   | 23.240.892.110.813             | 26.826.650.611.768 | 3.585.758.500.955                |                      | 27.703.353.104.435             | 27.703.353.104.435 |                 |     |
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam | Báo cáo tài chính hợp nhất                 |
+| ------------------------------------------------------- | ------------------------------------------ |
+| Số 406 Nguyễn Tất Thành, Phường 18, Quận 4              | cho năm tài chính kết thúc ngày 31/12/2024 |
+| Thành phố Hồ Chí Minh                                   |                                            |
 
 
-----
+## Đầu tư vào đơn vị khác
+Thông tin chi tiết về các công ty đầu tư dài hạn khác của Công ty vào ngày 31/12/2024 như sau:
 
-### Ghi chú:
+| Tên công ty nhận đầu tư                                  | Nơi thành lập và hoạt động | Tỷ lệ lợi ích | Tỷ lệ biểu quyết | Hoạt động kinh doanh chính     |
+| -------------------------------------------------------- | -------------------------- | ------------- | ---------------- | ------------------------------ |
+| Công ty CP Vinafreight                                   | Thành phố Hồ Chí Minh      | 10,881%       | 10,88%           | Giao nhận vận tải quốc tế      |
+| Công ty CP Giao nhận Vận tải Ngoại thương                | Thành phố Hà Nội           | 7,56%         | 7,56%            | Giao nhận vận tải ngoại thương |
+| Công ty CP Giao nhận Vận tải Miền Trung                  | Thành phố Đà Nẵng          | 9,68%         | 9,68%            | Giao nhận vận tải ngoại thương |
+| Công ty TNHH Dịch vụ Hàng không Véc tơ Quốc tế           | Thành phố Hồ Chí Minh      | 10,00%        | 10,00%           | Vận tải hàng không             |
+| Công ty TNHH Đầu tư Phát triển Thương mại Con đường Việt | Thành phố Hồ Chí Minh      | 5,10%         | 5,10%            | Dịch vụ vận tải đường bộ       |
 
-- Các số liệu được trình bày bằng đơn vị VND (đồng Việt Nam).
-- Số liệu thể hiện biến động vốn chủ sở hữu trong kỳ kế toán từ ngày 01/01/2024 đến ngày 31/03/2025.
-- Các khoản mục bao gồm vốn đầu tư của chủ sở hữu, lợi nhuận chưa phân phối, chênh lệch đánh giá lại tài sản, chênh lệch tỷ giá hối đoái, lợi ích cổ đông không kiểm soát và tổng cộng.
 
+## 5 PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
+
+|                                                                   | 31/12/2024<br/>Giá trị<br/>VND | 31/12/2024<br/>Dự phòng<br/>VND | 01/01/2024<br/>Giá trị<br/>VND | 01/01/2024<br/>Dự phòng<br/>VND |
+| ----------------------------------------------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | ------------------------------- |
+| **Bên liên quan**                                                 | **10.598.425.536**             | **-**                           | **8.777.621.789**              | **-**                           |
+| Công ty TNHH Vận tải Việt Nhật                                    | 5.931.339.585                  | -                               | 6.387.021.614                  | -                               |
+| Chi nhánh Công ty CP Giao nhận Vận tải Ngoại thương tại Hải Phòng | 1.132.443.180                  | -                               | 1.132.443.180                  | -                               |
+| Công ty CP Thép Nhà Bè - VNSteel                                  | 340.163.069                    | -                               | 97.732.947                     | -                               |
+| Công ty Tôn Phương Nam                                            | 2.468.392.556                  | -                               | 656.936.602                    | -                               |
+| Công ty CP Thép Thủ Đức - VNSteel                                 | 202.476.326                    | -                               | 402.248.808                    | -                               |
+| Công ty TNHH Nippovina                                            | 57.888.864                     | -                               | -                              | -                               |
+| Công ty TNHH MTV Thép Miền Nam - VNSteel                          | 4.430.000                      | -                               | -                              | -                               |
+| Công ty CP Thép Vicasa - Vnsteel                                  | 113.199.660                    | -                               | -                              | -                               |
+| Công ty TNHH Lotte Vinatrans Global Logistics (Việt Nam)          | 10.536.000                     | -                               | -                              | -                               |
+| Công ty TNHH Thép Tấm lá Phú Mỹ - VNSteel                         | 337.556.296                    | -                               | -                              | -                               |
+| Công ty TNHH Nissin Logistics (Việt Nam)                          | -                              | -                               | 3.046.400                      | -                               |
+| Công ty CP Giao nhận Vận tải Miền Trung                           | -                              | -                               | 981.800                        | -                               |
+| Công ty CP Kim Khí TPHCM - Vnsteel                                | -                              | -                               | 76.210.438                     | -                               |
+| Công ty CP Lưới Thép Bình Tây                                     | -                              | -                               | 21.000.000                     | -                               |
+
+
+19
  + 
  + [] 
  None

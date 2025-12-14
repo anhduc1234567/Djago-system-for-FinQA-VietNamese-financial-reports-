@@ -1,13 +1,13 @@
 from core.receiver import find_information, retrieve, remove_same_content, find_information_by_graph
 from core.call_api_llm import call_api_gemi
-from core.generate_summary import summary_section
+from core.generate_summary import summary_report
 
 
 # from receiver import find_information, retrieve, remove_same_content, find_information_by_graph
 # from call_api_llm import call_api_gemi
 # from generate_summary import summary_section
-from huggingface_hub import InferenceClient
-from google import genai
+# from huggingface_hub import InferenceClient
+# from google import genai
 import os
 import json
 import re
@@ -26,8 +26,6 @@ ALLOWED_TAGS = [
     'table', 'thead', 'tbody', 'tr', 'th', 'td', 'br'
 ]
 ALLOWED_ATTRS = {'*': ['class', 'style']}
-#get user question and similar information -> create a prompt for LLM
-# os.environ["GEMINI_API_KEY"] = GOOGLE_API
 SYSTEM_PROMPT = "Hãy tưởng tượng bạn là một chuyên gia trong lĩnh vực tài chính \
         hãy trả lời chính xác và đưa ra dẫn chứng cho câu hỏi [user_question] [] \
             .....\
@@ -52,7 +50,7 @@ def get_user_prompt_csv(user_question, similar_infos: list[dict]):
 def get_user_prompt_md(user_question, similar_infos: list[dict]):
     user_prompt = 'Dựa vào những thông tin sau: \n'
     for similar_info in similar_infos:
-        user_prompt += f"Trang: {similar_info['Page']}\nNội dung: {similar_info['content']}\n"
+        user_prompt += f"Đoạn: {similar_info['Page']}\nNội dung: {similar_info['content']}\n"
     # user_prompt += 'Hãy trả lời câu hỏi:\n'
 
     final_prompt = f"""Hãy tưởng tượng bạn là một chuyên gia trong lĩnh vực tài chính \
@@ -84,7 +82,7 @@ def get_user_prompt(input_model='all-MiniLM-L6-v2', num_sim_docx=10, user_questi
 
     return user_prompt, similar_k
 
-def get_user_prompt_from_graph(user_question = '',temp_path = None):
+def respond_user_by_graph(user_question = '',temp_path = None):
     # summary_section(temp_path= temp_path)
     
     doc = find_information_by_graph(temp_path=temp_path, user_question = user_question)
@@ -102,15 +100,15 @@ def get_user_prompt_from_graph(user_question = '',temp_path = None):
         hoặc Nếu thông tin được cung cấp không đủ để trả lời câu hỏi của người dùng
         trả về một từ duy nhất: NO không cần giải thích mô tả gì thêm.
         """
-        response = call_api_gemi(prompt=prompt, model = "2.5-flash", temperture = 0.7)
+        response = call_api_gemi(prompt=prompt, model = "gemini-2.5-flash", temperture = 0.7)
         if response == 'NO':
-            response, doc = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
-            return response, doc
+            response = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+            return response, 'No doc from graph'
             
         return response, doc
     else:
-        response, doc = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
-        return response, doc
+        response = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+        return response, 'No doc from graph'
 
 def use_local_model(prompt):
     client = OpenAI(base_url="http://127.0.0.1:1234/v1", api_key="lm-studio")
@@ -186,7 +184,7 @@ def parse_requery_output(llm_output: str):
 #             """
 def respond_user_none_graph(user_question = '', temp_path = ''):
     prompt_requery = f"""
-                Bạn đóng vai tr là một trợ lý tài chính chuyên phân tích đọc hiểu BÁO CÁO TÀI CHÍNH. 
+                Bạn đóng vai trò là một trợ lý tài chính chuyên phân tích đọc hiểu BÁO CÁO TÀI CHÍNH. 
                 Nhiệm vụ của bạn lần này là dựa vào câu hỏi của người dùng. Hãy suy nghĩ xem 
                 bạn cần tìm những thông tin gì trong báo cáo tài chính để có thể trả lời phân tích suy luận diễn giải cho người dùng đầy đủ nhất, chi tiết nhất và tìm ra những keyword để 
                 tìm thông tin đó trong cơ sở dữ liệu vector chứa các chunks của báo cáo tài chính. Mục tiêu là sử dụng keyword để tìm ra các chunks chứa thông tin đó. 
@@ -208,13 +206,13 @@ def respond_user_none_graph(user_question = '', temp_path = ''):
     
                 Câu hỏi của người dùng: {user_question}
             """
-    query_rewriting = call_api_gemi(prompt_requery)
+    query_rewriting = call_api_gemi(prompt_requery, model='gemini-2.5-flash')
     features = parse_requery_output(query_rewriting)  
     print(features)
     user_prompt, contexts = get_user_prompt(input_model='all-MiniLM-L6-v2', num_sim_docx=10, user_question=user_question,temp_path=temp_path,prompt_chunk = features )
-    response = call_api_gemi(user_prompt, model='2.5-flash')
+    response = call_api_gemi(user_prompt, model='gemini-2.5-flash')
     evaluate_LLM(user_question, response, contexts,temp_path, is_graph= False)
-    return response, contexts
+    return response
     
 def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
     if useGraph is False:
@@ -222,15 +220,15 @@ def respond_user(user_question, temp_path, useGraph = True, isSummary = False):
         return response, []
     if isSummary is True:
         print(isSummary)
-        pdf_path = summary_section(temp_path= temp_path)
+        pdf_path = summary_report(temp_path= temp_path)
         return pdf_path
     else:
         try:
-            response, contexts = get_user_prompt_from_graph(user_question=user_question, temp_path= temp_path)
+            response, contexts = respond_user_by_graph(user_question=user_question, temp_path= temp_path)
             evaluate_LLM(user_question, response, contexts, temp_path)  
             return response, []
         except Exception as e:
             print(f"[Unhandled Error] {e}")
             print('Đồ thị lỗi')
-            response, contexts = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
+            response = respond_user_none_graph(user_question= user_question, temp_path= temp_path)
             return response, []

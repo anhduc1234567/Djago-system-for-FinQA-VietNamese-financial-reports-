@@ -1,73 +1,83 @@
-Công ty Cổ phần Chứng khoán SSI          BO1-CTCKHN
-BÁO CÁO TỈNH HINH TAI CHÍNH HỢP NHÁT QUÝ NẢM 2025 (tiép theo)
-tại ngảy 31 thảng 03 nám 2025
+aasc
+       since 1991
+S:280225.003/BCTC.KT5
+                     BÁO CÁO KIÉM TOÁN DQC LAP
+Kinh gui: Quy C dông, Hi dòng qun tri và Ban Tng Giám dóc
+       Cong ty C phân Giao nhn Kho vn Ngoai thuong Vit Nam                                  2
+                           Chg t  ki tn o hi hphát èm theo  Cgy  hn Giohn Ko
+                                       Ngo it NaCon a ay n  m 0a
+                             ang 5, ba oBng can i kétan ht iay ang m 02Bo o
+                                   ho don idan hop hatB luhuhhomhinh
+cung ngay va Ban thuyét minh bao cáo tai chinh hop nhát.
+Trách nhim cúa Ban Tông Giám dóc                                                            in
+           Ban Tng Giam óc Cng ty  phàn Giao nhan Kho vn Ngoai thuong Viet Nam chu trach him
+                                                oo t Cog
+                                             h   h y  ha an
+                 lap  trinh bay bao co tai hih hop hatv chu tach hie  kiem t i b Ban T
+                                            c i ht m ho yo
+ khong có sai sót trong yéu do gian lan hoc nhåm ln.
+ Trách nhiém cúa Kim toán vièn
+
+       cuc kiém toan. Chung toi da tién hanh kiém toán theo các chuan muc kim toan Viet Nam. Cac
+         chun muc nay yéu cau chung ti tuan thu chuan muc v cc quy dinh v dao dúc nghè nghiép,
+                                                            l éhoah thh c é tan  t u m v o
+  chinh hp nhát cúa Cong ty có còn sai sót trng yéu hay không.
+                                   C ki tan  mh hic h  thu hú i tánc
+            liu  thuyét mih tn bao co tchih hop nhat. Các th tc kiem toan du la chon du ten
+  xét doán cua kiém toan vien, bao gom danh gi rui ro có sai sót trong yéu trong bao co tai chinh hop
+  nhat do gian lan hoc nhm lan. Khi thc hin danh gi c  o ay, km toán vin da xem xét
+                          kié soat i  ca Cngy le quanén ptih bay o hih hop ht
+                                           hop ymtch in o  hhi
+             m dich dua ra kién hiu qua ca kiém soat i b ca Cng ty. Cngvikiém toan cüng bao
+                                           an tthich   hich o
+                                              étaa BaGhanyo
+ nnhat.
+                                                                          Chgthúg ki nhugth
+  thich hop lam co s cho y kién kiêm toán ngoai tru cua chúng tôi.
+  Co sò cûa y kién kiêm toán ngoai trù
+   yòTHHVt h C HH
+  Nissin Logistics (Viet Nam), Cng y TNHH Lotte Vinatrans Global Logistics Vit Nam) v Cg ty
+  TNHH Agility cho nm ti chinh két thuc ngay 3 thang 2 nm 2024 dugc su dung d hop nhát
+     theo phuong phap vón chú so húu trong báo co tichinh kèm theo chua dugc kim toan Chung
+  thhhchoyn
+  ay c ogcohuuay
+  lién két néu tren. Do do, chung ti khòng xác dinh dugc liu có can thiét phi dieu chinh hoc
+  thuyét minh b sung cho báo cao tài chinh hop nhát kèm theo hay không.
 
 
-Mã só  CHỈ TIÉU                                 Thuyét    Só cuci kỳ           S8 đàu nám
-                                                minn             VND                  VND
-
- 200      TÀl SẢN DẢl HẠN                          2.749.939.025.896    2.574.910.647.355
- 210      Tài sản tàỉ chinh dàỉ han                1.827.068.578,505    1.625.606.669.387
- 212        Các khoản đau tư                       1,827 068.578.505    1.625.606.669.387
- 2121        Các khoán đảu tư nấm giữ dến          1.125.341.869.450      938,116.263.256
-            ngày dáo han
-212 3     1.2 Đàu tự vảo công ty liên doanh;    701.726 709.055           687.490.406.131
-            lien ket
-
- 220      Tàl sản có dinh                       211.502.819.388           231.350.675.694
- 221        Tàỉ sản có       hữu hinh           107,.559.983.120      118.506.719,899
- 222                Oinn                        400. 216.894.271          408.360.121.790
-            Nguyên giá
- 2230     2 Giá tri hao mon lũy ké       (292,656.911.151)          (289.853.401.891)
-227         Tải sản cổ dpnh vô hinh             103.942.836.268       112,843.955.795
- 228      21. Nguyèn giá                        299.143.171.786       313 999.554.731
- 229a     2.2 Giá tri hao mòn lúy kẻ               (195.200.335,518)    (201.155.598.936)
-
- 230      Bát động sản đằu tư                   199,470.919.479           200.196.436.698
- 231         Nguyen gỉá                         289.125.816.941      287.459,.600.028
- 232a        Giá trị hao mỏn luy ké             (89.654.897,462)     (87.263.163.330)
-
- 240      Chi phi xảy dựng cơ bản dở dang       388.872.206.893           387.623.333.376
- 250      Tài sản dài han khác                  123.024.501.631       130.133.532.200
-251        Cầm có, thế chấp, ký quỹ, kỷ
-           cuoc dai han                          31.230,273,582        31.205.273.582
-252        Chi phf trả truởc dai han             15.136.486.160        21.614,788 489
-253        Tài sản thué thu nhập hoán lai        23.345,377,641         24 001.105.88
-254        Tien nóp Quý hó trợ thanh toan       20.000,00O, 0OO        20.ooo.0oo.00o
-255        Tai sản dai han khác                  33,312.364.248        33.312.364.248
-
-270    TONG CỘNG TẢl SẢN                84.043.901.711.559         73.507.302.559.722 +
+:(84) 24 3824 1990 I F:(84) 24 3825 3973 I 1 Le Phung Hieu, Hanoi, Vietnam (HLB)
+aasc.com.vn  AASC AUDITING FIRM    4 +
  
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025  
 
-| Mã số | CHỈ TIÊU                                       | Thuyết minh | Số cuối kỳVND          | Số đầu nămVND          |
-| ----- | ---------------------------------------------- | ----------- | ---------------------- | ---------------------- |
-| 200   | **B. TÀI SẢN DÀI HẠN**                         |             | 2.749.939.025.896      | 2.574.910.647.355      |
-| 210   | *I. Tài sản tài chính dài hạn*                 |             | **1.827.068.578.505**  | **1.625.606.669.387**  |
-| 212   | 1. Các khoản đầu tư                            | 11          | 1.827.068.578.505      | 1.625.606.669.387      |
-| 212.1 | 1.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn |             | 1.125.341.869.450      | 938.116.263.256        |
-| 212.3 | 1.2. Đầu tư vào công ty liên doanh, liên kết   |             | 701.726.709.055        | 687.490.406.131        |
-| 220   | *II. Tài sản cố định*                          |             | 211.502.819.388        | 231.350.675.694        |
-| 221   | 1. Tài sản cố định hữu hình                    | 12          | 107.559.983.120        | 118.506.719.899        |
-| 222   | 1.1. Nguyên giá                                |             | 400.216.894.271        | 408.360.121.790        |
-| 223a  | 1.2. Giá trị hao mòn lũy kế                    |             | (292.656.911.151)      | (289.853.401.891)      |
-| 227   | 2. Tài sản cố định vô hình                     | 13          | 103.942.836.268        | 112.843.955.795        |
-| 228   | 2.1. Nguyên giá                                |             | 299.143.171.786        | 313.999.554.731        |
-| 229a  | 2.2. Giá trị hao mòn lũy kế                    |             | (195.200.335.518)      | (201.155.598.936)      |
-| 230   | *III. Bất động sản đầu tư*                     | 14          | 199.470.919.479        | 200.196.436.698        |
-| 231   | 1. Nguyên giá                                  |             | 289.125.816.941        | 287.459.600.028        |
-| 232a  | 2. Giá trị hao mòn lũy kế                      |             | (89.654.897.462)       | (87.263.163.330)       |
-| 240   | *IV. Chi phí xây dựng cơ bản dở dang*          | 15          | 388.872.206.893        | 387.623.333.376        |
-| 250   | *V. Tài sản dài hạn khác*                      |             | 123.024.501.631        | 130.133.532.200        |
-| 251   | 1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn   |             | 31.230.273.582         | 31.205.273.582         |
-| 252   | 2. Chi phí trả trước dài hạn                   | 16          | 15.136.486.160         | 21.614.788.489         |
-| 253   | 3. Tài sản thuế thu nhập hoãn lại              | 17          | 23.345.377.641         | 24.001.105.881         |
-| 254   | 4. Tiền nộp Quỹ hỗ trợ thanh toán              | 18          | 20.000.000.000         | 20.000.000.000         |
-| 255   | 5. Tài sản dài hạn khác                        |             | 33.312.364.248         | 33.312.364.248         |
-| 270   | **TỔNG CỘNG TÀI SẢN**                          |             | **84.043.901.711.559** | **73.507.302.559.722** |
+| ![aasc logo](https://i.imgur.com/22222.png) aasc<br/>since 1991 | Số: 280225.003/BCTC.KT5 |
+| --------------------------------------------------------------- | ----------------------- |
+
+
+# BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông, Hội đồng quản trị và Ban Tổng Giám đốc
+Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam (“Công ty”), được lập ngày 28 tháng 02 năm 2025, từ trang 06 đến trang 35, bao gồm: Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất.
+
+## Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Công ty theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+
+## Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.
+
+## Cơ sở của ý kiến kiểm toán ngoại trừ
+
+Báo cáo tài chính của các Công ty liên kết, gồm: Công ty TNHH Vận tải Việt Nhật, Công ty TNHH Nissin Logistics (Việt Nam), Công ty TNHH Lotte Vinatrans Global Logistics Việt Nam và Công ty TNHH Agility cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 được sử dụng để hợp nhất theo phương pháp vốn chủ sở hữu trong báo cáo tài chính kèm theo chưa được kiểm toán. Chúng tôi đã không thể thu thập được các bằng chứng kiểm toán thích hợp và đầy đủ liên quan đến mức độ tin cậy của các thông tin trong các báo cáo tài chính của các công ty liên kết nêu trên. Do đó, chúng tôi không xác định được liệu có cần thiết phải điều chỉnh hoặc thuyết minh bổ sung cho báo cáo tài chính hợp nhất kèm theo hay không.
+
+| aasc.com.vn | AASC AUDITING FIRM | T:(84) 24 3824 1990 I F:(84) 24 3825 3973 I 1 Le Phung Hieu, Hanoi, Vietnam | (HLB) AN INDEPENDENT MEMBER OF THE GLOBAL ADVISORY AND ACCOUNTING NETWORK | 4 |
+| ----------- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | - |
 
 
  + 

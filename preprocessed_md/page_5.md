@@ -1,101 +1,58 @@
-Công ty Cổ phần Chứng khoán SSI          BO1-CTCKIHN
-BÁO CÁo TỈNH HINH TẢI CHINH HỢP NHAT QUÝ NĂM 2025 (tiếp theo)
-tai ngày 31 thang 03 nảm 2025
+Y kién cua kièm toán viên
+                                         Ti  hú o h  ioan  k
+                 ton oai tru", bo co t chih hop hat a phnahtug thhp y, tn c khía can
+     trong yéu tinh hinh tài chinh cua Cong ty C phân Giao nhan Kho van Ngoai thuong Vit Nam tai
+     ngay 31 thang 12 nm 2024, cúng nhu két quà hoat dng kinh doanh va tinh hinh luu chuyén tièn
+                                          mhh h ugyhhophunt
+ Vit Nam v cc quy ih phap y l quan én ptrih by o o .
+ Ván dè càn nhán manh
+           Chúng ti luu guòi dc én Thuyét minh   phàn Thuét minh bo cáo i chinh riéng, tai
+ngày 31 thang 12 nam 2024 hop dòng thué dat cua Cong ty tai khu dát 161 Nguyen Vn Quy
+                 phng Phú Thuan, Quan 7, Thnh h HChMinh a hthòihanthudang trong qutih  AN
+ hoàn thin thu tuc dé xin gia han vói các hop dòng thué dát nay.
+                                               i   u i
+      Giam dóc da quyét dinh dieu chinh lai  liu a trinh by tén bao cao tai chinh nm truóc é so
+   sanh vói s lieu nam nay do dièu chinh lai két qua hop nhat cong ty lièn két theo phuong phap vón
+      chú so hu theo bao cáo tài chinh cho nm tài chinh két thuc ngay 31 thang 12 nm 2023 da duc
+ kim toán cúa Công ty TNHH Agility và Công ty TNHH Vn ti Vit Nhat.
+ Va h haéoh
+   Cong toTNHH Hang Kiém toán AASC                              Nab
+   SN TRACH NHIEM HOU HAN
+   HANG KIEM TOP
+   D AASC O
+  PhamAnh Tuan                          Nguyên Truòng Minh
+  Pho Tong Giam dóc                     Kièm toán viên
+  Giáy chúng nhan dang ky hanh nghe     Giáy chúng nhan dang ky hành ngh
+  kiém toán só: 0777-2023-002-1        kiêm toán só: 2290-2023-002-1
+  Hà Ni, ngày 28 tháng 02 nm 2025
 
 
 
-         CHI TIÊU                                   Thuyet                        Sô cuôi kỷ         Só dẩu năm
-Mà so                                               minn                                 VND                VND
-
- 300        NQ PHẢl TRẢ                                                   56.340.548.607.124 46.680.651.947.954
- 310        NP phải trà ngản han                                          56.248.437.443.943 46.599,438.522.989
- 311            Vay và nợ thue tai sàn tai chinh                          55 246,837,451.353 45.501.969.699.137
-                ngan han
- 312           Vay ngẳn han                                               55.246.837.451.353 45.501.969,699 137
- 318            Phài trà hoatdonggiao djch
-               chửng khoán                                                   258.375.634.864    227.883,634.106
- 320            Phải trả ngưởi bán ngán han                                   82.844,177,914    103.075.387.679
- 321            Nguời mua trả tièn truởc ngán                                  2,497,683,500     26,490,726,300
-
- 322            han
-                Thué va các khoàn phải nóp                               264,911.520.213        201.293.124,495
- 323            Nhà nưởc
-                Phải trá       lao đông                                   18,457,972.325        93,761,.808,205
-                       nguoi
- 324            Cảc khoản trich nỏp phuc lợi                                 753.996.198           884,.019.653
- 325            nhan vien
- 327            Chỉ phi phải trả ngn han                                  66.844,438,480         67,847,177,428
-                Doanh thu chua Ihuc hien ngán
- 328          han                                                            524,419,332          1,299.798,330
- 329          Nhan ký quỹ, ký cưoc ngắn han                                  364.993.200            362.313.180
-              Các khoản phải trà           nộp ngán
- 331          han khảc              Phai            25                    21,453.459.862         18.037,472.054
-              Quy khen thuóng phúc lơi                                   284.571.696.702        356.533.362.422
- 340       Nợ phải trả dài han                                            92.111.163.181        81.213,424.965
- 351          Doanh thu chua thưc hien dai han                            53.562.883.675         54,562.883.675
- 356          Thué thu nhap doanh nghièp hoan
-             lai phải trả                                                 38.548.279.506         26.650.541.290
- 400       VỐN CHỦ SỞ HỮU                                             27.703.353.104.435   26.826,.650.611,.768
- 410       Von chù sở hữu                                             27.703.353.104.435     26.826.650.611.768
- 411         Vón dau tư cùa chú sờ hữu                            20.713.065.094.108         20.713.065.094.108
- 4111         Vôn góp cúa chù sở húu                             195.638.639.180.000        19.638.,639.180.000
-411.1a               Co phiéu phỏ thóng                           19,638,639,180.000         19.638.639.180.000
-411,2      1.2 Thắng dư vốn cỏ phẳn                                1.093.540.920.517            093.540.920.517
-411.          Cổ phiễu quỹ                                    (19.115 006,409)                  (19.115.006 409
- 412         Chenh lech đanh gia tai sàn theo
-4            già tri hợp lỷ                                       62.076.509.892                 31,690,477,740
-             Chênh lech tỷ giá hổi đoáỉ                           74,188,577.913                 72.177.590.546
-             Quý dự trữ bó sung vốn điều lé                          ooo.ooo 0oo                 3.0oo.ooo, Ooo
-417,1        Lợi nhuan chưa phan phól                            700,405.049.625                856.098.315.938
-417.2     51 Loi nhuân dã thuc hiên                            6.736.963.850.330               6.025186.849 191
-418       5.2 Loi nhuán chua thuc hien                          (36 558.800.705)              (169.088.533.253)
-            Lợi Ích co đông khòng kiém soát                      150.617.872.897                150.619.133,436
-
-440      TONG CONG NỢ PHẢl TRẢ VÀ VON
-         CHU SƠ HUU                                           84.043.901.711.559             73.507.302.559.722 +
- 
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025  
-
-| Mã số  | CHỈ TIÊU                                           | Thuyết minh | Số cuối kỳ VND     | Số đầu năm VND     |
-| ------ | -------------------------------------------------- | ----------- | ------------------ | ------------------ |
-| 300    | **C. NỢ PHẢI TRẢ**                                 |             | 56.340.548.607.124 | 46.680.651.947.954 |
-| 310    | **I. Nợ phải trả ngắn hạn**                        |             | 56.248.437.443.943 | 46.599.438.522.989 |
-| 311    | 1. Vay và nợ thuê tài sản tài chính ngắn hạn       | 20          | 55.246.837.451.353 | 45.501.969.699.137 |
-| 312    | 1.1. Vay ngắn hạn                                  |             | 55.246.837.451.353 | 45.501.969.699.137 |
-| 318    | 2. Phải trả hoạt động giao dịch chứng khoán        | 21          | 258.375.634.864    | 227.883.634.106    |
-| 320    | 3. Phải trả người bán ngắn hạn                     | 22          | 82.844.177.914     | 103.075.387.679    |
-| 321    | 4. Người mua trả tiền trước ngắn hạn               |             | 2.497.683.500      | 26.490.726.300     |
-| 322    | 5. Thuế và các khoản phải nộp Nhà nước             | 23          | 264.911.520.213    | 201.293.124.495    |
-| 323    | 6. Phải trả người lao động                         |             | 18.457.972.325     | 93.761.808.205     |
-| 324    | 7. Các khoản trích nộp phúc lợi nhân viên          |             | 753.996.198        | 884.019.653        |
-| 325    | 8. Chi phí phải trả ngắn hạn                       | 24          | 66.844.438.480     | 67.847.177.428     |
-| 327    | 9. Doanh thu chưa thực hiện ngắn hạn               |             | 524.419.332        | 1.299.798.330      |
-| 328    | 10. Nhận ký quỹ, ký cược ngắn hạn                  |             | 364.993.200        | 362.313.180        |
-| 329    | 11. Các khoản phải trả, phải nộp ngắn hạn khác     | 26          | 21.453.459.862     | 18.037.472.054     |
-| 331    | 12. Quỹ khen thưởng, phúc lợi                      | 25          | 284.571.696.702    | 356.533.362.422    |
-| 340    | **II. Nợ phải trả dài hạn**                        |             | 92.111.163.181     | 81.213.424.965     |
-| 351    | 1. Doanh thu chưa thực hiện dài hạn                | 27          | 53.562.883.675     | 54.562.883.675     |
-| 356    | 2. Thuế thu nhập doanh nghiệp hoãn lại phải trả    | 17          | 38.548.279.506     | 26.650.541.290     |
-| 400    | **D. VỐN CHỦ SỞ HỮU**                              | 28          | 27.703.353.104.435 | 26.826.650.611.768 |
-| 410    | **I. Vốn chủ sở hữu**                              |             | 27.703.353.104.435 | 26.826.650.611.768 |
-| 411    | 1. Vốn đầu tư của chủ sở hữu                       |             | 20.713.065.094.108 | 20.713.065.094.108 |
-| 411.1  | 1.1. Vốn góp của chủ sở hữu                        |             | 19.638.639.180.000 | 19.638.639.180.000 |
-| 411.1a | - Cổ phiếu phổ thông                               |             | 19.638.639.180.000 | 19.638.639.180.000 |
-| 411.2  | 1.2. Thặng dư vốn cổ phần                          |             | 1.093.540.920.517  | 1.093.540.920.517  |
-| 411.5  | 1.3. Cổ phiếu quỹ                                  |             | (19.115.006.409)   | (19.115.006.409)   |
-| 412    | 2. Chênh lệch đánh giá tài sản theo giá trị hợp lý |             | 62.076.509.892     | 31.690.477.740     |
-| 413    | 3. Chênh lệch tỷ giá hối đoái                      |             | 74.188.577.913     | 72.177.590.546     |
-| 414    | 4. Quỹ dự trữ bổ sung vốn điều lệ                  |             | 3.000.000.000      | 3.000.000.000      |
-| 417    | 5. Lợi nhuận chưa phân phối                        |             | 6.700.405.049.625  | 5.856.098.315.938  |
-| 417.1  | 5.1 Lợi nhuận đã thực hiện                         | 28.1        | 6.736.963.850.330  | 6.025.186.849.191  |
-| 417.2  | 5.2 Lợi nhuận chưa thực hiện                       | 28.1        | (36.558.800.705)   | (169.088.533.253)  |
-| 418    | 6. Lợi ích cổ đông không kiểm soát                 |             | 150.617.872.897    | 150.619.133.436    |
-| 440    | **TỔNG CỘNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU**        |             | 84.043.901.711.559 | 73.507.302.559.722 |
 
 
+
+
+
+
+
+5 +
+ # Ý kiến của kiểm toán viên
+
+Theo ý kiến của chúng tôi, ngoại trừ ảnh hưởng của vấn đề nêu tại đoạn “Cơ sở của ý kiến kiểm toán ngoại trừ”, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình hình tài chính của Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam tại ngày 31 tháng 12 năm 2024, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ trong năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+## Vấn đề cần nhấn mạnh
+
+Chúng tôi lưu ý người đọc đến Thuyết minh số 19 phần Thuyết minh báo cáo tài chính riêng, tại ngày 31 tháng 12 năm 2024 hợp đồng thuê đất của Công ty tại khu đất 161 Nguyễn Văn Quỳ, phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh đã hết thời hạn thuê và đang trong quá trình hoàn thiện thủ tục để xin gia hạn với các hợp đồng thuê đất này.
+
+Như được trình bày tại Thuyết minh số 33, phần Thuyết minh báo cáo tài chính hợp nhất, Ban Tổng Giám đốc đã quyết định điều chỉnh lại số liệu đã trình bày trên báo cáo tài chính năm trước để so sánh với số liệu năm nay do điều chỉnh lại kết quả hợp nhất công ty liên kết theo phương pháp vốn chủ sở hữu theo báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 đã được kiểm toán của Công ty TNHH Agility và Công ty TNHH Vận tải Việt Nhật.
+
+Vấn đề nhấn mạnh này không làm thay đổi ý kiến kiểm toán ngoại trừ nêu trên của chúng tôi.
+
+| Công ty TNHH Hãng Kiểm toán AASC<br/><br/><br/><br/>Phạm Anh Tuấn<br/>Phó Tổng Giám đốc<br/>Giấy chứng nhận đăng ký hành nghề<br/>kiểm toán số: 0777-2023-002-1<br/>Hà Nội, ngày 28 tháng 02 năm 2025 | <br/><br/><br/><br/>Nguyễn Trường Minh<br/>Kiểm toán viên<br/>Giấy chứng nhận đăng ký hành nghề<br/>kiểm toán số: 2290-2023-002-1 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+
+
+5
  + 
  + [] 
  None

@@ -1,71 +1,105 @@
-Côngty Cổ phần Chứng khoán SSI                                    B05-CTCKIHN
-THUYET MINH BÁO CÁO TẢI CHÍNH HƠP NHAT QUÝ NĂM 2025 (tiếp theo)
-tai ngày 31 tháng 03 nảm 2025 vả cho kỷ kế toán kết thúc cung ngảy
+Công ty Cô phàn Giao nhn Kho vn Ngoai thuong Vit Nam                           Báo cáo tài chính hop nhát
+Só 406 Nguyn Tát Thanh, Phuòng 18, Qun 4              cho nm tài chính két thúc ngày 31/12/2024
+Thanh phó Hò Chí Minh
+8 NQ XÁU
+   haa
+                                        31/12/2024                             01/01/2024
+                                   Giá gôc           Giá tri có th                    Giá gôc        Giá tri có the
+                                                                thu hi                               thu hi
+                                          VND         VND                                 VND        VND
 
-Hạn chế đẩu tư
-Côngty tuân thủ quy định tại Điêu 28, Thông tư só 121/2020/TT-BTC ngày 31 tháng 12 nam
-2020 quy định vẻ hoat động công ty chúng khoán; Một só khoản muc hạn ché đầu tư theo
-cảc quy định hiện hành nhu sau:
-  Công ty chửng khoán không được mua góp vốn mua bất động sản trừ trường hợp đé
-  sứ dung làm tru sở chinh; chi nhánh, phòng giao dịch phuc vụ trực tiêp cho các hoat dộng
-  nghiệp vụ cúa cóng ty chứng khoán.
-  Cóng ty chứng khoán mua, đẩu tư vào bấtđôngsảntheo quy định tai khoản     trên và tà
-  sàn có đinh theo nguyen tac giá trị còn lai cúa tàỉ sản có đinh và bất động sản không
-                         phần trfm (50%) gỉá trỉ tong tài sản của công ty chứng khoán.
-  dược vượt quà nẵm mươi
- Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được
-  vượt quá bảy mươỉ phan trám (709) vónchúsở húu. Công ty chứng khoán đưoc cap
-  phẻp thuc hiên nghiệp vu tư doanh chứng khoán được phép mua bán lai trải phỉéu nièm
- yet theo quy định có lien quan ve mua bán lai trái phieu
- Công ty chứng khoán không được trực tỉếp hoặc ủy thác thuc hiện các nghiệp vụ sau:
-    Đẩu tư vào cổ phiếu hoặc    vốn góp cúa công ty có sở hữu trên nam mươi phân
-                               phân
-    trăm (50%) vốn điều lệ của công ty chửng khoán; trừ trưởng hợp mua có phiéu Iô lẻ
-    theo yêu cau cùa khảch hàng;
-    Cùng với ngưởỉ có liên quan đầu tư từ nằm phản trăm (5%) trở lên vốn điều lệ của
-    công ty chúng khoán khác;
-    Đau tuquahai mươi phan trfm (20%) tongsố cổ phiếu, chứng chi quỹ đang lưu
-    hành của môt tó chửc niém yét;
-    Đảu tư qua mưởi lăm phản trăm (15% tóng số có phỉéu; chứng chỉ quỹ đang Iưu
-    hành của một tố chức chưa niêm yét, quy đpnh nảy không áp dung đối với chứng chi
-    quy thanh vỉèn, quy hoán đóỉ danh muc và quỹ mo;
-    Đẩu tư hoac góp vốn quá mưởi phân tram (10%          tổng số vốn góp của một công
-                                                 trên
-   ty trách nhièm húu han hoẳc du án kinh doanh;
-   Đàu tư hoặc góp vốn quá mười lam phân trám (15%) vốn chù sờ húu vào một t8
-   chừc hoac dự an kinh doanh;
-   Đẩu tư quá bày mươi phẩn trăm (70%) vón chủ sở hữu vào có phỉéu, phàn vón góp
-   và dự án kinh doanh, trong đó không được đầu tư quá hai mươi phẳn tram (209)
-   vốn chủ sở hữu vào cổ phiéu chưa niêm yét, phân vốn góp và du án kinh doanh
-Công ty chúng khoản được thành lập, mua lai công ty quàn lỷ quỹ làm công ty con; Trong
- truonghop nay công ty chửng khoán không phải tuân thủ các quy đinh tai điém  d, va
-  Khoan tren +
- 
-# Công ty Cổ phần Chứng khoán SSI  
-B05-CTCK/HN  
+a)  Phâi thu khách hàng       3.666.057.482              1.940.183.519          2.208.295.385        1.145.943.201
+    Công ty CP Thép               334.823.795                                     334.823.795
+    Quatron                                                494.374.491          1.070.874.533        712.116.998
+    Công ty CP Thin Phú         1.058.982.532
+    S                                                 45.545.039               191.816.799           95.908.399
+    Công ty CP Trúc               151.816.799
+    Quang                       1.872.080.786        1.310.456.550
+    Công ty CP Co dien
+    Luyn Kim Thái
+    guyen                                             89.807.439                      610.780.258    337.917.804
+    Cac dói tuong khác     248.353.570
+b)  Phái thu khác          760.546.994               306.755.849                      802.179.716       448.449.973
+    Công ty CP Thin Phú    513.944.162                256.972.077                     536.332.130    375.432.491
+    Si                                                                                265.847.586        73.017.482
+    Các dói tuong khác     246.602.832                49.783.772
+                              4.426.604.476          2.246.939.368                  3.010.475.101     1.594.393.174
 
-## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025 và cho kỳ kế toán kết thúc cùng ngày  
+9 HANG TON KHO
+                                        31/12/2024                             01/01/2024            Du phòng
+                                        Giá góc                   Du phòng     Giá góc               VND
+                                              VND                      VND     VND
+     Nguyén liu, vt liu               246.679.102                              155.837.261
+     Chi phí sán xuát kinh          3.577.090.296                              2.400.539.028
+     doanh d dang
+     Hang hoa                      5.645.648                                   2.556.376.289
+                                    3.829.415.046
 
-### Hạn chế đầu tư  
-Công ty tuân thủ quy định tại Điều 28, Thông tư số 121/2020/TT-BTC ngày 31 tháng 12 năm 2020 quy định về hoạt động công ty chứng khoán. Một số khoản mục hạn chế đầu tư theo các quy định hiện hành như sau:  
+10  CHI PHI TRA TRUÓC
+                                                                               31/12/2024            01/01/2024
 
-1. Công ty chứng khoán không được mua, góp vốn mua bất động sản trừ trường hợp để sử dụng làm trụ sở chính, chi nhánh, phòng giao dịch phục vụ trực tiếp cho các hoạt động nghiệp vụ của công ty chứng khoán.  
+a)   Ngán han                                                                  VND                              VND
+     Công cu dung cu xuát dung                                                 47.787.714            85.380.634
+     Chi phí tra truóc ngán han khac                                          851.881.078               272.547.272
+                                                                              899.668.792               357.927.906
+b)   Dài han                                                                  269.137.545               211.648.268
+     Công cu dung cy xuát dung                                              1.018,186.412               208.306.279
+     Chi phí tra truóc dài han khác
+                                                                            1.287.323.957               419.954.547
 
-2. Công ty chứng khoán mua, đầu tư vào bất động sản theo quy định tại khoản 1 trên và tài sản cố định theo nguyên tắc giá trị còn lại của tài sản cố định và bất động sản không được vượt quá năm mươi phần trăm (50%) giá trị tổng tài sản của công ty chứng khoán.  
 
-3. Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được vượt quá bảy mươi phần trăm (70%) vốn chủ sở hữu. Công ty chứng khoán được cấp phép thực hiện nghiệp vụ tư doanh chứng khoán được phép mua bán lại trái phiếu niêm yết theo quy định có liên quan về mua bán lại trái phiếu.  
 
-4. Công ty chứng khoán không được trực tiếp hoặc ủy thác thực hiện các nghiệp vụ sau:  
-   * a. Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên năm mươi phần trăm (50%) vốn điều lệ của công ty chứng khoán; trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng;  
-   * b. Cùng với người có liên quan đầu tư từ năm phần trăm (5%) trở lên vốn điều lệ của công ty chứng khoán khác;  
-   * c. Đầu tư quá hai mươi phần trăm (20%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;  
-   * d. Đầu tư quá mười lăm phần trăm (15%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức chưa niêm yết, quy định này không áp dụng đối với chứng chỉ quỹ thành viên, quỹ hoán đổi danh mục và quỹ mở;  
-   * e. Đầu tư hoặc góp vốn quá mười phần trăm (10%) trên tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;  
-   * f. Đầu tư hoặc góp vốn quá mười lăm phần trăm (15%) vốn chủ sở hữu vào một tổ chức hoặc dự án kinh doanh;  
-   * g. Đầu tư quá bảy mươi phần trăm (70%) vốn chủ sở hữu vào cổ phiếu, phần vốn góp và dự án kinh doanh, trong đó không được đầu tư quá hai mươi phần trăm (20%) vốn chủ sở hữu vào cổ phiếu chưa niêm yết, phần vốn góp và dự án kinh doanh.  
+22 +
+ Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam
+Số 406 Nguyễn Tất Thành, Phường 18, Quận 4
+Thành phố Hồ Chí Minh
 
-Công ty chứng khoán được thành lập, mua lại công ty quản lý quỹ làm công ty con; Trong trường hợp này, công ty chứng khoán không phải tuân thủ các quy định tại điểm c, d, và e Khoản 4 trên.  
+Báo cáo tài chính hợp nhất
+cho năm tài chính kết thúc ngày 31/12/2024
+
+**8 NỢ XẤU**
+
+Các khoản phải thu quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi:
+
+|                                          | 31/12/2024<br/>Giá gốcVND | 31/12/2024<br/>Giá trị có thểthu hồiVND | 01/01/2024<br/>Giá gốcVND | 01/01/2024<br/>Giá trị có thểthu hồiVND |
+| ---------------------------------------- | ------------------------- | --------------------------------------- | ------------------------- | --------------------------------------- |
+| **a) Phải thu khách hàng**               | **3.666.057.482**         | **1.940.183.519**                       | **2.208.295.385**         | **1.145.943.201**                       |
+| Công ty CP Thép Quatron                  | 334.823.795               | -                                       | 334.823.795               | -                                       |
+| Công ty CP Thiên Phú Sĩ                  | 1.058.982.532             | 494.374.491                             | 1.070.874.533             | 712.116.998                             |
+| Công ty CP Trúc Quang                    | 151.816.799               | 45.545.039                              | 191.816.799               | 95.908.399                              |
+| Công ty CP Cơ điện Luyện Kim Thái Nguyên | 1.872.080.786             | 1.310.456.550                           | -                         | -                                       |
+| Các đối tượng khác                       | 248.353.570               | 89.807.439                              | 610.780.258               | 337.917.804                             |
+| **b) Phải thu khác**                     | **760.546.994**           | **306.755.849**                         | **802.179.716**           | **448.449.973**                         |
+| Công ty CP Thiên Phú Sĩ                  | 513.944.162               | 256.972.077                             | 536.332.130               | 375.432.491                             |
+| Các đối tượng khác                       | 246.602.832               | 49.783.772                              | 265.847.586               | 73.017.482                              |
+|                                          | **4.426.604.476**         | **2.246.939.368**                       | **3.010.475.101**         | **1.594.393.174**                       |
+
+
+**9 HÀNG TỒN KHO**
+
+|                                     | 31/12/2024<br/>Giá gốcVND | 31/12/2024<br/>Dự phòngVND | 01/01/2024<br/>Giá gốcVND | 01/01/2024<br/>Dự phòngVND |
+| ----------------------------------- | ------------------------- | -------------------------- | ------------------------- | -------------------------- |
+| Nguyên liệu, vật liệu               | 246.679.102               | -                          | 155.837.261               | -                          |
+| Chi phí sản xuất kinh doanh dở dang | 3.577.090.296             | -                          | 2.400.539.028             | -                          |
+| Hàng hoá                            | 5.645.648                 | -                          | -                         | -                          |
+|                                     | **3.829.415.046**         |                            | **2.556.376.289**         |                            |
+
+
+**10 CHI PHÍ TRẢ TRƯỚC**
+
+|                                 | 31/12/2024VND     | 01/01/2024VND   |
+| ------------------------------- | ----------------- | --------------- |
+| **a) Ngắn hạn**                 |                   |                 |
+| Công cụ dụng cụ xuất dùng       | 47.787.714        | 85.380.634      |
+| Chi phí trả trước ngắn hạn khác | 851.881.078       | 272.547.272     |
+|                                 | **899.668.792**   | **357.927.906** |
+| **b) Dài hạn**                  |                   |                 |
+| Công cụ dụng cụ xuất dùng       | 269.137.545       | 211.648.268     |
+| Chi phí trả trước dài hạn khác  | 1.018.186.412     | 208.306.279     |
+|                                 | **1.287.323.957** | **419.954.547** |
+
+
+22
  + 
  + [] 
  None

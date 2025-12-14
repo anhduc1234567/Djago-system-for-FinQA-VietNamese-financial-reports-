@@ -15,11 +15,6 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse
 from core.output_generator import render_markdown
 # Kết nối MongoDB, giả sử database tên là 'chatbot_db'
-connect(
-    db='HnaFinGENI',
-    host='localhost',       # hoặc địa chỉ MongoDB server
-    port=27017              # port mặc định
-)
 
 from django.shortcuts import render
 from django.http import Http404
@@ -28,39 +23,41 @@ from .models import Conversation, UploadedFile  # MongoEngine Document
 # Tạm mặc định user là "user_ducanh"
 USER_ID = "user_ducanh"
 # SAVE_FILE_PATH = None
+connect(
+    db='HnaFinGENI',
+    host='localhost',       # hoặc địa chỉ MongoDB server
+    port=27018              # port mặc định
+)
 from .  import globals
-
 def chat_home(request, conversation_id=None):
-    # --- Lấy danh sách các cuộc trò chuyện của user ---
     user_id = request.session.get("user_id")
-    
-    conversations = Conversation.objects(user_id=user_id)
+    print("DEBUG: session user_id:", user_id)
 
-    # --- Lấy danh sách file đã upload ---
+    try:
+        conversations = Conversation.objects(user_id=user_id)
+        print("DEBUG: conversations:", conversations)
+    except Exception as e:
+        print("DEBUG: Mongo error:", e)
+        conversations = []
+
     uploaded_reports = UploadedFile.objects(user_id=user_id).order_by("-upload_date")
+    print("DEBUG: uploaded_reports:", uploaded_reports)
 
-    # --- Nếu có conversation_id, lấy ra conversation tương ứng ---
     selected_conv = None
     messages = []
     if conversation_id:
         selected_conv = Conversation.objects(conversation_id=conversation_id, user_id=user_id).first()
-        if not selected_conv:
-            raise Http404("Conversation not found")
-        messages = selected_conv.messages
+        messages = selected_conv.messages if selected_conv else []
+    for m in messages:
+        m['content'] = render_markdown(m['content'])
 
-    # --- Render markdown cho các message ---
-    for mes in messages:
-        mes.content = render_markdown(mes.content)
-
-    # --- Gửi dữ liệu sang template ---
     context = {
         "conversations": conversations,
         "selected_conv": selected_conv,
         "messages": messages,
         "conversation_id": conversation_id,
-        "uploaded_reports": uploaded_reports,  # ✅ thêm dòng này
+        "uploaded_reports": uploaded_reports,
     }
-
     return render(request, "chatbot/home.html", context)
 
 def add_new_file(file_path, file_name, user_id):
@@ -200,7 +197,7 @@ def chat_send(request, conversation_id):
 
         # --- Gọi hàm xử lý chatbot ---
         if is_summary is False:
-            # try:
+            try:
                 bot_respond, suggestions = respond_user(
                     user_question=message,
                     temp_path=globals.SAVE_FILE_PATH,
@@ -216,12 +213,12 @@ def chat_send(request, conversation_id):
                 "response": html_respond,
                 "suggestions": suggestions or []
                  })
-            # except Exception as e:     
-            #     print(e)
-            #     return JsonResponse({
-            #         "response": "❌ Lỗi trong quá trình xử lý chatbot:",
-            #         "suggestions":  []
-            #     })
+            except Exception as e:     
+                print(e)
+                return JsonResponse({
+                    "response": "Lỗi trong quá trình xử lý vui lòng thử lại sau:",
+                    "suggestions":  []
+                })
         else:
             pdf_path = respond_user(
                 user_question=message,
@@ -258,7 +255,9 @@ from django import forms
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 import json
-
+def get_user_info(user_name):
+    user = Users.objects(user_id=user_name).first()
+    return user
 @csrf_exempt
 def login_user(request):
     if request.method != "POST":
@@ -269,9 +268,8 @@ def login_user(request):
         username = data.get("username")
         password = data.get("password")
 
-        user = Users.objects(user_id=username).first()
+        user = get_user_info(user_name=username)
         print(username, password)
-
         if user and user.password == password:
             request.session["user_id"] = username  # lưu session
             return JsonResponse({"status": "success", "msg": "Đăng nhập thành công!"})

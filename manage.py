@@ -4,7 +4,9 @@ import os
 import sys
 
 # sudo systemctl start neo4j
-# sudo systemctl start mongodb
+# sudo systemctl start mongodb  sudo mongod --config ../my-mongod.conf
+# ssh -L 27100:localhost:27018 thviet@210.245.53.88
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hnafingeni.settings')

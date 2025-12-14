@@ -1,85 +1,85 @@
-   Công ty Cổ phần Chứng khoán SSI          B01-CTCKHN
-   BÁO CÁO TỈNH HỈNH TAI CHÍNH HỢP NHÁT QUÝ NĂM 2025
-   tai ngay 31 tháng 03 nam 2025
+ Công ty Cô phân Giao nhn Kho vân Ngoai thuong Vit Nam
+ Da chi: Só 406 Nguyn Tt Thanh, Phuòng 18, Qun 4, Thanh phó Hò Chi Minh
+ CÔNG BÓ TRÁCH NHIEM CÚA BAN TONG GIÁM DOC DÓI VÓI BÁO CÁO TAI CHINH HQP NHÁT
+Ban Tng Giám dóc Công ty chju trách nhim vè viec lap báo cáo tài chính hop nhát phn anh trung
+ thuc, hop ly tinh hinh tài chinh hop nhát, két quå hoat dng kinh doanh hop nhát va tinh hinh luu chuyén
+tien té hop nhát cua Công ty trong nm. Trong qua trinh lp bao cáo tai chinh hop nhát, Ban Tng Giam
+dóc Cong ty cam két da tuân thu các yéu câu sau:
+ Xay dyng va duy tri kièm soát ni b mà Ban Tng Giám dóc và Ban quân tri Công ty xác dinh là càn
+  thiét dê dam bâo cho vic lap và trinh bày báo cáo tài chinh hop nhát không còn sai sót trong yéu do
+  gian lan hoc do nhâm lan;
+  Lua chon các chinh sach ké toan thich hp va ap dung các chinh sách này mt cách nhát quán;
+  Dua ra các dánh giá và du doán hop ly và thn trong;
+  Néu ro các chuân myc ké toán duc ap dung có duc tuan th hay khong, có nhúng ap dung sai lech
+  trong yéu dén murc can phi cong bó và giai thich trong báo cáo tai chinh hop nhát hay khong;
+  Lap và trinh bay các báo cáo tai chinh hop nhát trén co so tuan thu các chuan myc ké toan, ché do
+  ké toán doanh nghiép Vit Nam va các quy dinh pháp ly có lién quan dén vic lap vå trinh bay báo cáo
+  tài chính hop nhát;
+  Lap các báo cáo tài chính hop nhát dua trén co s hoat dng kinh doanh lién tuc, trùr truòng hop
+  không thé cho rang Công ty se tiép tuc hoat dng kinh doanh.
+ Ban Tng Giám dóc Công ty dam báo rng các s ké toán duc luu gi dê phn anh tinh hinh tài chính
+ hop nhát cúa Cong ty, vói muc do trung thyc, hop ly tai bát cu thòi dim nào va dam bao rang báo cáo
+ tài chính hop nhát tuân th các quy dinh hin hanh cúa Nhà nuóc. Dòng thòi có trách nhim trong vic
+ báo dam an toan tai sân cúa Cong ty và thuc hin các bin pháp thích hop dé ngn chn, phát hin cac
+hành vi gian lan và các vi pham khác.                                                                   2
+ Ban Tng Giám dóc Công ty cam két rång báo cáo tài chính hp nhát da phân ánh trung thyc và hop ly
+tinh hinh tài chinh hop nhat cúa Cóng ty tai thòi diém ngay 31 thang 12 nm 2024, két quà hoat dng
+ kinh doanh hop nhát và tinh hinh luu chuyên tièn t hop nhát cho nm tài chính két thúc cung ngày, phu
+ hop vói chun muc ké toán, ché d ké toán doanh nghip Vit Nam và tuan thú các quy dinh pháp ly có
+ lién quan dén viec lap và trinh bay báo cáo tài chinh hp nhát.
+Cam két khác
+Ban Giám dóc cam két räng Công ty tuån thú Nghj dinh 155/2020/ND-CP ngày 31/12/2020 vè quy dinh
+ chi tiét thi hanh mt só dièu cua Lut Chúng khoán và Công ty không vi pham nghia vu công bó thông tin
+ theo guy ginh tai Thông tu só 96/2020/TT-BTC ngày 16/11/2020 cúa B Tai chính huóng dan công bó
+ thngotin tren Th! truòng chúng khoán và Thông tu só 68/2024/TT-BTC ngay 18/09/2024 cua B Tai
+ chinh vé Viecsúra d b sung mt só dièu cua Thông tu só 96/2020/TT-BTC.
+ s  CO PHAN
+ Thay' BUNTngGiam dóc
+   NGOAI THUONG
+   VET NAM
+
+ Hà Minh Huan
+ Tng Giám dóc
+ TP. Hô Chí Minh, ngày 28 tháng 02 nm 2025
 
 
 
-              CHỈ TIÉU                                      Thuyét    Só cuci                        Só đẩu nám
-Ma s6                                                       minh      VND                                   VND
-
-       100      TÀI SẢN NGAN HẠN                                          81.293.962.685.663 70.932.391.912.367
-       110      Taỉ sán tal chinh                                     81.203.304.827.806        70.813.502.224.578
-       111        Tỉền và cảc khoản tương đương tiẻn                         117.041.162.784    239 000,238.200
-111.1             Tien                                                71.896.299.770            208.969.991.625
-111.2             Các khoản tuong duong tiẻn                                  45.144,863.014    30.030.246.575
-       112        Cac tai sán tà chinh ghi nhán thông
-                  qua Iãillỗ (FVTPL)                                      46.344.730.122,172 42.438.121.481.401
-       113        Cac khoán đàu tư nấm giĐ đến ngày         72                                  893.901.724.895
-   115            dao han (HTM)                                              156,437,469,626
-                  Các khoản cho vay                                       27.167.067,097 421 21.998,601,885.375
-                  Tài sản tàl chinh sán sang đẻ ban                                             562 332.851,822
-       116        (AFS)                                                      580.997,546 762
-                  Dự phong suy giảm già trỉ cac tal                                            (55.101.823.874)
-                  sàn tài chinh và tài sàn thé chap                    (55.101,.823.874)
-                  Cac khoản phải thu                                     745.497.767.994      800.614.271.922
-   1171           Phải thu bản cảc tài sản tàỉ chinh                         308 065.913 808    507.766.978.808
-117,2           7.2 Pháithu và       cotúc; tiên lJi các
-                            Outhu                                            437,431,854 186    292.847.293.114
-                 tai sàn tai chính
-117,4              7.21 Dv thu có túc, tiền lái chua đến                     437.431.854 186    292.847.293.114
-       118                ngay nhán                                                           927.764.853.829
-                 Trả truớc cho          bán                                  147,173.031.496
-       119                        ngưoi
-                 Phảỉ thu cac dich vu còng         chúng                  20.014.559.639       30.201.748.046
-       122       khoán cung cap
-               10.  Các khoản phải thu khác                              211,504,271.980      210.104.950.765
-       129       Du phỏng suy giảm gỉả trj cac khoản                   {232,056.378.194)    (232.039.957.803)
-                 phải thu
-       130     Tài sản ngẳn han khác                                      90.657.857.857      118.889.687.789
-       131       Tam úng                                              24.198.228.921           20,927,597,892
-       132       Vat tu ván phong, cong cu, dung cu                          542.630.166          595.758.695
-       133       Chi phf trà trưóc ngan han                               42,483,417.360       54,860.667,972
-       134       Cam cò thé chap; ký quỹ, kỷ cưoc                            822.909,400           772112,130
-       136       ngan han
-                 Thue va cac khoảnpháỉ thu Nha
-                 nuớc                                                         37.134,443           55.944.865
-   137           Tai sán ngán han khac                                22.573.537.567          41.677,.606.235 +
- 
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN  
-
-## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025  
-tại ngày 31 tháng 03 năm 2025  
-
-| Mã số | CHỈ TIÊU                                                               | Thuyết minh | Số cuối kỳ VND     | Số cuối kỳ VND     | Số đầu năm VND | Số đầu năm VND |
-| ----- | ---------------------------------------------------------------------- | ----------- | ------------------ | ------------------ | -------------- | -------------- |
-| 100   | **A. TÀI SẢN NGẮN HẠN**                                                |             | 81.293.962.685.663 | 70.932.391.912.367 |                |                |
-| 110   | **I. Tài sản tài chính**                                               |             | 81.203.304.827.806 | 70.813.502.224.578 |                |                |
-| 111   | 1. Tiền và các khoản tương đương tiền                                  | 5           | 117.041.162.784    | 239.000.238.200    |                |                |
-| 111.1 | 1.1. Tiền                                                              |             | 71.896.299.770     | 208.969.991.625    |                |                |
-| 111.2 | *1.2. Các khoản tương đương tiền*                                      |             | 45.144.863.014     | 30.030.246.575     |                |                |
-| 112   | 2. Các tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL)             | 7.1         | 46.344.730.122.172 | 42.438.121.481.401 |                |                |
-| 113   | 3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)                     | 7.3         | 6.156.437.469.626  | 3.893.901.724.895  |                |                |
-| 114   | 4. Các khoản cho vay                                                   | 7.4         | 27.167.067.097.421 | 21.998.601.885.375 |                |                |
-| 115   | 5. Tài sản tài chính sẵn sàng để bán (AFS)                             | 7.2         | 580.997.546.762    | 562.332.851.822    |                |                |
-| 116   | 6. Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp | 8           | (55.101.823.874)   | (55.101.823.874)   |                |                |
-| 117   | 7. Các khoản phải thu                                                  | 9           | 745.497.767.994    | 800.614.271.922    |                |                |
-| 117.1 | 7.1. Phải thu bán các tài sản tài chính                                |             | 308.065.913.808    | 507.766.978.808    |                |                |
-| 117.2 | *7.2. Phải thu và cổ tức, tiền lãi các tài sản tài chính*              |             | 437.431.854.186    | 292.847.293.114    |                |                |
-| 117.4 | *7.2.1. Dv thu cổ tức, tiền lãi chưa đến ngày nhận*                    |             | 437.431.854.186    | 292.847.293.114    |                |                |
-| 118   | 8. Trả trước cho người bán                                             | 9           | 147.173.031.496    | 927.764.853.829    |                |                |
-| 119   | 9. Phải thu các dịch vụ công ty chứng khoán cung cấp                   | 9           | 20.014.559.639     | 30.201.748.046     |                |                |
-| 122   | 10. Các khoản phải thu khác                                            | 9           | 211.504.271.980    | 210.104.950.765    |                |                |
-| 129   | 11. Dự phòng suy giảm giá trị các khoản phải thu                       | 9           | (232.056.378.194)  | (232.039.957.803)  |                |                |
-| 130   | **II. Tài sản ngắn hạn khác**                                          | 10          | 90.657.857.857     | 118.889.687.789    |                |                |
-| 131   | 1. Tạm ứng                                                             |             | 24.198.228.921     | 20.927.597.892     |                |                |
-| 132   | 2. Vật tư văn phòng, công cụ, dụng cụ                                  |             | 542.630.166        | 595.758.695        |                |                |
-| 133   | 3. Chi phí trả trước ngắn hạn                                          |             | 42.483.417.360     | 54.860.667.972     |                |                |
-| 134   | 4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn                          |             | 822.909.400        | 772.112.130        |                |                |
-| 136   | 5. Thuế và các khoản phải thu Nhà nước                                 |             | 37.134.443         | 55.944.865         |                |                |
-| 137   | 6. Tài sản ngắn hạn khác                                               |             | 22.573.537.567     | 41.677.606.235     |                |                |
 
 
- + 
+
+
+
+
+
+3 +
+ Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam
+Địa chỉ: Số 406 Nguyễn Tất Thành, Phường 18, Quận 4, Thành phố Hồ Chí Minh
+
+## CÔNG BỐ TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập báo cáo tài chính hợp nhất phản ánh trung thực, hợp lý tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất, Ban Tổng Giám đốc Công ty cam kết đã tuân thủ các yêu cầu sau:
+
+- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc và Ban quản trị Công ty xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không còn sai sót trọng yếu do gian lận hoặc do nhầm lẫn;
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+- Đưa ra các đánh giá và dự đoán hợp lý và thận trọng;
+- Nêu rõ các chuẩn mực kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong báo cáo tài chính hợp nhất hay không;
+- Lập và trình bày các báo cáo tài chính hợp nhất trên cơ sở tuân thủ các chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất;
+- Lập các báo cáo tài chính hợp nhất dựa trên cơ sở hoạt động kinh doanh liên tục, trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh.
+
+Ban Tổng Giám đốc Công ty đảm bảo rằng các sổ kế toán được lưu giữ để phản ánh tình hình tài chính hợp nhất của Công ty, với mức độ trung thực, hợp lý tại bất cứ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất tuân thủ các quy định hiện hành của Nhà nước. Đồng thời có trách nhiệm trong việc bảo đảm an toàn tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chặn, phát hiện các hành vi gian lận và các vi phạm khác.
+
+Ban Tổng Giám đốc Công ty cam kết rằng báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Công ty tại thời điểm ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và tuân thủ các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+### Cam kết khác
+
+Ban Giám đốc cam kết rằng Công ty tuân thủ Nghị định 155/2020/NĐ-CP ngày 31/12/2020 về quy định chi tiết thi hành một số điều của Luật Chứng khoán và Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên Thị trường chứng khoán và Thông tư số 68/2024/TT-BTC ngày 18/09/2024 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 96/2020/TT-BTC.
+
+|   | Thay mặt Ban Tổng Giám đốc<br/><br/><br/><br/>Hà Minh Huấn<br/>Tổng Giám đốc |
+| - | ---------------------------------------------------------------------------- |
+
+
+TP. Hồ Chí Minh, ngày 28 tháng 02 năm 2025
+
+3 + 
  + [] 
  None

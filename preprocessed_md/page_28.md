@@ -1,95 +1,117 @@
-Công ty Cổ phần Chứng khoán SSI                                   B05-CTCKIHN
-THUYÉT MINH BÁO CÁO TẢI CHÍNH HỢP NHÁT QUÝ              NAM 2025 (tiép theo)
-tai ngảy 31 tháng 03 nằm 2025 và cho kỷ kế toán kết thúc cùng ngảy
-4.4      Các khoàn cho vay
-         Cảc khoản cho vay là các tải sản tài chính phi phái sinh có các khoản thanh toán có định
-         hoác có thé xác định và không đưoc nỉêm yet tren thị trường hoan hao, ngoa tru-
-              Các khoản ma Công ty có           định bán ngay hoặc sễ bán trong tương lai gân được phân
-                    loailà tài san nam giữ vỈ muc đích kinh doanh và các khoàn mà ta thời đỉểm ghi nhan
-              ban đầu được Công ty xếp vào nhóm ghi nhận theo gỉá trị hợp lý thông qua lãỉflỗ;
-              Các khoản được Công ty xếp vào nhóm sẵn sàng đé bán tạs thời đỉẻm ghi nhán ban đàu;
-              hoặc
-              Các khoản mà ngưởi nẩm giữ có thẻ không thu hổi đượcphanlớn giá trị đầu tư ban
-              đẩu, không phải do suy giảm chất lượng tin dung; vả được phànloaivào nhóm sánsang
-              de bán
-         Các khoản cho vay được ghỉ nhận ban đầu theo già gốc (giá trị giải ngân cúa khoản cho vay)
-         Sau ghi nhân ban đầu; các khoản cho vay đưpc ghi nhận theo giá trị phân bỏ sử dung phương
-         phảp lải suát thực
-         Giá tri phân bó cua các khoản cho vay được xác đjnh bằng giả trị ghi nhan ban đẳu của tài
-         sản tài chinh trừ đi các khoản hoàn trà góc cóng hoặc trừ các khoản phán bô lúy kế tinh theo
-         phương phảp lãi suẩt thực cúa phản chênh lêch giữa giá tri ghi nhàn ban đầu và gỉá tri đáo
-         han, trừ đi cảc khoản  trừ dự phòng do suy giảm giá tri hoắc do không thể thu hồi (néu
-                           gỉảm
-         có) .
-         Cảc khoản cho vay được xem xét khả nằng suy         giá trj tai ngày lập báo cáo tinh hinh tà
-                                                      giảm
-         chinh hợp nhát Dự phỏng cho các khoản cho vay được trích lập dựa trên mửc tổn thất ưởc
-         tính; được tinh bằng phản chênh léch gỉữa giá trị thị trưởng cua chứng khoán được dùng làm
-         tai sàn đàm bào cho khoàn cho vay và s0 dư cùa khoản cho vay dó. Táng hoẵc glám sô du
-         tai khoản dự phỏng được ghi nhận vào Báo cáo kết quà hoạt động hợp nhát trên khoản muc
-        "Chi phí dự phóng tài sản tài chinh; xử lý ton thất các khoản phải thu khó đòi, lỗ suy giảm tà
-        sán tài chinh và chi phi đi vay cúa càc khoản cho vay"
-4.5     Tàỉ sản tài chinh sẵnsang để bán (AFS)
-         Tai sản tài chính sẫn sàng đề bán là các tài sản tà chính phi phái sinh được xác định là sẵn
-         sàng đế bán hoac khóng đươc phan loar
-          Các khoản cho vay và phải thu;
-          Các khoàn đau tư nàm gỉữ đen ngày đáo han;
-          Các tàỉ sản tài chinh ghi nhan theo  tri hợp lý thông qua lãỉflỗ .
-                                        giả
-        Các tài sản tài chinh AFS được ghi nhân ban đầu theo giá góc (giá mua cộng các chi phí giao
-        dich phát sinh truc tiep tử viec mua các tài sàn tài chính này) . Sau ghi nhân ban đau, tài sàn
-       tài chinh AFS được ghi nhàn theo giá trj hợp lý
-       Khoản chénh lech do dánh giá lại tài sản tàF chính AFS theo giá trị hợp lýIgiá thị trường (tăng
-       hoặc giảm) so với kỷ trưỞc được thế hiện trên khoàn muc Lail(lo) từ dánh giá lai tài sản tài
-       chinh AFS thuộc phẳn Thu nhập toàn diện khác trén báo cáo két quà hoat động hợp nhát.
-       Tai ngày lap bao cảo tinh hinh tai chinh hợp nhat, Côngty cúng đánh gỉá lỉeu có hay không
-       bảng chúng khách quan rảng tài sản tài chinh AFS bj suy giảm giá trỈ. Táng hoac           s6 du
-                                                                            giảm
-       tàl khoản dự phỏng được ghi nhận vào Báo cáo két quả hoat động hợp nhat trên khoàn muc
-       "Chi phí dự phòng tải sản tàỉ chinh; xử lý ton thất các khoản phải thu khó đòi, lỗ suy giảm tài
-       sản tà chinh và chi phl di vay cùa các khoàn cho vay"
-                  Trong trưởng hợp các công cu vốn được phân loai là sẫn sàng đẻ bán, bằng chứng khách
-                quan bao gôm sự giảm giá trị hợp lỷ dáng ké hoặc kéo dài cúa khoản đàu tư dướỉ gỉá tri
-                   ghi sổ. "Đang kẻ dủng để đánh giá s0 với giá gốc cúa khoản đều tư và 'kéo dàí" được
-              dung đẻ chi giai doan mà giá trị hợp lý thấp hơn giá gốc. Khi có bằng chứng về vỉệc gỉảm
-                gỉá trỈ, só dư dự phong được trich lập được xảc đjnh trên sự khảc biệt gỉữa gỉá gôc và
-          giá trị hợp lý tai thòi điem đánh giá +
+Công ty Cô phân Giao nhn Kho vn Ngoai thuong Vit Nam                       Báo cáo tài chính hop nhát
+Só 406 Nguyn Tát Thành, Phuòng 18, Qun 4               cho näm tài chính két thúc ngày 31/12/2024
+Thanh phó Hò Chí Minh
+     Trong do, Công ty me da phân phói li nhuan nm 2023 theo Nghi quyét cúa Dai hi dòng c dông
+     só 83/NQ-VIN ngày 15/04/2024 nhu sau:
+                                                                           Ty lè$                    Só tièn
+                                                                                                         VND
+    Loi nhun sau thué chua phân phói luy ké dén 31/12/2023                         4%     19.521.981.262
+    Trích quy khen thung phúc loi                                                 91%     808.046.652
+    Chi trâ co túc (tuong ung mi c phàn nhn 700 VND)                                      17.850.000.000
+    Loi nhun sau thué chua phân phói còn lai                                       5%     863.934.610
+
+b)  Chi tiét vón dàu tu cua ch sò hu
+                                               31/12/2024        Ty le$     01/01/2024       Ty le
+                                                VND                   %                   VND  %
+    Tng Công ty Thép Vit Nam -           243.193.000.000      95,37         243.193.000.000    95,37        0
+    CTCP                                                           4,63     11.807.000.000     4,63
+     Cac co dông khác                     11.807.000.000                                                    C
+    Cng                                  255.000.000.000            100     255.000.000.000    100          CH
+                                                                                                            NG
+
+c)  Các giao djch vè vón vói các chú so húu và phân phói c túc, chia li nhun                                A
+                                                                                                            vi
+                                                                              Nm 2024                Nm 2023
+                                                                            VND                VND
+     Vón dàu tu cùa chù sò hu                                         255.000.000.000        255.000.000.000
+      - Vón góp dàu nm                                                255.000.000.000     255.000.000.000
+      - Vón góp cuói nm
+     Cô túc, loi nhun då chia                                              68.037.025
+       C túc, loi nhuan phi trá dàu nm                                 18.009.440.000     61.838.000
+       C túc, loi nhun phâi trâ trong nm                                                      48.450.000.000
+       + C túc, loi nhun chia trén li nhun nm truóc                    18.009.440.000     48.450.000.000
+       C túc, loi nhun då chi trá trong nm                           (18.003.700.000)       (48.443.800.975)
+       + C túc, loi nhun chia trên lqi nhun nm truóc          (18.003.700.000)            (48.443.800.975)  1-
+       C túc, li nhun còn phâi trà cuói nm                                 73.777.025             68.037.025
+
+d)  C phiéu
+                                                                           31/12/2024             01/01/2024
+    Só lung c phiéu dång ky phát hành                                             VND          VND
+      Só luong c phiéu da bán ra cöng chúng                   25.500.000                          25.500.000
+      - C phiéu ph thông                                      25.500.000                  25.500.000
+      Só luong cô phiéu dang luu hành                         25.500.000                          25.500.000
+      - C phiéu ph thông                                      25.500.000                  25.500.000
+     Mnh giá cô phiéu dang luu hành: 10.000 VND/ C phiéu
+
+ 19 CÁC KHOÄN MUC NGOÄI BÁNG CÄN DÓI KÉ TOÁN VA CAM KÉT THUÉ HOAT DQNG
+
+ a)  Tài sân thuê ngoài
+    Cg ty thué vn phòng tai ó 406 duòng Nguyn Tt Thành, phuòng 18, qun 4, Thanh phó H
+     Chi Minh theo hop dòng thué hoat dong thòi han la 2 nm tu ngay 01 thang 01 nm 2018 dén
+      ngay 31 thang 12 nám 2019, då gia han thué dén ngay 31 tháng 03 nam 2025.
+
+                                                28 +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## 4.4 Các khoản cho vay
+| Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam<br/>Số 406 Nguyễn Tất Thành, Phường 18, Quận 4<br/>Thành phố Hồ Chí Minh | Báo cáo tài chính hợp nhất<br/>cho năm tài chính kết thúc ngày 31/12/2024 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
-Các khoản cho vay là các tài sản tài chính phi phái sinh có các khoản thanh toán cố định hoặc có thể xác định và không được niêm yết trên thị trường hoàn hảo, ngoại trừ:
 
-a) Các khoản mà Công ty có ý định bán ngay hoặc sẽ bán trong tương lai gần được phân loại là tài sản nắm giữ vì mục đích kinh doanh, và các khoản mà tại thời điểm ghi nhận ban đầu được Công ty xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/lỗ;
+Trong đó, Công ty mẹ đã phân phối lợi nhuận năm 2023 theo Nghị quyết của Đại hội đồng cổ đông số 83/NQ-VIN ngày 15/04/2024 như sau:
 
-b) Các khoản được Công ty xếp vào nhóm sẵn sàng để bán tại thời điểm ghi nhận ban đầu; hoặc
+|                                                         | Tỷ lệ | Số tiềnVND     |
+| ------------------------------------------------------- | ----- | -------------- |
+| Lợi nhuận sau thuế chưa phân phối lũy kế đến 31/12/2023 |       | 19.521.981.262 |
+| Trích quỹ khen thưởng phúc lợi                          | 4%    | 808.046.652    |
+| Chi trả cổ tức (tương ứng mỗi cổ phần nhận 700 VND)     | 91%   | 17.850.000.000 |
+| Lợi nhuận sau thuế chưa phân phối còn lại               | 5%    | 863.934.610    |
 
-c) Các khoản mà người nắm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sàng để bán.
 
-Các khoản cho vay được ghi nhận ban đầu theo giá gốc (giá trị giải ngân của khoản cho vay). Sau ghi nhận ban đầu, các khoản cho vay được ghi nhận theo giá trị phân bổ sử dụng phương pháp lãi suất thực.
+**b) Chi tiết vốn đầu tư của chủ sở hữu**
 
-Giá trị phân bổ của các khoản cho vay được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi các khoản hoàn trả gốc cộng hoặc trừ các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+|                                   | 31/12/2024<br/>VND  | 31/12/2024<br/>Tỷ lệ% | 01/01/2024<br/>VND  | 01/01/2024<br/>Tỷ lệ% |
+| --------------------------------- | ------------------- | --------------------- | ------------------- | --------------------- |
+| Tổng Công ty Thép Việt Nam - CTCP | 243.193.000.000     | 95,37                 | 243.193.000.000     | 95,37                 |
+| Các cổ đông khác                  | 11.807.000.000      | 4,63                  | 11.807.000.000      | 4,63                  |
+| **Cộng**                          | **255.000.000.000** | **100**               | **255.000.000.000** | **100**               |
 
-Các khoản cho vay được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính hợp nhất. Dự phòng cho các khoản cho vay được trích lập dựa trên mức tổn thất ước tính, được tính bằng phần chênh lệch giữa giá trị thị trường của chứng khoán được dùng làm tài sản đảm bảo cho khoản cho vay và số dư của khoản cho vay đó. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chi phí dự phòng tài sản tài chính; xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
 
-## 4.5 Tài sản tài chính sẵn sàng để bán (AFS)
+**c) Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, chia lợi nhuận**
 
-Tài sản tài chính sẵn sàng để bán là các tài sản tài chính phi phái sinh được xác định là sẵn sàng để bán hoặc không được phân loại là:
+|                                                   | Năm 2024VND      | Năm 2023VND      |
+| ------------------------------------------------- | ---------------- | ---------------- |
+| **Vốn đầu tư của chủ sở hữu**                     |                  |                  |
+| - Vốn góp đầu năm                                 | 255.000.000.000  | 255.000.000.000  |
+| - Vốn góp cuối năm                                | 255.000.000.000  | 255.000.000.000  |
+| **Cổ tức, lợi nhuận đã chia**                     |                  |                  |
+| - Cổ tức, lợi nhuận phải trả đầu năm              | 68.037.025       | 61.838.000       |
+| - Cổ tức, lợi nhuận phải trả trong năm            | 18.009.440.000   | 48.450.000.000   |
+| + Cổ tức, lợi nhuận chia trên lợi nhuận năm trước | 18.009.440.000   | 48.450.000.000   |
+| - Cổ tức, lợi nhuận đã chi trả trong năm          | (18.003.700.000) | (48.443.800.975) |
+| + Cổ tức, lợi nhuận chia trên lợi nhuận năm trước | (18.003.700.000) | (48.443.800.975) |
+| - Cổ tức, lợi nhuận còn phải trả cuối năm         | 73.777.025       | 68.037.025       |
 
-a) Các khoản cho vay và phải thu;
 
-b) Các khoản đầu tư nắm giữ đến ngày đáo hạn;
+**d) Cổ phiếu**
 
-c) Các tài sản tài chính ghi nhận theo giá trị hợp lý thông qua lãi/lỗ.
+|                                        | 31/12/2024VND | 01/01/2024VND |
+| -------------------------------------- | ------------- | ------------- |
+| Số lượng cổ phiếu đăng ký phát hành    |               |               |
+| Số lượng cổ phiếu đã bán ra công chúng | 25.500.000    | 25.500.000    |
+| - Cổ phiếu phổ thông                   | 25.500.000    | 25.500.000    |
+| Số lượng cổ phiếu đang lưu hành        | 25.500.000    | 25.500.000    |
+| - Cổ phiếu phổ thông                   | 25.500.000    | 25.500.000    |
 
-Các tài sản tài chính AFS được ghi nhận ban đầu theo giá gốc (giá mua cộng các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này). Sau ghi nhận ban đầu, tài sản tài chính AFS được ghi nhận theo giá trị hợp lý.
 
-Khoản chênh lệch do đánh giá lại tài sản tài chính AFS theo giá trị hợp lý/giá thị trường (tăng hoặc giảm) so với kỳ trước được thể hiện trên khoản mục "Lãi/(lỗ) từ đánh giá lại tài sản tài chính AFS" thuộc phần Thu nhập toàn diện khác trên báo cáo kết quả hoạt động hợp nhất.
+Mệnh giá cổ phiếu đang lưu hành: 10.000 VND/ Cổ phiếu
 
-Tại ngày lập báo cáo tình hình tài chính hợp nhất, Công ty cũng đánh giá liệu có hay không bằng chứng khách quan rằng tài sản tài chính AFS bị suy giảm giá trị. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chi phí dự phòng tài sản tài chính; xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
+## 19 CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN VÀ CAM KẾT THUÊ HOẠT ĐỘNG
 
-* Trong trường hợp các công cụ vốn được phân loại là sẵn sàng để bán, bằng chứng khách quan bao gồm sự giảm giá trị hợp lý đáng kể hoặc kéo dài của khoản đầu tư dưới giá trị ghi sổ. "Đang kể" dùng để đánh giá so với giá gốc của khoản đầu tư và "kéo dài" được dùng để chỉ giai đoạn mà giá trị hợp lý thấp hơn giá gốc. Khi có bằng chứng về việc giảm giá trị, số dư dự phòng được trích lập được xác định trên sự khác biệt giữa giá gốc và giá trị hợp lý tại thời điểm đánh giá.
+**a) Tài sản thuê ngoài**
+
+Công ty thuê văn phòng tại số 406 đường Nguyễn Tất Thành, phường 18, quận 4, Thành phố Hồ Chí Minh theo hợp đồng thuê hoạt động thời hạn là 2 năm từ ngày 01 tháng 01 năm 2018 đến ngày 31 tháng 12 năm 2019, đã gia hạn thuê đến ngày 31 tháng 03 năm 2025.
+
+28
  + 
  + [] 
  None

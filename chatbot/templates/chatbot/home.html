@@ -165,9 +165,9 @@ document.addEventListener("DOMContentLoaded", () => {
             <nav class="top-nav">
             <div class="logo">HnaFinGENI</div>
             <div class="model-buttons">
-                <button>Model 1</button>
+                <!-- <button>Model 1</button>
                 <button>Model 2</button>
-                <button>Model 3</button>
+                <button>Model 3</button> -->
             </div>
             <div class="right-icons">
                 {% if request.session.user_id %}
@@ -188,12 +188,12 @@ document.addEventListener("DOMContentLoaded", () => {
                     {% if request.session.user_id %}
 
                 <button class="new-chat" onclick="window.location.href='{% url 'new_chat' %}'">
-                    <i class="fas fa-plus"></i> New Chat
+                    <i class="fas fa-plus"></i> Đoạn chat mới
                 </button>
                     {% endif %}
 
                 <div class="chat-history">
-                    <h4>Conversations</h4>
+                    <h4>Cuộc hội thoại</h4>
                     {% if request.session.user_id %}
                     <ul>
                         {% for conv in conversations %}
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <i class="fas fa-trash"></i>
                         </li>
                         {% empty %}
-                        <li>⚠️ No conversations</li>
+                        <li>⚠️ Chưa có đoạn chat nào</li>
                         {% endfor %}
                     </ul>
                     {% endif %}
@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                     {% endif %}
                     {% empty %}
-                    <p>Chưa có message nào trong conversation này.</p>
+                    <p>Hãy chọn hoặc tạo mới một đoạn chat để lưu lại cuộc trò chuyện của bạn.</p>
                     {% endfor %}
                 </div>
 
@@ -297,7 +297,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     {{ report.file_name }}
                                 </label>
 
-                                <a href="http://210.245.53.88:8000/media/{{ report.file_name }}.pdf" 
+                                <a href="http://210.245.53.88:8080/media/{{ report.file_name }}.pdf" 
                             target="_blank" 
                             class="open-file-link" 
                             title="Mở báo cáo gốc">
@@ -312,7 +312,7 @@ document.addEventListener("DOMContentLoaded", () => {
                  {% endif %}
                 <hr>
 
-                <h3>Generated Links of Websites and Documents will appear here</h3>
+                <h3>Các báo cáo đã được tải lên và liên kết tới báo cáo gốc.</h3>
             </aside>
            
         </div>
@@ -346,6 +346,25 @@ document.addEventListener("DOMContentLoaded", () => {
                 location.href = li.getAttribute('data-url');
             });
         });
+
+        function lockButtons() {
+            summaryBtn.disabled = true;
+            sendBtn.disabled = true;
+
+            summaryBtn.classList.add("disabled-btn");
+            sendBtn.classList.add("disabled-btn");
+        }
+
+        function unlockButtons() {
+            summaryBtn.disabled = false;
+            sendBtn.disabled = false;
+
+            summaryBtn.classList.remove("disabled-btn");
+            sendBtn.classList.remove("disabled-btn");
+
+            // cập nhật lại logic: chỉ bật summary nếu thỏa điều kiện
+            updateSummaryButtonState();
+        }
 
         // --- Auto scroll ---
         function scrollToBottom() {
@@ -457,18 +476,16 @@ document.addEventListener("DOMContentLoaded", () => {
                         appendMessage("bot", data.response, false, true, data.suggestions || []);
                     }
 
-                    sendBtn.disabled = false;
-                    sendBtn.classList.remove("disabled-btn");
+                    unlockButtons();
                 })
                 .catch(err => {
                     console.error(err);
-                    sendBtn.disabled = false;
-                    sendBtn.classList.remove("disabled-btn");
+                    unlockButtons();
+                    
                 });
 
             // ✅ vô hiệu hóa nút gửi khi đang xử lý
-            sendBtn.disabled = true;
-            sendBtn.classList.add("disabled-btn");
+            lockButtons();
 
             messageInput.value = "";
             fileInput.value = "";
@@ -550,6 +567,8 @@ summaryBtn.addEventListener("click", () => {
         return;
     }
 
+    lockButtons()
+
     appendMessage("bot", "🧾 Đang tạo bản phân tích tóm tắt...", true);
 
     const formData = new FormData();
@@ -569,7 +588,8 @@ summaryBtn.addEventListener("click", () => {
     })
         .then(res => res.json())
         .then(data => {
-            document.getElementById("loading-msg")?.remove();
+            unlockButtons();
+
             if (data.response) {
                 const pdfRegex = /(https?:\/\/[^\s]+\.pdf|\/[^\s]+\.pdf)/;
                 let content = data.response;
@@ -586,6 +606,7 @@ summaryBtn.addEventListener("click", () => {
         .catch(err => {
             console.error(err);
             appendMessage("bot", "❌ Lỗi khi tạo bản tóm tắt.");
+            unlockButtons();
         });
 });
 ///////////////////////////////////////////////////////////////////////// Login ////////////////////////////

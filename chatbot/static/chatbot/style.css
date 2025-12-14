@@ -91,6 +91,7 @@ html, body {
 .chat-history h4 {
   font-size: 0.6em;
   opacity: 0.7;
+  margin-bottom: 10px;
 }
 
 .chat-history ul {
