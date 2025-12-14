@@ -79,7 +79,7 @@ def add_new_report(data):
     #     data = json.load(f)
 
     report = data["report"]
-    with driver.session() as session:
+    with driver.session(database='testreports') as session:
         session.execute_write(import_report, report)
 
     print("✅ Import JSON vào Neo4j thành công!")

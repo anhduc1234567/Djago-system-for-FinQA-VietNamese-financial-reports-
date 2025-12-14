@@ -1,21 +1,35 @@
- Thông tin nảy đà đuợc công bó trẻntrangthông tin điện tử của Công ty vào ngày 29/4/2025 tạỉ đưởng dẫn
-WSS com vn.
- This information was posted on SSI website on Aprỉl 29" , 2025 at thỉs link WWW ssicomnVn
-Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoan toàn chịu trach nhiệm trước
- pháp luat ve nội dung cac thóng tin đà công bo
- We hereby declare to be responsible for the accuracy and completeness of the above information
- Tàiliêu_đinh kèmlAttached documents:                 Đai diện tổ chức
-  Báo cáo tải chính hợp nhất Quý          nám 2025    Organization representative
-  (banTiếng Việt và bản Tiéng Anh);                   Người được ủy quyèn công bố thông tin
-     The 15 Quarter of 2025 Consolidated Financial    Party authorized tp disclose information
-  Statements (Vietnamese and English versions)        CMNG
-                                                      CÕ PHẨ}
-                                                      CHỨNG  DAN
-                                                      SS
++ Lợi nhuận sau thế thu nhập doanh nghiệp tại báo cáo kếtquảkinh doanh của kỳ
+báo cáothayđổi từ 10% trở lên s0 với báo cáocùngkỳ năm trước:   Không
+                      Có
+  giảitrình trong trườnghợptích có:
+ Văn bản              Có                                        Không
 
-                                                             Iguyen_Kim Long
-                                                      Giám đốc Luật và Kièm soát tuân thủ
-                                                      Director, Legal and Compliance
+ +Lợi nhuận sau thuế trong kỳ báo cáo bị lỗ, chuyển từ lãi ở báo cáo cùngkỳ năm
+trước sang lỗ ở kỳ này hoặc ngược lại:                          Không
+                      Có
+  giảitrình trong trườnghợptích có:
+ Văn bản
+                      Có                                        Không
+ Thông tin này đã được côngbố trên trang thông tin điện tử củaCôngty vào ngày
+20/01/2025 tại đường dẫn: http:llbackanco coml  tổng
+ 3.Báo cáo về các giao dịch có giá trị từ 35%   tài sản trở lên trong năm 2024.
+ Trường hợp TCNY có giao dịch đề nghị báo cáo đầy đủ các nộidung sau:
+  Nộidunggiao dich: Không.
+  Tỷ trong giá trị giao dịch/tổng giá trị tài sản của doanh nghiệp (%) (căn cứ trên báo5g5
+cáo tài chính năm gần nhất): Không.                                                TY
+ Ngày hoàn thành giao dịch: Không                                                  ÂN
+Chúng tôi xin cam kết các thông tincôngbố trên đây làđúng            toànpẢN)
+chịu trách nhiệm trước pháp luật về nộidungcác thông tincôngbố. sự thật và hoàn  4n       z)
+                                                                                 BAC
+
+Tài liệu đính kèm:                              ĐẠLDIỆN TỖ CHỨC
+Báo cáo tài chính Quý IV/2024;            NGW@TĐưỢC ỦY QUYỀN CBTT
+                                                CÔNG TY
+                                                cÔ PHAN
+                                                KHOÁNG sẢN
+                                          4BACBĂed#
+                                                18
+                                                Nguyễn Văn Vũ
 
 
 
@@ -26,29 +40,48 @@ Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự
 
 
 
-han)
-KHOAN| +
+2/2 +
  
-Thông tin này đã được công bố trên trang thông tin điện tử của Công ty vào ngày 29/4/2025 tại đường dẫn www.ssi.com.vn.  
-*This information was posted on SSI website on April 29th, 2025 at this link www.ssi.com.vn*
++ Lợi nhuận sau thế thu nhập doanh nghiệp tại báo cáo kết quả kinh doanh của kỳ  
+báo cáo thay đổi từ 10% trở lên so với báo cáo cùng kỳ năm trước:  
+[ ] Không  
+[x] Có  
 
-Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.  
-*We hereby declare to be responsible for the accuracy and completeness of the above information*
+  Văn bản giải trình trong trường hợp tích có:  
+  [ ] Có  
+  [ ] Không  
 
-**Tài liệu đính kèm/Attached documents:**  
-* Báo cáo tài chính hợp nhất Quý 1 năm 2025 (bản Tiếng Việt và bản Tiếng Anh);  
-  *The 1st Quarter of 2025 Consolidated Financial Statements (Vietnamese and English versions)*
++ Lợi nhuận sau thuế trong kỳ báo cáo bị lỗ, chuyển từ lãi ở báo cáo cùng kỳ năm  
+trước sang lỗ ở kỳ này hoặc ngược lại:  
+[ ] Không  
+[x] Có  
 
-**Đại diện tổ chức**  
-*Organization representative*  
-**Người được ủy quyền công bố thông tin**  
-*Party authorized to disclose information*
+  Văn bản giải trình trong trường hợp tích có:  
+  [ ] Có  
+  [ ] Không  
 
-CÔNG TY CỔ PHẦN CHỨNG KHOÁN SSI  
+Thông tin này đã được công bố trên trang thông tin điện tử của Công ty vào ngày  
+20/01/2025 tại đường dẫn: http://backanco.com/  
 
-**Nguyễn Kim Long**  
-*Giám đốc Luật và Kiểm soát tuân thủ*  
-*Director, Legal and Compliance*
+3. Báo cáo về các giao dịch có giá trị từ 35% tổng tài sản trở lên trong năm 2024.  
+Trường hợp TCNÝ có giao dịch đề nghị báo cáo đầy đủ các nội dung sau:  
+- Nội dung giao dịch: Không.  
+- Tỷ trọng giá trị giao dịch/tổng giá trị tài sản của doanh nghiệp (%) (căn cứ trên báo cáo tài chính năm gần nhất): Không.  
+- Ngày hoàn thành giao dịch: Không.  
+
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin công bố.  
+
+Tài liệu đính kèm:  
+- Báo cáo tài chính Quý IV/2024;  
+
+ĐẠI DIỆN TỔ CHỨC  
+NGƯỜI ĐƯỢC ỦY QUYỀN CBTT  
+
+CÔNG TY  
+CỔ PHẦN  
+KHOÁNG SẢN  
+
+Nguyễn Văn Vũ  
  + 
  + [] 
  None

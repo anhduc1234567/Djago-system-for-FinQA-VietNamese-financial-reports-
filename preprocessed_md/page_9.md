@@ -1,66 +1,77 @@
-Côngty Có phầnChứngkhoán SSI
-8AO CÁO KÊT QUẢ HOAT ĐONG HỢP NHẢT    B01-CTCKHN
-cho kỷ kế toan kết thúc ngay 31thang    QUY NẮM 2025
-                                        03 nam 2025
-
-
-
-Ma s6   CHi TIEU                                          Thuyét                       Quỷ                       Lũy kế từ đdu nẵm dén cuấi quỷ ndy
-                                                          Iiinn     Nám nay                   NamIruoc            Namn nay
-          DOANH THUHOAT DỌNG                                        VND                       VND                 VND                   Num truớc
-                                                                                                                                        VND
-          Lai tử cac tài sản tài chỉnhghi nhan
-          thongqua lẫMỗ (FVTPL)
-01 2               Lai bán cẳc tài sán tàỉ chinhFVTPL               1.041.283.271,717         909.880 026 208     1.041 283 271.717
-                   Chénh lộch tang vêdánh qia Ial cac               260.983,520.858           366.230.190.237                           909880.026 208
-01.3      13 fảỉ sán taichinh FVTPL                       29,2                                                       260 983 520858     366 230 190 237
-                  Co túc; tiẻn lãi phát sinh tửtài sán              159.817.042.214           49.740 192 690
-01 4              tai chinh FVTPL                         29 $                                                      159 817 042 214     49 740 192 690
-                  Chênh lêch qỉảm do đánhGiá lai                    509 584.128.758           484 193.622 120
-                 phẩỉ trà chửngquyendanaluu                                                                      509 584 128 758       484 193 622 120
-                 hanh
-          Laỉtử các khoản đàu tư nẩm giữ đến              29.3      110.898.579.887           9,716.021.161
-          ngay đáo han (HTM)                                                                                     110 898 579 887        9 716 021 161
-          Lắi {ử câc khoán cho vay vaphải thu                       85 401.559.324        105.822.526 572
-          Lýitử taỉ sản tai chinh sansang de ban                    627.993.174 845       446.711,339.935        85,401 559 324        105822 526 572
-          (AFS)                                           29 4                                                   627.993,174845        446,711,339,935
-         Doanh thunghiép vụ mmi gỉỞỉchung                           1.005 041.096             2.155 050.909
-         khoan                                                                                                    005,041,096           2 155 050,909
-         Doanh thu nghiệp vu bảolanh đai lỷ                         310.979.654.759      449,290,264138
-        phảt hành chửng khoan                                                                                    310,.979,654,759      449 290 264 138
-        Doanh thu nghiệp vụ tư vấn đầu tư                           400.000.00O
-        chửng khoán                                                                                               400,0OO OOO
-        Doanh thu nghlèp vụ lưu kỷchung                             13 184.392 919            866,479 003
-        khoan                                                                                                    13,184 392 919         7.866 479.003
-        Doanh thuhoatdong WU van talchinh                           9.079004 048              056 740 561
-        Thunhap hoat
-                       dong khac                                    508 289.658               775 166983          079,004 048           9.056 740.561
-        Cong doanh thu hoạtdong                                     61.438 323.627       41,265772 360            508.289,658            775 166 983
-                                                                   2.159272.711.993    1.972.823.J66.669         61 438 323,627          265.772.360
-                                                                                                            2.159.272.711.993      1.972.823.366.669 +
+CÔNG TY CỖ PHẦN KHOÁNG SẢN BẮC KAN                                                     Mẫu số: B03-DN
+Tổ 4, phường Đức Xuân, thànhphốBắc Kạn, tỉnh BắcKạn
+                                BÁO CÁO LƯU CHUYỄN TIỀN TỆ
+                                  Theo phương phápgiántiếp)
+                                         Quý IVI2024                          Đơn vị tính: VND
+                                                                        Lũy kế từ đầu     Lũy kế từ đầu
+                    Chỉ tiêu                          Mã số |Thuyết     năm đến cuối      năm đến cuối quý
+                                                             minh        quý này          này
+                                                                        (Năm nay)         (Năm trước)
+                                                       2     3           4                    5
+I Lưu chuyển tiền từ hoạt động kinh
+doanh
+1. Lợi nhuận trước thuế                                01    VII.9      53.911.449,645    6.053.846.852
+2. Điều chỉnh cho các khoản                                              12.837.871.914     15.686.453.225
+ Khấu hao TSCĐ và BĐSĐT                                02
+ Các khoản dự phòng                                    03                                      (3.000.000)
+  Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh           04      VII.4     (723.794.028)    (874.765.523)
+[giá lai các khoản muc tiền tệ có gốc ngoai tệ                           (221.567.400)    (891.941.204)
+ Lãi; lỗ từ hoạt động đầu tư                           05                                 11.418.015.654
+ Chi phí lãi vay                                       06      VII.4     8.562.700.166
+ Các khoản điều chỉnh khác                             07
+3. Lợi nhuận từ hoạt động kinh doanh                   08               74.366.660.297    31.388.609.004
+trwớc thay đổi vốn lưuđộng                             09                39.208.041.429   17.916.746.844
+   Tăng,giảmcác khoản phải thu                                                            23.169.335.489  N
+   Tăng,giảmhàngtồn kho                                10                59.002.156.662
+            Tăng,giảm các khoản phải trả (Không kể                                        (18.777.110.093)
+     Jlãi vay phải trả, thuế thu nhập doanh nghiệp     11               99.218.550.811
+[phải nộp                                              12               (42.541.087.913)  (10.781.674.615)
+   Tăng,giảm chi phí trả trước
+   Tăng,giảmchứng khoán kinh doanh                     13               (8.037.487.351)   (10.794.368.533)
+  Tiền lãi vay đã trả                                  14
+  Thuế thu nhập doanh nghiệp đã nộp                    15
+  Tiền thu khác từ hoạtđộngkinh doanh                  16
+  Tiền chi khác cho hoạtđộngkinh doanh                 17
+Lưuchuyểntiền thuân từ hoạt động kinh                  20               221.216.833.935   32.121.538.096
+doanh
+II Lưuchuyểntiền từ hoạt động đầu tư
+1 .Tiền chi để mua sắm, xây dựng TSCĐ và               21               (20.580.475.492)  (3.595.899.574)
+các tài sản dài hạn khác +
  
-# Công ty Cổ phần Chứng khoán SSI
 
-## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 1 NĂM 2025  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
+CÔNG TY CỔ PHẦN KHOÁNG SẢN BẮC KAN  
+Tổ 4, phường Đức Xuân, thành phố Bắc Kạn, tỉnh Bắc Kạn  
+Mẫu số: B03-DN
 
-| Mã số | CHỈ TIÊU                                                           | Quý 1<br/>Thuyết minh | Quý 1<br/>Năm nay VND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước VND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay VND | Năm trước VND     |
-| ----- | ------------------------------------------------------------------ | --------------------- | --------------------- | ---------------------------------------------------- | -------------------------------------------------- | ----------------- |
-| 01    | **I. DOANH THU HOẠT ĐỘNG**                                         |                       |                       |                                                      |                                                    |                   |
-| 01.1  | Lãi từ các tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL)     | 29.1                  | 1.041.283.271.717     | 909.880.026.208                                      | 1.041.283.271.717                                  | 909.880.026.208   |
-| 01.2  | Lãi bán các tài sản tài chính FVTPL                                | 29.2                  | 260.983.520.858       | 366.230.190.237                                      | 260.983.520.858                                    | 366.230.190.237   |
-| 01.3  | Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL        | 29.2                  | 159.817.042.214       | 49.740.192.690                                       | 159.817.042.214                                    | 49.740.192.690    |
-| 01.4  | Chênh lệch giảm do đánh giá lại phải trả chứng quyền đang lưu hành | 29.4                  | 509.584.128.758       | 484.193.622.120                                      | 509.584.128.758                                    | 484.193.622.120   |
-| 02    | Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)             | 29.3                  | 110.898.579.887       | 9.716.021.161                                        | 110.898.579.887                                    | 9.716.021.161     |
-| 03    | Lãi từ các khoản cho vay và phải thu                               |                       | 85.401.559.324        | 105.822.526.572                                      | 85.401.559.324                                     | 105.822.526.572   |
-| 04    | Lãi từ tài sản tài chính sẵn sàng để bán (AFS)                     | 29.4                  | 627.993.174.845       | 446.711.339.935                                      | 627.993.174.845                                    | 446.711.339.935   |
-| 05    | Doanh thu nghiệp vụ môi giới chứng khoán                           |                       | 1.005.041.096         | 2.155.050.909                                        | 1.005.041.096                                      | 2.155.050.909     |
-| 06    | Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán         |                       | 310.979.654.759       | 449.290.264.138                                      | 310.979.654.759                                    | 449.290.264.138   |
-| 07    | Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán                      |                       | 400.000.000           |                                                      | 400.000.000                                        |                   |
-| 08    | Doanh thu nghiệp vụ lưu ký chứng khoán                             |                       | 13.184.392.919        | 7.866.479.003                                        | 13.184.392.919                                     | 7.866.479.003     |
-| 09    | Doanh thu hoạt động tư vấn tài chính                               |                       | 9.079.004.048         | 9.056.740.561                                        | 9.079.004.048                                      | 9.056.740.561     |
-| 10    | Thu nhập hoạt động khác                                            |                       | 508.289.658           | 775.166.983                                          | 508.289.658                                        | 775.166.983       |
-| 11    | **Cộng doanh thu hoạt động**                                       | 30                    | 2.159.272.711.993     | 1.972.823.366.669                                    | 2.159.272.711.993                                  | 1.972.823.366.669 |
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ  
+(Theo phương pháp gián tiếp)  
+Quý IV/2024  
+Đơn vị tính: VND
+
+| Chỉ tiêu                                                                                         | Mã sốThuyết minh | Lũy kế từ đầu năm đến cuối quý<br/>(Năm nay) | Lũy kế từ đầu năm đến cuối quý<br/>(Năm trước) |   |
+| ------------------------------------------------------------------------------------------------ | ---------------- | -------------------------------------------- | ---------------------------------------------- | - |
+| **I. Lưu chuyển tiền từ hoạt động kinh doanh**                                                   |                  |                                              |                                                |   |
+| 1. Lợi nhuận trước thuế                                                                          | 01<br/>VII.9     | 53.911.449.645                               | 6.053.846.852                                  |   |
+| 2. Điều chỉnh cho các khoản                                                                      |                  | 12.837.871.914                               | 15.686.453.225                                 |   |
+| - Khấu hao TSCĐ và BĐSĐT                                                                         | 02               |                                              |                                                |   |
+| - Các khoản dự phòng                                                                             | 03               |                                              | (3.000.000)                                    |   |
+| - Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ       | 04<br/>VII.4     | (723.794.028)                                | (874.765.523)                                  |   |
+| - Lãi, lỗ từ hoạt động đầu tư                                                                    | 05               | (221.567.400)                                | (891.941.204)                                  |   |
+| - Chi phí lãi vay                                                                                | 06<br/>VII.4     | 8.562.700.166                                | 11.418.015.654                                 |   |
+| - Các khoản điều chỉnh khác                                                                      | 07               |                                              |                                                |   |
+| 3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động                                 | 08               | 74.366.660.297                               | 31.388.609.004                                 |   |
+| - Tăng, giảm các khoản phải thu                                                                  | 09               | 39.208.041.429                               | 17.916.746.844                                 |   |
+| - Tăng, giảm hàng tồn kho                                                                        | 10               | 59.002.156.662                               | 23.169.335.489                                 |   |
+| - Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) | 11               | (18.777.110.093)                             |                                                |   |
+| - Tăng, giảm chi phí trả trước                                                                   | 12               | 99.218.550.811                               | (42.541.087.913)                               |   |
+| - Tăng, giảm chứng khoán kinh doanh                                                              | 13               | (10.781.674.615)                             | (8.037.487.351)                                |   |
+| - Tiền lãi vay đã trả                                                                            | 14               |                                              |                                                |   |
+| - Thuế thu nhập doanh nghiệp đã nộp                                                              | 15               |                                              |                                                |   |
+| - Tiền thu khác từ hoạt động kinh doanh                                                          | 16               |                                              |                                                |   |
+| - Tiền chi khác cho hoạt động kinh doanh                                                         | 17               |                                              |                                                |   |
+| **Lưu chuyển tiền thuần từ hoạt động kinh doanh**                                                | 20               | 221.216.833.935                              | 32.121.538.096                                 |   |
+| **II. Lưu chuyển tiền từ hoạt động đầu tư**                                                      |                  |                                              |                                                |   |
+| 1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác                                | 21               | (20.580.475.492)                             | (3.595.899.574)                                |   |
 
 
  + 

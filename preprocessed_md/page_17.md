@@ -1,66 +1,190 @@
-Công ty Cổ phần Chứng khoán SSI                       BO3b-CTCKIHN
-BÁO CÁO LƯU CHUYÉN TIÊN TE HƠP NHAT QUÝ               NAM 2025 (tiep theo)
-cho kỷ kế toán két thúc ngày 31 tháng 03 nắm 2025
+    Đầu tư vào
+Côngty liên      1.475.086.581 (1.475.086.581)|                              1.475.086.581     (1.475.086.581)
+doanh, liên
+    kết
+    Côngty CP
+|Đầu tu TM &     1.475.086.581         (1.475.086.581)                       1.475.086.581     (1.475.086.581)/
+ Du lịch Bó
+    Nặm
+    Đầu tư                                                                   20.257.416.075                    20.257.416.075
+góp vốn vào      26.690.216.075                           26.690.216.075
+    đơn vị khác
+   Côngty
+  TNHH sầu       5.000.000.000                            5.000.000.000      5.000.000.000                      5.000.000.000
+  riêngTây
+   Nguyên
+ Tổngcôngty
+ CP khoáng       120.000.000                                  120.000.000    120.000.000                       120.000.000
+    sản luyện
+kim Bắc Kạn
+ Côngty CP                                                 21.570.216.075    15.137.416.075                    15.137.416.075
+    Bến xe Nghệ      21.570.216.075
+     An
 
-PHẢN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔl GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+ Tráiphiếu            2.000.000.000                         2.000.000.000    2.000.000.000                     2.000.000.000
+    dài hạn
 
-                                                      Lũỵ kấ_từ dẩu nắm đén cuói quỷ ndỵ
-                                                      Thuyét        Năm nay     Nám truóc
-       CHI TIÊU                                       minn              VND             VND
 
-         Lưu chuyen tièn hoat động môi
-                                          giói,
-         thác của khách hàng
-         Tièn thu bán chứng khoản môỉ gỉỚỉ cho           99,496.219.051.361     112.213,581,354.619
-         kháchharg
-         Tien chi mua chung khoan mói giới cho        (100.119,555,746.727)     (110.207.277.667.975)
-         khách hang
-         Nhán tiên gửỉ đẻ thanh toẩn giao dịch          190.048,162.872.186     133.202.290.584 445
-         chúng khoán cúa khach hang
-             Tiền gửi kỷ cuy cúa Nhà dau tư ta VSD           34,843.471.790      (147.010.760,171)
-        ((giámVtàng))
-          Chi trả thanh toán giao dịch chửng khoán    (185,101.517.768.454)     (131.661.927,042.359)
-          cúa khách hàng
-          Chi trả phí lưu ký chứng khoán của khách          (8.583 206,463)        (7.733,869.426)
-          hang         cua Tổ chửc phát hảnh chứng
-         Tien thu                                           381.698.115,000        308.569,887 OOO
-         khoán
-              Tien chi trà Tó chuc phat hanh chửng      (1.764.222 115.492)      (799.869.380,056)
-         khoán
-       (Giảm) tăng tien thuan trong kỷ                    2.967.044.673.201      2.900.623.106.077
-         Tièn va các khoản tưong đương tien               4.941,400.793.936      5.274.737.029.714
-         dáu nám cùa kháchhang
-32     Tièn     ngan hang áầu nam;                       4.941,.400.793.936      5.274.737,029.714
-        khoản theo phương thức CTCK quán lỷ               4,919,023.915.622     5,166.309,.968.071
-        Tien gửỉtong hợp giao dich chửng khoan               11,079.681.180            364.816.809
-        cho                                                  11.297,197.134         99.062 244,834
-        Tien         chúc phát hanh +
+    10, Thuế và                      Số tiền nộp  Số phải nộp       Isố thuế còn phải
+    các khoản      Đầu năm           trước đầu    trong kỳ          Số thuế bù trừ  Số đã nộp  nộp cuối kỳ
+             nộp                                                                                                 Â
+    phải                             năm
+    nhà nước
+    Thuế GTGT                                      32.377.072.014/  32.306.926.111  70.145.903
+    phải nộp                                                                                                     8
+    Thuế Nhập                                      3.177.347.910]                   3.177.347.910
+    khẩu
+    Thuế xuất                                     39.112.245.065                    39.112.245.065
+    [khẩu
+    Thuế tiêu       26.641.012                     11.080.380                       15.948.588        21.772.804
+    thụ đặc biệt
+    Thuế thu
+    [nhập           1.197.891.864                 13.349.092.898                    2.395.436.208  12.151.548.554
+    doanh
+    Thuế tài      1316.254.0551                    7.355.048.810                    8.409.308.194     261.994.671
+    nguyên
+    Phí bảo vệ    1.170.252.033                    6.028.970.440                    6.636.211.735     563.010.738
+    môitrường
+    Thuế thu                                       861.613.129|      374.906.997    489.983.0261      190.690.417
+    nhập cá         193.967.311
+    Inhân +
  
-# Công ty Cổ phần Chứng khoán SSI  
-B03b-CTCK/HN  
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
 
-## PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+<table>
+<thead>
+<tr>
+<th rowspan="2">Đầu tư vào</th>
+<th colspan="2">Đầu năm</th>
+<th colspan="2">Số tiền nộp trước đầu năm</th>
+<th colspan="2">Số phải nộp trong kỳ</th>
+<th colspan="2">Số thuế bù trừ</th>
+<th colspan="2">Số đã nộp</th>
+<th rowspan="2">Số thuế còn phải nộp cuối kỳ</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Công ty liên doanh, liên kết</td>
+<td>1.475.086.581</td>
+<td>(1.475.086.581)</td>
+<td></td>
+<td></td>
+<td>1.475.086.581</td>
+<td>(1.475.086.581)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Công ty CP Đầu tư TM & Du lịch Bắc Nậm</td>
+<td>1.475.086.581</td>
+<td>(1.475.086.581)</td>
+<td></td>
+<td></td>
+<td>1.475.086.581</td>
+<td>(1.475.086.581)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Đầu tư góp vốn vào đơn vị khác</td>
+<td>26.690.216.075</td>
+<td></td>
+<td></td>
+<td></td>
+<td>26.690.216.075</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Công ty TNHH sầu riêng Tây Nguyên</td>
+<td>5.000.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5.000.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tổng công ty CP khoáng sản luyện kim Bắc Kạn</td>
+<td>120.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>120.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Công ty CP Bến xe Nghệ An</td>
+<td>21.570.216.075</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15.137.416.075</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Trái phiếu dài hạn</td>
+<td>2.000.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2.000.000.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-| Mã số | CHỈ TIÊU                                                       | Thuyết minh                                                                      | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nay VND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trước VND |                       |
-| ----- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | --------------------- |
-| I.    | **Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng** |                                                                                  |                                                    |                                                      |                       |
-|       | 01                                                             | 1. Tiền thu bán chứng khoán môi giới cho khách hàng                              |                                                    | 99.496.219.051.361                                   | 112.213.581.354.619   |
-|       | 02                                                             | 2. Tiền chi mua chứng khoán môi giới cho khách hàng                              |                                                    | (100.119.555.746.727)                                | (110.207.277.667.975) |
-|       | 07                                                             | 3. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng              |                                                    | 190.048.162.872.186                                  | 133.202.290.584.445   |
-|       | 07.1                                                           | 4. Tiền gửi ký quỹ của Nhà đầu tư tại VSD (giảm/tăng)                            |                                                    | 34.843.471.790                                       | (147.010.760.171)     |
-|       | 08                                                             | 5. Chi trả thanh toán giao dịch chứng khoán của khách hàng                       |                                                    | (185.101.517.768.454)                                | (131.661.927.042.359) |
-|       | 11                                                             | 6. Chi trả phí lưu ký chứng khoán của khách hàng                                 |                                                    | (8.583.206.463)                                      | (7.733.869.426)       |
-|       | 14                                                             | 7. Tiền thu của Tổ chức phát hành chứng khoán                                    |                                                    | 381.698.115.000                                      | 308.569.887.000       |
-| 15    | 8. Tiền chi trả Tổ chức phát hành chứng khoán                  |                                                                                  | (1.764.222.115.492)                                | (799.869.380.056)                                    |                       |
-| 20    | **(Giảm)/ tăng tiền thuần trong kỳ**                           |                                                                                  | **2.967.044.673.201**                              | **2.900.623.106.077**                                |                       |
-| II.   | **Tiền và các khoản tương đương tiền đầu năm của khách hàng**  |                                                                                  |                                                    |                                                      |                       |
-|       | 30                                                             |                                                                                  |                                                    | 4.941.400.793.936                                    | 5.274.737.029.714     |
-|       | 31                                                             | Tiền gửi ngân hàng đầu năm:                                                      |                                                    | 4.941.400.793.936                                    | 5.274.737.029.714     |
-|       | 32                                                             | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |                                                    | 4.919.023.915.622                                    | 5.166.309.968.071     |
-|       | 33                                                             | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng                         |                                                    | 11.079.681.180                                       | 9.364.816.809         |
-|       | 35                                                             | - Tiền gửi của Tổ chức phát hành                                                 |                                                    | 11.297.197.134                                       | 99.062.244.834        |
+| 10. Thuế và các khoản nộp phải nộp nhà nước | Đầu năm       | Số tiền nộp trước đầu năm | Số phải nộp trong kỳ | Số thuế bù trừ | Số đã nộp      | Số thuế còn phải nộp cuối kỳ |
+| ------------------------------------------- | ------------- | ------------------------- | -------------------- | -------------- | -------------- | ---------------------------- |
+| Thuế GTGT phải nộp                          |               | 32.377.072.014            | 32.306.926.111       | 70.145.903     |                |                              |
+| Thuế Nhập khẩu                              |               | 3.177.347.910             |                      | 3.177.347.910  |                |                              |
+| Thuế xuất khẩu                              |               | 39.112.245.065            |                      | 39.112.245.065 |                |                              |
+| Thuế tiêu thụ đặc biệt                      | 26.641.012    | 11.080.380                |                      | 15.948.588     | 21.772.804     |                              |
+| Thuế thu nhập doanh                         | 1.197.891.864 | 13.349.092.898            |                      | 2.395.436.208  | 12.151.548.554 |                              |
+| Thuế tài nguyên                             | 1.316.254.055 | 7.355.048.810             |                      | 8.409.308.194  | 261.994.671    |                              |
+| Phí bảo vệ môi trường                       | 1.170.252.033 | 6.028.970.440             |                      | 6.636.211.735  | 563.010.738    |                              |
+| Thuế thu nhập cá nhân                       | 193.967.311   | 861.613.129               | 374.906.997          | 489.983.026    | 190.690.417    |                              |
 
 
  + 

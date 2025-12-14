@@ -1,98 +1,80 @@
-cong ty Cổ
-BÁO CẢO  phẩnChứng khoán
-cho kỷ KO(KÊT QUẨHOAT =    SSI
-toân ket thúc  ĐONGHƠP
-          ngay             thang  NHAT QUÝ
-                                  03 nám  NẲM_
-                                          2025  2025 (tiéptneo)
+2Tiền thu từ thanh lý, nhượng bán TSCĐ        22                             50.000.000
+và các tài_sản dài han khác
+3 Tiền chi cho vay; mua các công cụ nợ của    23                           (2.000.000.000)
+đơn vị_khác                            công
+ 4 Tiễn thu hổi cho vay, bán lại các       cụ    24
+nợ của đơn vị khác
+ 5 .Tiền chi đầu tư góp vốn vào đơn vị khác      25                          822.135.000
+    6.Tiên thu hồi đầu tưgóp 'vốn vào đơn vị     26
+  7.Tiền thu lãi cho vay, cổ tức và lợi nhuận    27            221.567.400   19.806.204
+được chia                                                                    (4.703.958.370)
+ Lưuchuyễn tiễn thuần từ hoat động đầu           30  (20.358.908.092)
+     III. Lưu chuyển tiền từ hoạt động tài
+chính
+  1. Tiền thu tù phát hành cỗ phiếu; nhận vốn  31
+ góp của chủ sở_hũu
+ 2. Tiền trả lại vốn góp cho các chủ sở hữu;|  32
+ mua lại cổphiếu của doanh nghiệp đã phát|
+ hành                                          33    218.072.554.022         283.440.041.510
+ 3 . Tiền thu từ đi vay                        34    (303.384.104.022)      (287.925.442.801)
+  4 Tiền trả nợ gốc vay
+  5. Tiền trả nợ gốc thuê tài chính            35
+  6. Cổtức,lợi nhuận đã trả cho chủ sở hữu     36
+  Lưuchuyểntiền thuần từ hoạt động tài         40    (85.311.550.000)        (4.485.401.291)
+ chính
+  Lưuchuyễn tiền thuần trong kỳ(5o=            50    115.546.375.843         22.932.178.435
+ 20+30+40)                                           27.424.122.422          3.617.178.464
+  Tiền_và twơng đương_tiền đầu kỳ              60    YII
+  Ảnh hưởng củathayđỗi tỷ giá hối đoái quy     61              723.794.028   874.765.523
+ đổingoaitệ
+  Tiền và tương đương tiền cuối kỳ             70    VII  143.694.292.293    27.424.122.422
+ ((70=50+60+61)
+                                                          Bắc Kạn; ngày 20 tháng 01 năm 2025
+               Người lập biểu                Kế toán trưởng     Tổng         đốc
+                                                                giám
+                                                                149595
 
-Mâ s8    CHÍ TIÊU                                              B01-CTCKHN
+                                                                4 CÔNG TY
+                                                               0 cỔ PHẩn
+                   fn                                          0
+                                                               2 KHOKKG BANz]
+                                               %A (            4BACBÌGXẠN
+                                                                 KẠNTBAC
+               Trần Thị Tuyết                 Trần Thị Yến       Đinh Văn Hiến +
+ 
 
-          Chi Phi [Hoat                         Thuyet         Quý    Luy ke
-21 ?      4ỗ tử các tai    DỌNG                 mv             Namnay    từ dảunám đón
-                           sản táỉ                                          cvoi
-               ban cac tai schinhFVIPL                         VnD       Námtnoc      quỷ ny
-213       Chonh [ lech      San (âichinh FVTPL                           VND
-          tai san tái      giám danh]                                               Nám nay
-214       Chi phi          chinhFVTPLgiá 'ai cac  29 1    298 842.936               VND    Nam
-                           giaodich                       160  378                            Irvuc
-               chinhFVTPL (nua [Cac tár           28 2    180818 846     166 563617 .
-          Chennlêchláng d                 sán             96 231 ,       80 606  145  288.842.936 =    VND
-          phải tráchung                danh Gia Iai            594154    348 191      160 180 816.878
-         Ló vahanh          quyendang                                    21 4477101.144    846         166.563
-          ghi nhânchenh                  Juu              390 583638                       96 231      617.145
-2        phanioailai        lech đanh ,                29 3              208752            59:151      606.348 797
-                                         giá theo
-         Chi                chinh AFS                          40 039              199                 21 447
-         Chi phl _
-         phihoatoong       doanh           khi                 939 740                     390583638    101144
-         Chi phi nghiep vu mói giớí                                       63.301.                       208
-         hanh   nghiep                chung                               415.611                       752 =₁₉₉
-              Chung       vu bdo lanh          khoan           741.                        40 030 =
-         Chi phi     khoan                                     17153,291 ,                 939.740
-                nghiệp vu tư vắn       đai lý phat                       390
-         khoan                dau tv                           248 707 262 923  23.212                  63 301415 611
-32       Chi phí                        chung                  220 080          599
-                    dòng      chứng                            202              347.652 599,798  751,291.390
-       Chỉ phIhoat         van          khoan                         982 864             138    248 . 153,262 923
-                    Gong khac     chinh                        3 931 ,548.707                    107220080        23 212 599 798
-    Céng                                                       10.933                                             347
-         chi phỉhoat €động                              31,32  397, 336499       6.184 722 141    202.982864      652 594, 138
-                                                               36.976.783,295    10.236 232.545   931
-                                                               737,276           966.120688          548 707
-                                                               625 287.099,412   35,.353423,703    933 336499     184
-                                                                                                   397.783        10 236 722 141
-                                                                                 596.169.310.158   36.976 787,295    232 545
-                                                                                                     276             966 120688
-                                                                                                   625287,099,412    35.353423,703
-                                                                                                                     596.169310.168 +
- cong ty Cổ
-BÁO CẢO  phẩnChứng khoán
-cho kỷ KO(KÊT QUẨHOAT =    SSI
-toân ket thúc  ĐONGHƠP
-          ngay             thang  NHAT QUÝ
-                                  03 nám  NẲM_
-                                          2025  2025 (tiéptneo)
+|                                                                                            | 22         | 23              | 24 | 25          | 26 | 27          | 30         | 31               | 32                | 33                | 34             | 35            | 36 | 40 | 50              | 60 | 61 | 70 |                |
+| ------------------------------------------------------------------------------------------ | ---------- | --------------- | -- | ----------- | -- | ----------- | ---------- | ---------------- | ----------------- | ----------------- | -------------- | ------------- | -- | -- | --------------- | -- | -- | -- | -------------- |
+| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác                       | 50.000.000 |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác                                    |            | (2.000.000.000) |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác                            |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 5. Tiền chi đầu tư góp vốn vào đơn vị khác                                                 |            |                 |    | 822.135.000 |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác                                             |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia                                     |            |                 |    |             |    | 221.567.400 | 19.806.204 | (4.703.958.370)  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| **Lưu chuyển tiền thuần từ hoạt động đầu**                                                 |            |                 |    |             |    |             |            | (20.358.908.092) |                   |                   |                |               |    |    |                 |    |    |    |                |
+| **III. Lưu chuyển tiền từ hoạt động tài chính**                                            |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 1. Tiền thu từ phát hành cổ phiếu; nhận vốn góp của chủ sở hữu                             |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 2. Tiền trả lại vốn góp cho các chủ sở hữu; mua lại cổ phiếu của doanh nghiệp đã phát hành |            |                 |    |             |    |             |            |                  | 218.072.554.022   | 283.440.041.510   |                |               |    |    |                 |    |    |    |                |
+| 3. Tiền thu từ đi vay                                                                      |            |                 |    |             |    |             |            |                  | (303.384.104.022) | (287.925.442.801) |                |               |    |    |                 |    |    |    |                |
+| 4. Tiền trả nợ gốc vay                                                                     |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 5. Tiền trả nợ gốc thuê tài chính                                                          |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| 6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu                                                 |            |                 |    |             |    |             |            |                  |                   |                   |                |               |    |    |                 |    |    |    |                |
+| **Lưu chuyển tiền thuần từ hoạt động tài chính**                                           |            |                 |    |             |    |             |            |                  | (85.311.550.000)  | (4.485.401.291)   |                |               |    |    |                 |    |    |    |                |
+| **Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40)**                                         |            |                 |    |             |    |             |            |                  | 115.546.375.843   | 22.932.178.435    | 27.424.122.422 | 3.617.178.464 |    |    |                 |    |    |    |                |
+| Tiền và tương đương tiền đầu kỳ                                                            |            |                 |    |             |    |             |            |                  | VII               |                   |                |               |    |    |                 |    |    |    |                |
+| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ                                    |            |                 |    |             |    |             |            |                  |                   |                   | 723.794.028    | 874.765.523   |    |    |                 |    |    |    |                |
+| Tiền và tương đương tiền cuối kỳ (70 = 50 + 60 + 61)                                       |            |                 |    |             |    |             |            |                  | VII               |                   |                |               |    |    | 143.694.292.293 |    |    |    | 27.424.122.422 |
 
-Mâ s8    CHÍ TIÊU                                              B01-CTCKHN
 
-          Chi Phi [Hoat                         Thuyet         Quý    Luy ke
-21 ?      4ỗ tử các tai    DỌNG                 mv             Namnay    từ dảunám đón
-                           sản táỉ                                          cvoi
-               ban cac tai schinhFVIPL                         VnD       Námtnoc      quỷ ny
-213       Chonh [ lech      San (âichinh FVTPL                           VND
-          tai san tái      giám danh]                                               Nám nay
-214       Chi phi          chinhFVTPLgiá 'ai cac  29 1    298 842.936               VND    Nam
-                           giaodich                       160  378                            Irvuc
-               chinhFVTPL (nua [Cac tár           28 2    180818 846     166 563617 .
-          Chennlêchláng d                 sán             96 231 ,       80 606  145  288.842.936 =    VND
-          phải tráchung                danh Gia Iai            594154    348 191      160 180 816.878
-         Ló vahanh          quyendang                                    21 4477101.144    846         166.563
-          ghi nhânchenh                  Juu              390 583638                       96 231      617.145
-2        phanioailai        lech đanh ,                29 3              208752            59:151      606.348 797
-                                         giá theo
-         Chi                chinh AFS                          40 039              199                 21 447
-         Chi phl _
-         phihoatoong       doanh           khi                 939 740                     390583638    101144
-         Chi phi nghiep vu mói giớí                                       63.301.                       208
-         hanh   nghiep                chung                               415.611                       752 =₁₉₉
-              Chung       vu bdo lanh          khoan           741.                        40 030 =
-         Chi phi     khoan                                     17153,291 ,                 939.740
-                nghiệp vu tư vắn       đai lý phat                       390
-         khoan                dau tv                           248 707 262 923  23.212                  63 301415 611
-32       Chi phí                        chung                  220 080          599
-                    dòng      chứng                            202              347.652 599,798  751,291.390
-       Chỉ phIhoat         van          khoan                         982 864             138    248 . 153,262 923
-                    Gong khac     chinh                        3 931 ,548.707                    107220080        23 212 599 798
-    Céng                                                       10.933                                             347
-         chi phỉhoat €động                              31,32  397, 336499       6.184 722 141    202.982864      652 594, 138
-                                                               36.976.783,295    10.236 232.545   931
-                                                               737,276           966.120688          548 707
-                                                               625 287.099,412   35,.353423,703    933 336499     184
-                                                                                                   397.783        10 236 722 141
-                                                                                 596.169.310.158   36.976 787,295    232 545
-                                                                                                     276             966 120688
-                                                                                                   625287,099,412    35.353423,703
-                                                                                                                     596.169310.168 + 
+<br/>
+
+<div>Bắc Kạn; ngày 20 tháng 01 năm 2025</div>
+
+| Người lập biểu | Kế toán trưởng | Tổng giám đốc |
+| -------------- | -------------- | ------------- |
+| Trần Thị Tuyết | Trần Thị Yến   | Đinh Văn Hiến |
+
+
+ + 
  + [] 
  None

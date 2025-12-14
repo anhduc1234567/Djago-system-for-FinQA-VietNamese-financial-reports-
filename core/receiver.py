@@ -162,7 +162,7 @@ def get_user_question() -> str:
 #embedd user question into a vector
 def get_user_question_embedding(input_model='all-MiniLM-L6-v2', user_question = '') -> tuple:
     user_question = user_question
-    model = SentenceTransformer(input_model,device='cuda')
+    model = SentenceTransformer(input_model,device= DEVICE)
     user_question_embeddings = model.encode([user_question])
     return user_question, user_question_embeddings[0]
 
@@ -176,23 +176,26 @@ def find_information_by_graph(temp_path = None, user_question = ''):
     if infor[3] == 'Chứng khoán':
         isIndex = "CÓ"
     prompt_requery_by_graph = f""" 
-                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Bạn đóng vai trò là một trợ lý tài chính trong việc độc hiểu và phân tích BÁO CÁO TÀI CHÍNH.
+                Nhiệm vụ của bạn lần này là chọn ra section và subsection phù hợp với câu hỏi của người dùng để truy vấn trên cơ sở dữ liệu đồ thị.
+                Việc chọn đúng section và subsection giúp lấy đúng phần dữ liệu cần thiết đề trả lời câu hỏi của người dùng.
                 Câu hỏi người dùng: {user_question}
+                Hãy sử dụng kiến thức tài chính của mình cùng với hướng dẫn về các section và subsection và nguyên tắc để đưa ra lựa chọn phù hợp.
                 Tuân thủ các nguyên tắc sau:
-                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
-                .Tuyệt đối không thêm mục hay mục con nào khác.
+                1. Chỉ sử dụng các sectin và subsection đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối KHÔNG thêm section hay subsection.
 
                 2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
 
-                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+                    - Nếu có 1 section → không giới hạn số subsection.
 
-                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+                    - Nếu có 2 section → tối đa 3 subsection mỗi mục.
 
-                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+                    - Nếu có 3-4 section → chỉ 1 section có 2 subsection, các mục còn lại 1 subsection.
 
                 3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
 
-                4. Cấu trúc trả về KHÔNG giải thích dẫn dắt thêm bỏ số thứ tự ở đầu mỗi section và subsection nếu sử dụng Thuyết Minh sử dụng keywords tương ứng để tìm thông tin phù hợp với câu hỏi của người dùng:
+                4. Cấu trúc trả về KHÔNG giải thích dẫn dắt thêm bỏ số thứ tự ở đầu mỗi section và subsection, nếu sử dụng Thuyết Minh sử dụng keywords tương ứng để tìm thông tin phù hợp với câu hỏi của người dùng:
                     section1: subsection1, subsection2,... ; section2: subsection1, subsection2,... ; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
                 5. Sử dụng cấu trúc báo cáo tài chính khác nhau cho từng lĩnh vực của doanh nghiệp như sau. Dựa vào các thông tin "Mô tả" bổ sung bên dưới để chọn section và subsection phù hợp với câu hỏi.
                 
@@ -237,21 +240,23 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                     4. THUYẾT MINH BÁO CÁO TÀI CHÍNH (section)                  
     """
     prompt_requery_by_graph_for_bank = f""" 
-                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Bạn đóng vai trò là một trợ lý tài chính trong việc độc hiểu và phân tích BÁO CÁO TÀI CHÍNH.
+                Nhiệm vụ của bạn lần này là chọn ra section và subsection phù hợp với câu hỏi của người dùng để truy vấn trên cơ sở dữ liệu đồ thị.
+                Việc chọn đúng section và subsection giúp lấy đúng phần dữ liệu cần thiết đề trả lời câu hỏi của người dùng.
                 Câu hỏi người dùng: {user_question}
-                Công ty {isBank} là ngân hàng
+                Hãy sử dụng kiến thức tài chính của mình cùng với hướng dẫn về các section và subsection và nguyên tắc để đưa ra lựa chọn phù hợp.
                 Tuân thủ các nguyên tắc sau:
                 
-                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
-                .Tuyệt đối không thêm mục hay mục con nào khác.
+                1. Chỉ sử dụng các mục và subsection đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối không thêm mục hay subsection nào khác.
 
                 2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
 
-                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+                    - Nếu có 1 section → không giới hạn số subsection.
 
-                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+                    - Nếu có 2 section → tối đa 3 subsection mỗi mục.
 
-                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+                    - Nếu có 3-4 section → chỉ 1 section có 2 subsection, các mục còn lại 1 subsection.
 
                 3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
 
@@ -259,9 +264,7 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                     section1: subsection1, subsection2,... ; section2: subsection1, subsection2,... ; THUYẾT MINH BÁO CÁO TÀI CHÍNH: key_word1, key_word2,...
                 5. Sử dụng cấu trúc báo cáo tài chính khác nhau cho từng lĩnh vực của doanh nghiệp như sau. Dựa vào các thông tin "Mô tả" bổ sung bên dưới để chọn section và subsection phù hợp với câu hỏi.
                 
-                Hướng dẫn chi tiết chọn section và subsection chi tiết cho doanh nghiệp như sau:
-        
-                Đối với doanh nghiệp NGÂN HÀNG.
+                Hướng dẫn chi tiết chọn section và subsection chi tiết cho Ngân hàng như sau:
                     0. Giới thiệu (section)
                         Mô tả: Các thông tin từ ở phần trên báo cáo bao gồm cả BÁO CÁO CỦA BAN GIÁM ĐỐC, BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH,
                         BÁO CÁO KIỂM TOÁN nếu có.
@@ -315,20 +318,22 @@ def find_information_by_graph(temp_path = None, user_question = ''):
                     4. THUYẾT MINH BÁO CÁO TÀI CHÍNH (section)                   
     """
     prompt_requery_by_graph_for_index = f""" 
-                Dựa vào câu hỏi của người dùng, xác định chính xác các mục và mục con trong báo cáo tài chính mà câu hỏi sử dụng.
+                Bạn đóng vai trò là một trợ lý tài chính trong việc độc hiểu và phân tích BÁO CÁO TÀI CHÍNH.
+                Nhiệm vụ của bạn lần này là chọn ra section và subsection phù hợp với câu hỏi của người dùng để truy vấn trên cơ sở dữ liệu đồ thị.
+                Việc chọn đúng section và subsection giúp lấy đúng phần dữ liệu cần thiết đề trả lời câu hỏi của người dùng.
                 Câu hỏi người dùng: {user_question}
-                Doanh nghiệp trên {isIndex} là công ty chứng khoán
+                Hãy sử dụng kiến thức tài chính của mình cùng với hướng dẫn về các section và subsection và nguyên tắc để đưa ra lựa chọn phù hợp.
                 Tuân thủ các nguyên tắc sau:
-                1. Chỉ sử dụng các mục và mục con đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
-                .Tuyệt đối không thêm mục hay mục con nào khác.
+                1. Chỉ sử dụng các section và subsection đã được liệt kê trong hướng dẫn bên dưới chỉ sử dụng mục có chú thích (section) làm section và (subsection) làm subsection
+                .Tuyệt đối không thêm mục hay subsection nào khác.
 
                 2. Chỉ lấy những mục thật sự quan trọng và cần thiết để đưa vào prompt cho LLM, theo quy tắc:
 
-                    - Nếu có 1 mục lớn → không giới hạn số mục con.
+                    - Nếu có 1 section → không giới hạn số subsection.
 
-                    - Nếu có 2 mục lớn → tối đa 3 mục con mỗi mục.
+                    - Nếu có 2 section → tối đa 3 subsection mỗi mục.
 
-                    - Nếu có 3-4 mục lớn → chỉ 1 mục lớn có 2 mục con, các mục còn lại 1 mục con.
+                    - Nếu có 3-4 section → chỉ 1 section có 2 subsection, các mục còn lại 1 subsection.
 
                 3. Ưu tiên thông tin ở các mục BẢNG CÂN ĐỐI KẾ TOÁN, BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH, BÁO CÁO LƯU CHUYỂN TIỀN TỆ. Hạn chế dùng THUYẾT MINH BÁO CÁO TÀI CHÍNH trừ khi câu hỏi liên quan đến thông tin cơ bản của doanh nghiệp hoặc báo cáo: tên doanh nghiệp, ngành nghề, mã cổ phiếu, loại báo cáo, kỳ báo cáo,...
 

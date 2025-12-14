@@ -32,7 +32,7 @@ import pypandoc
 import os
 import random
 import markdown
-from weasyprint import HTML, CSS
+# from weasyprint import HTML, CSS
 
 SUBSECTION_BALANCE_SHEET = ['TÀI SẢN NGẮN HẠN', 'TÀI SẢN DÀI HẠN', 'NỢ PHẢI TRẢ', 'VỐN CHỦ SỞ HỮU']
 SUBSECTION_INCOME_STATEMENT = ['DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ', 'DOANH THU HOẠT ĐỘNG TÀI CHÍNH', 'THU NHẬP KHÁC']
@@ -60,7 +60,7 @@ def summary_finacial_statement(subsection, temp_path, infor, key_words, isBank =
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes_infor = get_doc_from_notes_by_key_word(key_word= key_words, infor= infor, temp_path= temp_path)  
+    # notes_infor = get_doc_from_notes_by_key_word(key_word= key_words, infor= infor, temp_path= temp_path)  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
@@ -97,7 +97,7 @@ def summary_finacial_statement(subsection, temp_path, infor, key_words, isBank =
     Trả về kết quả trước tiếp mà không cần lời giới thiệu giải thích theo mẫu sau:
         ## 2. Phân tích bảng cân đối kế toán.
             [Nội dung ]
-    Dưới đây là thông tin về Bảng cân đối kế toán: {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về Bảng cân đối kế toán: {result}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
     response = call_api_gemi(prompt_gen_summary, model='2.0-flash')
     
@@ -252,16 +252,16 @@ def summary_income_statement(subsection, temp_path, infor, key_words, isBank = '
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
-    for data in notes:
-        notes_raw_text += data['raw_text'] + '\n'
-    notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
+    # notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
+    # for data in notes:
+    #     notes_raw_text += data['raw_text'] + '\n'
+    # notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
     
-    for i in range(len(key_words)):
-        similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
-    similar_k = remove_same_content(similar_k)
-    for i, k in enumerate(similar_k):
-        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
+    # for i in range(len(key_words)):
+    #     similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
+    # similar_k = remove_same_content(similar_k)
+    # for i, k in enumerate(similar_k):
+    #     notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
@@ -295,7 +295,7 @@ def summary_income_statement(subsection, temp_path, infor, key_words, isBank = '
         ## 3. Báo cáo kết quả hoạt động kinh doanh:
         [Nội dung]
 
-    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
     response = call_api_gemi(prompt_gen_summary,model = '2.0-flash', temperture= 0)
     return response
@@ -311,16 +311,16 @@ def summary_cash_flow(subsection, temp_path, infor, key_words, isBank = 'Không'
         for data in doc:
             result += data['table_structure'] + '\n' + data['raw_text'] + '\n' + "\n".join(map(str, data['pages']))
         
-    notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
-    for data in notes:
-        notes_raw_text += data['raw_text'] + '\n'
-    notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
+    # notes = query_thuyet_minh_raw_text(company_name= infor[0], time= infor[2])
+    # for data in notes:
+    #     notes_raw_text += data['raw_text'] + '\n'
+    # notes_doc = find_information(infor_question= key_words, k=10, temp_path = temp_path, content = notes_raw_text)
     
-    for i in range(len(key_words)):
-        similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
-    similar_k = remove_same_content(similar_k)
-    for i, k in enumerate(similar_k):
-        notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
+    # for i in range(len(key_words)):
+    #     similar_k += retrieve(query=key_words[i] ,top_k=3,semantic_results=notes_doc[i], input_path = '', content= notes_raw_text)    
+    # similar_k = remove_same_content(similar_k)
+    # for i, k in enumerate(similar_k):
+    #     notes_infor += f"Thông tin {i} trong Thuyết minh báo cáo tài chính \n " + f'{k['content']}' + "\n"  
         
     prompt_gen_summary = f'''
         Bạn là 1 chuyên gia trong lĩnh vực tài chính, vai trò của bạn là đọc hiểu và phân tính báo cáo tài chính hỗ trợ người dùng,
@@ -351,7 +351,7 @@ def summary_cash_flow(subsection, temp_path, infor, key_words, isBank = 'Không'
     Trả về kết quả trực tiếp mà không cần lời giới thiệu giải thích, comment theo mẫu sau.
         ## 4. Báo cáo lưu chuyển tiền tệ .
         [Nội dung]
-    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, thuyết minh tương ứng: {notes_infor}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
+    Dưới đây là thông tin về báo cáo kết quả hoạt động kinh doanh {result}, đây là doanh nghiệp {isBank} là ngân hàng, {isIndex} là chứng khoán.
     '''
     response = call_api_gemi(prompt_gen_summary, temperture= 0)
     return response
@@ -862,29 +862,63 @@ def summary_section(temp_path):
         f.write(content)
         
     return save_content_to_pdf(content = content)
-    
-    # print(finacial_radio)
 def save_content_to_pdf(content: str):
-    base_dir = os.path.join(os.getcwd(), "files_database", "summaries")
-    os.makedirs(base_dir, exist_ok=True)
+    """
+    Nhận vào nội dung (Markdown hoặc HTML),
+    xuất ra file PDF tại thư mục 'results/out_<random>.pdf'
+    """
+    base_dir = os.path.join(os.getcwd(), "files_database")
+    output_dir = os.path.join(base_dir, "summaries")
+    os.makedirs(output_dir, exist_ok=True)
 
+    # 🔢 Tạo tên file ngẫu nhiên
     rand_id = random.randint(100000, 999999)
-    pdf_path = os.path.join(base_dir, f"out_{rand_id}.pdf")
+    output_path = os.path.join(output_dir, f"out_{rand_id}.pdf")
+    try:
+        # ✅ Gọi Pandoc với XeLaTeX
+        pypandoc.convert_text(
+            content,
+            to="pdf",
+            format="md",  # hoặc "html" nếu bạn truyền nội dung HTML
+            outputfile=output_path,
+            extra_args=[
+                "--pdf-engine=C:/Users/anhduc/AppData/Roaming/TinyTeX/bin/windows/xelatex.exe",
+                "-V", "mainfont=Arial",
+                "-V", "geometry:margin=1in",
+                "-V", "fontsize=13pt",
+                "-V", "colorlinks=true",
+                "-V", "linkcolor=blue"
+            ]
+        )
 
-    # Markdown -> HTML
-    html_content = markdown.markdown(content, extensions=['tables'])
+        print(f"✅ PDF đã được lưu tại: {output_path}")
+        return output_path
 
-    # CSS để format PDF
-    css = CSS(string='''
-        @page { size: A4; margin: 2cm; }
-        body { font-family: Arial, sans-serif; font-size: 12pt; line-height: 1.5; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #333; padding: 5px; text-align: left; }
-        th { background-color: #f0f0f0; }
-    ''')
+    except Exception as e:
+        print("❌ Lỗi khi tạo PDF:", e)
+        return None   
+    # print(finacial_radio)
+# def save_content_to_pdf(content: str):
+#     base_dir = os.path.join(os.getcwd(), "files_database", "summaries")
+#     os.makedirs(base_dir, exist_ok=True)
 
-    # HTML -> PDF
-    HTML(string=html_content).write_pdf(pdf_path, stylesheets=[css])
+#     rand_id = random.randint(100000, 999999)
+#     pdf_path = os.path.join(base_dir, f"out_{rand_id}.pdf")
 
-    print(f"✅ PDF đã được lưu tại: {pdf_path}")
-    return pdf_path
+#     # Markdown -> HTML
+#     html_content = markdown.markdown(content, extensions=['tables'])
+
+#     # CSS để format PDF
+#     css = CSS(string='''
+#         @page { size: A4; margin: 2cm; }
+#         body { font-family: Arial, sans-serif; font-size: 12pt; line-height: 1.5; }
+#         table { border-collapse: collapse; width: 100%; }
+#         th, td { border: 1px solid #333; padding: 5px; text-align: left; }
+#         th { background-color: #f0f0f0; }
+#     ''')
+
+#     # HTML -> PDF
+#     HTML(string=html_content).write_pdf(pdf_path, stylesheets=[css])
+
+#     print(f"✅ PDF đã được lưu tại: {pdf_path}")
+#     return pdf_path

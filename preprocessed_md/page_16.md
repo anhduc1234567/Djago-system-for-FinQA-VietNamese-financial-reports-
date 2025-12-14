@@ -1,42 +1,77 @@
-Côngty Cổ phần Chứng khoán SSI                   BO3b-CTCKIHN
-BẢO CÁO LƯU CHUYÉN TIEN TE HƠP NHẮT QUÝ          NĂM 2025 (tiếp theo)
-cho kỷ kế toản kết thủc ngảy 31 tháng 03 nảm 2025
+        Nguyên giá
+    Isố dư đầu         1.111.264.959     1.111.264.959
+    năm
+        ~Mua trong
+    Jkỳ
+          Tăngkhác
+       Thanh lý,
+        nhuợng bán
+       Giảm khác
+
+    [số dư cuối kỳ      1.111.264.959     1.111.264.959
+     Giá trị hao
+     mòn
+    Isố dư đầu          1.111.264.959     1.111.264.959
+     năm
+     Khấu hao
+     trong kỳ
+       Thanh lý,
+     [nhượng bán
+       Giảm khác
+
+     [số dư cuối kỳ     1.111.264.959     1.111.264.959
+     Giá trị còn
+     Jlại
+          Tại ngày
+        31/12/2023
+          Tại ngày
+        31/12/2024
+
+      [8, Xây dựng cơ bản dở dang        Cuối quý          Đầu năm
+      Dự án mỏVàngPắc Lạng                                 3.771.282.154
+      Mở rộng Nhà máy rauquả             1.589.500.964     1.589.500.964
+      Cụm công nghiệp Thanh Thịnh        6.575.391.334
+
+      Xây dựng cơ bản dở dang khác       3.737.156.609     1.234.994.068
+                        Cộng             11.902.048.907    6.595.777.186
 
 
-                                                                Lũy ké lừ đẩu nám dén cuói quý_này
 
-              CHỈ TIÊU                                          Thuyét               Nám nay    Nam truóc
-Mã só                                                           minh                     VND      VND
-
-              TẢNGI (GIÁM) TIEN THUAN TRONG KỶ                             (121.959.075,416)    (338.870.358.888)
-      101     TIỂN VẢ CÁC KHOẢN TƯƠNG ĐƯƠNG TIEN
-              ĐAU NĂM                                                        239.000.238.200      493,905.528.209
- 101.         Tien                                                           206.795.644.109      476 356,340.376
- 101,2        Các khoản tuơng đuơng tien                                     30 030.246,.575       15.307.059.179
-      102     Ảnh hưởng cúa thay đối tỷ giá hốí đoảí quy đối                   2.174,347,516        2.242.128.654
-              ngoai tệ
-      103     TIEN VÁ CÁC KHOÁN TƯƠNG ĐƯƠNG TIEN                                                  155.035.169.321
-              CUOI KY                                                        117.041.162.784
-103.          Tièn                                                        71,825.860.590          141.604.351.365
-103          Các khoản tuơng duong tien           quy đẳi                 45.144.863.014           12.925.800 00o
-      104    Anhhuorg cúa thay đóỉ tỷ giá hól đoaf
-             ngoai tệ                                                     70.439.180                  505.017.956 +
+9, Đầu tư tài    Số cuối quý    Số đầu năm
+  chính dài
+    hạn  Giá gốc  Dự phòng      Giá trị hợp lý  Giágốc  Dự phòng  Giá trị hợp lý +
  
-Công ty Cổ phần Chứng khoán SSI                                                                                  B03b-CTCK/HN  
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025  
 
-| Mã số | CHỈ TIÊU                                                | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |
-| ----- | ------------------------------------------------------- | ----------- | ------------------------------------------------- | --------------------------------------------------- |
-| 90    | **TĂNG/ (GIẢM) TIỀN THUẦN TRONG KỲ**                    |             | (121.959.075.416)                                 | (338.870.358.888)                                   |
-| 101   | **TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU NĂM**          | 5           | 239.000.238.200                                   | 493.905.528.209                                     |
-| 101.1 | Tiền                                                    |             | 206.795.644.109                                   | 476.356.340.376                                     |
-| 101.2 | Các khoản tương đương tiền                              |             | 30.030.246.575                                    | 15.307.059.179                                      |
-| 102   | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ |             | 2.174.347.516                                     | 2.242.128.654                                       |
-| 103   | **TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI KỲ**          | 5           | 117.041.162.784                                   | 155.035.169.321                                     |
-| 103.1 | Tiền                                                    |             | 71.825.860.590                                    | 141.604.351.365                                     |
-| 103.2 | Các khoản tương đương tiền                              |             | 45.144.863.014                                    | 12.925.800.000                                      |
-| 104   | Ảnh hưởng của thay đổi tỷ giá hối đoái ngoại tệ         |             | 70.439.180                                        | 505.017.956                                         |
+| Nguyên giá           | Nguyên giá    |   |               |
+| -------------------- | ------------- | - | ------------- |
+| Số dư đầu năm        | 1.111.264.959 |   | 1.111.264.959 |
+| \~Mua trong kỳ       |               |   |               |
+| Tăng khác            |               |   |               |
+| Thanh lý, nhượng bán |               |   |               |
+| Giảm khác            |               |   |               |
+| Số dư cuối kỳ        | 1.111.264.959 |   | 1.111.264.959 |
+| Giá trị hao mòn      |               |   |               |
+| Số dư đầu năm        | 1.111.264.959 |   | 1.111.264.959 |
+| Khấu hao trong kỳ    |               |   |               |
+| Thanh lý, nhượng bán |               |   |               |
+| Giảm khác            |               |   |               |
+| Số dư cuối kỳ        | 1.111.264.959 |   | 1.111.264.959 |
+| Giá trị còn lại      |               |   |               |
+| Tại ngày 31/12/2023  |               |   |               |
+| Tại ngày 31/12/2024  |               |   |               |
+
+
+| 8. Xây dựng cơ bản dở dang   | 8. Xây dựng cơ bản dở dang | 8. Xây dựng cơ bản dở dang | Cuối quý       | Đầu năm       |
+| ---------------------------- | -------------------------- | -------------------------- | -------------- | ------------- |
+| Dự án mỏ Vàng Pắc Lạng       |                            |                            | 3.771.282.154  |               |
+| Mở rộng Nhà máy rau quả      |                            |                            | 1.589.500.964  | 1.589.500.964 |
+| Cụm công nghiệp Thanh Thịnh  |                            |                            | 6.575.391.334  |               |
+| Xây dựng cơ bản dở dang khác |                            |                            | 3.737.156.609  | 1.234.994.068 |
+| Cộng                         |                            |                            | 11.902.048.907 | 6.595.777.186 |
+
+
+| 9. Đầu tư tài chính dài hạn | 9. Đầu tư tài chính dài hạn<br/>Số cuối quý<br/>Giá gốc | 9. Đầu tư tài chính dài hạn<br/>Số đầu năm<br/>Dự phòng | 9. Đầu tư tài chính dài hạnGiá trị hợp lý | 9. Đầu tư tài chính dài hạnGiá gốc | 9. Đầu tư tài chính dài hạnDự phòng | 9. Đầu tư tài chính dài hạnGiá trị hợp lý | 9. Đầu tư tài chính dài hạn |
+| --------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- | ---------------------------------- | ----------------------------------- | ----------------------------------------- | --------------------------- |
 
 
  + 

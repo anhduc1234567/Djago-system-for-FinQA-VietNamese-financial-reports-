@@ -1,53 +1,93 @@
-Côngty Cổ phầnChứngkhoán SSI
-B1O CÁO KÊT QUẢ HOAT ĐONG HỢPNHAT QUÝ             BO1-CTCKHN
-cho kỷ kế toán két thủc ngày 31thang 03 nám 2025  NẴM 2025 (tỉép theo)
+CÔNG TY CỔ PHẦN KHOÁNG SẢN BẮC KẠN
+Tổ 4, phường Đức Xuân, thành          Bắc Kạn, tỉnh BắcKạn
+                                  phố
+   BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH
+              Quý IV/2024
+ 1. Đặc điểm hoạt động của doanh nghiệp:
+ 1, Hình thức sở hữu vốn: Công ty cổ       khoáng sản Bắc Kạn (gọi tắt là "Công ty") tiền thân là doanh
+                            Công   phần              Côngnghệ và Môi trường tỉnh Bắc Kan; được thành lập
+nghiệp Nhà nước thuộc Sở          nghiệp Khoa học                                    ty được chuyển đổi
+     quyết định 312/Q4-UB ngày 05/04/2000 của Uỷ ban Nhân dân tỉnh BắcKan. Công
+ theo                                    Côngty cổphầnkhoáng sản BắcKantheo Quyết định số 3020a/Q4
+ (CPH) từ Doanh nghiệp Nhà nước thành                                         duyệt phương án và chuyển
+ UBND ngày 30/11/ 2005 của Chủ tịch Uỷ ban Nhân dân tỉnh Bắc Kạn về việc
+                                                                              phê
+          ty khoáng sản Bắc Kan thànhCôngty cổ       khoáng sản BắcKan. Côngty hoạt động theo Giấy chứng
+  Công                                     phần
+ nhậnđăngký kinh doanh số 1303000062 do Sở kế hoạch và Đầu tư tỉnh Bắc Kạn cấp lần đầu ngày
+ 29/03/2006; Giấy chúng nhận đăng ký doanh nghiệp số 4700149595 thay đổi lẩn 11 ngày 06/11/2018. Vốn
+ điều lệ củaCôngty là: 117.377.280.000 đồng:
+ Công ty đang niêm yết tại Sở giao dịch Chứng khoán Hà Nội; mã cổ        BKC
+                                                                  phiếu:
+ 2, Ngành       kinh doanh và hoạt động chính:
+          nghề
+     Ngành      kinh doanh củaCôngty là:
+  *       nghề
+  Khai thác quặng sắt, Khai thác quặng kim loại quý hiếm; Sản xuất kim loại màu và kim loại quý; Bán buôn
+  kim loại và quặng kim loai;
+  Khai thác đá, cát, sỏi, đất sét; Bán buôn vật liệu; thiết bị lắp đặt khác trong xây dựng; Khai khoáng khác chưa
+  được phân vào đâu; Hoat độngcôngty nắm giữ tài sản;                    ngày; Bán buôn máy móc; thiết bị
+  Bán buông thực phẩm; Chế biến và bảo          quả; Dịch vụ luu trú
+                                      quảnrau                            ngắn
+  và phụtùngmáy khai khoáng, xây dựng;
+  Xâydựng nhà các loại; xây dựng công trình kỹ thuật dân dụng khác; phádỡ;
+  Chuẩn bị mặt bằng; Lắp đặt hệ thống xây dựng khác; Hoàn thiệncôngtrình xây dựng; Hoạt động xây dựng
+  chuyên dụng khác; Lắp đặt hệthốngđiện;
+               thốngcấp, thoát nước; lò sưởi và điều hòa không khí; Tái  liệu; sản xuất vật liệu xây dựng từ
+  Lắp đặt hệ                                             bằng     phế
+   đất sét; sản xuất xi măng, vôi và thạch cao; Vận tải hàng hóa  đường bộ;
+   Sản xuất     hơi nước; nước nóng, điều hòa không khí và sản xuất nước đá;
+                phối
+            phân
+   Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ;
+   Kinh doanh bất động sản; quyền sử dụng đất thuộc sở hữu; chủ sử dụng hoặc đi thuê;
+   Thăm dò khoáng sản; Chung; tinh cất và  chế các loại rượu; Sản xuất đồ uống không cồn:
+                                         pha
 
-
-
-
-
-Ma s6 CHỈ TIEU    Thuyet                                              Qư}                      Lũy ké từ đầu nẵm đến cuối quý nằy
-                   minn                                        Nam nay       Nam Iruóc         Namn nay
-       DOANH THUHoatDONG TAICHINH                                  VND       VND               VND                    Nám truoc
-                                                                                                                      VNO
-       Ghênh Iệch Iâi tỷ giá hẩi đoái đẳ vảchua
-       thuc hién
-      Doanh chu du thu cổ tửc; lhỉ tiền gửỉ         6.677.185 010            10.971 819
-       khóng có dỊnh                                                         007               6.677,185010           10.971.819.007
-       Doanh thu khác về đẳu tư (phàn lãi trong     652 500 804              6 397,773 337
-      công ty lien ket .                            22.024489 910            22 323 740 683            652.500.804    6,397,773,337
-      Cộng doanh thu hoatdộng   chinh               J3.354.175.724           39.693.J33.027         22.024 489.910    22-323740683
-      CHI PHÍ TÀI CHÍNH                                                                        J3.354.,175.724        39.693.333.027
-
-      (nurc hen                 chua
-      Chi phi Iaí vay                               136 465 230           383,075 856 083
-      Chi phl tàl chinh khác                       465.588.292 122           075 951 019       465136.465 230             139,886 187
-Cộng chiphí tai chinh                               009,713 519              719 492.679       588 292 122            383 075 951.019
-      CHI PHÍ QUẢN LỶ                              468.734,470,871          390,935.329,886    2,009.713.519              719 492 679
-                                                                                               468.734 ,
-VL Ket QUAHOAT ĐONG                                 254.794.994             83,.235,460.062    470,871                390.935.329.885
-                                                   1.045.350,522,440      942.176.599.591      53.254.794.994         83.235,460.062
-                                                                                               1.045.350.522.440      942.176.599.591 +
+   *Hoạt động chính của Công ty là:
+   Khai thác quặng sắt; Khai thác quặng kim loại quý hiếm; Sản xuất kim loại màu và kim loại quý; Bán buôn
+   kim loại và quặng kim loai;                                                uống
+   Thăm dò khoáng sản; Chưng; tinh cất và pha chế các loại rượu; Sản xuất đồ      không cồn.
+   3, Cấu trúc doanh nghiệp:
+     Danh sách các đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc. +
  
-# Công ty Cổ phần Chứng khoán SSI
+# CÔNG TY CỔ PHẦN KHOÁNG SẢN BẮC KẠN  
+Tổ 4, phường Đức Xuân, thành phố Bắc Kạn, tỉnh Bắc Kạn  
 
-## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
+## BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH  
+### Quý IV/2024
 
-| Mã số              | CHỈ TIÊU                      | Thuyết minh                                                      | Quý 1<br/>Năm nayVND | Quý 1<br/>Năm trướcVND     | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |                 |                 |
-| ------------------ | ----------------------------- | ---------------------------------------------------------------- | -------------------- | -------------------------- | ------------------------------------------------- | --------------------------------------------------- | --------------- | --------------- |
-| III.               | DOANH THU HOẠT ĐỘNG TÀI CHÍNH | 1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện           | 6.677.185.010        | 10.971.819.007             | 6.677.185.010                                     | 10.971.819.007                                      |                 |                 |
-|                    |                               | 2. Doanh thu dự thu cổ tức, lãi tiền gửi không có định           | 652.500.804          | 6.397.773.337              | 652.500.804                                       | 6.397.773.337                                       |                 |                 |
-|                    |                               | 3. Doanh thu khác về đầu tư (phần lãi trong công ty liên kết...) | 22.024.489.910       | 22.323.740.683             | 22.024.489.910                                    | 22.323.740.683                                      |                 |                 |
-|                    |                               | **Cộng doanh thu hoạt động tài chính**                           | 33.354.175.724       | 39.693.333.027             | 33.354.175.724                                    | 39.693.333.027                                      |                 |                 |
-|                    |                               | IV.                                                              | CHI PHÍ TÀI CHÍNH    | 1. Chi phí lãi vay         | 1.136.465.230                                     | 6.139.886.187                                       | 1.136.465.230   | 6.139.886.187   |
-|                    |                               |                                                                  |                      | 2. Chi phí tài chính khác  | 465.588.292.122                                   | 383.075.951.019                                     | 465.588.292.122 | 383.075.951.019 |
-|                    |                               |                                                                  |                      | **Cộng chi phí tài chính** | 2.009.713.519                                     | 1.719.492.679                                       | 2.009.713.519   | 1.719.492.679   |
-| V. CHI PHÍ QUẢN LÝ | 468.734.470.871               |                                                                  |                      | 390.935.329.886            | 468.734.470.871                                   | 390.935.329.886                                     |                 |                 |
-| VI.                | **KẾT QUẢ HOẠT ĐỘNG**         |                                                                  | 53.254.794.994       | 83.235.460.062             | 53.254.794.994                                    | 83.235.460.062                                      |                 |                 |
-|                    |                               |                                                                  | 1.045.350.522.440    | 942.176.599.591            | 1.045.350.522.440                                 | 942.176.599.591                                     |                 |                 |
+----
 
+## 1. Đặc điểm hoạt động của doanh nghiệp:
 
+### 1. Hình thức sở hữu vốn:  
+Công ty cổ phần khoáng sản Bắc Kạn (gọi tắt là "Công ty") tiền thân là doanh nghiệp Nhà nước thuộc Sở Công nghệ và Môi trường tỉnh Bắc Kạn; được thành lập theo quyết định 312/Q4-UB ngày 05/04/2000 của Ủy ban Nhân dân tỉnh Bắc Kạn. Công ty được chuyển đổi từ Doanh nghiệp Nhà nước thành Công ty cổ phần khoáng sản Bắc Kạn theo Quyết định số 3020a/Q4-UBND ngày 30/11/2005 của Chủ tịch Ủy ban Nhân dân tỉnh Bắc Kạn về việc phê duyệt phương án và chuyển đổi.  
+
+Công ty khoáng sản Bắc Kạn thành Công ty cổ phần khoáng sản Bắc Kạn. Công ty hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 1303000062 do Sở Kế hoạch và Đầu tư tỉnh Bắc Kạn cấp lần đầu ngày 29/03/2006; Giấy chứng nhận đăng ký doanh nghiệp số 4700149595 thay đổi lần 11 ngày 06/11/2018.  
+
+Vốn điều lệ của Công ty là: 117.377.280.000 đồng.  
+Công ty đang niêm yết tại Sở Giao dịch Chứng khoán Hà Nội; mã cổ phiếu: BKC.
+
+### 2. Ngành nghề kinh doanh và hoạt động chính:  
+Ngành nghề kinh doanh của Công ty là:  
+
+* Khai thác quặng sắt, Khai thác quặng kim loại quý hiếm; Sản xuất kim loại màu và kim loại quý; Bán buôn kim loại và quặng kim loại;  
+* Khai thác đá, cát, sỏi, đất sét; Bán buôn vật liệu; thiết bị lắp đặt khác trong xây dựng; Khai khoáng khác chưa được phân vào đâu; Hoạt động công ty nắm giữ tài sản;  
+* Bán buôn thực phẩm; Chế biến và bảo quản rau quả; Dịch vụ lưu trú ngắn ngày; Bán buôn máy móc; thiết bị và phụ tùng máy khai khoáng, xây dựng;  
+* Xây dựng nhà các loại; xây dựng công trình kỹ thuật dân dụng khác; phá dỡ; Chuẩn bị mặt bằng; Lắp đặt hệ thống xây dựng khác; Hoàn thiện công trình xây dựng; Hoạt động xây dựng chuyên dụng khác; Lắp đặt hệ thống điện;  
+* Lắp đặt hệ thống cấp, thoát nước; lò sưởi và điều hòa không khí; Tái chế phế liệu; sản xuất vật liệu xây dựng từ đất sét; sản xuất xi măng, vôi và thạch cao; Vận tải hàng hóa bằng đường bộ;  
+* Sản xuất hơi nước; nước nóng, điều hòa không khí và sản xuất nước đá;  
+* Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ;  
+* Kinh doanh bất động sản; quyền sử dụng đất thuộc sở hữu; chủ sử dụng hoặc đi thuê;  
+* Thăm dò khoáng sản; Chưng, tinh cất và pha chế các loại rượu; Sản xuất đồ uống không cồn.
+
+### * Hoạt động chính của Công ty là:  
+* Khai thác quặng sắt; Khai thác quặng kim loại quý hiếm; Sản xuất kim loại màu và kim loại quý; Bán buôn kim loại và quặng kim loại;  
+* Thăm dò khoáng sản; Chưng, tinh cất và pha chế các loại rượu; Sản xuất đồ uống không cồn.
+
+### 3. Cấu trúc doanh nghiệp:  
+- Danh sách các đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc.
  + 
  + [] 
  None

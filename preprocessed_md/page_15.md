@@ -1,63 +1,76 @@
-Công ty Cổ phần Chứng khoán SSI    B03b-CTCKIHN
-BẢO CÁO LƯU CHUYEN TIEN TE HỢP NHÁT QUÝ NẢM 2025 (tiép theo)
-cho kỷ kế toản kết thúc ngay 31 tháng 03 nám 2025
+6,Tăng,          tài sản cố định hữu hình:
+          giảm
 
+  Khoản          Nhà cửa, vật  Máy móc,   Phương tiện Thiết bị dụng                        Tổng cộng
+       mục       kiến trúc     thiết bị   vận tảitruyền  cụquảnlý                  Tài sản khác
+                                          dẫn
+     Nguyên giá
+[Số dư đầu
+năm              126.559.692.240/  89.163.419.573  8.908.181.038      344.630.205  3.274.567.719  228.250.490.775
+      Mua trong
+ kỳ                                3.270.438.506   6.985.598.303                   46.500.000      10.302.536.809
+  Đầu tu
+XDCB hoàn
+ thành           221.450.001                                                                          221.450.001
+  Tăngkhác
+ Thanh lý,
+|nhượng bán                        330.000.000/                                                       330.000.000
+ Giảm khác       36.139.366.691                                                                    36.139.366.691
 
-                                                           Lúy ké lừ đau nam don cuói quỷ_này
+ Số dư cuối kỳ   90.641.775.550    92.103.858.079  15.893.779.341     344.630.205  3.321.067.719  202.305.110.894]
+ Giá trị hao
+ [mòn lũy kế
+ Isố dư đầu      84.865.327.497    76.906.294.872  7.582.399.488      344.630.205  2.748.905.844  172.447.557.906
+ năm
 
-        CHI TIỂU                                           Thuyét    Nam nay          Nám trvóc
-                                                           Mion          VND                VND
+ Khấu hao        6.111.132.428     5.551.467.7955  633.122.341                     540.461.850    12.836.184.414  1
+ [trong kỳ
 
-          LUU CHUYEN TIẾN TỬ HOẠT ĐỌNG ĐAU
-          TƯ
-        Tièn chi đẻ mua sắm, xay dựng tải sán cố định,
-       batCongsản dàu tư và càc tài sản khac                 (2.018 233.306)    (14.335,249.052
-       Tien thu từ thanh lý, nhượng bán tài sàn có dinh,
-       bẩt dóng sản đàu tư và cac tàỉ sản khác                    30.744.181
-       Tien chi đau tƯ von vàocong ty con cong ty lien
-       doanh, llen két và đau tu khac                       500.000.000.000)
-       Tien thu hỏỉ cac khoản đau tư vào công ty con
-       công ty lien doanh, lien ket vả đau tư khảc                              200.000.000.00o
-       Tien thu vê có tuc va lơi nhuan đuơc chia tù cac                             685.369.862
-       khoán dau tư tài chinh dài han
-         chuyển tiền thuần tửl (sửdung
-       Luu                               vào) hoat         (501.987.489.125)    187.350,120.810
-       đong đau tư
-         LUU CHUYEN TIEN TỬ HOẠT ĐỌNG TÀI
-         CHINH
-                        hành c
-       Tien Ihu tử                Phieu nhan von góp
-                    Phat
-       cua chù sở hữu
-73.2   Tỉènvaygóc                                   66.737.013.304.857       58.117,738.667,473
-        Tỉẻn vay khác                               66.737,013,304.857       58.117.738.667.473
-       Tién chi trả nợ góc vay                     56.982.985.552.641)    (61.186,.831.526,383
-74.3    Tien chi trà goc vay khác                  56.982.985.552.641)     (61.186.831.526.383
-       Có tức loi nhuán đả trả cho chủ sở hữu             (23.042.000)             (95.9b0 0oo
-      Lưu chuyẻn tièn thuản từl (sừdung vào) hoat    9.754.004.710.216
-      dộng tài chinh                                                       (3.069.188,838.910) +
+  Tăngkhác
+  Thanh lý,                                                                                                       "
+ [nhượng bán                       287.347.511                                                    287.347.511
+
+  Giảm khác      26.322.781.614                                                                   26.322.781.614
+
+ [số dư cuối kỳ  64.653.678.178    82.170.415.156  8.215.521.829      344.630.205  3.289.367.694  158.673.613.195
+ Giá trị còn
+ llại
+  Tại ngày       41.694.364.743    12.257.124.701  1.325.781.550                   525.661.875    55.802.932.869
+ 31/12/2023
+  Tai ngày       25.988.097.372    9.933.442.923   7.678.257.512                   31.700.025     43.631.497.699
+ [31/12/2024
+
+       Nguyên giá TSCĐ cuối quý đã khấu hao hết nhưng vẫn còn sửdung: 121.033.583.131 đồng;
+ Z;Tăng          tài sản cố định vô hình:
+          giảm Quyền sử            Quyền khai      Tài sản cố định   Tổng
+       Khoản     dụng đất          thác            vô hình khác       cộng
+       mục +
  
-# Công ty Cổ phần Chứng khoán SSI  
-## BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-cho kỳ kế toán kết thúc ngày 31 tháng 03 năm 2025
 
-| Mã số                                           | CHỈ TIÊU                                                                                   | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này<br/>Năm nayVND | Lũy kế từ đầu năm đến cuối quý này<br/>Năm trướcVND |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------- | --------------------------------------------------- |
-| **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ**     |                                                                                            |             |                                                   |                                                     |
-| 61                                              | Tiền chi để mua sắm, xây dựng tài sản cố định, bất động sản đầu tư và các tài sản khác     |             | (2.018.233.306)                                   | (14.335.249.052)                                    |
-| 62                                              | Tiền thu từ thanh lý, nhượng bán tài sản cố định, bất động sản đầu tư và các tài sản khác  |             | 30.744.181                                        |                                                     |
-| 63                                              | Tiền chi đầu tư vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác           |             | (500.000.000.000)                                 |                                                     |
-| 64                                              | Tiền thu hồi các khoản đầu tư vào công ty con, công ty liên doanh, liên kết và đầu tư khác |             |                                                   | 200.000.000.000                                     |
-| 65                                              | Tiền thu về cổ tức và lợi nhuận được chia từ các khoản đầu tư tài chính dài hạn            |             |                                                   | 1.685.369.862                                       |
-| 70                                              | **Lưu chuyển tiền thuần từ/ (sử dụng vào) hoạt động đầu tư**                               |             | (501.987.489.125)                                 | 187.350.120.810                                     |
-| **III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH** |                                                                                            |             |                                                   |                                                     |
-| 71                                              | Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu                                |             |                                                   |                                                     |
-| 73                                              | Tiền vay gốc                                                                               |             | 66.737.013.304.857                                | 58.117.738.667.473                                  |
-| 73.2                                            | *Tiền vay khác*                                                                            |             | 66.737.013.304.857                                | 58.117.738.667.473                                  |
-| 74                                              | Tiền chi trả nợ gốc vay                                                                    |             | (56.982.985.552.641)                              | (61.186.831.526.383)                                |
-| 74.3                                            | *Tiền chi trả gốc vay khác*                                                                |             | (56.982.985.552.641)                              | (61.186.831.526.383)                                |
-| 76                                              | Cổ tức, lợi nhuận đã trả cho chủ sở hữu                                                    |             | (23.042.000)                                      | (95.980.000)                                        |
-| 80                                              | **Lưu chuyển tiền thuần từ/ (sử dụng vào) hoạt động tài chính**                            |             | 9.754.004.710.216                                 | (3.069.188.838.910)                                 |
+| Khoản mục                        | Nhà cửa, vật kiến trúc<br/>Nguyên giá | Nhà cửa, vật kiến trúc<br/>Số dư đầu năm | Máy móc, thiết bị | Phương tiện vận tải truyền dẫn | Thiết bị dụng cụ quản lý | Tài sản khác    | Tổng cộng |
+| -------------------------------- | ------------------------------------- | ---------------------------------------- | ----------------- | ------------------------------ | ------------------------ | --------------- | --------- |
+| Nguyên giá                       | 126.559.692.240                       | 89.163.419.573                           | 8.908.181.038     | 344.630.205                    | 3.274.567.719            | 228.250.490.775 |           |
+| Mua trong kỳ                     |                                       | 3.270.438.506                            | 6.985.598.303     |                                | 46.500.000               | 10.302.536.809  |           |
+| Đầu tư XDCB hoàn thành           | 221.450.001                           |                                          |                   |                                |                          | 221.450.001     |           |
+| Tăng khác - Thanh lý, nhượng bán |                                       | 330.000.000                              |                   |                                |                          | 330.000.000     |           |
+| Giảm khác                        | 36.139.366.691                        |                                          |                   |                                |                          | 36.139.366.691  |           |
+| Số dư cuối kỳ                    | 90.641.775.550                        | 92.103.858.079                           | 15.893.779.341    | 344.630.205                    | 3.321.067.719            | 202.305.110.894 |           |
+| Giá trị hao mòn lũy kế           |                                       |                                          |                   |                                |                          |                 |           |
+| Số dư đầu năm                    | 84.865.327.497                        | 76.906.294.872                           | 7.582.399.488     | 344.630.205                    | 2.748.905.844            | 172.447.557.906 |           |
+| Khấu hao trong kỳ                | 6.111.132.428                         | 5.551.467.795                            | 633.122.341       |                                | 540.461.850              | 12.836.184.414  |           |
+| Tăng khác - Thanh lý, nhượng bán |                                       |                                          |                   |                                | 287.347.511              | 287.347.511     |           |
+| Giảm khác                        | 26.322.781.614                        |                                          |                   |                                |                          | 26.322.781.614  |           |
+| Số dư cuối kỳ                    | 64.653.678.178                        | 82.170.415.156                           | 8.215.521.829     | 344.630.205                    | 3.289.367.694            | 158.673.613.195 |           |
+| Giá trị còn lại                  |                                       |                                          |                   |                                |                          |                 |           |
+| Tại ngày 31/12/2023              | 41.694.364.743                        | 12.257.124.701                           | 1.325.781.550     |                                | 525.661.875              | 55.802.932.869  |           |
+| Tại ngày 31/12/2024              | 25.988.097.372                        | 9.933.442.923                            | 7.678.257.512     |                                | 31.700.025               | 43.631.497.699  |           |
+
+
+> Nguyên giá TSCĐ cuối quý đã khấu hao hết nhưng vẫn còn sử dụng: 121.033.583.131 đồng;
+
+| Tăng, giảm tài sản cố định vô hình:<br/>Khoản mục | Tăng, giảm tài sản cố định vô hình:<br/>Quyền sử dụng đất | Quyền khai thác | Tài sản cố định vô hình khác | Tổng cộng |   |
+| ------------------------------------------------- | --------------------------------------------------------- | --------------- | ---------------------------- | --------- | - |
+|                                                   |                                                           |                 |                              |           |   |
 
 
  + 

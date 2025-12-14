@@ -4,6 +4,7 @@ from neo4j import GraphDatabase
 
 URI = "neo4j://127.0.0.1:7687"
 AUTH = ("neo4j", "15102004")
+DATABASE= 'testreports'
 driver = GraphDatabase.driver(URI, auth=AUTH)
 
 def query_by_sector(sector = ''):
@@ -11,13 +12,13 @@ def query_by_sector(sector = ''):
     MATCH (c:Company)-[:BELONGS_TO]->(s:Sector {name:$sector_name})
     RETURN s.name AS sector, collect(c.name) AS companies
     """
-    with driver.session() as session:
+    with driver.session(database=DATABASE) as session:
         result = session.run(query, sector_name=sector)
         records = [dict(record) for record in result]
     return records if records else None
 
 def query_company_raw_text(company_name, time=None, section=None, subsection=None, type_report=None):
-    with driver.session() as session:
+    with driver.session(database=DATABASE) as session:
         query = """
         MATCH (c:Company {name: $company_name})-[:HAS_REPORT]->(r:Report)
         """
@@ -85,7 +86,7 @@ def query_thuyet_minh_raw_text(company_name, time=None, type_report=None):
     - Nếu type_report là None: lấy tất cả loại report.
     - Giữ nguyên logic gốc, chỉ thêm lọc theo r.type.
     """
-    with driver.session() as session:
+    with driver.session(database=DATABASE) as session:
         query = """
         MATCH (c:Company {name: $company_name})-[:HAS_REPORT]->(r:Report)
         """
@@ -129,7 +130,7 @@ def query_thuyet_minh_raw_text(company_name, time=None, type_report=None):
     
  
 def query_raw_text(company_name, section, time=None, type_report=None):
-    with driver.session() as session:
+    with driver.session(database=DATABASE) as session:
         query = """
         MATCH (c:Company {name: $company_name})-[:HAS_REPORT]->(r:Report)
         """

@@ -1,114 +1,92 @@
-CÔNG TY CỐ PHAN CHỨNG KHOẢN SSI                         CỘNG HOÀ XÃ HỘl CHỦ NGHÍA VIỆT NAM
-    SECURITIES CORPORATION                                   Độc lập - Tự do Hạnh phúc
-  sSI                                                   THE SOCIALIST REPUBLIC OF VIETNAM
+                                                                         Mẫu số 01-B
+               CÔNG TY CỔ PHẦN  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+              KHOÁNG SẢN BẲC KAN         Độc lập Tự do Hạnh phúc
+      Số: 44 ICBTT-BKC                   TP . Bắc Kạn; ngày 20tháng 01 năm 2025
 
-                                                        Independence Freedom Happiness
+           CÔNG BỐ THÔNG TIN ĐỊNH KỲ BÁO CÁO TÀI CHÍNH
 
-SólNo 605/2025/CV-SSIHO                                 TP. Hồ Chi Minh; ngảy 29 tháng  nam 2025
-VIv: Cóng bó Báo cáo tài chinh hợp nhat Quý nám 2025         Ho Chi Minh City , April 29  , 2025
-Ref; Disclosure of the  Quarter of 2025 Consolidated
-Financial Statements
-                           CÔNG BÓ THÔNG TIN ĐỊNH KỶ
-                        PERIODIC INFORMATION DISCLOSURE
+              Kính          Sở Giao dịch Chứng khoán Hà Nội
+              gửi:
 
-  Kính gửilTo:          Ủy ban Chứng khoán Nhả nướcl The State Securities Commission
-                        Sở Giao dịch Chứng khoán Việt Naml Vietnam Stock Exchange
-                        Sở Giao dịch Chứng khoán TP. Hồ Chi Minhl Hochiminh Stock Exchange
-                        Sở Giao dịch Chứng khoán Hà Nộil Hanoi Stock Exchange
-    Tên tó chức:                            CONG TY CO PHAN CHỨNG KHOÁN SSI
-    Organization name                       SSI SECURITIES CORPORATION
-   Machửng khoán:                           SSI
-    Ticker                                  SSI                              TP. Hồ Chi Minh             COI
-   Đia chi:                                 72 Nguyễn Huệ,   Ben Nghé, Quan      HCMC                     cô
-    Address                                 72 Nguyen Hue, Ben Nghe Ward , District                    CHUNC
-   Đien thoai lien he                       028-38242897
-    Telephone                               028-38242897
-    Email:                                  congbothongtin@ssi com vn
-    Website:                                https hww ssicomvn
-Nôí dung thòng tin công bốlContents of disclosed information:
-  Báo cáo tài chinhhợpnhát Quý  nẵm 2025 (bản tiéng Việt)
-  The 1s Quarter of 2025 Consolidated Financial Statements (Vietnamese version)
- Trong đó: Giải trinh chênh lệch lợỉ nhuận sau thué so vởi cùng kỷ được trinh bày trong phản Thuyết
- minh Báo cáo tài chinh hợp nhát Quý        nắm 2025 tại trang só 71 của Báo cáo.
- In which: The Explanation of the difference in         after tax compared to the same period is presented
-                                            pronit
- in Notes to the 1s Quarter of 2025 Consolidated Financial Statements on page 71 of the Financial
-  Statements
+ Thực hiện quy định tại Khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC ngày
+              16/11/2020 của Bộ Tài chính hướng dẫn côngbốthôngtin trên thị trường chứng khoán;
+                Công ty Cổphầnkhoáng sản Bắc Kạn thực hiện công bố thông tin Báo cáo tài chính
+(BCTC) Quý IVI2024 với Sở Giao dich Chứng khoán Hà Nội như sau:
+ 1. Tên tổ chức:Côngty Cổ phần khoáng sản BắcKạn                                    14 (
+                                                                                    4700 ,
+      Mã chứng khoán: BKC                                                           CÔNG
+      Địa chỉ: Tổ 4, Phường Đức Xuân; Thành  BắcKan,tỉnh Bắc Kan                      cỐPH
+      Điện thoai liên hệlTel: (0209) 3812399 phố                                    KHOÁNG
+      Email: bkc@backanco com       Website: http:llbackanco.com                 4BACBĂc K
+ 2. Nội dungthôngtincôngbố:                                                         KẠN
+      BCTC Quý IVI2024:     riêng(TCNY không cóCôngty con và đơn vị kế toán cấp
+              BCTC
+              trên có đơn vị trực thuộc);
+              BCTC hợp nhất (TCNY cócôngty con);
+              BCTCtổnghợp (TCNY có đơn vị kế toán trực thuộc tổ chức bộ
 
-  Báo cáo tài chính hợp nhấtQuỷ năm 2025 (bản tiếng Anh)
-  The 1st Quarter of 2025 Consolidated Financial Statements (English version)
- Trong đó; Già trinh chênh lệch lợỉ nhuận sau thuế so vởicung kỷ đươc trinh bảy trong phẩn Thuyểt
- minh Báo cáo tà chinh hợp nhát Quỷ         nam 2025 tại trang só 73 của Báo cáo
- In which: The Explanation of the difference in profit after tax compared to the same period ỉs presented
- ỉn Notes to the 1s Quarter of 2025 Consolidated Financial Statements on page 73 of the Financial
-  Statements +
+      trường  máy kế toán riêng) .
+      Các  hợpthuộc diện phải giải trình nguyên nhân:
+      Tổ chức kiểm toán đưa ra ý kiếnkhôngphải là ý kiến chấp nhận toàn  đối với
+ 4            kiểm toánle                                           phần
+ (đối
+BCTC       với BCTC được       'đượcsoát xét):                 Không
+              Có
+ Văn bản giải trình trong trường hợp tích có:
+              Có                                           Không
+ 4Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ
+05% trởlên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC đượckiểm toán năm
+2023):
+              Có             hợp                       Không
+Văn bảngiảitrình trong trường       tích có:
+              Có                                           Không
+
+                                    1/2 +
  
-# CÔNG TY CỔ PHẦN CHỨNG KHOÁN SSI  
-## SSI SECURITIES CORPORATION
 
-----
+Mẫu số 01-B  
+CÔNG TY CỔ PHẦN KHOÁNG SẢN BẮC KAN  
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
+TP. Bắc Kạn, ngày 20 tháng 01 năm 2025  
 
-# CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-**Độc lập - Tự do - Hạnh phúc**  
-**THE SOCIALIST REPUBLIC OF VIETNAM**  
-*Independence – Freedom – Happiness*
+# CÔNG BỐ THÔNG TIN ĐỊNH KỲ BÁO CÁO TÀI CHÍNH
 
-----
+**Kính gửi:**  
+Sở Giao dịch Chứng khoán Hà Nội
 
-**Số/No.:** 605/2025/CV-SSIHO  
-**V/v:** Công bố Báo cáo tài chính hợp nhất Quý 1 năm 2025  
-**Ref:** Disclosure of the 1<sup>st</sup> Quarter of 2025 Consolidated Financial Statements  
+Thực hiện quy định tại Khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán;  
+Công ty Cổ phần khoáng sản Bắc Kạn thực hiện công bố thông tin Báo cáo tài chính (BCTC) Quý IV/2024 với Sở Giao dịch Chứng khoán Hà Nội như sau:
 
-**TP. Hồ Chí Minh, ngày 29 tháng 4 năm 2025**  
-*Ho Chi Minh City, April 29<sup>th</sup>, 2025*
+1. **Tên tổ chức:** Công ty Cổ phần khoáng sản Bắc Kạn  
+   - **Mã chứng khoán:** BKC  
+   - **Địa chỉ:** Tổ 4, Phường Đức Xuân, Thành phố Bắc Kạn, tỉnh Bắc Kạn  
+   - **Điện thoại liên hệ (Tel):** (0209) 3812399  
+   - **Email:** bkc@backanco.com  
+   - **Website:** http://backanco.com  
 
-----
+2. **Nội dung thông tin công bố:**  
+   - BCTC Quý IV/2024:  
+     - [x] BCTC riêng (TCNY không có Công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc)  
+     - [ ] BCTC hợp nhất (TCNY có công ty con)  
+     - [ ] BCTC tổng hợp (TCNY có đơn vị kế toán trực thuộc tổ chức bộ máy kế toán riêng)  
 
-## CÔNG BỐ THÔNG TIN ĐỊNH KỲ  
-### PERIODIC INFORMATION DISCLOSURE
+**Các hợp thuộc diện phải giải trình nguyên nhân:**  
+- Tổ chức kiểm toán đưa ra ý kiến không phải là ý kiến chấp nhận toàn phần đối với BCTC (đối với BCTC được kiểm toán/được soát xét):  
+  - [ ] Có  
+  - [x] Không  
 
-**Kính gửi/To:**  
-* Ủy ban Chứng khoán Nhà nước / The State Securities Commission  
-* Sở Giao dịch Chứng khoán Việt Nam / Vietnam Stock Exchange  
-* Sở Giao dịch Chứng khoán TP. Hồ Chí Minh / Hochiminh Stock Exchange  
-* Sở Giao dịch Chứng khoán Hà Nội / Hanoi Stock Exchange  
+- Văn bản giải trình trong trường hợp tích có:  
+  - [ ] Có  
+  - [x] Không  
 
-**Tên tổ chức:**  
-*CONG TY CO PHAN CHỨNG KHOÁN SSI*  
-*SSI SECURITIES CORPORATION*
+- Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ 05% trở lên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC được kiểm toán năm 2023):  
+  - [ ] Có  
+  - [x] Không  
 
-**Mã chứng khoán:**  
-SSI
-
-**Ticker:**  
-SSI
-
-**Địa chỉ:**  
-72 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. Hồ Chí Minh  
-*72 Nguyen Hue, Ben Nghe Ward, District 1, HCMC*
-
-**Điện thoại liên hệ:**  
-028-38242897
-
-**Email:**  
-congbothongtin@ssi.com.vn
-
-**Website:**  
-https://www.ssi.com.vn/
-
-----
-
-### Nội dung thông tin công bố / Contents of disclosed information:
-
-1. **Báo cáo tài chính hợp nhất Quý 1 năm 2025 (bản tiếng Việt)**  
-*The 1<sup>st</sup> Quarter of 2025 Consolidated Financial Statements (Vietnamese version)*  
-Trong đó: Giải trình chênh lệch lợi nhuận sau thuế so với cùng kỳ được trình bày trong phần Thuyết minh Báo cáo tài chính hợp nhất Quý 1 năm 2025 tại trang số 71 của Báo cáo.  
-*In which: The Explanation of the difference in profit after tax compared to the same period is presented in Notes to the 1<sup>st</sup> Quarter of 2025 Consolidated Financial Statements on page 71 of the Financial Statements*
-
-2. **Báo cáo tài chính hợp nhất Quý 1 năm 2025 (bản tiếng Anh)**  
-*The 1<sup>st</sup> Quarter of 2025 Consolidated Financial Statements (English version)*  
-Trong đó: Giải trình chênh lệch lợi nhuận sau thuế so với cùng kỳ được trình bày trong phần Thuyết minh Báo cáo tài chính hợp nhất Quý 1 năm 2025 tại trang số 73 của Báo cáo.  
-*In which: The Explanation of the difference in profit after tax compared to the same period is presented in Notes to the 1<sup>st</sup> Quarter of 2025 Consolidated Financial Statements on page 73 of the Financial Statements*
+- Văn bản giải trình trong trường hợp tích có:  
+  - [ ] Có  
+  - [x] Không  
 
  + 
  + [] 

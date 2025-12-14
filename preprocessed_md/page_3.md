@@ -1,83 +1,87 @@
-   Công ty Cổ phần Chứng khoán SSI          B01-CTCKHN
-   BÁO CÁO TỈNH HỈNH TAI CHÍNH HỢP NHÁT QUÝ NĂM 2025
-   tai ngay 31 tháng 03 nam 2025
-
-
-
-              CHỈ TIÉU                                      Thuyét    Só cuci                        Só đẩu nám
-Ma s6                                                       minh      VND                                   VND
-
-       100      TÀI SẢN NGAN HẠN                                          81.293.962.685.663 70.932.391.912.367
-       110      Taỉ sán tal chinh                                     81.203.304.827.806        70.813.502.224.578
-       111        Tỉền và cảc khoản tương đương tiẻn                         117.041.162.784    239 000,238.200
-111.1             Tien                                                71.896.299.770            208.969.991.625
-111.2             Các khoản tuong duong tiẻn                                  45.144,863.014    30.030.246.575
-       112        Cac tai sán tà chinh ghi nhán thông
-                  qua Iãillỗ (FVTPL)                                      46.344.730.122,172 42.438.121.481.401
-       113        Cac khoán đàu tư nấm giĐ đến ngày         72                                  893.901.724.895
-   115            dao han (HTM)                                              156,437,469,626
-                  Các khoản cho vay                                       27.167.067,097 421 21.998,601,885.375
-                  Tài sản tàl chinh sán sang đẻ ban                                             562 332.851,822
-       116        (AFS)                                                      580.997,546 762
-                  Dự phong suy giảm già trỉ cac tal                                            (55.101.823.874)
-                  sàn tài chinh và tài sàn thé chap                    (55.101,.823.874)
-                  Cac khoản phải thu                                     745.497.767.994      800.614.271.922
-   1171           Phải thu bản cảc tài sản tàỉ chinh                         308 065.913 808    507.766.978.808
-117,2           7.2 Pháithu và       cotúc; tiên lJi các
-                            Outhu                                            437,431,854 186    292.847.293.114
-                 tai sàn tai chính
-117,4              7.21 Dv thu có túc, tiền lái chua đến                     437.431.854 186    292.847.293.114
-       118                ngay nhán                                                           927.764.853.829
-                 Trả truớc cho          bán                                  147,173.031.496
-       119                        ngưoi
-                 Phảỉ thu cac dich vu còng         chúng                  20.014.559.639       30.201.748.046
-       122       khoán cung cap
-               10.  Các khoản phải thu khác                              211,504,271.980      210.104.950.765
-       129       Du phỏng suy giảm gỉả trj cac khoản                   {232,056.378.194)    (232.039.957.803)
-                 phải thu
-       130     Tài sản ngẳn han khác                                      90.657.857.857      118.889.687.789
-       131       Tam úng                                              24.198.228.921           20,927,597,892
-       132       Vat tu ván phong, cong cu, dung cu                          542.630.166          595.758.695
-       133       Chi phf trà trưóc ngan han                               42,483,417.360       54,860.667,972
-       134       Cam cò thé chap; ký quỹ, kỷ cưoc                            822.909,400           772112,130
-       136       ngan han
-                 Thue va cac khoảnpháỉ thu Nha
-                 nuớc                                                         37.134,443           55.944.865
-   137           Tai sán ngán han khac                                22.573.537.567          41.677,.606.235 +
+CÔNG TY CỖ PHẦN KHOÁNG SẢN BẮC KAN                                      Mẫu số BOl -DN
+Tổ 4, phường Đức Xuân; thành              Bắc Kan; tỉnh BắcKan
+                                       phố
+                                       BẢNG CÂN ĐỐI KẾ TOÁN
+                                                Quý IVI2024
+                                       Tại ngày 31tháng 12 năm 2024
+                                                                        Đơn vị tính: VNĐ
+                    TÀI SẢN                     Mã số Thuyết   Số cuối quý            Số đầu năm
+                                                       minh
+                                                2      3           4                  5
+             A TÀI SẢN NGẮN HAN                 100    285.416.829.838               266.334.866.645
+1. Tiền và các khoản tưong đương tiền           110    143.694.292.293                27.424.122.422
+1.Tiền                                          111            143.694.292.293        27.424.122.422
+2 Các khoản tương đương tiền                    112
+IL Đầu tư tài chính ngắn hạn                    120
+1 Chứng khoán kinh doanh                        121
+2. Dự phònggiảmgiáchứngkhoán kinh doanh         122
+3 . Đầu tư nắm giữ đến ngày đáo hạn             123
+III. Các khoản phải thu ngắn hạn                130            39.957.338.921         80.038.622.855
+1 .Phải thungắnhạn của kháchhàng                131    2.1     21.634.113.469         74.215.295.676
+2 Trả trước chongườibán ngẳn hạn                132            22.137.714.378         9.169.115.716
+3. Phải thu nội bộ ngắn hạn                     133
+4. Phải thu theo tiến độ kế hoach HĐXD          134
+5. Phải thu về cho vayngẳnhan                   135                                             U   C
+6. Phải thu      han khác                       136    2.2     1.941.427.520                    5 KH(
+          ngẳn                                                                        2.410.127.909
+7. Dự phòng phải thu ngắn hạn khó đòi           137    3       (5.755.916.446)       (5.755.916.448) RÃc
+8. Tài sản thiếu chờ xử lý                      139
+IV. Hàng tồn kho                                140    4       87.115.328.316        146.117.484.978
+1 Hàngtồn kho                                   141                88.566.669.300    147.568.825.962
+2 Dựphònggiảmgiáhàngtồn kho (*)                 149    (1.451.340.984)               (1.451.340.984)
+V Tài sảnngẳnhạn khác                           150                14.649.870.308    12.754.636.390
+1 Chi phí trả trước ngắn hạn                    151    5a      5.274.966.011          4.012.022.519
+2. Thuế GTGT được khấu trừ                      152                 9.353.816.085     8.721.525.659
+3 . Thuế và các khoản khác phải thu Nhà nước    153                    21.088.212     21.088.212
+4 Giao dịch mua bán lại tráiphiếuChính phủ      154
+5 Tài sảnngẳnhạn khác                           155
+             B TÀI SẢN DÀI HAN                  200               143.209.703.764    102.122.970.713
+I. Các khoản phải thu dài hạn                   210                 2.136.456.485     1.895.504.406
+[ Phải thu dài hạn của kháchhàng                211 +
  
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN  
 
-## BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025  
-tại ngày 31 tháng 03 năm 2025  
+CÔNG TY CỔ PHẦN KHOÁNG SẢN BẮC KAN  
+Tổ 4, phường Đức Xuân, thành phố Bắc Kan, tỉnh Bắc Kan  
+Mẫu số B01 - DN  
+BẢNG CÂN ĐỐI KẾ TOÁN  
+Quý IV/2024  
+Tại ngày 31 tháng 12 năm 2024  
+Đơn vị tính: VNĐ
 
-| Mã số | CHỈ TIÊU                                                               | Thuyết minh | Số cuối kỳ VND     | Số cuối kỳ VND     | Số đầu năm VND | Số đầu năm VND |
-| ----- | ---------------------------------------------------------------------- | ----------- | ------------------ | ------------------ | -------------- | -------------- |
-| 100   | **A. TÀI SẢN NGẮN HẠN**                                                |             | 81.293.962.685.663 | 70.932.391.912.367 |                |                |
-| 110   | **I. Tài sản tài chính**                                               |             | 81.203.304.827.806 | 70.813.502.224.578 |                |                |
-| 111   | 1. Tiền và các khoản tương đương tiền                                  | 5           | 117.041.162.784    | 239.000.238.200    |                |                |
-| 111.1 | 1.1. Tiền                                                              |             | 71.896.299.770     | 208.969.991.625    |                |                |
-| 111.2 | *1.2. Các khoản tương đương tiền*                                      |             | 45.144.863.014     | 30.030.246.575     |                |                |
-| 112   | 2. Các tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL)             | 7.1         | 46.344.730.122.172 | 42.438.121.481.401 |                |                |
-| 113   | 3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)                     | 7.3         | 6.156.437.469.626  | 3.893.901.724.895  |                |                |
-| 114   | 4. Các khoản cho vay                                                   | 7.4         | 27.167.067.097.421 | 21.998.601.885.375 |                |                |
-| 115   | 5. Tài sản tài chính sẵn sàng để bán (AFS)                             | 7.2         | 580.997.546.762    | 562.332.851.822    |                |                |
-| 116   | 6. Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp | 8           | (55.101.823.874)   | (55.101.823.874)   |                |                |
-| 117   | 7. Các khoản phải thu                                                  | 9           | 745.497.767.994    | 800.614.271.922    |                |                |
-| 117.1 | 7.1. Phải thu bán các tài sản tài chính                                |             | 308.065.913.808    | 507.766.978.808    |                |                |
-| 117.2 | *7.2. Phải thu và cổ tức, tiền lãi các tài sản tài chính*              |             | 437.431.854.186    | 292.847.293.114    |                |                |
-| 117.4 | *7.2.1. Dv thu cổ tức, tiền lãi chưa đến ngày nhận*                    |             | 437.431.854.186    | 292.847.293.114    |                |                |
-| 118   | 8. Trả trước cho người bán                                             | 9           | 147.173.031.496    | 927.764.853.829    |                |                |
-| 119   | 9. Phải thu các dịch vụ công ty chứng khoán cung cấp                   | 9           | 20.014.559.639     | 30.201.748.046     |                |                |
-| 122   | 10. Các khoản phải thu khác                                            | 9           | 211.504.271.980    | 210.104.950.765    |                |                |
-| 129   | 11. Dự phòng suy giảm giá trị các khoản phải thu                       | 9           | (232.056.378.194)  | (232.039.957.803)  |                |                |
-| 130   | **II. Tài sản ngắn hạn khác**                                          | 10          | 90.657.857.857     | 118.889.687.789    |                |                |
-| 131   | 1. Tạm ứng                                                             |             | 24.198.228.921     | 20.927.597.892     |                |                |
-| 132   | 2. Vật tư văn phòng, công cụ, dụng cụ                                  |             | 542.630.166        | 595.758.695        |                |                |
-| 133   | 3. Chi phí trả trước ngắn hạn                                          |             | 42.483.417.360     | 54.860.667.972     |                |                |
-| 134   | 4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn                          |             | 822.909.400        | 772.112.130        |                |                |
-| 136   | 5. Thuế và các khoản phải thu Nhà nước                                 |             | 37.134.443         | 55.944.865         |                |                |
-| 137   | 6. Tài sản ngắn hạn khác                                               |             | 22.573.537.567     | 41.677.606.235     |                |                |
+# TÀI SẢN
+
+| Mã số                   | Thuyết minh                                   | Số cuối quý<br/>4 | Số cuối quý<br/>5 | Số đầu năm<br/>4 | Số đầu năm<br/>5 |
+| ----------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------- | ---------------- |
+| **A. TÀI SẢN NGẮN HẠN** |                                               |                   |                   |                  |                  |
+| 100                     | Tiền và các khoản tương đương tiền            | 285.416.829.838   | 266.334.866.645   |                  |                  |
+| 110                     | Tiền                                          | 143.694.292.293   | 27.424.122.422    | 143.694.292.293  | 27.424.122.422   |
+| 111                     | Tiền                                          | 143.694.292.293   | 27.424.122.422    |                  |                  |
+| 112                     | Các khoản tương đương tiền                    |                   |                   |                  |                  |
+| 120                     | Đầu tư tài chính ngắn hạn                     |                   |                   |                  |                  |
+| 121                     | Chứng khoán kinh doanh                        |                   |                   |                  |                  |
+| 122                     | Dự phòng giảm giá chứng khoán kinh doanh      |                   |                   |                  |                  |
+| 123                     | Đầu tư nắm giữ đến ngày đáo hạn               |                   |                   |                  |                  |
+| 130                     | **III. Các khoản phải thu ngắn hạn**          | 39.957.338.921    | 80.038.622.855    |                  |                  |
+| 131                     | 1. Phải thu ngắn hạn của khách hàng           | 21.634.113.469    | 74.215.295.676    |                  |                  |
+| 132                     | 2. Trả trước cho người bán ngắn hạn           | 22.137.714.378    | 9.169.115.716     |                  |                  |
+| 133                     | 3. Phải thu nội bộ ngắn hạn                   |                   |                   |                  |                  |
+| 134                     | 4. Phải thu theo tiến độ kế hoạch HĐXD        |                   |                   |                  |                  |
+| 135                     | 5. Phải thu về cho vay ngắn hạn               |                   |                   |                  |                  |
+| 136                     | 6. Phải thu ngắn hạn khác                     | 1.941.427.520     | 2.410.127.909     |                  |                  |
+| 137                     | 7. Dự phòng phải thu ngắn hạn khó đòi         | (5.755.916.446)   | (5.755.916.446)   |                  |                  |
+| 139                     | 8. Tài sản thiếu chờ xử lý                    |                   |                   |                  |                  |
+| 140                     | **IV. Hàng tồn kho**                          | 87.115.328.316    | 146.117.484.978   |                  |                  |
+| 141                     | 1. Hàng tồn kho                               | 88.566.669.300    | 147.568.825.962   |                  |                  |
+| 149                     | 2. Dự phòng giảm giá hàng tồn kho (\*)        | (1.451.340.984)   | (1.451.340.984)   |                  |                  |
+| 150                     | **V. Tài sản ngắn hạn khác**                  | 14.649.870.308    | 12.754.636.390    |                  |                  |
+| 151                     | 1. Chi phí trả trước ngắn hạn                 | 5.274.966.011     | 4.012.022.519     |                  |                  |
+| 152                     | 2. Thuế GTGT được khấu trừ                    | 9.353.816.085     | 8.721.525.659     |                  |                  |
+| 153                     | 3. Thuế và các khoản khác phải thu Nhà nước   | 21.088.212        | 21.088.212        |                  |                  |
+| 154                     | 4. Giao dịch mua bán lại trái phiếu Chính phủ |                   |                   |                  |                  |
+| 155                     | 5. Tài sản ngắn hạn khác                      |                   |                   |                  |                  |
+| 200                     | **B. TÀI SẢN DÀI HẠN**                        | 143.209.703.764   | 102.122.970.713   |                  |                  |
+| 210                     | **I. Các khoản phải thu dài hạn**             | 2.136.456.485     | 1.895.504.406     |                  |                  |
+| 211                     | Phải thu dài hạn của khách hàng               |                   |                   |                  |                  |
 
 
  + 

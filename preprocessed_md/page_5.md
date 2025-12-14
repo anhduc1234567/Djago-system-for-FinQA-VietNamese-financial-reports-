@@ -1,99 +1,86 @@
-Công ty Cổ phần Chứng khoán SSI          BO1-CTCKIHN
-BÁO CÁo TỈNH HINH TẢI CHINH HỢP NHAT QUÝ NĂM 2025 (tiếp theo)
-tai ngày 31 thang 03 nảm 2025
-
-
-
-         CHI TIÊU                                   Thuyet                        Sô cuôi kỷ         Só dẩu năm
-Mà so                                               minn                                 VND                VND
-
- 300        NQ PHẢl TRẢ                                                   56.340.548.607.124 46.680.651.947.954
- 310        NP phải trà ngản han                                          56.248.437.443.943 46.599,438.522.989
- 311            Vay và nợ thue tai sàn tai chinh                          55 246,837,451.353 45.501.969.699.137
-                ngan han
- 312           Vay ngẳn han                                               55.246.837.451.353 45.501.969,699 137
- 318            Phài trà hoatdonggiao djch
-               chửng khoán                                                   258.375.634.864    227.883,634.106
- 320            Phải trả ngưởi bán ngán han                                   82.844,177,914    103.075.387.679
- 321            Nguời mua trả tièn truởc ngán                                  2,497,683,500     26,490,726,300
-
- 322            han
-                Thué va các khoàn phải nóp                               264,911.520.213        201.293.124,495
- 323            Nhà nưởc
-                Phải trá       lao đông                                   18,457,972.325        93,761,.808,205
-                       nguoi
- 324            Cảc khoản trich nỏp phuc lợi                                 753.996.198           884,.019.653
- 325            nhan vien
- 327            Chỉ phi phải trả ngn han                                  66.844,438,480         67,847,177,428
-                Doanh thu chua Ihuc hien ngán
- 328          han                                                            524,419,332          1,299.798,330
- 329          Nhan ký quỹ, ký cưoc ngắn han                                  364.993.200            362.313.180
-              Các khoản phải trà           nộp ngán
- 331          han khảc              Phai            25                    21,453.459.862         18.037,472.054
-              Quy khen thuóng phúc lơi                                   284.571.696.702        356.533.362.422
- 340       Nợ phải trả dài han                                            92.111.163.181        81.213,424.965
- 351          Doanh thu chua thưc hien dai han                            53.562.883.675         54,562.883.675
- 356          Thué thu nhap doanh nghièp hoan
-             lai phải trả                                                 38.548.279.506         26.650.541.290
- 400       VỐN CHỦ SỞ HỮU                                             27.703.353.104.435   26.826,.650.611,.768
- 410       Von chù sở hữu                                             27.703.353.104.435     26.826.650.611.768
- 411         Vón dau tư cùa chú sờ hữu                            20.713.065.094.108         20.713.065.094.108
- 4111         Vôn góp cúa chù sở húu                             195.638.639.180.000        19.638.,639.180.000
-411.1a               Co phiéu phỏ thóng                           19,638,639,180.000         19.638.639.180.000
-411,2      1.2 Thắng dư vốn cỏ phẳn                                1.093.540.920.517            093.540.920.517
-411.          Cổ phiễu quỹ                                    (19.115 006,409)                  (19.115.006 409
- 412         Chenh lech đanh gia tai sàn theo
-4            già tri hợp lỷ                                       62.076.509.892                 31,690,477,740
-             Chênh lech tỷ giá hổi đoáỉ                           74,188,577.913                 72.177.590.546
-             Quý dự trữ bó sung vốn điều lé                          ooo.ooo 0oo                 3.0oo.ooo, Ooo
-417,1        Lợi nhuan chưa phan phól                            700,405.049.625                856.098.315.938
-417.2     51 Loi nhuân dã thuc hiên                            6.736.963.850.330               6.025186.849 191
-418       5.2 Loi nhuán chua thuc hien                          (36 558.800.705)              (169.088.533.253)
-            Lợi Ích co đông khòng kiém soát                      150.617.872.897                150.619.133,436
-
-440      TONG CONG NỢ PHẢl TRẢ VÀ VON
-         CHU SƠ HUU                                           84.043.901.711.559             73.507.302.559.722 +
+                  TÀI SẢN                        Mã số Thuyết]  Số cuối quý         Số đầu năm
+                                                       minh
+1 . Phải trảngườibán ngắn hạn                   311               93.550.898.695    31.290.918.446
+2 Người mua trả tiền trướcngẳnhan                312              13.901.758.624     3.576.509.404
+3 . Thuế và các khoản phải nộp Nhà nước          313     10       13.541.753.038     4.257.742.129
+4 Phải trảngườilaođộng                           314               4.003.568.926     4.510.235.738
+5. Chi phíphảitrả ngắn hạn                       315            13.450.388.915      3.213.831.335
+6. Phải trả nội bộ ngắn hạn             đồng xây 316
+7 Phải trả theo tiến độ kế hoạch hợp             317
+8. Doanh thu chưa thực hiện ngắn han             318
+9 Phải trả ngắn hạn khác                         319     11        5.928.780.684    5.959.115.231
+10. Vayvà nợ thuê tài chính ngắn hạn             320     12       16.812.000.000   102.123.550.000
+11. Dựphòng phải trảngắnhan                      321
+12. Quỹ khen thưởng, phúc lợi                    322                  76.540.750        76.540.750
+13. Quỹ bình ổn giá                              323
+14. Giao dịch mua bán lai tráiphiếuChính phủ     324
+II. Nợ dài hạn                                   330              30.390.000.000    30.390.000.000
+1.Phải trảngườibán dài hạn                       331
+2. Người mua trả tiền trước dài hạn              332
+3. Chi phí phải trả dài hạn                      333
+4. Phải trả nội bộ về vốn kinh doanh             334                                               9
+5. Phải trả nội bộ dài hạn                       335                                               {
+6 Doanh thu chưa thực hiện dài hạn               336
+7.Phải trả dài hạn khác                          337
+8 Vayvà nợ thuê tài chính dài hạn                338            30.390.000.000      30.390.000.000 5
+9 Tráiphiếuchuyểnđổi                             339
+10. Cổ phiếu uu đãi                              340
+11. Thuế thu nhập hoãn lại phải trả              341
+       Dựphòng    trả dài han                    342
+12.        phải
+13. Quỹ phát triển khoa học vàcôngnghệ           343
+           D VON CHỦ SỞ HỮU                      400     13     236.970.843.970     183.059.394.325
+I Vổn chủ sở hữu                                 410            236.970.843.970     183.059.394.325
+1. Vốn góp của chủ sở hữu                        411             117.377.280.000    117.377.280.000
+       Cổ         thông có       biểu quyết                                         117.377.280.000
+       phiếu                                                     117.377.280.000
+           phổ                 quyền             411a
+       Cổphiếuuu đãi                             411b
+2. Thặng dư vốn cổ                                                                  17.052.895.190
+                  phần                           412              17.052.895.190
+3Quyên chon chuyển đổi tráiphiếu                 413
+4. Vốn khác của chủ sở hữu                       414 +
  
-# Công ty Cổ phần Chứng khoán SSI  
-B01-CTCK/HN  
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUÝ 1 NĂM 2025 (tiếp theo)  
-tại ngày 31 tháng 03 năm 2025  
 
-| Mã số  | CHỈ TIÊU                                           | Thuyết minh | Số cuối kỳ VND     | Số đầu năm VND     |
-| ------ | -------------------------------------------------- | ----------- | ------------------ | ------------------ |
-| 300    | **C. NỢ PHẢI TRẢ**                                 |             | 56.340.548.607.124 | 46.680.651.947.954 |
-| 310    | **I. Nợ phải trả ngắn hạn**                        |             | 56.248.437.443.943 | 46.599.438.522.989 |
-| 311    | 1. Vay và nợ thuê tài sản tài chính ngắn hạn       | 20          | 55.246.837.451.353 | 45.501.969.699.137 |
-| 312    | 1.1. Vay ngắn hạn                                  |             | 55.246.837.451.353 | 45.501.969.699.137 |
-| 318    | 2. Phải trả hoạt động giao dịch chứng khoán        | 21          | 258.375.634.864    | 227.883.634.106    |
-| 320    | 3. Phải trả người bán ngắn hạn                     | 22          | 82.844.177.914     | 103.075.387.679    |
-| 321    | 4. Người mua trả tiền trước ngắn hạn               |             | 2.497.683.500      | 26.490.726.300     |
-| 322    | 5. Thuế và các khoản phải nộp Nhà nước             | 23          | 264.911.520.213    | 201.293.124.495    |
-| 323    | 6. Phải trả người lao động                         |             | 18.457.972.325     | 93.761.808.205     |
-| 324    | 7. Các khoản trích nộp phúc lợi nhân viên          |             | 753.996.198        | 884.019.653        |
-| 325    | 8. Chi phí phải trả ngắn hạn                       | 24          | 66.844.438.480     | 67.847.177.428     |
-| 327    | 9. Doanh thu chưa thực hiện ngắn hạn               |             | 524.419.332        | 1.299.798.330      |
-| 328    | 10. Nhận ký quỹ, ký cược ngắn hạn                  |             | 364.993.200        | 362.313.180        |
-| 329    | 11. Các khoản phải trả, phải nộp ngắn hạn khác     | 26          | 21.453.459.862     | 18.037.472.054     |
-| 331    | 12. Quỹ khen thưởng, phúc lợi                      | 25          | 284.571.696.702    | 356.533.362.422    |
-| 340    | **II. Nợ phải trả dài hạn**                        |             | 92.111.163.181     | 81.213.424.965     |
-| 351    | 1. Doanh thu chưa thực hiện dài hạn                | 27          | 53.562.883.675     | 54.562.883.675     |
-| 356    | 2. Thuế thu nhập doanh nghiệp hoãn lại phải trả    | 17          | 38.548.279.506     | 26.650.541.290     |
-| 400    | **D. VỐN CHỦ SỞ HỮU**                              | 28          | 27.703.353.104.435 | 26.826.650.611.768 |
-| 410    | **I. Vốn chủ sở hữu**                              |             | 27.703.353.104.435 | 26.826.650.611.768 |
-| 411    | 1. Vốn đầu tư của chủ sở hữu                       |             | 20.713.065.094.108 | 20.713.065.094.108 |
-| 411.1  | 1.1. Vốn góp của chủ sở hữu                        |             | 19.638.639.180.000 | 19.638.639.180.000 |
-| 411.1a | - Cổ phiếu phổ thông                               |             | 19.638.639.180.000 | 19.638.639.180.000 |
-| 411.2  | 1.2. Thặng dư vốn cổ phần                          |             | 1.093.540.920.517  | 1.093.540.920.517  |
-| 411.5  | 1.3. Cổ phiếu quỹ                                  |             | (19.115.006.409)   | (19.115.006.409)   |
-| 412    | 2. Chênh lệch đánh giá tài sản theo giá trị hợp lý |             | 62.076.509.892     | 31.690.477.740     |
-| 413    | 3. Chênh lệch tỷ giá hối đoái                      |             | 74.188.577.913     | 72.177.590.546     |
-| 414    | 4. Quỹ dự trữ bổ sung vốn điều lệ                  |             | 3.000.000.000      | 3.000.000.000      |
-| 417    | 5. Lợi nhuận chưa phân phối                        |             | 6.700.405.049.625  | 5.856.098.315.938  |
-| 417.1  | 5.1 Lợi nhuận đã thực hiện                         | 28.1        | 6.736.963.850.330  | 6.025.186.849.191  |
-| 417.2  | 5.2 Lợi nhuận chưa thực hiện                       | 28.1        | (36.558.800.705)   | (169.088.533.253)  |
-| 418    | 6. Lợi ích cổ đông không kiểm soát                 |             | 150.617.872.897    | 150.619.133.436    |
-| 440    | **TỔNG CỘNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU**        |             | 84.043.901.711.559 | 73.507.302.559.722 |
+| TÀI SẢN                                        | Mã số | Thuyết minh | Số cuối quý     | Số đầu năm      |
+| ---------------------------------------------- | ----- | ----------- | --------------- | --------------- |
+| 1. Phải trả người bán ngắn hạn                 | 311   |             | 93.550.898.695  | 31.290.918.446  |
+| 2. Người mua trả tiền trước ngắn hạn           | 312   |             | 13.901.758.624  | 3.576.509.404   |
+| 3. Thuế và các khoản phải nộp Nhà nước         | 313   | 10          | 13.541.753.038  | 4.257.742.129   |
+| 4. Phải trả người lao động                     | 314   |             | 4.003.568.926   | 4.510.235.738   |
+| 5. Chi phí phải trả ngắn hạn                   | 315   |             | 13.450.388.915  | 3.213.831.335   |
+| 6. Phải trả nội bộ ngắn hạn                    | 316   | đồng xây    |                 |                 |
+| 7. Phải trả theo tiến độ kế hoạch hợp đồng xây | 317   |             |                 |                 |
+| 8. Doanh thu chưa thực hiện ngắn hạn           | 318   |             |                 |                 |
+| 9. Phải trả ngắn hạn khác                      | 319   | 11          | 5.928.780.684   | 5.959.115.231   |
+| 10. Vay và nợ thuê tài chính ngắn hạn          | 320   | 12          | 16.812.000.000  | 102.123.550.000 |
+| 11. Dự phòng phải trả ngắn hạn                 | 321   |             |                 |                 |
+| 12. Quỹ khen thưởng, phúc lợi                  | 322   |             | 76.540.750      | 76.540.750      |
+| 13. Quỹ bình ổn giá                            | 323   |             |                 |                 |
+| 14. Giao dịch mua bán lại trái phiếu Chính phủ | 324   |             |                 |                 |
+| **II. Nợ dài hạn**                             | 330   |             | 30.390.000.000  | 30.390.000.000  |
+| 1. Phải trả người bán dài hạn                  | 331   |             |                 |                 |
+| 2. Người mua trả tiền trước dài hạn            | 332   |             |                 |                 |
+| 3. Chi phí phải trả dài hạn                    | 333   |             |                 |                 |
+| 4. Phải trả nội bộ về vốn kinh doanh           | 334   |             |                 | 9               |
+| 5. Phải trả nội bộ dài hạn                     | 335   |             |                 | {               |
+| 6. Doanh thu chưa thực hiện dài hạn            | 336   |             |                 |                 |
+| 7. Phải trả dài hạn khác                       | 337   |             |                 |                 |
+| 8. Vay và nợ thuê tài chính dài hạn            | 338   |             | 30.390.000.000  | 30.390.000.000  |
+| 9. Trái phiếu chuyển đổi                       | 339   |             |                 |                 |
+| 10. Cổ phiếu ưu đãi                            | 340   |             |                 |                 |
+| 11. Thuế thu nhập hoãn lại phải trả            | 341   |             |                 |                 |
+| Dự phòng trả dài hạn phải                      | 342   |             |                 |                 |
+| 12. Quỹ phát triển khoa học và công nghệ       | 343   |             |                 |                 |
+| **D. VỐN CHỦ SỞ HỮU**                          | 400   | 13          | 236.970.843.970 | 183.059.394.325 |
+| **I. Vốn chủ sở hữu**                          | 410   |             | 236.970.843.970 | 183.059.394.325 |
+| 1. Vốn góp của chủ sở hữu                      | 411   |             | 117.377.280.000 | 117.377.280.000 |
+| - Cổ phiếu phổ thông có quyền biểu quyết       |       |             | 117.377.280.000 | 117.377.280.000 |
+| - Cổ phiếu ưu đãi                              | 411a  |             |                 |                 |
+|                                                | 411b  |             |                 |                 |
+| 2. Thặng dư vốn cổ phần                        | 412   |             | 17.052.895.190  | 17.052.895.190  |
+| 3. Quyền chọn chuyển đổi trái phiếu            | 413   |             |                 |                 |
+| 4. Vốn khác của chủ sở hữu                     | 414   |             |                 |                 |
 
 
  + 

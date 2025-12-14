@@ -129,8 +129,28 @@ def clean_text(text: str) -> str:
 
 model = SentenceTransformer("bkai-foundation-models/vietnamese-bi-encoder",device=DEVICE)
 def remove_accents(text):
-    text = unicodedata.normalize('NFD', text)
-    return ''.join(c for c in text if unicodedata.category(c) != 'Mn')
+    if not text:
+        return ""
+
+    # 1. Loại bỏ tag HTML <br>, </br>, <br/>
+    text = re.sub(r"</?br\s*/?>", " ", text, flags=re.IGNORECASE)
+
+    # 2. Loại bỏ ký tự không phải chữ, số, dấu tiếng Việt, khoảng trắng, dấu câu cơ bản
+    # Giữ lại: chữ, số, khoảng trắng, ., ,, :, ;, -, / 
+    text = re.sub(r"[^0-9A-Za-zÀ-ỹ.,:;\/\-\s]", " ", text)
+
+    # 3. Chuẩn hóa Unicode (tránh lỗi dấu)
+    text = unicodedata.normalize("NFC", text)
+
+    # 4. Xóa nhiều khoảng trắng → 1 khoảng trắng
+    text = re.sub(r"\s+", " ", text)
+
+    # 5. Trim hai đầu
+    text = text.strip()
+
+    return text
+    # text = unicodedata.normalize('NFD', text)
+    # return ''.join(c for c in text if unicodedata.category(c) != 'Mn')
 
 def embedding_similarity(sent1: str, sent2: str) -> float:
     emb1 = model.encode(sent1)
@@ -368,7 +388,7 @@ def split_balance_content(content, subtitles):
 
     for i, line in enumerate(lines):
         clean_line = line.strip().upper()
-
+ 
         # Kiểm tra subtitle mới
         matched_subs = [sub for sub in subtitles if remove_accents(sub) in remove_accents(clean_line) and sub not in used]
         if matched_subs:

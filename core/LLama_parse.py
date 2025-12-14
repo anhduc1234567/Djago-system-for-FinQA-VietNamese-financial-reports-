@@ -12,7 +12,7 @@ load_dotenv()
 
 os.environ["LLAMA_CLOUD_API_KEY"] = os.getenv("LLAMA_CLOUD_API_KEY")
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API")
-# Settings.llm = Gemini(model="gemini-2.5-flash")
+# Settings.llm = Gemini(model="gemini-2.0-flash")
 # Settings.embed_model = GeminiEmbedding()
 
 def clear_folder_files(folder_path):
@@ -42,6 +42,7 @@ def pdf_to_md(file_path,type):
     parser = LlamaParse(
     # result_type="markdown",
     # num_workers=4,
+    # model="gemini-2.0-flash",
     model="openai-gpt-4-1-mini",
     # auto_mode=True,
     language='vi',
@@ -49,7 +50,6 @@ def pdf_to_md(file_path,type):
     high_res_ocr=True,
     outlined_table_extraction=True,
     page_separator="\n\n---\n\n",
-    precise_bounding_box=True,
     # output_tables_as_HTML=True,
     adaptive_long_table=True,
     # auto_mode_trigger_on_image_in_page=True,
