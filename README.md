@@ -18,11 +18,11 @@ Dự án được thực hiện trong khuôn khổ **khóa luận tốt nghiệp
 ---
 
 ##  Luồng xử lý chính của hệ thống
-![Knowledge Graph Visualization](images/financial_knowledge_graph.png)
+![Knowledge Graph Visualization](images/graph_pipleline.drawio.png)
 ##  Biểu diễn đồ thị tri thức
 Dưới đây là ví dụ minh họa **đồ thị tri thức báo cáo tài chính**, trong đó các nút biểu diễn thực thể tài chính và các cạnh biểu diễn mối quan hệ ngữ nghĩa:
 
-![Knowledge Graph Visualization](images/financial_knowledge_graph.png)
+![Knowledge Graph Visualization](images/Screenshot_97.png)
 
 >  Việc biểu diễn báo cáo tài chính dưới dạng đồ thị giúp mô hình khai thác tốt hơn mối quan hệ giữa các chỉ tiêu và hỗ trợ suy luận đa bước.
 
