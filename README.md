@@ -28,7 +28,7 @@ Dưới đây là ví dụ minh họa **đồ thị tri thức báo cáo tài ch
 
 ---
 
-##  Đánh giá mô hình
+##  Đánh giá 
 Hệ thống được đánh giá trên tập câu hỏi về báo cáo tài chính bằng các chỉ số phổ biến trong bài toán **Retrieval-Augmented Generation (RAG)**, bao gồm:
 
 - **Faithfulness**: mức độ trung thực của câu trả lời so với ngữ cảnh
