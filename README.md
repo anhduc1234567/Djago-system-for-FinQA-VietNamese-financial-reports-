@@ -6,7 +6,7 @@ Hệ thống ứng dụng **Graph RAG (Retrieval-Augmented Generation dựa trê
 
 Dự án được thực hiện trong khuôn khổ **khóa luận tốt nghiệp**, tập trung vào bài toán **Question Answering trên báo cáo tài chính tiếng Việt**.
 
-
+![Knowledge Graph Visualization](images/ui.png)
 ---
 
 ##  Mục tiêu
