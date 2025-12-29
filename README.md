@@ -4,7 +4,7 @@
 Dự án này xây dựng **hệ thống chatbot đọc hiểu và phân tích báo cáo tài chính**, cho phép người dùng đặt câu hỏi và báo cáo tài chính hệ thống sẽ đọc hiểu báo cáo đó và trả lời câu hỏi cảu người dùng dựa trên thông tin từ báo cáo tài chính.  
 Hệ thống ứng dụng **Graph RAG (Retrieval-Augmented Generation dựa trên đồ thị)** nhằm biểu diễn báo cáo tài chính dưới dạng **đồ thị tri thức**, từ đó nâng cao khả năng truy hồi thông tin, suy luận và độ chính xác của câu trả lời.
 
-Dự án được thực hiện trong khuôn khổ **khóa luận tốt nghiệp**, tập trung vào bài toán **Question Answering trên báo cáo tài chính tiếng Việt**.
+Dự án được thực hiện trong khuôn khổ **[khóa luận tốt nghiệp](NguyenDucAnh_khoa_Luan.pdf)**, tập trung vào bài toán **Question Answering trên báo cáo tài chính tiếng Việt**.
 
 ![Knowledge Graph Visualization](images/ui.png)
 ---
