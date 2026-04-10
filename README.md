@@ -1,41 +1,52 @@
+## Introduction
 
+This research presents a **chatbot system for financial statement understanding and analysis**, allowing users to submit questions regarding financial reports. The system is designed to comprehend financial statements and generate responses based on the information extracted from the provided documents.
 
-## Giới thiệu
-Dự án này xây dựng **hệ thống chatbot đọc hiểu và phân tích báo cáo tài chính**, cho phép người dùng đặt câu hỏi và báo cáo tài chính hệ thống sẽ đọc hiểu báo cáo đó và trả lời câu hỏi cảu người dùng dựa trên thông tin từ báo cáo tài chính.  
-Hệ thống ứng dụng **Graph RAG (Retrieval-Augmented Generation dựa trên đồ thị)** nhằm biểu diễn báo cáo tài chính dưới dạng **đồ thị tri thức**, từ đó nâng cao khả năng truy hồi thông tin, suy luận và độ chính xác của câu trả lời.
+The framework leverages **Graph Retrieval-Augmented Generation (Graph RAG)** to represent financial statements as a **knowledge graph**, improving information retrieval, reasoning capability, and answer accuracy.
 
-Dự án được thực hiện trong khuôn khổ **[khóa luận tốt nghiệp](https://github.com/anhduc1234567/Djago-system-for-FinQA-VietNamese-financial-reports-/blob/server/NguyenDucAnh_Khoa_Luan.pdf)**, tập trung vào bài toán **Question Answering trên báo cáo tài chính tiếng Việt**.
+This project was developed as part of my **[graduation thesis](https://github.com/anhduc1234567/Djago-system-for-FinQA-VietNamese-financial-reports-/blob/server/NguyenDucAnh_Khoa_Luan.pdf)**, focusing on the task of **Question Answering over Vietnamese financial statements**.
+
+> **Note:** This repository is intended for demonstration and research purposes only.  
+> The implementation serves as a prototype of the proposed framework and has not yet been fully refactored or optimized for production-level deployment.
 
 ![Knowledge Graph Visualization](images/ui.png)
----
-
-##  Mục tiêu
-- Đọc hiểu báo cáo tài chính phi cấu trúc (PDF, văn bản)
-- Biểu diễn thông tin tài chính dưới dạng **đồ thị tri thức**
-- Ứng dụng **Graph RAG** để cải thiện chất lượng truy hồi so với RAG truyền thống
-- Đánh giá hệ thống bằng các chỉ số định lượng
 
 ---
 
-##  Luồng xử lý chính của hệ thống
+## Objectives
+
+- Understand unstructured financial statements (PDFs, text documents)
+- Represent financial information as a **knowledge graph**
+- Apply **Graph RAG** to improve retrieval quality compared to traditional RAG pipelines
+- Evaluate system performance using quantitative metrics
+
+---
+
+## System Pipeline
+
 ![Knowledge Graph Visualization](images/graph_pipleline.drawio.png)
-##  Biểu diễn đồ thị tri thức
-Dưới đây là ví dụ minh họa **đồ thị tri thức báo cáo tài chính**, trong đó các nút biểu diễn thực thể tài chính và các cạnh biểu diễn mối quan hệ ngữ nghĩa:
+
+---
+
+## Knowledge Graph Representation
+
+Below is an example visualization of the **financial statement knowledge graph**, where nodes represent financial entities and edges represent semantic relationships:
 
 ![Knowledge Graph Visualization](images/Screenshot_97.png)
 
->  Việc biểu diễn báo cáo tài chính dưới dạng đồ thị giúp mô hình khai thác tốt hơn mối quan hệ giữa các chỉ tiêu và hỗ trợ suy luận đa bước.
+> Representing financial statements as graphs enables the model to better capture relationships among financial indicators and supports multi-hop reasoning.
 
 ---
 
-##  Đánh giá 
-Hệ thống được đánh giá trên tập câu hỏi về báo cáo tài chính bằng các chỉ số phổ biến trong bài toán **Retrieval-Augmented Generation (RAG)**, bao gồm:
+## Evaluation
 
-- **Faithfulness**: mức độ trung thực của câu trả lời so với ngữ cảnh
-- **Answer Relevancy**: mức độ liên quan của câu trả lời với câu hỏi
-- **Context Precision**: độ chính xác của ngữ cảnh được truy hồi
-- **Context Recall**: khả năng bao phủ ngữ cảnh cần thiết
-- **LLM Rank**: điểm đánh giá tổng hợp từ mô hình ngôn ngữ
+The system was evaluated on a financial statement question-answering benchmark using common **Retrieval-Augmented Generation (RAG)** metrics, including:
+
+- **Faithfulness**: Measures factual consistency between the response and retrieved context
+- **Answer Relevancy**: Measures how relevant the generated answer is to the user query
+- **Context Precision**: Measures the precision of retrieved supporting context
+- **Context Recall**: Measures the coverage of necessary context retrieval
+- **LLM Rank**: Overall qualitative score assigned by an LLM evaluator
 
 | Method | Faithfulness | Answer Relevancy | Context Precision | Context Recall | LLM Rank |
 |------|-------------|------------------|------------------|---------------|---------|
@@ -46,18 +57,15 @@ Hệ thống được đánh giá trên tập câu hỏi về báo cáo tài ch�
 | **Financial Report Graph-RAG** | **0.90** | **0.19** | **0.94** | 0.81 | **4.28** |
 | **Financial Report Graph-RAG (SLM)** | 0.83 | 0.18 | 0.92 | 0.83 | 3.90 |
 
-
-> Kết quả cho thấy **Graph RAG cải thiện đáng kể khả năng truy hồi ngữ cảnh và độ chính xác câu trả lời** so với RAG truyền thống.
-
----
-
-## 🛠️ Công nghệ sử dụng
-- Django
-- Neo4j
-- MongoDB
-- FAISS
-- LlamaIndex
-- Google AI Studio
+> Experimental results demonstrate that **Graph RAG significantly improves contextual retrieval and answer accuracy** compared to conventional RAG approaches.
 
 ---
 
+## Technologies Used
+
+- Django  
+- Neo4j  
+- MongoDB  
+- FAISS  
+- LlamaIndex  
+- Google AI Studio  
